@@ -88,17 +88,25 @@ This Lab1 demonstration showcases Snowflake's comprehensive data platform capabi
 
 ### **What This Step Does:**
 - Creates robust CSV file format handling with custom delimiters
-- Sets up automated data pipeline with real-time ingestion
+- Sets up automated data pipeline with real-time ingestion using Snowpipes
 - Implements dynamic table with automatic deduplication
+
+### **Implementation Approach:**
+1. **Initial Upload:** First CSV file uploaded via UI (as shown in Quick Start)
+2. **Script Execution:** Run the ingestion script to create Stage and Snowpipe infrastructure
+3. **Automated Pipeline:** Upload remaining CSV chunk files to demonstrate automated ingestion
+4. **Real-time Processing:** Snowpipe automatically processes new files as they arrive
 
 ### **Key Features:**
 - **File Format Handling** - Custom CSV parsing with error handling
-- **Data Pipelines** - Automated ingestion using Snowpipes
+- **Data Pipelines** - Automated ingestion using Snowpipes with pattern matching
 - **Dynamic Tables** - Real-time deduplication (1-minute refresh)
+- **Hybrid Approach** - Demonstrates both manual upload and automated pipeline capabilities
 
 ### **Expected Outcome:**
-- `TA_APPLICATION_DATA_BRONZE` - Raw talent acquisition data
+- `TA_APPLICATION_DATA_BRONZE` - Raw talent acquisition data (initially from UI upload)
 - `TA_APPLICATION_DATA_BRONZE_DEDUP` - Deduplicated data ready for transformation
+- Fully automated pipeline ready for additional file uploads
 
 ---
 
@@ -268,22 +276,33 @@ This Lab1 demonstration showcases Snowflake's comprehensive data platform capabi
 ## ⚡ **Quick Start Instructions**
 
 ### **1. Environment Setup**
-```sql
--- Set up database and schema
-USE ROLE ACCOUNTADMIN;
-CREATE DATABASE IF NOT EXISTS AMS_LABS;
-CREATE SCHEMA IF NOT EXISTS AMS_LABS.DATA_ENGINEERING;
-USE DATABASE AMS_LABS;
-USE SCHEMA DATA_ENGINEERING;
-```
+Run the provided setup script to create the database, schema, and initial configuration:
+- Execute the environment setup script (creates `AMS_LABS` database and `DATA_ENGINEERING` schema)
+- Ensure you have ACCOUNTADMIN privileges for full functionality
 
-### **2. Execute Scripts in Order**
+### **2. Initial Data Upload (UI Method)**
+Before running the ingestion script, we'll use Snowflake's UI to upload the first CSV file and demonstrate the table creation process:
+
+![Data Upload Interface](image-1.png)
+
+**Steps:**
+1. **Upload First File:** Use Snowflake's "Load Data into Table" interface to upload `TA_Applications_Data_For_Workshops v3_chunk_001.csv`
+2. **Table Configuration:** 
+   - Select schema: `AMS_LABS.DATA_ENGINEERING`
+   - **Important:** Name the table `TA_APPLICATION_DATA_BRONZE` (exactly as shown)
+   - Configure CSV format settings (semicolon delimiter, headers, etc.)
+3. **Verify Upload:** Confirm the table is created with correct structure and initial data
+
+### **3. Execute Scripts in Order**
 1. **Data Ingestion:** Run `Lab1 - 00_data_ingestion.sql`
+   - **Note:** This script creates the Stage and Snowpipe for automated ingestion
+   - After running the script, upload the remaining CSV chunk files locally
+   - This demonstrates both manual upload and automated pipeline capabilities
 2. **Data Quality:** Run `Lab1 - 01_data_quality.sql`  
 3. **Transformations:** Run `Lab1 - 02_data_transformation.sql`
 4. **Dashboards:** Deploy Streamlit apps
 
-### **3. Launch Dashboards**
+### **4. Launch Dashboards**
 - **Main Analytics:** `Lab1 - 03_analytics_dashboard.py`
 - **Data Quality:** `Lab1 - 01b_ams_data_quality_dashboard.py`
 - **Operational:** `streamlit_analytics_dashboard.py`
