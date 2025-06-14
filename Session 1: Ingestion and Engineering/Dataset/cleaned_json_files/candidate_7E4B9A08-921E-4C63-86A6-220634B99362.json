@@ -1,0 +1,1122 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Emma Johnson.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 1:06:21",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Emma Johnson",
+      "TitleName": "",
+      "FirstName": "Emma",
+      "MiddleName": "",
+      "LastName": "Johnson",
+      "FormattedName": "Emma Johnson",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "emma.johnson@example.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "07789345678",
+        "ISDCode": "+44",
+        "OriginalNumber": "7789 345678",
+        "FormattedNumber": "+44 7789 345678",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "",
+        "Url": ""
+      }
+    ],
+    "Address": [
+      {
+        "Street": "89 Maple Road",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "89 Maple Road, Manchester, England, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Management of Companies and Enterprises",
+    "SubCategory": "Marketing and Sales Managers",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Birmingham (Russell Group) \r BSc Mathematics \r Graduated : 1994\r\r\rCertified Product Manager (CPM) \r PRINCE2 Practitioner \r Agile Certified Practitioner (PMI-ACP) \r Lean Six Sigma Green Belt \r Certified Scrum Product Owner (CSPO)",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Birmingham",
+          "Type": "University",
+          "ConfidenceScore": 7,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc Mathematics",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Mathematics"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "1994",
+        "StartDate": "",
+        "EndDate": "31/12/1994",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "PRINCE2 Practitioner",
+          "NormalizeDegree": "",
+          "Specialization": [],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "Agile Certified Practitioner",
+          "NormalizeDegree": "Certificate",
+          "Specialization": [],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "Lean Six Sigma Green Belt",
+          "NormalizeDegree": "",
+          "Specialization": [],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "Certified Scrum Product Owner CSPO",
+          "NormalizeDegree": "Certificate",
+          "Specialization": [],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "",
+    "SegregatedCertification": [],
+    "SkillBlock": "Innovative Product Development \r Market Research and Analysis \r Team Leadership and Collaboration \r Customer Relationship Management \r Strategic Product Planning",
+    "SkillKeywords": "Comprehensive,Customer Relationship Management,Team Leadership,Collaboration,Innovation,Market Research and Analysis,Driving Business Growth,Customer Satisfaction,Customer Acquisition,Product Development,Product Innovation,Product Management,Customer Feedback,Product Offerings,Product Launches,Product Planning,Market Research,Revenue Growth,Maple,Emma",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Comprehensive",
+        "Ontology": "Educational Services>Instructional Coordinators>comprehensive",
+        "Alias": "comprehension, ability to understand",
+        "FormattedName": "comprehensive",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2011",
+        "ExperienceInMonths": 84
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Customer Relationship Management",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer relationship management",
+        "Alias": "managing client relationships, developing relationships with clients, long term customer relationship, maintain customer relationships, customer-relationship- management, customer-relationship management, manage crm, relationship management, relation management, client-relations, client management relationship, build and maintain customer relationships, crm, build customer relationships, managed the relationship, client relations, client relationship mgt., client relationships, customer care management, crm planning, manage strong customer relationships, client resource management, building relationships with customers, constituent relationship management, constituent relationship mgmt, manage customer relationships, manage customer relationship, customer relationship development, customer relationship mgmt, customer relations, customer relation management, customer relations management, customer relationships, customer relationship mgmt., customer relations development, customer relationship planning, customer relationships management, customer relationship, customers relations, relational management, long term relationship building, long term business relationships, manage the client relationship, long-term customer relationship, relationship mgmt, relationship mgmt., crm management, marketing crm, building the customer relationship, manage client relationships, consumer relationship management, relations management, managed crm, manage relationships, manage relationship, manage the relationship, client relation management, consumer-relationship-management, relationships management, managing relationships, managing relationships with clients",
+        "FormattedName": "customer relationship management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Leadership",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leadership",
+        "Alias": "interdisciplinary team leadership, multi-national team leadership, lead the team member, leads group discussions, leads groups, group leadership, multi-cultural team leadership",
+        "FormattedName": "team leadership",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaboration",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Innovation",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>innovation",
+        "Alias": "innovative product idea, innovativeness, innovative, innovation skill, innovator",
+        "FormattedName": "innovation",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 90
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Research and Analysis",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>market research",
+        "Alias": "market survey, brand research, product-research, design market research, social-media-market-research, social-media-market research, scanning marketing, market investigation, performing market research, marketing researching, marketing research development, marketing research analysis, marketing research, marketing investigation, marketing investigations, financial market research, marketing internet research, product research, undertake market research, marketing survey, marketing surveys, sales market research, market research data, market research operations, market research management, market research and analysis, market-exploration, product study, marketing information research, market exploration, market surveys, market data research, market-investigation, market information research, setting up market surveys, perform market research, market studies, branding-research, implement market research, research branding, researching market, researching market trends, marketing scanning, market study, interpreting marketing research, research market, marketing-researching, marketing-research, social media market research, retail market research, media market research, marketing original research, social-media market research, researching the markets, researching the market, marketing data research, market scanning, branding research, online market research, designing marketing surveys, market-research",
+        "FormattedName": "market research",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Driving Business Growth",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business growth",
+        "Alias": "business-growth, organization growth, cultivating business, corporate growth, organizational growth, managing company growth, growing a business, business growth impact, business growth management, driving business growth, growing businesses, growing business, cultivating-business",
+        "FormattedName": "business growth",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Satisfaction",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer satisfaction",
+        "Alias": "assessing guest satisfaction, customer-quality, guest satisfaction, manage customer satisfaction, customer quality mgmt, customer quality, customer quality management, customer-satisfaction, satisfied clients, client satisfaction management, client satisfaction, satis?ed customers",
+        "FormattedName": "customer satisfaction",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2005",
+        "ExperienceInMonths": 84
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Acquisition",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer acquisition",
+        "Alias": "customer acquisition analytics, customer acquisition strategy, customer acquisition logistic, customer acquisition strategies, acquisition sales, sales acquisition, product acquisitions, telecom customer acquisition, new customer acquisitions, new account acquisition, client acquisition, customer-acquisition strategy, customer-acquisition- strategy, customer-acquisition, acquire new customers, acquisition retail, new client acquisitions, account acquisition, account acquisitions, develop new customer, strategic account acquisition",
+        "FormattedName": "customer acquisition",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 90
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Development",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>product development",
+        "Alias": "process-product-development, development of products, development of product, production development, enterprise product-development, enterprise product development, product development enterprise, product development process, product development and design, device-development, product building, international product development, develop products, new product development, development of the product, builds the product, process product development, product-process-development, device development, technical product development, production-development, develop new products, product-development, retail product development, developing products, products development, product process development, product offering development, development products, product creation",
+        "FormattedName": "product development",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "31/12/2011",
+        "ExperienceInMonths": 84
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Innovation",
+        "Ontology": "Wholesale Trade>Demonstrators and Product Promoters>product innovation",
+        "Alias": "product-innovation, product innovation strategy, develop innovative products",
+        "FormattedName": "product innovation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 90
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Management",
+        "Ontology": "Management of Companies and Enterprises>Advertising, Marketing, Promotions, Public Relations, and Sales Managers>product management",
+        "Alias": "products mgmt., product coordination, managed complete product, new product management, managed full product, management of product, mgmt of the products, mgmt of the product, international product management, international project coordination, mgmt product, management full product, manage product, product management skill, product mgmt, products management, product mgmt skill, managed product development, management product, product ops management, product mgmt., managed the product operations, managed the product, managed the product development, global product management, product-management, product and management, managed product",
+        "FormattedName": "product management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2005",
+        "ExperienceInMonths": 84
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Feedback",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer feedback",
+        "Alias": "customer-feedback, gather feedback, gathering feedback from customers",
+        "FormattedName": "customer feedback",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2017",
+        "ExperienceInMonths": 84
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Offerings",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>product offerings",
+        "Alias": "product offer, product offering, product offerings",
+        "FormattedName": "product offerings",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2017",
+        "ExperienceInMonths": 84
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Launches",
+        "Ontology": "Wholesale Trade>Demonstrators and Product Promoters>product launch",
+        "Alias": "product launch operations, brand-launches, new product launches, new product launch, launch of new products, rollout product, rollout strategy, launch the product, launching of new product, launching of new products, campaign launch, launch a product, new product roll - out, new product roll - outs, new product roll-out, brand launch, new products launch, launch process, marketing launch strategies, brand launch process, strategy rollout, new business launches, business launch, global roll out strategies, product launch promotions, product launch process, product roll-out, product launching, launching of product, launches products, new item launches, product rollout strategy, company launch, market-launch, product rollout, production launch, product launches, product-launch, launch products, item launch, product launch development, brand launches, product rollouts, launching new brands, launching new brand, product roll out strategy, product-launching, launch of product, commercial launch, company launches, launch product, commercial-launch",
+        "FormattedName": "product launch",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 90
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Planning",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>product planning",
+        "Alias": "product-planning, plan products management, product roadmap, product strategies, product strategie, international product strategy, international product plan, international product planning, product execution, online product strategy, product strategy, product strategy and roadmap, product strategy & roadmap, product direction, product roadmap development, product roadmap management, product roadmaps, product-roadmap, product-strategy, strategy product, product road mapping, plan product management",
+        "FormattedName": "product planning",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Research",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>market research",
+        "Alias": "market survey, brand research, product-research, design market research, social-media-market-research, social-media-market research, scanning marketing, market investigation, performing market research, marketing researching, marketing research development, marketing research analysis, marketing research, marketing investigation, marketing investigations, financial market research, marketing internet research, product research, undertake market research, marketing survey, marketing surveys, sales market research, market research data, market research operations, market research management, market research and analysis, market-exploration, product study, marketing information research, market exploration, market surveys, market data research, market-investigation, market information research, setting up market surveys, perform market research, market studies, branding-research, implement market research, research branding, researching market, researching market trends, marketing scanning, market study, interpreting marketing research, research market, marketing-researching, marketing-research, social media market research, retail market research, media market research, marketing original research, social-media market research, researching the markets, researching the market, marketing data research, market scanning, branding research, online market research, designing marketing surveys, market-research",
+        "FormattedName": "market research",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2011",
+        "ExperienceInMonths": 84
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Revenue Growth",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>revenue growth",
+        "Alias": "revenue & profit growth, profit growth, growing revenue, increased profitability, revenue business growth, increasing revenue, global revenue growth, increase profitability, revenue-growth, increasing profitability, increase in profitability, revenues increased, profitable growth, improving revenue, increase revenue, sales revenue growth, revenue development",
+        "FormattedName": "revenue growth",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2017",
+        "ExperienceInMonths": 84
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maple",
+        "Ontology": "Information>Mathematical Science Occupations, All Other>maple",
+        "Alias": "soft maple, maple software, maple soft",
+        "FormattedName": "maple",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Emma",
+        "Ontology": "Information>Software Developers, Applications>emma",
+        "Alias": "emma code coverage tools, emma code coverage, emma java code coverage tool, emma version control",
+        "FormattedName": "emma",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Product Manager\t,Santander UK \r Manchester, UK\t,2017 - Present \r Led product innovation initiatives, resulting in a 25% increase in customer acquisition. \r Collaborated with various departments to ensure cohesive product launches. \r Product Manager\t,Nationwide Building Society \r Manchester, UK\t,2011 - 2017 \r Managed a wide range of financial products, achieving significant revenue growth. \r Implemented customer feedback mechanisms to refine product offerings. \r Product Manager\t,Halifax Bank \r Manchester, UK\t,2005 - 2011 \r Directed product development processes from concept to launch, ensuring market fit. \r Conducted comprehensive market research to stay ahead of industry trends. \r Product Manager\t,NatWest Bank \r Manchester, UK\t,1999 - 2005 \r Oversaw the lifecycle of multiple banking products, driving customer satisfaction and retention. \r Built strong relationships with key stakeholders to support product success. \r Various Roles in Product Management\t,Various UK Banks \r Manchester, UK\t,1994 - 1999 \r Gained extensive experience in product management across various notable UK banks.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Santander UK",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Product Manager",
+          "FormattedName": "product manager",
+          "Alias": "manager products, product mngr, manager-product management, manager-product, products manager, corporate product manager, manager of product, manager of product management, head of products and services, product in-charge, product-manager, product specifications manager, manager, product, manager, product management, manager in product mgt., manager in product management, product management professional, mgr product, product division head, sales product manager, manager product mgt., manager product management, product department manager, product services project manager, product team mgr, product team manager, product mgr, manager - product management, manager - product, manager - products, product in charge, product customization manager, commercial product manager, manager product",
+          "RelatedSkills": [
+            {
+              "Skill": "product cost management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product placement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product advertising",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage product testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product control",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "persona analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product led growth",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "objective thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain concentration for long periods",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "consult team on creative project",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "liaise with colleagues",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product knowledge",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product policy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market research",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer enablement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prophix software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "price segmentation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product family engineering",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "moscow method",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2017 - till",
+        "FormattedJobPeriod": "2017 to till",
+        "StartDate": "01/01/2017",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Led product innovation initiatives, resulting in a 25% increase in customer acquisition. \n Collaborated with various departments to ensure cohesive product launches.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Nationwide Building Society",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Product Manager",
+          "FormattedName": "product manager",
+          "Alias": "manager products, product mngr, manager-product management, manager-product, products manager, corporate product manager, manager of product, manager of product management, head of products and services, product in-charge, product-manager, product specifications manager, manager, product, manager, product management, manager in product mgt., manager in product management, product management professional, mgr product, product division head, sales product manager, manager product mgt., manager product management, product department manager, product services project manager, product team mgr, product team manager, product mgr, manager - product management, manager - product, manager - products, product in charge, product customization manager, commercial product manager, manager product",
+          "RelatedSkills": [
+            {
+              "Skill": "product cost management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product placement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product advertising",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage product testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product control",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "persona analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product led growth",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "objective thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain concentration for long periods",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "consult team on creative project",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "liaise with colleagues",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product knowledge",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product policy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market research",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer enablement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prophix software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "price segmentation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product family engineering",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "moscow method",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2011 - 2017",
+        "FormattedJobPeriod": "2011 to 2017",
+        "StartDate": "01/01/2011",
+        "EndDate": "31/12/2017",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Managed a wide range of financial products, achieving significant revenue growth. \n Implemented customer feedback mechanisms to refine product offerings.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Halifax Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Product Manager",
+          "FormattedName": "product manager",
+          "Alias": "manager products, product mngr, manager-product management, manager-product, products manager, corporate product manager, manager of product, manager of product management, head of products and services, product in-charge, product-manager, product specifications manager, manager, product, manager, product management, manager in product mgt., manager in product management, product management professional, mgr product, product division head, sales product manager, manager product mgt., manager product management, product department manager, product services project manager, product team mgr, product team manager, product mgr, manager - product management, manager - product, manager - products, product in charge, product customization manager, commercial product manager, manager product",
+          "RelatedSkills": [
+            {
+              "Skill": "product cost management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product placement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product advertising",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage product testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product control",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "persona analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product led growth",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "objective thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain concentration for long periods",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "consult team on creative project",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "liaise with colleagues",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product knowledge",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product policy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market research",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer enablement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prophix software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "price segmentation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product family engineering",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "moscow method",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2005 - 2011",
+        "FormattedJobPeriod": "2005 to 2011",
+        "StartDate": "01/01/2005",
+        "EndDate": "31/12/2011",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Directed product development processes from concept to launch, ensuring market fit. \n Conducted comprehensive market research to stay ahead of industry trends.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "NatWest Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Product Manager",
+          "FormattedName": "product manager",
+          "Alias": "manager products, product mngr, manager-product management, manager-product, products manager, corporate product manager, manager of product, manager of product management, head of products and services, product in-charge, product-manager, product specifications manager, manager, product, manager, product management, manager in product mgt., manager in product management, product management professional, mgr product, product division head, sales product manager, manager product mgt., manager product management, product department manager, product services project manager, product team mgr, product team manager, product mgr, manager - product management, manager - product, manager - products, product in charge, product customization manager, commercial product manager, manager product",
+          "RelatedSkills": [
+            {
+              "Skill": "product cost management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product placement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product advertising",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage product testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product control",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "persona analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product led growth",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "objective thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain concentration for long periods",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "consult team on creative project",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "liaise with colleagues",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product knowledge",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product policy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market research",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer enablement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prophix software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "price segmentation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product family engineering",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "moscow method",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "1999 - 2005",
+        "FormattedJobPeriod": "1999 to 2005",
+        "StartDate": "01/01/1999",
+        "EndDate": "31/12/2005",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Oversaw the lifecycle of multiple banking products, driving customer satisfaction and retention. \n Built strong relationships with key stakeholders to support product success. \n Various Roles in Product Management\t, Various UK Banks \n Manchester, UK, 1994 - 1999 \n Gained extensive experience in product management across various notable UK banks.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Santander UK",
+    "JobProfile": "Product Manager",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "307",
+      "TotalExperienceInYear": "25.7",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "76",
+    "LongestStay": "84",
+    "Summary": "Emma Johnson is a seasoned Product Manager with three decades of experience in the UK banking sector. With a strong mathematical background and a passion for innovation, she has successfully led product development for some of the country's most prestigious banks. Emma excels at driving business growth and enhancing customer experiences. She is eager to contribute her expertise to a dynamic organization.",
+    "ExecutiveSummary": "Emma has an experience in the domain of 'Management of Companies and Enterprises', particularly in the sub-domain of 'Marketing and Sales Managers. The candidate has been working as a Product Manager at Santander UK for the last 7.7 years. ",
+    "ManagementSummary": "Currently, Emma holds a Mid Management Level position, as Product Manager at Santander UK. from 01/01/2017 to 05/07/2024. The candidate has a total experience of 7.7 years in this company.\n\nEmma holds a Mid Management Level position, as Product Manager at Nationwide Building Society. from 01/01/2011 to 31/12/2017. The candidate has a total experience of 7.0 years in this company.\n\nEmma holds a Mid Management Level position, as Product Manager at Halifax Bank. from 01/01/2005 to 31/12/2011. The candidate has a total experience of 7.0 years in this company.\n\nEmma holds a Mid Management Level position, as Product Manager at NatWest Bank. from 01/01/1999 to 31/12/2005. The candidate has a total experience of 7.0 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "Photography : Enjoy capturing moments of nature and urban life. \r Travel : Passionate about exploring new places and cultures. \r Yoga : Regular practitioner of yoga for physical and mental well-being. \r Reading : Avid reader of fiction and financial literature.",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 607ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Emma Johnson\nAddress : 89 Maple Road, Manchester, England\nEmail : emma.johnson@example.com\nPhone : 07789 345678\n\nPersonal Statement\nEmma Johnson is a seasoned Product Manager with three decades of experience in the UK banking sector. With a strong mathematical background and a passion for innovation, she has successfully led product development for some of the country's most prestigious banks. Emma excels at driving business growth and enhancing customer experiences. She is eager to contribute her expertise to a dynamic organization.\n\nEducation History\nUniversity of Birmingham (Russell Group) \nBSc Mathematics\nGraduated : 1994\n\nWork History\nProduct Manager\t,Santander UK\nManchester, UK\t,2017 - Present\nLed product innovation initiatives, resulting in a 25% increase in customer acquisition.\nCollaborated with various departments to ensure cohesive product launches.\nProduct Manager\t,Nationwide Building Society\nManchester, UK\t,2011 - 2017\nManaged a wide range of financial products, achieving significant revenue growth.\nImplemented customer feedback mechanisms to refine product offerings.\nProduct Manager\t,Halifax Bank\nManchester, UK\t,2005 - 2011\nDirected product development processes from concept to launch, ensuring market fit.\nConducted comprehensive market research to stay ahead of industry trends.\nProduct Manager\t,NatWest Bank\nManchester, UK\t,1999 - 2005\nOversaw the lifecycle of multiple banking products, driving customer satisfaction and retention.\nBuilt strong relationships with key stakeholders to support product success.\nVarious Roles in Product Management\t,Various UK Banks\nManchester, UK\t,1994 - 1999\nGained extensive experience in product management across various notable UK banks.\n\nSkills\nInnovative Product Development\nMarket Research and Analysis\nTeam Leadership and Collaboration\nCustomer Relationship Management\nStrategic Product Planning\n\nQualifications\nCertified Product Manager (CPM) \nPRINCE2 Practitioner\nAgile Certified Practitioner (PMI-ACP) \nLean Six Sigma Green Belt\nCertified Scrum Product Owner (CSPO) \n\nPersonal Hobbies\nPhotography : Enjoy capturing moments of nature and urban life.\nTravel : Passionate about exploring new places and cultures.\nYoga : Regular practitioner of yoga for physical and mental well-being.\nReading : Avid reader of fiction and financial literature.\nVolunteering : Involved in local environmental and community service initiatives.\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Emma Johnson</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Address:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> 89 Maple Road, Manchester, England</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Email:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> emma.johnson@example.com</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Phone:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> 07789 345678</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Personal Statement</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Emma Johnson is a seasoned Product Manager with three decades of experience in the UK banking sector. With a strong mathematical background and a passion for innovation, she has successfully led product development for some of the country's most prestigious banks. Emma excels at driving business growth and enhancing customer experiences. She is eager to contribute her expertise to a dynamic organization.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education History</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Birmingham (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">BSc Mathematics</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 1994</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Work History</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Product Manager | Santander UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK | 2017 - Present</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Led product innovation initiatives, resulting in a 25% increase in customer acquisition.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborated with various departments to ensure cohesive product launches.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Product Manager | Nationwide Building Society</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK | 2011 - 2017</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Managed a wide range of financial products, achieving significant revenue growth.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Implemented customer feedback mechanisms to refine product offerings.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Product Manager | Halifax Bank</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK | 2005 - 2011</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Directed product development processes from concept to launch, ensuring market fit.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducted comprehensive market research to stay ahead of industry trends.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Product Manager | NatWest Bank</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK | 1999 - 2005</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Oversaw the lifecycle of multiple banking products, driving customer satisfaction and retention.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Built strong relationships with key stakeholders to support product success.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Various Roles in Product Management | Various UK Banks</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK | 1994 - 1999</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Gained extensive experience in product management across various notable UK banks.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Innovative Product Development</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Market Research and Analysis</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Team Leadership and Collaboration</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Customer Relationship Management</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Strategic Product Planning</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Qualifications</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Product Manager (CPM) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">PRINCE2 Practitioner</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Agile Certified Practitioner (PMI-ACP) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Lean Six Sigma Green Belt</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Scrum Product Owner (CSPO) </span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Personal Hobbies</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Photography:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Enjoy capturing moments of nature and urban life.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Travel:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Passionate about exploring new places and cultures.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Yoga:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Regular practitioner of yoga for physical and mental well-being.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Reading:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Avid reader of fiction and financial literature.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Volunteering:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Involved in local environmental and community service initiatives.</span></li></ul><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

@@ -1,0 +1,717 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Sarah Brown.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:28:08",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Sarah Brown",
+      "TitleName": "",
+      "FirstName": "Sarah",
+      "MiddleName": "",
+      "LastName": "Brown",
+      "FormattedName": "Sarah Brown",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "sarah.brown@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123987654",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 987654",
+        "FormattedNumber": "+44 7123 987654",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/sarahbrown"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "12 Cedar Avenue",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M26HD",
+        "FormattedAddress": "12 Cedar Avenue, Manchester, England, M26HD, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Business Operations Specialists",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Manchester (Russell Group) \r MSc Business Analytics, Merit \r Graduated : 2017 \r University of Liverpool (Russell Group) \r BSc Economics, Upper Second Class Honours \r Graduated : 2015",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "MSc Business Analytics",
+          "NormalizeDegree": "Master of Science",
+          "Specialization": [
+            "Business Analytics"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2017",
+        "StartDate": "",
+        "EndDate": "31/12/2017",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "University of Liverpool",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc Economics",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Economics"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2015",
+        "StartDate": "",
+        "EndDate": "31/12/2015",
+        "Aggregate": {
+          "Value": "2nd",
+          "MeasureType": "Class Honours"
+        }
+      }
+    ],
+    "Certification": "Certified Business Analysis Professional (CBAP) \r Advanced Certificate in Data Analytics \r PRINCE2 Foundation and Practitioner",
+    "SegregatedCertification": [],
+    "SkillBlock": "Data Analysis \r Business Requirements Gathering \r Data Modeling \r Regulatory Compliance \r System Implementation \r Communication",
+    "SkillKeywords": "Assisted,Business Analysis,Collaborating,Communication,Proactive,CRM,Documenting Business Requirements,Translate Business Requirements,Development and Implementation,User Training and Support,Data Validation Process,Regulatory Requirements,Business Requirements,Regulatory Compliance,System Implementation,Regulatory Standards,Ensuring Compliance,Customer Retention,Ensure Compliance,Project Proposals,Report Generation,Business Cases,Data Analytics,Data Reporting,Data Analysis,Data Modeling",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Business Analysis",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business analysis",
+        "Alias": "business analyze, business area analysis, business analysis operations, business analysis consulting, business analysis implementation, business analysis managing, business analysis research, business analysis management, business analysis process, enterprise analysis, business analyses, business solutions, managing business analysis, manage business analytics, business-analysis, analysis of businesses, analysis of business, business-analyze",
+        "FormattedName": "business analysis",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaborating",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Proactive",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>proactive",
+        "Alias": "pro-active, proactivity, proactive behavior, ability to be proactive",
+        "FormattedName": "proactive",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "CRM",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer relationship management",
+        "Alias": "managing client relationships, developing relationships with clients, long term customer relationship, maintain customer relationships, customer-relationship- management, customer-relationship management, manage crm, relationship management, relation management, client-relations, client management relationship, build and maintain customer relationships, crm, build customer relationships, managed the relationship, client relations, client relationship mgt., client relationships, customer care management, crm planning, manage strong customer relationships, client resource management, building relationships with customers, constituent relationship management, constituent relationship mgmt, manage customer relationships, manage customer relationship, customer relationship development, customer relationship mgmt, customer relations, customer relation management, customer relations management, customer relationships, customer relationship mgmt., customer relations development, customer relationship planning, customer relationships management, customer relationship, customers relations, relational management, long term relationship building, long term business relationships, manage the client relationship, long-term customer relationship, relationship mgmt, relationship mgmt., crm management, marketing crm, building the customer relationship, manage client relationships, consumer relationship management, relations management, managed crm, manage relationships, manage relationship, manage the relationship, client relation management, consumer-relationship-management, relationships management, managing relationships, managing relationships with clients",
+        "FormattedName": "customer relationship management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Documenting Business Requirements",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business requirement",
+        "Alias": "stakeholder requirements specifications, documenting business requirements, key business requirements, business requirements, business requirements documentation, business requirements design, business requirements management, business requirements document review, business requirements document, business requirements specifications, business requirements loading, business requirements engineering, business requirements templates, business requirement implementation, business requirements development, business needs, business need, develop the business requirements, business-requirement, address business requirements, translate business requirements",
+        "FormattedName": "business requirement",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Translate Business Requirements",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business requirement",
+        "Alias": "stakeholder requirements specifications, documenting business requirements, key business requirements, business requirements, business requirements documentation, business requirements design, business requirements management, business requirements document review, business requirements document, business requirements specifications, business requirements loading, business requirements engineering, business requirements templates, business requirement implementation, business requirements development, business needs, business need, develop the business requirements, business-requirement, address business requirements, translate business requirements",
+        "FormattedName": "business requirement",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Development and Implementation",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "User Training and Support",
+        "Ontology": "Finance and Insurance>Training and Development Specialists>user training",
+        "Alias": "user training and implementation, user training and support, users training",
+        "FormattedName": "user training",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Validation Process",
+        "Ontology": "Information>Data Processing, Hosting, and Related Services>data validation",
+        "Alias": "finance data validation, validate a data, validating data to correctly identify problems, input-validation, data validation process, data validation operations, data validation testing, data validation processes, data validation software, data validation integration, input validation, validate data, validation of data, master data validation, data-validation",
+        "FormattedName": "data validation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Requirements",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Requirements",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business requirement",
+        "Alias": "stakeholder requirements specifications, documenting business requirements, key business requirements, business requirements, business requirements documentation, business requirements design, business requirements management, business requirements document review, business requirements document, business requirements specifications, business requirements loading, business requirements engineering, business requirements templates, business requirement implementation, business requirements development, business needs, business need, develop the business requirements, business-requirement, address business requirements, translate business requirements",
+        "FormattedName": "business requirement",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "System Implementation",
+        "Ontology": "Information>Computer Network Architects>system implementation",
+        "Alias": "implementation of systems and controls, system implemented, implementing systems, implementation and maintenance of windows, implemented systems, systems implementation, system-implementation",
+        "FormattedName": "system implementation",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Standards",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensuring Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>ensuring compliance",
+        "Alias": "guarantee compliance with policies, compliance assurance, compliance-assurance, assures compliance, make sure policies are compliant, ensure policy compliance, assurance of compliance, certify compliance with policies, ensure compliance, ensure compliance with policies, ensure compliance with legislation, ensure compliance with policy, ensuring compliance with the rules, ensuring compliance with policies",
+        "FormattedName": "ensuring compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Retention",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer retention",
+        "Alias": "maintaining customer, retention programs, client-retention, retain customers, account retention, business retention, increase customer retention, client retention programs, client retention, customer-retention, sales retention, customer retentions, customer retention marketing, customer retention strategies, retaining customers",
+        "FormattedName": "customer retention",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensure Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>ensuring compliance",
+        "Alias": "guarantee compliance with policies, compliance assurance, compliance-assurance, assures compliance, make sure policies are compliant, ensure policy compliance, assurance of compliance, certify compliance with policies, ensure compliance, ensure compliance with policies, ensure compliance with legislation, ensure compliance with policy, ensuring compliance with the rules, ensuring compliance with policies",
+        "FormattedName": "ensuring compliance",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Proposals",
+        "Ontology": "Construction>Engineers, All Other>project proposal",
+        "Alias": "develop a project proposal, project-proposal, drafting project, drafting projects, project proposals, proposal of project",
+        "FormattedName": "project proposal",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Report Generation",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Clerks, General>report generation",
+        "Alias": "generate report, development of reports, reports development, reports preparation, preparation of reports, report creation, develop custom reports, report development, preparing the reports, preparing the report, develop nightly reports, creating reports, preparing reports, develop a report, develop reports, produce reports, prepare reports, creation of new reports, developing reports, generating training reports, generating reports, generate reports, prepare report, creating new reports, report preparation, generated reports, report-generation",
+        "FormattedName": "report generation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Cases",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business case",
+        "Alias": "business casing, business-case, business development case, management business cases, finance business cases, business case justification, business cases, business case production, business case preparation",
+        "FormattedName": "business case",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analytics",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Reporting",
+        "Ontology": "Information>Data Processing, Hosting, and Related Services>data reporting",
+        "Alias": "data reporting analysis, analysis report, reporting on data, analytical-report, analytical report, analytical reporting, data analysis report, analytical technical report preparation, reporting data, data-reporting",
+        "FormattedName": "data reporting",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Modeling",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>data modeling",
+        "Alias": "data modeling techniques, data modelling, data model, analytics modeling, data base modeling, manage data models, salesforce data model, database model, data warehouse modeling, data warehouse model, data warehouse modeling process, data warehouse modelling, information model, information modeling, data base modelling, data modeling methodology, data modeling methodologies, data modeling method, data modeling methods, create-data- models, database modeling, data base model, big data modelling, create-data models, datamodel, design data models, data-modeling, data warehouse-modeling, data modeling process, database models, dw modeling, database-model, design of data models, big data modeling, creating data models, create data models, system information modelling, system information modeling, data-warehouse modeling, data-warehouse- modeling, database modelling, analytics modelling, data warehousing modelling, data models, modelling data manipulation",
+        "FormattedName": "data modeling",
+        "Evidence": "SkillSection,ExperienceSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "HSBC Bank \r Business Analyst \r Manchester, UK \r 2019 - Present \r At HSBC, Sarah has been instrumental in collaborating with stakeholders to gather and document business requirements. Her role involves conducting data analysis to identify trends and insights for business improvements, developing and implementing data models to support decision-making, and ensuring compliance with regulatory requirements through regular audits and assessments. She also  \r provides training and support to users on new systems and processes. Sarah led a project that streamlined data reporting processes, reducing report generation time by 30%, and identified key trends in customer data that led to the development of a new customer retention strategy. \r Lloyds Banking Group \r Junior Business Analyst \r Manchester, UK \r 2017 - 2019 \r In her role at Lloyds Banking Group, Sarah assisted in gathering and documenting business requirements from various departments. She conducted data analysis to support business cases and project proposals, supported the development and implementation of new systems and processes, and provided user training and support for new systems and tools. Sarah played a key role in the successful implementation of a new CRM system and improved data accuracy by developing a new data validation process.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "HSBC Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Business Analyst",
+          "FormattedName": "business analyst",
+          "Alias": "business  -analyst, business connectivity analyst, analyst of business, business -analyst, industrial business analyst, analyst - business, analyst - business analytics, analyst, business analysis, business services analyst, analyst  business analytics , business analyst - services, business analyst ba, business analysts, business analyst - ba, business analyst ba , analyst business, analyst business analysis, business efficiency analyst, business analytics analyst, business analytics-analyst, business-analyst",
+          "RelatedSkills": [
+            {
+              "Skill": "business analysis communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis reporting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "presentation skills coaching",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "verbal communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "function point analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis framework",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "objectstudio",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "active listening",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "advise on communication strategies",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "advise on personnel management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "commercial awareness",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "pv wave",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "quality customer service",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "use case diagram",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "use case",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "decision making",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business ecosystem",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "integration definition for information modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "recursive partitioning",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "ansoff matrix",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "subscription business model",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "strategy dynamics",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "phase implementation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "predictive modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "business analytics",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2019 - till",
+        "FormattedJobPeriod": "2019 to till",
+        "StartDate": "01/01/2019",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At HSBC, Sarah has been instrumental in collaborating with stakeholders to gather and document business requirements. Her role involves conducting data analysis to identify trends and insights for business improvements, developing and implementing data models to support decision-making, and ensuring compliance with regulatory requirements through regular audits and assessments. She also \n provides training and support to users on new systems and processes. Sarah led a project that streamlined data reporting processes, reducing report generation time by 30%, and identified key trends in customer data that led to the development of a new customer retention strategy.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Lloyds Banking Group",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Junior Business Analyst",
+          "FormattedName": "junior business analyst",
+          "Alias": "jr functional analyst, jnr business analyst, junior business support analyst, junior business agent, junior business consultant, jr. functional analyst, new business analyst jr, jr. business analyst, business jr. analyst, jnr functional analyst, jr business agent, junior analyst of business, junior functional analyst, jr business analysis, junior level business analyst, business junior analyst, junior analyst business",
+          "RelatedSkills": [
+            {
+              "Skill": "analyse business objectives",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "development management",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "business plan analysis",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2017 - 2019",
+        "FormattedJobPeriod": "2017 to 2019",
+        "StartDate": "01/01/2017",
+        "EndDate": "31/12/2019",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "In her role at Lloyds Banking Group, Sarah assisted in gathering and documenting business requirements from various departments. She conducted data analysis to support business cases and project proposals, supported the development and implementation of new systems and processes, and provided user training and support for new systems and tools. Sarah played a key role in the successful implementation of a new CRM system and improved data accuracy by developing a new data validation process.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "HSBC Bank",
+    "JobProfile": "Business Analyst",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "91",
+      "TotalExperienceInYear": "7.7",
+      "TotalExperienceRange": "5-8 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "45",
+    "LongestStay": "55",
+    "Summary": "Proactive and detail-oriented Business Analyst with 7 years of experience in the banking sector. Adept at leveraging data analysis to drive business improvements and ensure compliance with regulatory standards. Known for strong problem-solving skills and the ability to translate business requirements into technical solutions.",
+    "ExecutiveSummary": "Sarah has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Business Operations Specialists. 'The candidate has a total experience of 7 YearsThe candidate has been working as a Business Analyst at HSBC Bank for the last 5.7 years. ",
+    "ManagementSummary": "Sarah doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 541ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Sarah Brown\nContact Information : \nAddress : 12 Cedar Avenue, Manchester, M2 6HD, England\nEmail : sarah.brown@email.com\nPhone : +44 7123 987654\nLinkedIn : linkedin.com/in/sarahbrown\n\nProfessional Summary : \nProactive and detail-oriented Business Analyst with 7 years of experience in the banking sector. Adept at leveraging data analysis to drive business improvements and ensure compliance with regulatory standards. Known for strong problem-solving skills and the ability to translate business requirements into technical solutions.\n\nEducation : \nUniversity of Manchester (Russell Group) \nMSc Business Analytics, Merit\nGraduated : 2017\nUniversity of Liverpool (Russell Group) \nBSc Economics, Upper Second Class Honours\nGraduated : 2015\n\nProfessional Experience : \nHSBC Bank\nBusiness Analyst\nManchester, UK\n2019 - Present\nAt HSBC, Sarah has been instrumental in collaborating with stakeholders to gather and document business requirements. Her role involves conducting data analysis to identify trends and insights for business improvements, developing and implementing data models to support decision-making, and ensuring compliance with regulatory requirements through regular audits and assessments. She also \nprovides training and support to users on new systems and processes. Sarah led a project that streamlined data reporting processes, reducing report generation time by 30%, and identified key trends in customer data that led to the development of a new customer retention strategy.\nLloyds Banking Group\nJunior Business Analyst\nManchester, UK\n2017 - 2019\nIn her role at Lloyds Banking Group, Sarah assisted in gathering and documenting business requirements from various departments. She conducted data analysis to support business cases and project proposals, supported the development and implementation of new systems and processes, and provided user training and support for new systems and tools. Sarah played a key role in the successful implementation of a new CRM system and improved data accuracy by developing a new data validation process.\nInternship : NatWest Group\nData Analyst Intern\nManchester, UK\nSummer 2016\nDuring her internship at NatWest Group, Sarah assisted in analyzing large datasets to identify trends and insights. She supported the development of data models and reporting tools and conducted market research to support business development initiatives. Sarah developed a new reporting tool that improved data accessibility for business users and identified key market trends that informed the development of a new product line.\n\nSkills : \nData Analysis\nBusiness Requirements Gathering\nData Modeling\nRegulatory Compliance\nSystem Implementation\nCommunication\n\nCertifications : \nCertified Business Analysis Professional (CBAP) \nAdvanced Certificate in Data Analytics\nPRINCE2 Foundation and Practitioner\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Sarah Brown</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 12 Cedar Avenue, Manchester, M2 6HD, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> sarah.brown@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 987654</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> linkedin.com/in/sarahbrown</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Proactive and detail-oriented Business Analyst with 7 years of experience in the banking sector. Adept at leveraging data analysis to drive business improvements and ensure compliance with regulatory standards. Known for strong problem-solving skills and the ability to translate business requirements into technical solutions.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Manchester (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">MSc Business Analytics, Merit</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2017</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Liverpool (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">BSc Economics, Upper Second Class Honours</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2015</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC Bank</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Business Analyst</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2019 - Present</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At HSBC, Sarah has been instrumental in collaborating with stakeholders to gather and document business requirements. Her role involves conducting data analysis to identify trends and insights for business improvements, developing and implementing data models to support decision-making, and ensuring compliance with regulatory requirements through regular audits and assessments. She also provides training and support to users on new systems and processes. Sarah led a project that streamlined data reporting processes, reducing report generation time by 30%, and identified key trends in customer data that led to the development of a new customer retention strategy.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lloyds Banking Group</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Junior Business Analyst</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2017 - 2019</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">In her role at Lloyds Banking Group, Sarah assisted in gathering and documenting business requirements from various departments. She conducted data analysis to support business cases and project proposals, supported the development and implementation of new systems and processes, and provided user training and support for new systems and tools. Sarah played a key role in the successful implementation of a new CRM system and improved data accuracy by developing a new data validation process.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Internship: NatWest Group</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Data Analyst Intern</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Summer 2016</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">During her internship at NatWest Group, Sarah assisted in analyzing large datasets to identify trends and insights. She supported the development of data models and reporting tools and conducted market research to support business development initiatives. Sarah developed a new reporting tool that improved data accessibility for business users and identified key market trends that informed the development of a new product line.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data Analysis</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Business Requirements Gathering</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data Modeling</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Regulatory Compliance</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">System Implementation</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Communication</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Business Analysis Professional (CBAP) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Advanced Certificate in Data Analytics</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">PRINCE2 Foundation and Practitioner</span></li></ul><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

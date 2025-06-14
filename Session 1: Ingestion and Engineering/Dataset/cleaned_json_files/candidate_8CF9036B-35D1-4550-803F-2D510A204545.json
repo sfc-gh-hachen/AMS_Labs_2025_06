@@ -1,0 +1,815 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Sarah Johnson.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:18:45",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Sarah Johnson",
+      "TitleName": "",
+      "FirstName": "Sarah",
+      "MiddleName": "",
+      "LastName": "Johnson",
+      "FormattedName": "Sarah Johnson",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "sarah.johnson@example.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+441122334455",
+        "ISDCode": "+44",
+        "OriginalNumber": "112 233 4455",
+        "FormattedNumber": "+44 112 233 4455",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/sarahjohnson"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "10 Oak Street",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "10 Oak Street, Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Management of Companies and Enterprises",
+    "SubCategory": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "BA in Marketing \r University of Manchester, Manchester, UK \r 2003 - 2007",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "Manchester",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "UK",
+            "CountryCode": {
+              "IsoAlpha2": "GB",
+              "IsoAlpha3": "GBR",
+              "UNCode": "826"
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BA in Marketing",
+          "NormalizeDegree": "Bachelor of Arts",
+          "Specialization": [
+            "Marketing"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2003 to 2007",
+        "StartDate": "01/01/2003",
+        "EndDate": "31/12/2007",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "",
+    "SegregatedCertification": [],
+    "SkillBlock": "Digital Marketing : Proficient in SEO, PPC, social media, and email marketing. \r Content Creation : Skilled in creating engaging and relevant content. \r Market Research : Strong ability to conduct and analyze market research. \r Campaign Management : Experienced in planning and executing successful marketing campaigns. \r Team Leadership : Effective team leader with excellent interpersonal skills.",
+    "SkillKeywords": "Assisted,Excellent Interpersonal Skills,Proven Track Record,Team Leadership,Collaborative,Consistency,Engagement,Innovative,Planning,Managed Digital Marketing,Planning and Execution,Traditional Marketing,Marketing Strategies,Campaign Management,Dynamic Environment,Marketing Campaigns,Marketing Materials,Product Development,Digital Marketing,Content Creation,Cross-Functional,Brand Alignment,Brand Awareness,Email Marketing,Market Analysis,Market Research,Business Goals,Product Lines,Social Media,PPC",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/06/2010",
+        "ExperienceInMonths": 34
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Excellent Interpersonal Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>interpersonal skills",
+        "Alias": "strong interpersonal skills, social skill, effective i?nterpersonal skills, people skill, interpersonal leadership skills, interpersonal development, interpersonal skill, social-skills, interpersonal relationships, interpersonal relationship skills, intrapersonal skill, intrapersonal skills, good interpersonal skills, good interpersonal, people skills, ability to socialize, personal skills, interoperation, excellent interpersonal skills, social skills, interpersonal savvy, interpersonal-savvy, interpersonal sensitivity",
+        "FormattedName": "interpersonal skills",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Proven Track Record",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>proven track record",
+        "Alias": "proven leadership skills",
+        "FormattedName": "proven track record",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Leadership",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leadership",
+        "Alias": "interdisciplinary team leadership, multi-national team leadership, lead the team member, leads group discussions, leads groups, group leadership, multi-cultural team leadership",
+        "FormattedName": "team leadership",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 110
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaborative",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 110
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Consistency",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>consistent",
+        "Alias": "consistency",
+        "FormattedName": "consistent",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 110
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Engagement",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 110
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Innovative",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>innovation",
+        "Alias": "innovative product idea, innovativeness, innovative, innovation skill, innovator",
+        "FormattedName": "innovation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 110
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Planning",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>planning process",
+        "Alias": "ability to plan, planning, planning ability, planning-process, planning skills, ability to create plans",
+        "FormattedName": "planning process",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "30/06/2010",
+        "ExperienceInMonths": 34
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Managed Digital Marketing",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>internet marketing",
+        "Alias": "digital product marketing, online-marketing, web advertising, online sales and-marketing, online sales and marketing, online sales and mktg, manage online marketing, internet advertising, digital mktg services, marketing internet, product marketing digital, managed digital marketing, digital mktg., digital media sales, online advertising, online advertising management, managed online-marketing, digital media marketing services, digital media marketing, digital media marketing operations, e marketing, internet digital marketing, internet sales and marketing, online publicity, online marketing, online marketing promotions, internet marketing operations, digital solutions marketing, online ads, internet promotion, develop digital ads, internet-advertising, attraction marketing, attraction-marketing, e-marketing, digital media advertisement, electronic marketing, website marketing, digital advertising, digital advertising solutions, digital advertising operations, digital advertising sales, digital marketing technology, digital marketing operations, digital marketing operation, digital marketing product, digital marketing, digital marketing development, digital marketing management, digital marketing services, digital marketing design, marketing online, electronic-marketing, web marketing, internet web marketing, small business representation, online business marketing, online business mktg, digital-marketing operations, digital-marketing-operations, digital-marketing- operations, digital-marketing, web development marketing, web commercials, digital sales marketing, emarketing digital, web marketing strategy, marketing on-line, e-advertising, website-marketing, managed online marketing, online campaign management, attraction mktg, online promotion, digital emarketing, internet-marketing, website mktg, marketing digital",
+        "FormattedName": "internet marketing",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 110
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Planning and Execution",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>execution plan",
+        "Alias": "execution of the plans, executing-planning, plan execution, executing planning, plans execution, planning and execution, execution planning, execution of plans, executing plans",
+        "FormattedName": "execution plan",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/06/2010",
+        "ExperienceInMonths": 34
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Traditional Marketing",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>traditional marketing",
+        "Alias": "traditional advertising, traditional marketing promotions, marketing traditional, traditional mktg, traditional-marketing",
+        "FormattedName": "traditional marketing",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/04/2015",
+        "ExperienceInMonths": 58
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Marketing Strategies",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>marketing planning",
+        "Alias": "marketing tactical plans, marketing tactics, marketing plan implementation, strategic-market-planning, marketing initiative, marketing capability planning, marketing activities planned, marketing scenario, planning a marketing strategy, plan a marketing strategy, marketing plan creation, plan promotions, design marketing strategies, design marketing strategy, marketing execution, promotion planning, marketing strategic initiatives, marketing strategies, marketing strategy formulation, marketing strategy, marketing strategy formulation process, creation of marketing plans, marketing decision-making, marketing decision making, promotional strategies, promotional strategy, internet marketing tactics, market strategy, market-planning, marketing program execution, plan marketing strategy, plan marketing strategies, marketing plan execution, design market strategy, marketing drafting, planning marketing, marketing proposal, marketing plan development, marketing and strategy, execution plan for marketing, execution in marketing, development of strategic marketing plans, marketing-planning, marketing plan preparation, project marketing strategy, promotional-planning, marketing business plans, promotional planning, promotional plan, develop marketing strategies, develop marketing plans, marketing plans, strategic marketing planning, strategic marketing plan, strategic marketing plans, strategic market-planning, strategic marketing-planning, mktg strategy, promotions planned, promotions planning and implementation, promotions planning, design-market-strategy, advertising decision making, marketing plan, promotions plan, marketing-scenario, business marketing tactics, market planning, develop the marketing plan, organise marketing strategy, mktg proposal, creating marketing plans, creating marketing plan, marketing-proposal, planning market, designing marketing strategies, marketing-strategy, marketing-strategy formulation, arrange marketing strategy, promotion strategy, develop a marketing strategy, development of a marketing plan, development of marketing plans, development of marketing tactics",
+        "FormattedName": "marketing planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 202
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Campaign Management",
+        "Ontology": "Management of Companies and Enterprises>Marketing and Sales Managers>campaign management",
+        "Alias": "digital campaign mgmt, marketing campaigns management, marketing campaign design, marketing campaign mgmt, marketing campaign management, campaign execution, campaign management operations, campaign launch management, managed marketing campaigns, campaign-management, advertisement campaign management, advertisement campaign mgmt, advertisement campaign-management, manage strategic campaigns, campaign coordination, ad campaign mgmt, campaign mgmt, manage campaign, campaign creation, campaigns execution, campaign deployment, manage campaigns, managing digital campaigns, campaign administration, administration campaign management, campaign implementation",
+        "FormattedName": "campaign management",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 110
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Dynamic Environment",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>dynamic environment",
+        "Alias": "dynamic-environment, adopting to dynamic environment",
+        "FormattedName": "dynamic environment",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Marketing Campaigns",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>marketing campaigns",
+        "Alias": "email campaign, digital campaign marketing, digital campaign design, digital campaign, digital campaign management framework, digital campaign management, campaign advertising, marketing campaigns templates, marketing campaign, marketing campaign tactics, marketing campaign process, marketing campaigns promotions, marketing campaign promotions, managed digital advertising campaigns, sales campaigns, email marketing campaign, develop advertising campaign, digital media marketing campaigns, advertising campaign-design, advertising campaign, advertising campaigns, advertising campaigns management, advertising campaign design, launch campaign, email-campaign, develop digital marketing campaigns, campaign design, electronic campaigns, manage email campaign, manage digital marketing campaigns, advertising-campaign-design, advertising-campaigns, email-campaigning, branding campaign, branding campaigns, email campaigns, brand campaign, digital marketing campaign, design advertising campaign, campaign-design, promotional campaign, promotional campaigns, sales campaign strategy, sales campaign strategies, campaign process, digital-marketing- campaign, digital-marketing campaign, sales campaign, designing marketing campaigns, sales-campaigns, create email campaign, promotional-campaign, development of advertising campaigns, development of marketing campaigns",
+        "FormattedName": "marketing campaigns",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 144
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Marketing Materials",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>marketing collateral",
+        "Alias": "marketing collateral integration, marketing collateral design, marketing collateral development, marketing collateral templates, collateral production, development of promotional materials, collateral material development, procuring marketing collateral, collateral writing, design marketing materials, design marketing collateral, marketing material development, marketing material design, marketing materials, marketing material creation, mktg literature, marketing literature, print-collateral, marketing-collateral, design mktg materials, develop marketing material, promotional materials development, promotional material design, promotional material, collateral generation, print marketing collateral, marketing-literature, collateral development, develop effective market collateral, advertising collateral, print collateral, designing marketing collateral, promotional-material, development of advertising materials, development of marketing materials",
+        "FormattedName": "marketing collateral",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/06/2010",
+        "ExperienceInMonths": 34
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Development",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>product development",
+        "Alias": "process-product-development, development of products, development of product, production development, enterprise product-development, enterprise product development, product development enterprise, product development process, product development and design, device-development, product building, international product development, develop products, new product development, development of the product, builds the product, process product development, product-process-development, device development, technical product development, production-development, develop new products, product-development, retail product development, developing products, products development, product process development, product offering development, development products, product creation",
+        "FormattedName": "product development",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/04/2015",
+        "ExperienceInMonths": 58
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Digital Marketing",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>internet marketing",
+        "Alias": "digital product marketing, online-marketing, web advertising, online sales and-marketing, online sales and marketing, online sales and mktg, manage online marketing, internet advertising, digital mktg services, marketing internet, product marketing digital, managed digital marketing, digital mktg., digital media sales, online advertising, online advertising management, managed online-marketing, digital media marketing services, digital media marketing, digital media marketing operations, e marketing, internet digital marketing, internet sales and marketing, online publicity, online marketing, online marketing promotions, internet marketing operations, digital solutions marketing, online ads, internet promotion, develop digital ads, internet-advertising, attraction marketing, attraction-marketing, e-marketing, digital media advertisement, electronic marketing, website marketing, digital advertising, digital advertising solutions, digital advertising operations, digital advertising sales, digital marketing technology, digital marketing operations, digital marketing operation, digital marketing product, digital marketing, digital marketing development, digital marketing management, digital marketing services, digital marketing design, marketing online, electronic-marketing, web marketing, internet web marketing, small business representation, online business marketing, online business mktg, digital-marketing operations, digital-marketing-operations, digital-marketing- operations, digital-marketing, web development marketing, web commercials, digital sales marketing, emarketing digital, web marketing strategy, marketing on-line, e-advertising, website-marketing, managed online marketing, online campaign management, attraction mktg, online promotion, digital emarketing, internet-marketing, website mktg, marketing digital",
+        "FormattedName": "internet marketing",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 110
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Content Creation",
+        "Ontology": "Arts, Entertainment, and Recreation>Media and Communication Workers>content creation",
+        "Alias": "content production, content production process, content-production- process, content-production process, custom content creation, creating online content, content authoring, creates content, marketing content creation, marketing content generation, web content creation, creative content production, creative content creation, overseeing copy development, social media content generation, social media content creation, media creation, content generation, content-creation, custom content development, creation of creative content",
+        "FormattedName": "content creation",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 110
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cross-Functional",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/04/2015",
+        "ExperienceInMonths": 58
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Brand Alignment",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>brand alignment",
+        "Alias": "brand-alignment, corporate brand alignment",
+        "FormattedName": "brand alignment",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 110
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Brand Awareness",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>brand awareness",
+        "Alias": "brand recognition, awareness of brand, product awareness, brand knowledge, recognition brand, market awareness, brand-awareness, increasing brand awareness, product-awareness, brand awareness programs",
+        "FormattedName": "brand awareness",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 110
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Email Marketing",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>email marketing",
+        "Alias": "email mktg., email promotion, execute email marketing, executing email marketing, field service email-marketing, field service email mktg, email marketing service, email marketing advertisement, email marketing design, email marketing operations, email marketing execution, undertake email marketing, e mail marketing, enact email marketing, email advertising, e -mail mktg., email campaigning, carry out email marketing, e-mail-marketing, managed e-mail-marketing, email-marketing, execution of email marketing, managed email marketing, marketing via email, e-mail marketing, e-mail marketing management, promotional email, e - mail - marketing",
+        "FormattedName": "email marketing",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Analysis",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>market analysis",
+        "Alias": "market estimate, sales market analysis, global marketing analytics, market assessment, market assessments, marketing-analysis, advertising analytics, market analyzes, analyze market information, product marketing analytics, marketing campaign analytics, market data analytics, market data analysis, analyzing-marketing, campaign management analytics, web marketing analytics, market research analysis, market research analytics, marketing information analysis, market analysis process, market analysis research, marketing data analysis, marketing data analytics, media and marketing analytics, market valuation, market strategy analytics, market estimation, marketing-audit, analysis of the marketing, analysis of the market, marketing assessment, analysing marketing, analysing market requirements, analyzing marketing information, analyzing marketing, analyzing market strategies, data analysis marketing, market-evaluation, market analyze, analysis market, marketing analytics, marketing analytics integration, marketing analytics strategies, analyzing the market for sales, sales and marketing audit, marketing analysis and research, marketing analysis, gather and analyze market information, market research-analytics, mktg. analytics, market-analysis, marketing performance analysis, market-assessment, market and analysis, evaluations marketing, market needs analysis, market evaluation, market evaluations, manage marketing analytics, retail market analysis, marketing audit, development of market assessments, marketing-analytics",
+        "FormattedName": "market analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/04/2015",
+        "ExperienceInMonths": 58
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Research",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>market research",
+        "Alias": "market survey, brand research, product-research, design market research, social-media-market-research, social-media-market research, scanning marketing, market investigation, performing market research, marketing researching, marketing research development, marketing research analysis, marketing research, marketing investigation, marketing investigations, financial market research, marketing internet research, product research, undertake market research, marketing survey, marketing surveys, sales market research, market research data, market research operations, market research management, market research and analysis, market-exploration, product study, marketing information research, market exploration, market surveys, market data research, market-investigation, market information research, setting up market surveys, perform market research, market studies, branding-research, implement market research, research branding, researching market, researching market trends, marketing scanning, market study, interpreting marketing research, research market, marketing-researching, marketing-research, social media market research, retail market research, media market research, marketing original research, social-media market research, researching the markets, researching the market, marketing data research, market scanning, branding research, online market research, designing marketing surveys, market-research",
+        "FormattedName": "market research",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 144
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Goals",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business goals",
+        "Alias": "business goals and objectives, profitability objectives, business-goals, organizational objectives, business objectives, business objective, business profitability objectives",
+        "FormattedName": "business goals",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/04/2015",
+        "ExperienceInMonths": 58
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Lines",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>product lining",
+        "Alias": "product lining strategy, product line, price lining, product line pricing, product lines, product assortment, merchandising assortment, product mix",
+        "FormattedName": "product lining",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/04/2015",
+        "ExperienceInMonths": 58
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Social Media",
+        "Ontology": "Arts, Entertainment, and Recreation>Media and Communication Workers, All Other>social media",
+        "Alias": "social media operations, email and social media programs, internet and social-media, internet and social media, social media skills, based media web, internet media, web based media, social-media, social channels, internet-and-social-media",
+        "FormattedName": "social media",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 144
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "PPC",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>pay per click",
+        "Alias": "pay per click analysis, cpc model, pay-per-click, pay-per-click analysis, pay per click operations, pay per click advertising, pay per click advertisement, pay per click ad, google adwords cpc, ppc, pay-per-click marketing, cost-per-click, pay per click management, pay per click marketing, pay - per - click analysis, ppc advertisement, ppc advertisements, cpc marketing, cpc, cost per click",
+        "FormattedName": "pay per click",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 110
+      }
+    ],
+    "Experience": "Marketing Manager \r Unilever, Manchester, UK \r May 2015 - Present \r Campaign Management : Led the development and execution of marketing campaigns, achieving a 25% increase in brand awareness. \r Digital Marketing : Managed digital marketing strategies, including SEO, PPC, and social media, resulting in a 30% increase in online engagement. \r Content Creation : Oversaw content creation for various platforms, ensuring consistency and brand alignment. \r Market Research : Conducted market research to identify trends and opportunities, informing marketing strategies. \r Team Leadership : Managed a team of 5 marketing professionals, fostering a collaborative and innovative environment. \r Marketing Specialist \r Procter & Gamble, Manchester, UK \r July 2010 - April 2015 \r Developed and implemented marketing strategies to promote various product lines. \r Created and managed content for digital and traditional marketing channels. \r Conducted market analysis to inform product development and positioning. \r Collaborated with cross-functional teams to ensure alignment of marketing initiatives with business goals. \r Marketing Coordinator \r Nestl�, Manchester, UK \r September 2007 - June 2010 \r Assisted in the planning and execution of marketing campaigns. \r Created content for marketing materials, including brochures and social media posts. \r Conducted market research to support marketing strategies. \r Coordinated events and promotions to increase brand visibility.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Unilever",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Marketing Manager",
+          "FormattedName": "marketing manager",
+          "Alias": "manager mgr, mktg manager, marketing department manager, marketing support manager, marketing team mgr, marketing team manager, manager-marketing, marketing- manager, marketing mngr, market business head, market management expert, manager marketing, product planning, manager marketing, marketing mgr, marketing incharge, general manager marketing, mgr marketing, manager- marketing, marketing management professional, manager, marketing, manager, market management, manager business marketing, division marketing manager, business marketing manager, manager of marketing, market manager, manager - marketing, markets manager, manager  marketing, marketing mgr -business",
+          "RelatedSkills": [
+            {
+              "Skill": "evaluate marketing content",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "create annual  marketing budget",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "marketing support",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "actionable marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market monitoring",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "market entry planning",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "identify potential markets for companies",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "examine advertisement layout",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage  projectscontent development",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "marketing operations",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "email marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "marketing communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market research",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "account growth",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "applied marketing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "esports marketing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "quota achievement",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "pricing objectives",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "marketing management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "lead workflow",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "third party sales",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "social media",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "proposal presentation",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "May 2015 - till",
+        "FormattedJobPeriod": "05/2015 to till",
+        "StartDate": "01/05/2015",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Campaign Management : Led the development and execution of marketing campaigns, achieving a 25% increase in brand awareness. \n Digital Marketing : Managed digital marketing strategies, including SEO, PPC, and social media, resulting in a 30% increase in online engagement. \n Content Creation : Oversaw content creation for various platforms, ensuring consistency and brand alignment. \n Market Research : Conducted market research to identify trends and opportunities, informing marketing strategies. \n Team Leadership : Managed a team of 5 marketing professionals, fostering a collaborative and innovative environment.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Procter & Gamble",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Marketing Specialist",
+          "FormattedName": "marketing specialist",
+          "Alias": "mktg specialist, specialist - marketing, specialist - market operations, specialist of marketing, marketing support specialist, unit marketing specialist, marketing strategy specialist, contract marketing specialist, marketing services specialist, expert marketing, marketing-professional, strategic marketing specialist, marketing-support-specialist, marketing professional, market specialist, marketing expert, market- specialist, specialist market operations, specialist marketing",
+          "RelatedSkills": [
+            {
+              "Skill": "campaign development",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "pipeline marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "aggressive marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "marketing support",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "content marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "interactive marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "utility marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "marketing operations",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "marketing budget",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "marketing communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "multi touch marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business card design",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "July 2010 - April 2015",
+        "FormattedJobPeriod": "07/2010 to 04/2015",
+        "StartDate": "01/07/2010",
+        "EndDate": "30/04/2015",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Developed and implemented marketing strategies to promote various product lines. \n Created and managed content for digital and traditional marketing channels. \n Conducted market analysis to inform product development and positioning. \n Collaborated with cross-functional teams to ensure alignment of marketing initiatives with business goals.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Nestl�",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Marketing Coordinator",
+          "FormattedName": "marketing coordinator",
+          "Alias": "marketing and promotions coodinator, corporate marketing coordinator, inhouse marketing coordinator, product marketing coordinator, marketing operations coordinator, marketing plan coordinator, marketing executive coordinator, direct marketing co-ordinator, national marketing coordinator, coordinator marketing, coordinator of marketing, brand marketing coordinator, marketing program coordinator, operations and marketing coordinator, brand strategy coordinator, market management coordinator, coordinator - marketing, marketing services coordinator, co-ordinator - marketing, export marketing coordinator, marketing co ordinator, team coordinator for service marketing, marketing-coordinator, campus marketing coordinator, mktg coordinator, marketing development catalog coordinator, marketing team coordinator, business marketing coordinator, coordinator-of-marketing, co-ordinator marketing, consumer marketing coordinator, marketing co-ordinator, marketing planning coordinator, co-marketing coordinator",
+          "RelatedSkills": [
+            {
+              "Skill": "marketplace software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "hasoffers",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "activecampaign software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "actionable marketing",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "marketing software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "strategic marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "integrated marketing",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "social networking software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "impresspages",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "positioning strategy",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "marketing management",
+              "ProficiencyLevel": "Moderate"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "September 2007 - June 2010",
+        "FormattedJobPeriod": "09/2007 to 06/2010",
+        "StartDate": "01/09/2007",
+        "EndDate": "30/06/2010",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Assisted in the planning and execution of marketing campaigns. \n Created content for marketing materials, including brochures and social media posts. \n Conducted market research to support marketing strategies. \n Coordinated events and promotions to increase brand visibility.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Unilever",
+    "JobProfile": "Marketing Manager",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "203",
+      "TotalExperienceInYear": "16.11",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "67",
+    "LongestStay": "111",
+    "Summary": "Experienced Marketing Specialist with a proven track record of developing and executing successful marketing campaigns. Skilled in digital marketing, content creation, and market research. Seeking new challenges to apply my marketing expertise in a dynamic environment.",
+    "ExecutiveSummary": "Sarah has an experience in the domain of 'Management of Companies and Enterprises', particularly in the sub-domain of 'Advertising, Marketing, Promotions, Public Relations, and Sales Managers. The candidate has been working as a Marketing Manager at Unilever for the last 9.3 years. ",
+    "ManagementSummary": "Currently, Sarah holds a Mid Management Level position, as Marketing Manager at Unilever. from 01/05/2015 to 15/07/2024. The candidate has a total experience of 9.3 years in this company.\n\nSarah holds a Low Management Level position, as Marketing Coordinator at Nestl�. from 01/09/2007 to 30/06/2010. The candidate has a total experience of 2.10 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 609ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Sarah Johnson\nAddress : 10 Oak Street, Manchester, UK\nPhone : +44 1122 334455\nEmail : sarah.johnson@example.com\nLinkedIn : linkedin.com/in/sarahjohnson\n\nPersonal Statement\nExperienced Marketing Specialist with a proven track record of developing and executing successful marketing campaigns. Skilled in digital marketing, content creation, and market research. Seeking new challenges to apply my marketing expertise in a dynamic environment.\n\nProfessional Experience\nMarketing Manager\nUnilever, Manchester, UK\nMay 2015 - Present\nCampaign Management : Led the development and execution of marketing campaigns, achieving a 25% increase in brand awareness.\nDigital Marketing : Managed digital marketing strategies, including SEO, PPC, and social media, resulting in a 30% increase in online engagement.\nContent Creation : Oversaw content creation for various platforms, ensuring consistency and brand alignment.\nMarket Research : Conducted market research to identify trends and opportunities, informing marketing strategies.\nTeam Leadership : Managed a team of 5 marketing professionals, fostering a collaborative and innovative environment.\nMarketing Specialist\nProcter & Gamble, Manchester, UK\nJuly 2010 - April 2015\nDeveloped and implemented marketing strategies to promote various product lines.\nCreated and managed content for digital and traditional marketing channels.\nConducted market analysis to inform product development and positioning.\nCollaborated with cross-functional teams to ensure alignment of marketing initiatives with business goals.\nMarketing Coordinator\nNestl�, Manchester, UK\nSeptember 2007 - June 2010\nAssisted in the planning and execution of marketing campaigns.\nCreated content for marketing materials, including brochures and social media posts.\nConducted market research to support marketing strategies.\nCoordinated events and promotions to increase brand visibility.\n\nEducation\nBA in Marketing\nUniversity of Manchester, Manchester, UK\n2003 - 2007\n\nSkills\nDigital Marketing : Proficient in SEO, PPC, social media, and email marketing.\nContent Creation : Skilled in creating engaging and relevant content.\nMarket Research : Strong ability to conduct and analyze market research.\nCampaign Management : Experienced in planning and executing successful marketing campaigns.\nTeam Leadership : Effective team leader with excellent interpersonal skills.\n\nPersonal Attributes\nCreative Thinking : Innovative and creative approach to marketing challenges.\nCollaborative Nature : Strong team player with excellent communication skills.\nAnalytical Mindset : Ability to analyze data and market trends to inform strategies.\nProactive Approach : Highly motivated and proactive in identifying opportunities for improvement.\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Sarah Johnson</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Address:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> 10 Oak Street, Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Phone:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> +44 1122 334455</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Email:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> sarah.johnson@example.com</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> linkedin.com/in/sarahjohnson</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Personal Statement</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Experienced Marketing Specialist with a proven track record of developing and executing successful marketing campaigns. Skilled in digital marketing, content creation, and market research. Seeking new challenges to apply my marketing expertise in a dynamic environment.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Marketing Manager</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Unilever, Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">May 2015 - Present</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Campaign Management:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Led the development and execution of marketing campaigns, achieving a 25% increase in brand awareness.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Digital Marketing:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Managed digital marketing strategies, including SEO, PPC, and social media, resulting in a 30% increase in online engagement.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Content Creation:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Oversaw content creation for various platforms, ensuring consistency and brand alignment.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Market Research:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Conducted market research to identify trends and opportunities, informing marketing strategies.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Team Leadership:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Managed a team of 5 marketing professionals, fostering a collaborative and innovative environment.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Marketing Specialist</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Procter & Gamble, Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">July 2010 - April 2015</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed and implemented marketing strategies to promote various product lines.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Created and managed content for digital and traditional marketing channels.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducted market analysis to inform product development and positioning.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborated with cross-functional teams to ensure alignment of marketing initiatives with business goals.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Marketing Coordinator</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Nestl�, Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">September 2007 - June 2010</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted in the planning and execution of marketing campaigns.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Created content for marketing materials, including brochures and social media posts.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducted market research to support marketing strategies.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Coordinated events and promotions to increase brand visibility.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">BA in Marketing</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Manchester, Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2003 - 2007</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Digital Marketing:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Proficient in SEO, PPC, social media, and email marketing.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Content Creation:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Skilled in creating engaging and relevant content.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Market Research:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong ability to conduct and analyze market research.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Campaign Management:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Experienced in planning and executing successful marketing campaigns.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Team Leadership:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Effective team leader with excellent interpersonal skills.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Personal Attributes</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Creative Thinking:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Innovative and creative approach to marketing challenges.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Collaborative Nature:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong team player with excellent communication skills.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Analytical Mindset:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Ability to analyze data and market trends to inform strategies.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Proactive Approach:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Highly motivated and proactive in identifying opportunities for improvement.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

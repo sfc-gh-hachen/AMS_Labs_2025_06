@@ -1,0 +1,817 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Sarah Thompson.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:36:04",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Sarah Thompson",
+      "TitleName": "",
+      "FirstName": "Sarah",
+      "MiddleName": "",
+      "LastName": "Thompson",
+      "FormattedName": "Sarah Thompson",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "sarah.thompson@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123654321",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 654321",
+        "FormattedNumber": "+44 7123 654321",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/sarahthompson"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "12 Rosewood Court",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M44DD",
+        "FormattedAddress": "12 Rosewood Court, Manchester, England, M44DD, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Administrative and Support and Waste Management and Remediation Services",
+    "SubCategory": "Customer Service Representatives",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Birmingham (Russell Group) \r BSc Mathematics, First Class Honours \r Graduated : 2008\r\r\rCertified Customer Service Specialist (CCSS) \r Advanced Certificate in Customer Relationship Management \r Member of the Chartered Institute for Securities & Investment (CISI) \r First Aid Certification \r  \r  \r  \r Playing football with a local league \r Reading financial and economic literature \r Traveling and exploring new cultures \r Participating in mathematics and logic puzzles competitions",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Birmingham",
+          "Type": "University",
+          "ConfidenceScore": 7,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc Mathematics",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Mathematics"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "2008",
+        "StartDate": "",
+        "EndDate": "31/12/2008",
+        "Aggregate": {
+          "Value": "1st",
+          "MeasureType": "Class Honours"
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "Certified Customer Service Specialist",
+          "NormalizeDegree": "Certificate",
+          "Specialization": [
+            "Customer Service"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "Chartered Institute for Securities & Investment",
+          "Type": "Institute",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 10
+        },
+        "Degree": {
+          "DegreeName": "Advanced Certificate in Customer Relationship Management",
+          "NormalizeDegree": "Certificate",
+          "Specialization": [
+            "Customer Relationship Management"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "",
+    "SegregatedCertification": [],
+    "SkillBlock": "Advanced Customer Service and Support \r Effective Communication and Listening \r Problem Solving and Conflict Resolution \r Team Leadership and Development \r Proficiency in Banking Software and Systems",
+    "SkillKeywords": "Improvement,Dedicated,Assisted,Effective Communication,Customer Relationships,Conflict Resolution,Problem Solving,Team Leadership,Collaborating,Leading Teams,Listening,Proactive,Customer Service Operations,Customer Satisfaction,Assisting Customers,Conducting Training,Customer Feedback,Improving Service,Service Processes,Banking Services,Banking Software,Service Quality,Online Banking,Customer Care",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Improvement",
+        "Ontology": "Information>Computer Network Architects>continual service improvement",
+        "Alias": "improvement of services, service improvement management, service improvement, continuous-service-improvement, improving service, service enhancement, service enhancements, continuous service improvement, continuous service-improvement",
+        "FormattedName": "continual service improvement",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Dedicated",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "Information>Computer User Support Specialists>software technical support",
+        "Alias": "telephony support, aid customers, computer support, system support, website support services, support-system, support teams, technical assistance, it & technology support, customer assistance, telephone support, hardware-support, cell phone support, customer support services, customer support, assist a customer, assisting customers, website-support, 2nd line support, functional it support, on-going assistance, ongoing support, network support, phone support, telephony-support, answering technical query, support-teams, providing technical support, call support, web-site-support, consumer support, system-support, providing it support, customer service support, customers support, online support, software-tech-support, supportability software, end user customer support, ongoing assistance, software-tech support, support helpdesk, assists the client, technology-assistance, second line-support, ongoing software support, helpdesk support, development support, software tech support, 1st line helpdesk, computer-assistance, computer assistance, functional it-support, customers assistance, assisted consumer, information support, support handling, assisting in developing, client support, software support, software supportability, software support services, support customers, 2nd line technical support, systems support, technical support, technical support and diagnosis, technical support mgmt, technical support management, handling support, enduser customer support, customer-assistance, team support, provide technical support, provide technical floor support, customer-support, technology assistance, supports clients, development-support, end user support, user support, help technical team with code fixes, functional support, it hardware support, technical and procedural assistance, technical-assistance, helpdesk-support, support with customer, general support-system, support the development, computer-support, second line support, support system, hardware support services, hardware support it, hardware support, software-supportability, software-support, systems-support, general support system, ongoing support and maintenance, computer telephony support, supporting the development, facilitate customers, website support, support software",
+        "FormattedName": "software technical support",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2009",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Effective Communication",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>effective communication",
+        "Alias": "able to convey information, able to convey information clearly, clear & concise communication, excellent communicator, communicated effectively, clear and concise communication, develop strong communication, effective-communication, developing effective communication, great communicators, effective communication is paramount, effective communicator, effective communication skills, communicating with supervisors, communicated regularly, able to communicate effectively, develop effective communication skills",
+        "FormattedName": "effective communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Customer Relationships",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer relationship management",
+        "Alias": "managing client relationships, developing relationships with clients, long term customer relationship, maintain customer relationships, customer-relationship- management, customer-relationship management, manage crm, relationship management, relation management, client-relations, client management relationship, build and maintain customer relationships, crm, build customer relationships, managed the relationship, client relations, client relationship mgt., client relationships, customer care management, crm planning, manage strong customer relationships, client resource management, building relationships with customers, constituent relationship management, constituent relationship mgmt, manage customer relationships, manage customer relationship, customer relationship development, customer relationship mgmt, customer relations, customer relation management, customer relations management, customer relationships, customer relationship mgmt., customer relations development, customer relationship planning, customer relationships management, customer relationship, customers relations, relational management, long term relationship building, long term business relationships, manage the client relationship, long-term customer relationship, relationship mgmt, relationship mgmt., crm management, marketing crm, building the customer relationship, manage client relationships, consumer relationship management, relations management, managed crm, manage relationships, manage relationship, manage the relationship, client relation management, consumer-relationship-management, relationships management, managing relationships, managing relationships with clients",
+        "FormattedName": "customer relationship management",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Conflict Resolution",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>conflict resolution",
+        "Alias": "resolving conflict, resolving conflicts among staff, resolving conflicts, conflict resolution planning, conflict resolver, conflict solving, resolution skill, resolution skills, conflict-resolution, resolutions skills, resolving con?icts, resolve conflicts, resolve conflict",
+        "FormattedName": "conflict resolution",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Problem Solving",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>problem solving",
+        "Alias": "solve problems creatively, resolution of problems, find appropriate solutions, resolve issues, collaborative problem solving, resolve problems, solving issues, ability to solve problems, ability to analyze and solve problems, theoretical problem solving, solving problem, problems resolve, solving problems, problem handling, solving complex problems, problem-solving skills, able to resolve issues, able-to-resolve issues, complex problem-solving, complex problem-solving abilities, analytic problem solving, solve highly analytical problems, problem-solving, solves problems, quickly identifying problems, problem resolution, addressing concerns, analytical problem solving, resolving concerns, addressing the issues, problem solving ability, problem solving skills, problem solving abilities, problem solving leadership, general problem solving, team problem solving, problem solver, solve complex problems, problem-solver, solutions to problems, complex problem solving, strategic problem solving, problem solution skills, problem solution, recognizing problems, solve problems, resourceful problem solving, solving skills, investigating problems, solving engineering problems, resolves problems, resolving issues, solve any problem, resolving technical problems, efficient problem solving, resolve a problem",
+        "FormattedName": "problem solving",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Leadership",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leadership",
+        "Alias": "interdisciplinary team leadership, multi-national team leadership, lead the team member, leads group discussions, leads groups, group leadership, multi-cultural team leadership",
+        "FormattedName": "team leadership",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaborating",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Leading Teams",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leading",
+        "Alias": "leading group, lead a group, team-leading, lead a team, leading a team, leading small teams, leading teams, lead the team to innovation, ability to lead teams, leading large teams",
+        "FormattedName": "team leading",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Listening",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>active listening",
+        "Alias": "listening skills, listen actively, attentive listening, deliberate listening, listening attentively, listening carefully, actively listening, active listener, ability to listen, listen attentively, conscious listening, able to listen, listening skill, deep listening, listens attentively, listening",
+        "FormattedName": "active listening",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Proactive",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>proactive",
+        "Alias": "pro-active, proactivity, proactive behavior, ability to be proactive",
+        "FormattedName": "proactive",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Service Operations",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer service operations",
+        "Alias": "customer support operations, customer service coordination, customer service assistance, customer service operation, customer-service- operations, customer-service operations, customer care operations, customer information operations and services, customer information business operations",
+        "FormattedName": "customer service operations",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2009",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Satisfaction",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer satisfaction",
+        "Alias": "assessing guest satisfaction, customer-quality, guest satisfaction, manage customer satisfaction, customer quality mgmt, customer quality, customer quality management, customer-satisfaction, satisfied clients, client satisfaction management, client satisfaction, satis?ed customers",
+        "FormattedName": "customer satisfaction",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 114
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Assisting Customers",
+        "Ontology": "Information>Computer User Support Specialists>software technical support",
+        "Alias": "telephony support, aid customers, computer support, system support, website support services, support-system, support teams, technical assistance, it & technology support, customer assistance, telephone support, hardware-support, cell phone support, customer support services, customer support, assist a customer, assisting customers, website-support, 2nd line support, functional it support, on-going assistance, ongoing support, network support, phone support, telephony-support, answering technical query, support-teams, providing technical support, call support, web-site-support, consumer support, system-support, providing it support, customer service support, customers support, online support, software-tech-support, supportability software, end user customer support, ongoing assistance, software-tech support, support helpdesk, assists the client, technology-assistance, second line-support, ongoing software support, helpdesk support, development support, software tech support, 1st line helpdesk, computer-assistance, computer assistance, functional it-support, customers assistance, assisted consumer, information support, support handling, assisting in developing, client support, software support, software supportability, software support services, support customers, 2nd line technical support, systems support, technical support, technical support and diagnosis, technical support mgmt, technical support management, handling support, enduser customer support, customer-assistance, team support, provide technical support, provide technical floor support, customer-support, technology assistance, supports clients, development-support, end user support, user support, help technical team with code fixes, functional support, it hardware support, technical and procedural assistance, technical-assistance, helpdesk-support, support with customer, general support-system, support the development, computer-support, second line support, support system, hardware support services, hardware support it, hardware support, software-supportability, software-support, systems-support, general support system, ongoing support and maintenance, computer telephony support, supporting the development, facilitate customers, website support, support software",
+        "FormattedName": "software technical support",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Conducting Training",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Feedback",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer feedback",
+        "Alias": "customer-feedback, gather feedback, gathering feedback from customers",
+        "FormattedName": "customer feedback",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Improving Service",
+        "Ontology": "Information>Computer Network Architects>continual service improvement",
+        "Alias": "improvement of services, service improvement management, service improvement, continuous-service-improvement, improving service, service enhancement, service enhancements, continuous service improvement, continuous service-improvement",
+        "FormattedName": "continual service improvement",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Service Processes",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>service process",
+        "Alias": "service processes, service processing, service-process, service-processing, services processing",
+        "FormattedName": "service process",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Banking Services",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & finance, banking & financial services, finance related services, finance service, financing operations, banking-services, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, credit services, banking services, banking and financial services, banking and finance, banking and-finance, financial svcs, finance service provision, finance services, credit-services, financial industry, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2009",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Banking Software",
+        "Ontology": "Finance and Insurance>Investment Banking and Securities Dealing>banking software",
+        "Alias": "banking soft., banking applications, banking application, banking application software, banking systems, banking system",
+        "FormattedName": "banking software",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Service Quality",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>service quality",
+        "Alias": "quality service, services quality, service-quality",
+        "FormattedName": "service quality",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Online Banking",
+        "Ontology": "Finance and Insurance>Commercial Banking>online banking",
+        "Alias": "digital banking framework, digital banking analytics, digital banking operations, ebam, digital banking, e - banking, e-banking, electronic bank account management, mobile banking, internet banking system, internet banking, ebanking, electronic banking, electronic banking finance, internet finance, remote banking, finance internet, mobile financial services",
+        "FormattedName": "online banking",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Care",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer service",
+        "Alias": "client care, client servicing, web customer service, client-services, it customer service, customer-friendly, telephone-customer-service, telephone customer service, customer care-services, customer care skills, customer-care services, servicing corporate clients, assistance to customers, friendly approach to clients, client-friendly, customer dealing, client-servicing, customer-care- services, customer service processes, customer service skills, customer services, computer-customer-service, it-customer-service, customer care, customer advice, client friendly, clients servicing, general-customer-service, retail-customer service, client-care, client service, giving our customers the best service, customer servicing, customer friendly, retail customer service, general-computer-customer-service, client care-services, customer-service, help customers, customer solutions, consumer services, service client general, online customer service, client services, advise clients, client service skills, general customer service, customer care services, general computer customer service, on line support to customers, computer customer service",
+        "FormattedName": "customer service",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 90
+      }
+    ],
+    "Experience": "Barclays Bank Specialist Customer Care \r Manchester, UK \r 2019 - Present \r At Barclays, I manage a dedicated team of customer service representatives, ensuring the delivery of top-notch customer care. My role involves resolving complex customer issues, implementing new service protocols, and continuously enhancing our service quality. My efforts have led to a 20% increase in customer satisfaction rates. \r HSBC Customer Care Specialist \r Manchester, UK \r 2015 - 2019 \r While at HSBC, I provided high-level support to our most valuable clients, addressing their unique needs and ensuring their satisfaction. I trained and mentored new employees, equipping them with the skills required for excellent customer service. Additionally, I analyzed customer feedback to identify areas for improvement and implemented strategies to enhance our service. \r Lloyds Bank Senior Customer Service Representative \r Manchester, UK \r 2012 - 2015 \r In my role at Lloyds, I was responsible for handling escalated customer issues, collaborating with various departments to streamline service processes, and conducting training workshops for the customer service team. My initiatives contributed to significant improvements in customer satisfaction and service efficiency. \r NatWest Bank Customer Service Representative \r Manchester, UK \r 2009 - 2012 \r At NatWest, I provided frontline support, assisting customers with their banking needs and inquiries. I managed daily transactions, maintained accurate records, and supported customers with online banking services. My proactive approach helped in resolving customer issues promptly and effectively. \r Royal Bank of Scotland Customer Service Trainee \r Manchester, UK \r 2008 - 2009 \r During my traineeship at RBS, I gained foundational experience in customer service operations. I assisted senior staff, supported customers with basic banking needs, and learned the essentials of banking services. This experience laid the groundwork for my career in customer care.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Barclays Bank Specialist Customer Care",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "",
+          "FormattedName": "",
+          "Alias": "",
+          "RelatedSkills": [],
+          "ConfidenceScore": 0
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2019 - till",
+        "FormattedJobPeriod": "2019 to till",
+        "StartDate": "01/01/2019",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At Barclays, I manage a dedicated team of customer service representatives, ensuring the delivery of top-notch customer care. My role involves resolving complex customer issues, implementing new service protocols, and continuously enhancing our service quality. My efforts have led to a 20% increase in customer satisfaction rates.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "HSBC",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Customer Care Specialist",
+          "FormattedName": "customer care specialist",
+          "Alias": "customer care professional, customer service professional, customer-care-specialist, care specialist, hybrid customer specialist, client care specialist, client care expert, corporate customer care professional, specialist of customer care, customer professional, customer care expert, customer healthcare specialist, specialist customer care",
+          "RelatedSkills": [
+            {
+              "Skill": "complaints management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer data collection",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "outbound sales",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 8
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2015 - 2019",
+        "FormattedJobPeriod": "2015 to 2019",
+        "StartDate": "01/01/2015",
+        "EndDate": "31/12/2019",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "While at HSBC, I provided high-level support to our most valuable clients, addressing their unique needs and ensuring their satisfaction. I trained and mentored new employees, equipping them with the skills required for excellent customer service. Additionally, I analyzed customer feedback to identify areas for improvement and implemented strategies to enhance our service.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Lloyds Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Senior Customer Service Representative",
+          "FormattedName": "senior customer service representative",
+          "Alias": "sr. advice line rep, senior service center rep, sr. customer care representative, senior phone rep, senior rep. client, chat senior csr, senior c.s.r, sr inbound cs rep, customer support sr.executive, sr. customer representative, sr. customer services rep, sr. customer service representative, sr. csr, customer operations sr rep, senior client representative, senior customer service rep, senior customer representative, senior customer care agent, senior customer relation agent, senior customer support representative, senior customer service rep., senior customer solutions agent, senior customer services representative, senior career service representative, contact center senior agent, customer service representative sr, customer service senior rep, sr. service agent, senior consumer service rep, senior consumer service representative, sr. customer assistance agent, customer care sr. representative, snr customer service representative, senior representative, sen. customer service representative, sr.customer service representative, client services sr rep, sr. customer relations representative, senior branch customer service representative, sr - customer service representatives, sr. customer support rep, senior-customer-service-representative, customer care senior representative, customer care senior rep, sr customer service representative, sr. call center specialist, senior level customer service representative",
+          "RelatedSkills": [
+            {
+              "Skill": "customer service excellence",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer service analytics",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer service operations",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer analytics",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 8
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2012 - 2015",
+        "FormattedJobPeriod": "2012 to 2015",
+        "StartDate": "01/01/2012",
+        "EndDate": "31/12/2015",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "In my role at Lloyds, I was responsible for handling escalated customer issues, collaborating with various departments to streamline service processes, and conducting training workshops for the customer service team. My initiatives contributed to significant improvements in customer satisfaction and service efficiency.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "NatWest Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Customer Service Representative",
+          "FormattedName": "customer service representative",
+          "Alias": "service representative, costumer services rep., representative customer service, client rep, customer returns rep, consumer care rep, client servicing representative, business csr, service arrangements rep, customer assistance representative, clients contact rep, call center support representative, consumer affairs agent, cse representative, customer support rep, customer support handler, customer support phone agent, customer support representative, client interactive service rep, customer disputes rep, client service rep, client service representative, customer counter representative, customers service rep, service person, customer response representative, customer response rep, customer operations representative, customer operations support rep, legal process customer rep, client relations representative, consumer support rep, direct customer service representative, customer -service representative, customer services representative, customer service representatives, customer service employee, customer service resolution rep, customer services staff, customer service resoluton rep, customer service support staff, customer service rep., customer service desk rep, customer service administrative representative, customer service person, customer service problem resolution rep, customer services rep, customer service staff, customer servicer, customer service worker, customer service representative csr, customer service rep, customer service call rep, employee customer service, commercial customer support rep, customer excellence rep, administration and customer service staff, customer contact care rep, customer contact representative, service support representative, client support representative, customer servant, enterprise customer support rep, corporate service rep, customer srvc rep, customer relations representative, customer serv rep, customer satisfaction rep, customer satisfaction attendant, service and support rep, general care rep, call center professional, corporate consumer relations rep, customer svc rep, public service rep, customer servics rep, cust service rep, client service unit rep, customer fulfillment representive, customer serivce agent, contact support rep, contact support agent, customer-service-representative, customer facing agent, client services representative, client services rep, customer solutions rep, customer solutions representative, customer field representative, customer cares professional, supportive service rep, customer srvce rep, online customer service specialist, customer representative, mobile client rep, service user rep, customer navigation rep, customer care personnel, customer tier agent, csr attendant, customer experience representative, operations csr, business customer rep, customer survey rep, rep clients, client relation rep, contract services rep, relationship representative, relationship rep, claims care center rep, customer rep",
+          "RelatedSkills": [
+            {
+              "Skill": "customer relationship analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "investigate customer complaints",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer acquisition",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "call center scripting",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "customer due diligence",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer service analytics",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "keep records of customer interaction",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "empathy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "perform escalation procedure",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "customer service operations",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "adaptability",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer retention",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "priority customer service",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "customer enablement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer needs analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer service empowerment",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "outbound transaction",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "return merchandise authorization",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "business process outsourcing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "personalized customer service",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 8
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2009 - 2012",
+        "FormattedJobPeriod": "2009 to 2012",
+        "StartDate": "01/01/2009",
+        "EndDate": "31/12/2012",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "At NatWest, I provided frontline support, assisting customers with their banking needs and inquiries. I managed daily transactions, maintained accurate records, and supported customers with online banking services. My proactive approach helped in resolving customer issues promptly and effectively.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Royal Bank of Scotland",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Customer Service Trainee",
+          "FormattedName": "customer service intern",
+          "Alias": "costumer intern, service intern, customer service and support intern, customer service department intern, customer service trainee, customer-service-intern, client services intern, intern customer service, intern customer service center",
+          "RelatedSkills": [],
+          "ConfidenceScore": 8
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2008 - 2009",
+        "FormattedJobPeriod": "2008 to 2009",
+        "StartDate": "01/01/2008",
+        "EndDate": "31/12/2009",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "During my traineeship at RBS, I gained foundational experience in customer service operations. I assisted senior staff, supported customers with basic banking needs, and learned the essentials of banking services. This experience laid the groundwork for my career in customer care.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Barclays Bank Specialist Customer Care",
+    "JobProfile": "",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "199",
+      "TotalExperienceInYear": "16.7",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "39",
+    "LongestStay": "55",
+    "Summary": "Experienced customer care specialist with a strong background in the UK banking sector. Over 15 years of expertise in managing customer relationships, leading teams, and improving service quality. Committed to delivering exceptional customer experiences and driving customer satisfaction.",
+    "ExecutiveSummary": "Sarah has an experience in the domain of 'Administrative and Support and Waste Management and Remediation Services', particularly in the sub-domain of 'Customer Service Representatives. and has been currently working for Barclays Bank Specialist Customer Care for the last 5.7 years. ",
+    "ManagementSummary": "Sarah doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "Volunteering at local community centers",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 732ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Sarah Thompson\nContact Information : \nAddress : 12 Rosewood Court, Manchester, M4 4DD, England\nEmail : sarah.thompson@email.com\nPhone : +44 7123 654321\nLinkedIn : linkedin.com/in/sarahthompson\n\nProfessional Summary : Experienced customer care specialist with a strong background in the UK banking sector. Over 15 years of expertise in managing customer relationships, leading teams, and improving service quality. Committed to delivering exceptional customer experiences and driving customer satisfaction.\n\nEducation : University of Birmingham (Russell Group) \nBSc Mathematics, First Class Honours\nGraduated : 2008\n\nWork Experience : \nBarclays Bank Specialist Customer Care\nManchester, UK\n2019 - Present\nAt Barclays, I manage a dedicated team of customer service representatives, ensuring the delivery of top-notch customer care. My role involves resolving complex customer issues, implementing new service protocols, and continuously enhancing our service quality. My efforts have led to a 20% increase in customer satisfaction rates.\nHSBC Customer Care Specialist\nManchester, UK\n2015 - 2019\nWhile at HSBC, I provided high-level support to our most valuable clients, addressing their unique needs and ensuring their satisfaction. I trained and mentored new employees, equipping them with the skills required for excellent customer service. Additionally, I analyzed customer feedback to identify areas for improvement and implemented strategies to enhance our service.\nLloyds Bank Senior Customer Service Representative\nManchester, UK\n2012 - 2015\nIn my role at Lloyds, I was responsible for handling escalated customer issues, collaborating with various departments to streamline service processes, and conducting training workshops for the customer service team. My initiatives contributed to significant improvements in customer satisfaction and service efficiency.\nNatWest Bank Customer Service Representative\nManchester, UK\n2009 - 2012\nAt NatWest, I provided frontline support, assisting customers with their banking needs and inquiries. I managed daily transactions, maintained accurate records, and supported customers with online banking services. My proactive approach helped in resolving customer issues promptly and effectively.\nRoyal Bank of Scotland Customer Service Trainee\nManchester, UK\n2008 - 2009\nDuring my traineeship at RBS, I gained foundational experience in customer service operations. I assisted senior staff, supported customers with basic banking needs, and learned the essentials of banking services. This experience laid the groundwork for my career in customer care.\n\nSkills : \nAdvanced Customer Service and Support\nEffective Communication and Listening\nProblem Solving and Conflict Resolution\nTeam Leadership and Development\nProficiency in Banking Software and Systems\n\nQualifications : \nCertified Customer Service Specialist (CCSS) \nAdvanced Certificate in Customer Relationship Management\nMember of the Chartered Institute for Securities & Investment (CISI) \nFirst Aid Certification\n\nHobbies and Interests : \nVolunteering at local community centers\nPlaying football with a local league\nReading financial and economic literature\nTraveling and exploring new cultures\nParticipating in mathematics and logic puzzles competitions\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Sarah Thompson</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Address: 12 Rosewood Court, Manchester, M4 4DD, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Email: sarah.thompson@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Phone: +44 7123 654321</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">LinkedIn: linkedin.com/in/sarahthompson</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> Experienced customer care specialist with a strong background in the UK banking sector. Over 15 years of expertise in managing customer relationships, leading teams, and improving service quality. Committed to delivering exceptional customer experiences and driving customer satisfaction.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Birmingham (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">BSc Mathematics, First Class Honours</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2008</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Work Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Barclays Bank</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Specialist Customer Care</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2019 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">At Barclays, I manage a dedicated team of customer service representatives, ensuring the delivery of top-notch customer care. My role involves resolving complex customer issues, implementing new service protocols, and continuously enhancing our service quality. My efforts have led to a 20% increase in customer satisfaction rates.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Customer Care Specialist</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2015 - 2019</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">While at HSBC, I provided high-level support to our most valuable clients, addressing their unique needs and ensuring their satisfaction. I trained and mentored new employees, equipping them with the skills required for excellent customer service. Additionally, I analyzed customer feedback to identify areas for improvement and implemented strategies to enhance our service.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lloyds Bank</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Senior Customer Service Representative</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2012 - 2015</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">In my role at Lloyds, I was responsible for handling escalated customer issues, collaborating with various departments to streamline service processes, and conducting training workshops for the customer service team. My initiatives contributed to significant improvements in customer satisfaction and service efficiency.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">NatWest Bank</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Customer Service Representative</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2009 - 2012</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">At NatWest, I provided frontline support, assisting customers with their banking needs and inquiries. I managed daily transactions, maintained accurate records, and supported customers with online banking services. My proactive approach helped in resolving customer issues promptly and effectively.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Royal Bank of Scotland</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Customer Service Trainee</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2008 - 2009</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">During my traineeship at RBS, I gained foundational experience in customer service operations. I assisted senior staff, supported customers with basic banking needs, and learned the essentials of banking services. This experience laid the groundwork for my career in customer care.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Advanced Customer Service and Support</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Effective Communication and Listening</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Problem Solving and Conflict Resolution</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Team Leadership and Development</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Proficiency in Banking Software and Systems</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Qualifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Customer Service Specialist (CCSS) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Advanced Certificate in Customer Relationship Management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Member of the Chartered Institute for Securities & Investment (CISI) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">First Aid Certification</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Hobbies and Interests:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Volunteering at local community centers</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Playing football with a local league</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Reading financial and economic literature</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Traveling and exploring new cultures</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Participating in mathematics and logic puzzles competitions</span></li></ul><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

@@ -1,0 +1,690 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Lara D.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:15:47",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Lara D'Souza",
+      "TitleName": "",
+      "FirstName": "Lara",
+      "MiddleName": "",
+      "LastName": "D'Souza",
+      "FormattedName": "Lara Dsouza",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "lara.dsouza@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+441234654321",
+        "ISDCode": "+44",
+        "OriginalNumber": "1234 654321",
+        "FormattedNumber": "+44 1234 654321",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/laradsouza"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 7
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Business Operations Specialists",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Bachelor of Science in Finance \r University of Birmingham \r Graduated : 2020",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Birmingham",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "Bachelor of Science in Finance",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Finance"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2020",
+        "StartDate": "",
+        "EndDate": "31/12/2020",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Google Data Analytics Professional Certificate",
+    "SegregatedCertification": [],
+    "SkillBlock": "Data analysis (Excel, SQL) \r Requirements gathering \r Process improvement \r Effective communication \r Strong analytical skills",
+    "SkillKeywords": "Dedicated,Assisted,Strong Analytical and Communication Skills,Effective Communication,Clear Communication,Strategic Planning,Analytical Skills,Business Analysis,Proactive,Analysis Of Business Requirements,Stakeholder Communication,Implementing Solutions,Operational Efficiency,Requirements Gathering,Prepare Presentations,Business Objectives,Process Improvement,Financial Services,Generating Reports,Senior Management,Generate Reports,Data Analytics,Data Analysis,Analyze Data,Google,Excel,SQL",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Dedicated",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2021",
+        "ExperienceInMonths": 14
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strong Analytical and Communication Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2021",
+        "ExperienceInMonths": 14
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Effective Communication",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>effective communication",
+        "Alias": "able to convey information, able to convey information clearly, clear & concise communication, excellent communicator, communicated effectively, clear and concise communication, develop strong communication, effective-communication, developing effective communication, great communicators, effective communication is paramount, effective communicator, effective communication skills, communicating with supervisors, communicated regularly, able to communicate effectively, develop effective communication skills",
+        "FormattedName": "effective communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Clear Communication",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>clear communication",
+        "Alias": "clear verbal communication, clear verbal language, clear-communication",
+        "FormattedName": "clear communication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 35
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strategic Planning",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>strategic planning",
+        "Alias": "strategic prognosis planning, strategical planning, strategic plan-development, strategy planning, planning strategy, planning strategically, develop-strategic- plans, develop-strategic plans, strategic plans, development of the strategic plan, strategic development plan, strategic-roadmap, strategic-planning, strategic business plan development, strategic business planning, strategic roadmap, strategic roadmaps, develop strategic plans, develop strategic roadmaps, strategic road map, strategic planning process, strategic planning-management, strategic planning and implementation, strategic planning management, strategic planning for growth, strategic planning mgmt, strategic planning development, strategy and planning, developing a strategic plan, development of a strategic plan",
+        "FormattedName": "strategic planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 35
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Analytical Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>analytical skill",
+        "Alias": "logical and analytical skills, analyzing skills, analytical background, analytical abilities, analytical ability, analytic skills, analytical skills, analytical awareness, analytical-and interpretive skills, strong analytical planning, analysing skills, analytical and troubleshooting skill, organizational analytical skills, analytics skills, analytical and interpretive skill, analytical and interpretive skills, analytical and inherent skills, analytical and problem solving skills, analytical and problem-solving, highly analytical",
+        "FormattedName": "analytical skill",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Business Analysis",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business analysis",
+        "Alias": "business analyze, business area analysis, business analysis operations, business analysis consulting, business analysis implementation, business analysis managing, business analysis research, business analysis management, business analysis process, enterprise analysis, business analyses, business solutions, managing business analysis, manage business analytics, business-analysis, analysis of businesses, analysis of business, business-analyze",
+        "FormattedName": "business analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2021",
+        "ExperienceInMonths": 14
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Proactive",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>proactive",
+        "Alias": "pro-active, proactivity, proactive behavior, ability to be proactive",
+        "FormattedName": "proactive",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Analysis Of Business Requirements",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business requirement analysis",
+        "Alias": "corporate requirement research, corporate requirement analysis, corporate requirement study, corporate requirement investigation, corporate requirement evaluation, reviewing business requirement, organisational needs analysis, business requirements analysis, business requirement audit, business requirement review, business requirement examination, business requirement scanning, business requirement survey, business requirements analyse, business requirement evaluation, business requirement investigation, business requirement study, business requirement research, business needs analysis, analytics business requirements, organizational needs analysis, organisational-needs-analysis, organisational-needs analysis, develop business requirements, business need analysis, business-requirement-analysis, analyse business requirements, analysing business requirements, analysis of business requirements, analysis of business and technical requirements, analysing client requirements",
+        "FormattedName": "business requirement analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2021",
+        "ExperienceInMonths": 14
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Stakeholder Communication",
+        "Ontology": "Arts, Entertainment, and Recreation>Public Relations Specialists>stakeholder communication",
+        "Alias": "stakeholder communications, stakeholder communication skills",
+        "FormattedName": "stakeholder communication",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Implementing Solutions",
+        "Ontology": "Information>Software Developers and Programmers>solution implementation",
+        "Alias": "implementing solutions, solutions implementation, implement a solution, solution-implementation, implementation solutions, implement solutions",
+        "FormattedName": "solution implementation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 35
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Operational Efficiency",
+        "Ontology": "Other Services (except Public Administration) >Business Associations>operational efficiency",
+        "Alias": "operation efficiencies, operation efficiency, operational-efficiency, operating efficiencies, improve operational efficiency, drive operational e?ciencies, drive operational efficiencies, operating ef?ciencies, operation ef?ciencies, increasing operational efficiency, maintain and improve operational efficiency",
+        "FormattedName": "operational efficiency",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Requirements Gathering",
+        "Ontology": "Information>Software Developers and Programmers>requirements elicitation",
+        "Alias": "gathering project requirement, capture requirements, business requirements solicitation, business requirements discovery, requirements gathering design, requirements gathering, requirement gathering design, requirement gathering architecture, requirement gathering, requirement gathering automation, gathering business requirements, gathering business, gather requirements, requirements discovery, requirements discovery process, user requirements gathering, user requirements capture, gathering user requirements, user-requirements capture, user-requirements-capture, gather business requirements, gathering requirements, requirements capture, elicit requirements, eliciting and specifying project requirements, technical requirements gathering, it requirements gathering, collect requirements",
+        "FormattedName": "requirements elicitation",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Prepare Presentations",
+        "Ontology": "Finance and Insurance>Management Analysts>presentation management",
+        "Alias": "preparing a presentation, develop presentations, presentation-preparation, make presentations, creating presentation, service presentation, create presentations, creates presentations, presentation creation, making presentations, preparing for a presentation, management presentations, coordinated presentations, preparation of presentation, presentation systems, creates and conducts presentations, presentation preparation, presentation preparations, creating and updating presentations, prepare presentations, presentation services",
+        "FormattedName": "presentation management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 35
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Objectives",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business goals",
+        "Alias": "business goals and objectives, profitability objectives, business-goals, organizational objectives, business objectives, business objective, business profitability objectives",
+        "FormattedName": "business goals",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Process Improvement",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>process improvement",
+        "Alias": "improve processes, manage process improvement, improvement of work processes, develop process improvements, develop process improvement, system improvement, system improvement process, system improvements, work process improvement, process operations improvement, system-improvement, improvement of the process, systems improvement, identifying process improvements, improvement analysis, process-improvement, operations process improvement, refining business units, refining business processes, process refinement, operational process improvement, business process refinement, business process improvement, process improvement methodology, process improvement initiation, process improvement implementation, process improvement framework, process improvement workflows, process improvement operations, process improvements, process improvement initiative, process enhancement",
+        "FormattedName": "process improvement",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 49
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Services",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & finance, banking & financial services, finance related services, finance service, financing operations, banking-services, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, credit services, banking services, banking and financial services, banking and finance, banking and-finance, financial svcs, finance service provision, finance services, credit-services, financial industry, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Generating Reports",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Clerks, General>report generation",
+        "Alias": "generate report, development of reports, reports development, reports preparation, preparation of reports, report creation, develop custom reports, report development, preparing the reports, preparing the report, develop nightly reports, creating reports, preparing reports, develop a report, develop reports, produce reports, prepare reports, creation of new reports, developing reports, generating training reports, generating reports, generate reports, prepare report, creating new reports, report preparation, generated reports, report-generation",
+        "FormattedName": "report generation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2021",
+        "ExperienceInMonths": 14
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Senior Management",
+        "Ontology": "Finance and Insurance>Management Analysts>senior management",
+        "Alias": "top-management, front line mgmt, top level management, senior and executive level management, front line management, senior mgmt, senior it management, frontline-management, executive level management, executive management, senior management functions, senior management function, upper management, frontline mgmt, top management system, top mgmt, sr management, exec mgmt, it executive management, top management, senior-management, frontline management",
+        "FormattedName": "senior management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2021",
+        "ExperienceInMonths": 14
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Generate Reports",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Clerks, General>report generation",
+        "Alias": "generate report, development of reports, reports development, reports preparation, preparation of reports, report creation, develop custom reports, report development, preparing the reports, preparing the report, develop nightly reports, creating reports, preparing reports, develop a report, develop reports, produce reports, prepare reports, creation of new reports, developing reports, generating training reports, generating reports, generate reports, prepare report, creating new reports, report preparation, generated reports, report-generation",
+        "FormattedName": "report generation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 35
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analytics",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 49
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Analyze Data",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 35
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Google",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Excel",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Administrative Services>microsoft excel",
+        "Alias": "excel 4, windows excel, platform excel, excel 2000, advanced ms excel, microsoft technology ms excel, excel 2002, microsoft excel 2016, microsoft excel 2004 for mac, microsoft excel 2010, microsoft excel 2007, microsoft excel 2013, microsoft excel spreadsheet software, microsoft excel 2001 for mac, microsoft excel xp, microsoft excel 97 for windows, microsoft excel 2003, microsoft excel 2019, microsoft excel v2.0, microsoft excel 2000, microsoft excel soft., microsoft excel v5.0, microsoft excel software, microsoft excel 2002, ms excel 2004 for mac, ms excel 2003, microsoft software excel, pc software microsoft excel, ms excel 97 for windows, software excel, microsoft .excel, excel 95, excel 2004 for mac, advanced microsoft excel, advanced excel, ms excel 2000, microsoft products ms excel, excel platform, ms excel 2001 for mac, excel xp, ms-excel, excel 3, microsoft office excel, excel, excel 2010, ms excel 2010, ms excel, ms excel 2002, microsoft suite excel, excel skills, excel 2, excel 5, excel 2001 for mac, ms. excel, excel 97, excel software, excel 97 for windows, excel 2003, internet microsoft excel, excel 2016",
+        "FormattedName": "microsoft excel",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 35
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "SQL",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>sql",
+        "Alias": "sql 2008, structured query language, sql 2003, oracle sql2005, sql-2003, advanced sql, programming language sql, oracle sql programming, sql 2005, sql/400, sql programming, sql coding, database definition language, database sql, ibm sql/400, sql language, oracle sql, databases sql, sql development, sqldb, coding sql, sql databases, sql computer language, sql 2000, ibm sql400, sql database, data definition language, sql400, data dictionary language, programming sql, sql oracle, oql, sql database query language, advanced sql programming, sql programming language, ansi sql, sql queries, data description lang, data description language, object query language, sql2005, microsoft sql programming, structured-query-language",
+        "FormattedName": "sql",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 35
+      }
+    ],
+    "Experience": "Royal Bank of Scotland \r Business Analyst \r August 2021 - Present \r Manchester, UK \r At RBS, I have been responsible for supporting various business units by gathering and documenting requirements, conducting data analysis, and providing insights that inform business decisions. My role involves using Excel and SQL to analyze data and generate reports that are used to guide strategic planning. I have been involved in process improvement initiatives, identifying inefficiencies and implementing solutions that increase efficiency. I also prepare presentations and reports for stakeholders to ensure clear communication of findings and recommendations. \r Barclays \r Business Analyst Intern \r June 2020 - July 2021 \r Manchester, UK \r During my internship at Barclays, I assisted in the collection and analysis of business requirements for various projects. My responsibilities included conducting data analysis, supporting process improvement initiatives, and generating reports for senior management. I worked closely with project teams to ensure that objectives were met and that stakeholders were kept informed of progress. This role helped me develop strong analytical and communication skills and provided me with a solid foundation in business analysis.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Royal Bank of Scotland",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Business Analyst",
+          "FormattedName": "business analyst",
+          "Alias": "business  -analyst, business connectivity analyst, analyst of business, business -analyst, industrial business analyst, analyst - business, analyst - business analytics, analyst, business analysis, business services analyst, analyst  business analytics , business analyst - services, business analyst ba, business analysts, business analyst - ba, business analyst ba , analyst business, analyst business analysis, business efficiency analyst, business analytics analyst, business analytics-analyst, business-analyst",
+          "RelatedSkills": [
+            {
+              "Skill": "business analysis communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis reporting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "presentation skills coaching",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "verbal communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "function point analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis framework",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "objectstudio",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "active listening",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "advise on communication strategies",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "advise on personnel management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "commercial awareness",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "pv wave",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "quality customer service",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "use case diagram",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "use case",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "decision making",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business ecosystem",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "integration definition for information modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "recursive partitioning",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "ansoff matrix",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "subscription business model",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "strategy dynamics",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "phase implementation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "predictive modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "business analytics",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "August 2021 - till",
+        "FormattedJobPeriod": "08/2021 to till",
+        "StartDate": "01/08/2021",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At RBS, I have been responsible for supporting various business units by gathering and documenting requirements, conducting data analysis, and providing insights that inform business decisions. My role involves using Excel and SQL to analyze data and generate reports that are used to guide strategic planning. I have been involved in process improvement initiatives, identifying inefficiencies and implementing solutions that increase efficiency. I also prepare presentations and reports for stakeholders to ensure clear communication of findings and recommendations.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Barclays",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Business Analyst Intern",
+          "FormattedName": "business analyst intern",
+          "Alias": "business analysis intern, business intern, business it intern, intern - business applications, business center intern, business analytics intern, business analytic intern, project business analyst intern",
+          "RelatedSkills": [
+            {
+              "Skill": "business plan analysis",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "report writing",
+              "ProficiencyLevel": "Moderate"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "June 2020 - July 2021",
+        "FormattedJobPeriod": "06/2020 to 07/2021",
+        "StartDate": "01/06/2020",
+        "EndDate": "31/07/2021",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "During my internship at Barclays, I assisted in the collection and analysis of business requirements for various projects. My responsibilities included conducting data analysis, supporting process improvement initiatives, and generating reports for senior management. I worked closely with project teams to ensure that objectives were met and that stakeholders were kept informed of progress. This role helped me develop strong analytical and communication skills and provided me with a solid foundation in business analysis.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Royal Bank of Scotland",
+    "JobProfile": "Business Analyst",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "50",
+      "TotalExperienceInYear": "4.2",
+      "TotalExperienceRange": "3-5 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "25",
+    "LongestStay": "36",
+    "Summary": "Proactive Business Analyst with 3 years of experience in financial services. Skilled in data analysis, process improvement, and stakeholder communication. Dedicated to using analytical skills to support business objectives and enhance operational efficiency.",
+    "ExecutiveSummary": "Lara has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Business Operations Specialists. 'The candidate has a total experience of 3 YearsThe candidate has been working as a Business Analyst at Royal Bank of Scotland for the last 3.0 years. ",
+    "ManagementSummary": "Lara doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "References available upon request",
+    "CustomFields": "Parsing Time : 502ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Lara D'Souza\nManchester, UK\nlara.dsouza@email.com\n+44 1234 654321\nLinkedIn : linkedin.com/in/laradsouza\n\nProfessional Summary : \nProactive Business Analyst with 3 years of experience in financial services. Skilled in data analysis, process improvement, and stakeholder communication. Dedicated to using analytical skills to support business objectives and enhance operational efficiency.\n\nProfessional Experience : \nRoyal Bank of Scotland\nBusiness Analyst\nAugust 2021 - Present\nManchester, UK\nAt RBS, I have been responsible for supporting various business units by gathering and documenting requirements, conducting data analysis, and providing insights that inform business decisions. My role involves using Excel and SQL to analyze data and generate reports that are used to guide strategic planning. I have been involved in process improvement initiatives, identifying inefficiencies and implementing solutions that increase efficiency. I also prepare presentations and reports for stakeholders to ensure clear communication of findings and recommendations.\nBarclays\nBusiness Analyst Intern\nJune 2020 - July 2021\nManchester, UK\nDuring my internship at Barclays, I assisted in the collection and analysis of business requirements for various projects. My responsibilities included conducting data analysis, supporting process improvement initiatives, and generating reports for senior management. I worked closely with project teams to ensure that objectives were met and that stakeholders were kept informed of progress. This role helped me develop strong analytical and communication skills and provided me with a solid foundation in business analysis.\nEducation : \nBachelor of Science in Finance\nUniversity of Birmingham\nGraduated : 2020\n\nSkills : \nData analysis (Excel, SQL) \nRequirements gathering\nProcess improvement\nEffective communication\nStrong analytical skills\n\nCertifications : \nGoogle Data Analytics Professional Certificate\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lara D'Souza</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">lara.dsouza@email.com</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">+44 1234 654321</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">LinkedIn: linkedin.com/in/laradsouza</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Proactive Business Analyst with 3 years of experience in financial services. Skilled in data analysis, process improvement, and stakeholder communication. Dedicated to using analytical skills to support business objectives and enhance operational efficiency.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Royal Bank of Scotland</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Business Analyst</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">August 2021 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At RBS, I have been responsible for supporting various business units by gathering and documenting requirements, conducting data analysis, and providing insights that inform business decisions. My role involves using Excel and SQL to analyze data and generate reports that are used to guide strategic planning. I have been involved in process improvement initiatives, identifying inefficiencies and implementing solutions that increase efficiency. I also prepare presentations and reports for stakeholders to ensure clear communication of findings and recommendations.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Barclays</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Business Analyst Intern</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">June 2020 - July 2021</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">During my internship at Barclays, I assisted in the collection and analysis of business requirements for various projects. My responsibilities included conducting data analysis, supporting process improvement initiatives, and generating reports for senior management. I worked closely with project teams to ensure that objectives were met and that stakeholders were kept informed of progress. This role helped me develop strong analytical and communication skills and provided me with a solid foundation in business analysis.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Bachelor of Science in Finance</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">University of Birmingham</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2020</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data analysis (Excel, SQL) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Requirements gathering</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Process improvement</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Effective communication</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strong analytical skills</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Google Data Analytics Professional Certificate</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">References available upon request</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

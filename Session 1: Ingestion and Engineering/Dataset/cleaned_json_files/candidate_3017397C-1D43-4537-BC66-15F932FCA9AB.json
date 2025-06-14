@@ -1,0 +1,614 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Alex Walker.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:05:03",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Alex Walker",
+      "TitleName": "",
+      "FirstName": "Alex",
+      "MiddleName": "",
+      "LastName": "Walker",
+      "FormattedName": "Alex Walker",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "alex.walker@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+441234987654",
+        "ISDCode": "+44",
+        "OriginalNumber": "1234 987654",
+        "FormattedNumber": "+44 1234 987654",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/alexwalker"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 7
+      }
+    ],
+    "Category": "Information",
+    "SubCategory": "Computer User Support Specialists",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Bachelor of Science in Information Technology \r University of Salford \r Graduated : 2015",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Salford",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "Bachelor of Science in Information Technology",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Information Technology"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2015",
+        "StartDate": "",
+        "EndDate": "31/12/2015",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "CompTIA A+ \r ITIL Foundation Certificate in IT Service Management",
+    "SegregatedCertification": [],
+    "SkillBlock": "Data analysis (Excel, SQL) \r IT support and troubleshooting \r Project management \r Strong analytical and problem-solving skills \r Effective communication \r Technical documentation",
+    "SkillKeywords": "Improvement,Effective Communication,Troubleshooting,Collaborating,Providing Technical Support,Provide Technical Support,Stakeholder Communication,Compliance Requirements,Technical Documentation,Business Optimization,IT Project Management,IT Service Management,Gather Requirements,IT Service Delivery,Technical Expertise,Project Management,Preparing Reports,Performance Data,Business Needs,Data Analysis,IT Operations,IT Systems,Excel,ITIL,SQL",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Improvement",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Effective Communication",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>effective communication",
+        "Alias": "able to convey information, able to convey information clearly, clear & concise communication, excellent communicator, communicated effectively, clear and concise communication, develop strong communication, effective-communication, developing effective communication, great communicators, effective communication is paramount, effective communicator, effective communication skills, communicating with supervisors, communicated regularly, able to communicate effectively, develop effective communication skills",
+        "FormattedName": "effective communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Troubleshooting",
+        "Ontology": "Information>Computer User Support Specialists>troubleshooting",
+        "Alias": "problem troubleshooting, trouble shooting, trouble-shoot, repair basic issues, ability to troubleshoot, trouble-shooting, troubleshoot, troubleshooting process, troubleshooting abilities, troubleshooting analysis, troubleshooter, repairing basic issues, trouble shooter, troubleshoot issues",
+        "FormattedName": "troubleshooting",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 109
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaborating",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Providing Technical Support",
+        "Ontology": "Information>Computer User Support Specialists>software technical support",
+        "Alias": "telephony support, aid customers, computer support, system support, website support services, support-system, support teams, technical assistance, it & technology support, customer assistance, telephone support, hardware-support, cell phone support, customer support services, customer support, assist a customer, assisting customers, website-support, 2nd line support, functional it support, on-going assistance, ongoing support, network support, phone support, telephony-support, answering technical query, support-teams, providing technical support, call support, web-site-support, consumer support, system-support, providing it support, customer service support, customers support, online support, software-tech-support, supportability software, end user customer support, ongoing assistance, software-tech support, support helpdesk, assists the client, technology-assistance, second line-support, ongoing software support, helpdesk support, development support, software tech support, 1st line helpdesk, computer-assistance, computer assistance, functional it-support, customers assistance, assisted consumer, information support, support handling, assisting in developing, client support, software support, software supportability, software support services, support customers, 2nd line technical support, systems support, technical support, technical support and diagnosis, technical support mgmt, technical support management, handling support, enduser customer support, customer-assistance, team support, provide technical support, provide technical floor support, customer-support, technology assistance, supports clients, development-support, end user support, user support, help technical team with code fixes, functional support, it hardware support, technical and procedural assistance, technical-assistance, helpdesk-support, support with customer, general support-system, support the development, computer-support, second line support, support system, hardware support services, hardware support it, hardware support, software-supportability, software-support, systems-support, general support system, ongoing support and maintenance, computer telephony support, supporting the development, facilitate customers, website support, support software",
+        "FormattedName": "software technical support",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Provide Technical Support",
+        "Ontology": "Information>Computer User Support Specialists>software technical support",
+        "Alias": "telephony support, aid customers, computer support, system support, website support services, support-system, support teams, technical assistance, it & technology support, customer assistance, telephone support, hardware-support, cell phone support, customer support services, customer support, assist a customer, assisting customers, website-support, 2nd line support, functional it support, on-going assistance, ongoing support, network support, phone support, telephony-support, answering technical query, support-teams, providing technical support, call support, web-site-support, consumer support, system-support, providing it support, customer service support, customers support, online support, software-tech-support, supportability software, end user customer support, ongoing assistance, software-tech support, support helpdesk, assists the client, technology-assistance, second line-support, ongoing software support, helpdesk support, development support, software tech support, 1st line helpdesk, computer-assistance, computer assistance, functional it-support, customers assistance, assisted consumer, information support, support handling, assisting in developing, client support, software support, software supportability, software support services, support customers, 2nd line technical support, systems support, technical support, technical support and diagnosis, technical support mgmt, technical support management, handling support, enduser customer support, customer-assistance, team support, provide technical support, provide technical floor support, customer-support, technology assistance, supports clients, development-support, end user support, user support, help technical team with code fixes, functional support, it hardware support, technical and procedural assistance, technical-assistance, helpdesk-support, support with customer, general support-system, support the development, computer-support, second line support, support system, hardware support services, hardware support it, hardware support, software-supportability, software-support, systems-support, general support system, ongoing support and maintenance, computer telephony support, supporting the development, facilitate customers, website support, support software",
+        "FormattedName": "software technical support",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Stakeholder Communication",
+        "Ontology": "Arts, Entertainment, and Recreation>Public Relations Specialists>stakeholder communication",
+        "Alias": "stakeholder communications, stakeholder communication skills",
+        "FormattedName": "stakeholder communication",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Compliance Requirements",
+        "Ontology": "Finance and Insurance>Compliance Officers>compliance requirements",
+        "Alias": "compliance requirement, compliance with the requirements",
+        "FormattedName": "compliance requirements",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/08/2017",
+        "ExperienceInMonths": 27
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Technical Documentation",
+        "Ontology": "Arts, Entertainment, and Recreation>Technical Writers>technical documentation",
+        "Alias": "tech. documentation, engineering design documentation, technical solution design documentation, technical document management, technical documentation management, technical documents, technical document preparation, technical documentation design, technical document, tech doc preparation, design technical documentation, design technical document, technological documentation, document the product life cycle, preparation of technical documents, development of technical documentation, technical design document, technical services documentation, creating technical and office documentation, develop technical designs, develop technical datasheet, develop technical documents, technical-documentation, information technology documentation, provide technical documentation, engineering-design documentation, engineering documentation, documenting solution design, technical publication, technical publications, it documentation, prepare technical documentation",
+        "FormattedName": "technical documentation",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Optimization",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business process optimization",
+        "Alias": "optimization strategies, optimize business processes, business optimization, optimizing business process, business-process-optimization, business process-optimization, optimization of business process",
+        "FormattedName": "business process optimization",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "IT Project Management",
+        "Ontology": "Information>Computer User Support Specialists>it project management",
+        "Alias": "it-project-management, development of technical projects, project mgmt technical, information-technology-project-management, it project implementation, technical project delivery, technical project management, technology project management, it project mgmt., project management technology, project management technical, project management-technology, project management it, information technology project management, it project-implementation, ict project management methodologies, ict project management-methodologies, it project program management",
+        "FormattedName": "it project management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/08/2017",
+        "ExperienceInMonths": 27
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "IT Service Management",
+        "Ontology": "Information>Computer Network Architects>it service management",
+        "Alias": "management it services, it service mgmt, it solutions management, itsm management, itil service management, software services management, it service mgmt., i?t service management, it - service - management, it-service-management-principles, it-service-management, itsm operations management, information technology professional services, information technology service management, management information technology service, information services management, information services mgmt, information services governance, it services management, itsm operations, itsm, management of it services, management of it-services, itsm business operations, itsm it service management, it service management operations, it service management framework, it service management principles, information systems service mgmt, information systems service management",
+        "FormattedName": "it service management",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Gather Requirements",
+        "Ontology": "Information>Software Developers and Programmers>requirements elicitation",
+        "Alias": "gathering project requirement, capture requirements, business requirements solicitation, business requirements discovery, requirements gathering design, requirements gathering, requirement gathering design, requirement gathering architecture, requirement gathering, requirement gathering automation, gathering business requirements, gathering business, gather requirements, requirements discovery, requirements discovery process, user requirements gathering, user requirements capture, gathering user requirements, user-requirements capture, user-requirements-capture, gather business requirements, gathering requirements, requirements capture, elicit requirements, eliciting and specifying project requirements, technical requirements gathering, it requirements gathering, collect requirements",
+        "FormattedName": "requirements elicitation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "IT Service Delivery",
+        "Ontology": "Information>Computer Network Architects>it service delivery",
+        "Alias": "it-service-delivery, technology delivery, it service delivery operations, manage it service delivery, technical delivery, customer service delivery, technical service delivery, it service-delivery, service delivery it operations, service delivery it service",
+        "FormattedName": "it service delivery",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Technical Expertise",
+        "Ontology": "Information>Software Developers and Programmers>technical competency",
+        "Alias": "tech. capability, technical aptitude, technical capabilities, technical capability, technical ability, technical abilities, technology skills, technical proficiency, hands on technical, tech-savvy, tech skills, web and tech savvy, technical skills, technical-aptitude, technical savvy, technology-literacy, technical understanding, technical competences, technical competencies, technical competence, technological proficiency, technical expertise, technology capability, technology capabilities, it skills, computer-savvy, i.t. skills, technology acumen, technology literacy, competent technical skills, technology savvy, technical-knowledge, information technology skills, technical literacy, tech proficiency, technical business knowledge, technologically savvy, technically oriented, technical acumen, functional competency, computer savvy, technical knowledge, technological literacy, technological capability, technically savvy, technology knowledge, technical and business knowledge, technology proficiency, technically minded",
+        "FormattedName": "technical competency",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Management",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project management",
+        "Alias": "project managed development, managing multiple projects, project mgmt., project-management, manage complex projects, project mgmt, manage a project, project-coordination, manage multiple project tasks, manage multiple projects, managing large scale projects, project co - ordination, project co-ordination, managing complex projects, project manage, managed smaller projects, management of project, operations project management, projects coordination, proj management, managed special projects, overseeing projects, manage the incoming project, project-handling, project management and coordination, project management processes, project management process, managing of projects, projects managing, project handling, coordination of international projects, coordination of projects, project description management, managed projects, project processing, manage a multiphase project, project-manage, manage small projects, managed phases, managed project, managed project operations, proj mgmt, handling of project, new project management, manage projects, managed long term projects, organizational project management, projects management, manage the project, project methods, projects handled, project coordination, project coordination and implementation, project coordinating, managing projects, managing project, manage the complex projects, project work management, management projects, managing the project planning, multiple projects management, project creation, handle multiple projects, manage several projects, project managing, coordinating projects",
+        "FormattedName": "project management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Preparing Reports",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Clerks, General>report generation",
+        "Alias": "generate report, development of reports, reports development, reports preparation, preparation of reports, report creation, develop custom reports, report development, preparing the reports, preparing the report, develop nightly reports, creating reports, preparing reports, develop a report, develop reports, produce reports, prepare reports, creation of new reports, developing reports, generating training reports, generating reports, generate reports, prepare report, creating new reports, report preparation, generated reports, report-generation",
+        "FormattedName": "report generation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/08/2017",
+        "ExperienceInMonths": 27
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Performance Data",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Data Entry and Information Processing Workers>performance data",
+        "Alias": "business performance data, performance-data",
+        "FormattedName": "performance data",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Needs",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business requirement",
+        "Alias": "stakeholder requirements specifications, documenting business requirements, key business requirements, business requirements, business requirements documentation, business requirements design, business requirements management, business requirements document review, business requirements document, business requirements specifications, business requirements loading, business requirements engineering, business requirements templates, business requirement implementation, business requirements development, business needs, business need, develop the business requirements, business-requirement, address business requirements, translate business requirements",
+        "FormattedName": "business requirement",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/08/2017",
+        "ExperienceInMonths": 27
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "31/08/2017",
+        "ExperienceInMonths": 27
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "IT Operations",
+        "Ontology": "Management of Companies and Enterprises>Computer and Information Systems Managers>it operations management",
+        "Alias": "it system operations, technology operations, manage it operations, it operations, it systems operations, operations it, it-operations, it operations mgmt., it operation, it-operations-management, information technology operations, information technology operations management, enterprise it operations mgmt, enterprise it operations management, technical support operations management, technical support operations, technical operations, it ops",
+        "FormattedName": "it operations management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 109
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "IT Systems",
+        "Ontology": "Information>Computer Network Architects>information system",
+        "Alias": "computer information system, computer information systems, systems technology, computer-information systems, computer-information-systems, computer-information- systems, it system, technical systems, computer systems technology, business computer systems, web-based systems, information technology system, computerized information systems, web system, information service, information services, it systems, web information system, web-based information systems, web-based information system, technological system, business it systems, information-system, business ict systems, web systems, computer technology systems, information systems, information system development",
+        "FormattedName": "information system",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/08/2017",
+        "ExperienceInMonths": 27
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Excel",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Administrative Services>microsoft excel",
+        "Alias": "excel 4, windows excel, platform excel, excel 2000, advanced ms excel, microsoft technology ms excel, excel 2002, microsoft excel 2016, microsoft excel 2004 for mac, microsoft excel 2010, microsoft excel 2007, microsoft excel 2013, microsoft excel spreadsheet software, microsoft excel 2001 for mac, microsoft excel xp, microsoft excel 97 for windows, microsoft excel 2003, microsoft excel 2019, microsoft excel v2.0, microsoft excel 2000, microsoft excel soft., microsoft excel v5.0, microsoft excel software, microsoft excel 2002, ms excel 2004 for mac, ms excel 2003, microsoft software excel, pc software microsoft excel, ms excel 97 for windows, software excel, microsoft .excel, excel 95, excel 2004 for mac, advanced microsoft excel, advanced excel, ms excel 2000, microsoft products ms excel, excel platform, ms excel 2001 for mac, excel xp, ms-excel, excel 3, microsoft office excel, excel, excel 2010, ms excel 2010, ms excel, ms excel 2002, microsoft suite excel, excel skills, excel 2, excel 5, excel 2001 for mac, ms. excel, excel 97, excel software, excel 97 for windows, excel 2003, internet microsoft excel, excel 2016",
+        "FormattedName": "microsoft excel",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "ITIL",
+        "Ontology": "Information>Computer Network Architects>information technology infrastructure library",
+        "Alias": "itilv3, itil v3.0, operations itil, itil, itil framework development, itil service management framework, itil frameworks, planning service, itil management, information-technology-infrastructure-library, service-strategy, itil process, service strategy and operations, service strategy itil, service strategy, itil strategy, itil fundamentals, itilv 3, itil - service strategy, itil methodology, itil framework, itil business processes, itil business process, itil version 3, itil service strategy, itil implementation",
+        "FormattedName": "information technology infrastructure library",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "SQL",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>sql",
+        "Alias": "sql 2008, structured query language, sql 2003, oracle sql2005, sql-2003, advanced sql, programming language sql, oracle sql programming, sql 2005, sql/400, sql programming, sql coding, database definition language, database sql, ibm sql/400, sql language, oracle sql, databases sql, sql development, sqldb, coding sql, sql databases, sql computer language, sql 2000, ibm sql400, sql database, data definition language, sql400, data dictionary language, programming sql, sql oracle, oql, sql database query language, advanced sql programming, sql programming language, ansi sql, sql queries, data description lang, data description language, object query language, sql2005, microsoft sql programming, structured-query-language",
+        "FormattedName": "sql",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      }
+    ],
+    "Experience": "Santander UK \r IT Support Specialist \r September 2017 - Present \r Manchester, UK \r At Santander, I provide technical support to various business units, troubleshooting issues and ensuring smooth IT operations. My role involves analyzing IT performance data using tools like Excel and SQL to identify trends and areas for improvement. I manage IT projects, collaborating with stakeholders to gather requirements and ensure project success. My efforts have led to improved IT service delivery and user satisfaction. \r HSBC UK \r Junior IT Support Analyst \r June 2015 - August 2017 \r Manchester, UK \r In my role at HSBC, I supported IT operations by troubleshooting technical issues and providing solutions. My responsibilities included conducting data analysis to monitor IT system performance, preparing reports, and assisting in IT project management. I worked closely with various departments to ensure IT systems met business needs and compliance requirements. My contributions helped enhance IT efficiency and reliability.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Santander UK",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "IT Support Specialist",
+          "FormattedName": "it support specialist",
+          "Alias": "computer support professional, computer support specialist, technical customer support specialist, specialist technical support, technical assistance specialist, it field support specialist, system technical support specialist, specialist of it support, technical resolution expert, global computer support representative, computer tech support specialist, computer software specialist, software expert, technology service specialist, technology service professional, it specialist support and services, pc support specialist, computer services specialist, service desk technical solutions specialist, specialist of computer support, specialist of computer user support, computer user support specialist, personal computer support specialist, technical system professional, it functional support specialist, windows technical specialist, specialist of technical support, computer-specialist, technical service supporter, technical services support specialist, computer systems support specialist, computer technical support specialist, specialist  technical support, software technical support specialist, technical- service specialist, it solutions specialist, tech support specialist, information support specialist, information technology technical support specialist, information technology support specialist, software support expert, software support specialist, it user support specialist, technical support software specialist, technical support expert, technical support professional, technical support specialist, software specialist, technical and systems support specialist, business technology support specialist, specialist - technical support, tech support expert, specialist computer user support, specialist computer support, client technical support specialist, ict supporter, computer expert, it specialist - global it support, corporate it support specialist, rollout support specialist, specialist it support, computer-support specialist, it support professional, ict support specialist, technology support specialist, specialist-computer support",
+          "RelatedSkills": [
+            {
+              "Skill": "gnu wget",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "incident communication",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "apple configurator",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "disk imaging",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "hardware reset",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "web calendar access protocol",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "digital intelligence",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "drive mapping",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "intel active management technology",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "file hosting service",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "reseller hosting",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "device setup",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "movement tracking system",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "device distribution",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "September 2017 - till",
+        "FormattedJobPeriod": "09/2017 to till",
+        "StartDate": "01/09/2017",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At Santander, I provide technical support to various business units, troubleshooting issues and ensuring smooth IT operations. My role involves analyzing IT performance data using tools like Excel and SQL to identify trends and areas for improvement. I manage IT projects, collaborating with stakeholders to gather requirements and ensure project success. My efforts have led to improved IT service delivery and user satisfaction.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "HSBC UK",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Junior IT Support Analyst",
+          "FormattedName": "it support analyst",
+          "Alias": "computer support technical analyst, desktop support analyst, desktop support services analyst, desktop support computer operations analyst, analyst system support, analyst it field services, user support - analyst, analyst of it field services, analyst desktop support, analyst it support, help desktop analyst, computer help desk analyst, analyst, technical support, analyst user support, it systems support analyst, support desk analyst, help- desk service analyst, it help-desk analyst, tech support analyst, service desk analyst, telecommunications and pc support analyst, technology services support analyst, technical analyst - service desk, analyst ict service desk, front desk analyst, helpdesk analysts, helpdesk analyst, it services support analyst, it service desk analyst, analyst of it support, it support/service analyst, technical system support analyst, help desk systems analyst, it support staff, it functional support analyst, user support analyst, desktop systems analyst, desk-side support analyst, it helpdesk support analyst, user support information analyst, technical user support analyst, technical service desk analyst, technical service support analyst, bilingual service desk analyst, service desk- analyst, analyst of user support, it staff, help-desk analyst, it technical support, analyst of it functional support, helpdesk support analyst, development support analyst, help desk service analyst, computer technical support, it support employee, analyst technical support and service, analyst technical support operations, svc desk support analyst, it service analyst, internet support analyst, it device support analyst, technology- support analyst, system support-analyst, information support analyst, engineering help desk analyst, desktop technology analyst, desktop analyst, information technology help desk analyst, information technology help desk support analyst, information technology field services analyst, help desk analyst, system it support analyst, analyst of service desk, it support hardware analyst, analyst service desk support, analyst service desk, advanced technical support analyst, it user support analyst, helpdesk data analyst, technical support analyst, it systems service desk analyst, analyst of system support, analyst of desktop support, system support analyst, ict service desk analyst, it field services analyst, help desk lead analyst, analyst it functional support, windows support analyst, it services analyst, it desktop support analyst, sys support analyst, it analyst - desktop services, helpdesk client support anaylst, control desk analyst, technical help desk analyst, service desk support analyst, it system support analyst, service department analyst, it- device support analyst, ict service analyst, technology support analyst, technology support-analyst, technology support analyst - desktop support, service desk operations analyst, analyst help desk, service-desk-support-analyst, information system support, information systems support",
+          "RelatedSkills": [
+            {
+              "Skill": "team coordination",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "network migration",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "it asset management",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "knowledge centered service",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "operational support and analysis",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "June 2015 - August 2017",
+        "FormattedJobPeriod": "06/2015 to 08/2017",
+        "StartDate": "01/06/2015",
+        "EndDate": "31/08/2017",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "In my role at HSBC, I supported IT operations by troubleshooting technical issues and providing solutions. My responsibilities included conducting data analysis to monitor IT system performance, preparing reports, and assisting in IT project management. I worked closely with various departments to ensure IT systems met business needs and compliance requirements. My contributions helped enhance IT efficiency and reliability.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Santander UK",
+    "JobProfile": "IT Support Specialist",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "110",
+      "TotalExperienceInYear": "9.2",
+      "TotalExperienceRange": "8-10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "55",
+    "LongestStay": "83",
+    "Summary": "IT Support Specialist with over 6 years of experience in providing technical support and managing IT projects. Proficient in data analysis, problem-solving, and stakeholder communication. Looking to transition into a Business Analyst role to leverage my technical expertise and contribute to business optimization projects.",
+    "ExecutiveSummary": "Alex has an experience in the domain of 'Information', particularly in the sub-domain of 'Computer User Support Specialists. 'The candidate has a total experience of 6 YearsThe candidate has been working as a IT Support Specialist at Santander UK for the last 6.11 years. ",
+    "ManagementSummary": "Alex doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "References available upon request",
+    "CustomFields": "Parsing Time : 493ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Alex Walker\nManchester, UK\nalex.walker@email.com\n+44 1234 987654\nLinkedIn : linkedin.com/in/alexwalker\n\nProfessional Summary : \nIT Support Specialist with over 6 years of experience in providing technical support and managing IT projects. Proficient in data analysis, problem-solving, and stakeholder communication. Looking to transition into a Business Analyst role to leverage my technical expertise and contribute to business optimization projects.\n\nProfessional Experience : \nSantander UK\nIT Support Specialist\nSeptember 2017 - Present\nManchester, UK\nAt Santander, I provide technical support to various business units, troubleshooting issues and ensuring smooth IT operations. My role involves analyzing IT performance data using tools like Excel and SQL to identify trends and areas for improvement. I manage IT projects, collaborating with stakeholders to gather requirements and ensure project success. My efforts have led to improved IT service delivery and user satisfaction.\nHSBC UK\nJunior IT Support Analyst\nJune 2015 - August 2017\nManchester, UK\nIn my role at HSBC, I supported IT operations by troubleshooting technical issues and providing solutions. My responsibilities included conducting data analysis to monitor IT system performance, preparing reports, and assisting in IT project management. I worked closely with various departments to ensure IT systems met business needs and compliance requirements. My contributions helped enhance IT efficiency and reliability.\n\nEducation : \nBachelor of Science in Information Technology\nUniversity of Salford\nGraduated : 2015\n\nSkills : \nData analysis (Excel, SQL) \nIT support and troubleshooting\nProject management\nStrong analytical and problem-solving skills\nEffective communication\nTechnical documentation\n\nCertifications : \nCompTIA A+\nITIL Foundation Certificate in IT Service Management\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Alex Walker</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">alex.walker@email.com</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">+44 1234 987654</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">LinkedIn: linkedin.com/in/alexwalker</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">IT Support Specialist with over 6 years of experience in providing technical support and managing IT projects. Proficient in data analysis, problem-solving, and stakeholder communication. Looking to transition into a Business Analyst role to leverage my technical expertise and contribute to business optimization projects.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Santander UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">IT Support Specialist</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">September 2017 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At Santander, I provide technical support to various business units, troubleshooting issues and ensuring smooth IT operations. My role involves analyzing IT performance data using tools like Excel and SQL to identify trends and areas for improvement. I manage IT projects, collaborating with stakeholders to gather requirements and ensure project success. My efforts have led to improved IT service delivery and user satisfaction.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Junior IT Support Analyst</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">June 2015 - August 2017</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">In my role at HSBC, I supported IT operations by troubleshooting technical issues and providing solutions. My responsibilities included conducting data analysis to monitor IT system performance, preparing reports, and assisting in IT project management. I worked closely with various departments to ensure IT systems met business needs and compliance requirements. My contributions helped enhance IT efficiency and reliability.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Bachelor of Science in Information Technology</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">University of Salford</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2015</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data analysis (Excel, SQL) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">IT support and troubleshooting</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Project management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strong analytical and problem-solving skills</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Effective communication</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Technical documentation</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">CompTIA A+</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">ITIL Foundation Certificate in IT Service Management</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">References available upon request</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

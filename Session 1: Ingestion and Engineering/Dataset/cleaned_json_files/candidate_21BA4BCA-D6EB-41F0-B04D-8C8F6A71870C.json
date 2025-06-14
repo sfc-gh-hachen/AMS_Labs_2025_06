@@ -1,0 +1,476 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Jane Herring.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 1:06:31",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Jane Herring",
+      "TitleName": "",
+      "FirstName": "Jane",
+      "MiddleName": "",
+      "LastName": "Herring",
+      "FormattedName": "Jane Herring",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "English",
+        "LanguageCode": "en"
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "jane.Herring@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123333444",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 333444",
+        "FormattedNumber": "+44 7123 333444",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "",
+        "Url": ""
+      }
+    ],
+    "Address": [
+      {
+        "Street": "456 Maple Street",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M112BB",
+        "FormattedAddress": "456 Maple Street, Manchester, England, M112BB, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Administrative and Support and Waste Management and Remediation Services",
+    "SubCategory": "Stock Clerks and Order Fillers",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Springfield High School \r Completed GCSEs : English, and Drama \r Graduated : 2018\r\r\rHealth and Safety in the Workplace Certification \r Basic Food Hygiene Certificate \r  \r  \r  \r Gardening and outdoor activities",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "Springfield High School",
+          "Type": "School",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 8
+        },
+        "Degree": {
+          "DegreeName": "GCSEs : English and Drama",
+          "NormalizeDegree": "",
+          "Specialization": [
+            "English and Drama",
+            "Health and Safety"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "2018",
+        "StartDate": "",
+        "EndDate": "31/12/2018",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "Basic Food Hygiene Certificate",
+          "NormalizeDegree": "Certificate",
+          "Specialization": [
+            "Hygiene"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "",
+    "SegregatedCertification": [],
+    "SkillBlock": "Stocking and Inventory Management \r Customer Service and Assistance \r Attention to Detail \r Time Management and Efficiency \r Team Collaboration \r Basic Computer Skills",
+    "SkillKeywords": "Hardworking,Attention To Detail,Team Collaboration,Time Management,Commitment,Maintaining Inventory,Inventory Management,Stocking Shelves,Computer Skills,Provide Support,Manage Stock,Maple,Asda",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Hardworking",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>hard working",
+        "Alias": "hardworker, hard worker, hard working nature, works hard, hard-working, hard work, hardworking, work hard",
+        "FormattedName": "hard working",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Attention To Detail",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>attention to detail",
+        "Alias": "detail-oriented tasks, attention to details, attention for details, detail-minded, attention to-detail, detail oriented, meticulous, attending to details, detail-orientated, highly detail oriented, eye for details, pay attention to detail, highly detail-oriented, detail focused, paying close attention to detail, detailed-oriented, attention-to-detail, pays attention to detail, pays attention to details, detail minded, acute attention to detail, detail orientated, attention to the details, detail-orientation, detail driven, attentive to details, attentive to detail, a good eye for detail and high level of accuracy, detailed oriented, attend to detail, attend to details, detail orientation, detail-oriented, high attention to detail, attentiveness to details, attentiveness to detail, organized and detail oriented, eye for detail",
+        "FormattedName": "attention to detail",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Collaboration",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>teamwork",
+        "Alias": "able to work in teams, works well in a team, cross-team collaboration, team work, cross team collaboration, work with the client, fostering a collaborative environment, working well with others, crossteam collaboration, able to work well in a team, team-oriented, collaboratively with the members of the team, ability to work with all levels of staff, ability to work effectively in team environment, ability to work with a team, ability to work as a team, ability to work in a team, ability to work in teams, ability to work as part of a team, ability to work well with others, ability to work with teams, team-collaboration, team work oriented, work with the operations teams, team collaboration, work in teams, team-orientation, works well with others, works well with a team, works well with people, team orientation, working with clients, works well in groups, collaborated with other staff members, working with people, team-focused, collaborating with teams, foster collaboration, work with others, working in teams, team work skills, work as a team, cross-team communication, group collaboration, working with others, team working, works effectively with a team, teamworking, teamwork skills, work with people, team spirit, cross - team communication, enjoy working with people, ability of working in team, effective teamwork, cross - team collaboration, collaborate with team members, team oriented, assist other team members, committed to work as a collaborative and positive team member, team-orientated",
+        "FormattedName": "teamwork",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Time Management",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>time management",
+        "Alias": "manage time, time handling, time mgmt., managing day, strategic time management, strategic time mgmt, managing time, excellent time management, timely development, time implementation, time managed, timely management, manage own time, time-management, timely decision making, managed the time, timely and accurate processing, time administration, time management process, time management skills, organization time management, time estimation",
+        "FormattedName": "time management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Commitment",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>commitment",
+        "Alias": "committed team, commitments, team commitment, commitment to achieving result",
+        "FormattedName": "commitment",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maintaining Inventory",
+        "Ontology": "Management of Companies and Enterprises>Purchasing Managers>inventory management",
+        "Alias": "managing an inventory, handling inventories, data management inventory, client stock management, stock option management, inventory investment, inventory processing, manage inventories, inventory management operations, inventory mgmt., maintain inventory, stock information management, managing stock, item management, maintaining equipment inventories, manage the items, inventory-management, physical stock management, backstock management, managing inventory, inventory handling, maintaining an inventory, implement stock management, stocks management, field inventory management, field inventory mgmt, inventory data management, managing stock levels, handle inventory, stationery inventory management, stationery inventory mgmt, maintain stock levels, management of stock, it inventory management, stock-management, inventory business management, stock rotation management, manage stock, retail stock management, manage the inventory, inventorying, physical-inventory management, physical-inventory-management, physical inventory mgmt, physical inventory management, inventory stock management, regulate inventory, inventory quality management, operations management inventory, maintaining inventory, inventory order management, inventor management, oversee inventory, managing the stock, management of inventory, processing inventory, stock mgmt., inventory keeping, logistics inventory management, logistics inventory mgmt, management inventory, inventory mgmt, inventory maintenance, online inventory management, production and inventory mgmt, production and inventory management, manage inventory operations, manage inventory, monitoring inventory of supplies, manage an inventory, inventory operations, manage store inventory, stock management, inventory skills, supply chain networking and inventory, product inventory, stock maintenance, ordering inventory, supervise inventory",
+        "FormattedName": "inventory management",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Inventory Management",
+        "Ontology": "Management of Companies and Enterprises>Purchasing Managers>inventory management",
+        "Alias": "managing an inventory, handling inventories, data management inventory, client stock management, stock option management, inventory investment, inventory processing, manage inventories, inventory management operations, inventory mgmt., maintain inventory, stock information management, managing stock, item management, maintaining equipment inventories, manage the items, inventory-management, physical stock management, backstock management, managing inventory, inventory handling, maintaining an inventory, implement stock management, stocks management, field inventory management, field inventory mgmt, inventory data management, managing stock levels, handle inventory, stationery inventory management, stationery inventory mgmt, maintain stock levels, management of stock, it inventory management, stock-management, inventory business management, stock rotation management, manage stock, retail stock management, manage the inventory, inventorying, physical-inventory management, physical-inventory-management, physical inventory mgmt, physical inventory management, inventory stock management, regulate inventory, inventory quality management, operations management inventory, maintaining inventory, inventory order management, inventor management, oversee inventory, managing the stock, management of inventory, processing inventory, stock mgmt., inventory keeping, logistics inventory management, logistics inventory mgmt, management inventory, inventory mgmt, inventory maintenance, online inventory management, production and inventory mgmt, production and inventory management, manage inventory operations, manage inventory, monitoring inventory of supplies, manage an inventory, inventory operations, manage store inventory, stock management, inventory skills, supply chain networking and inventory, product inventory, stock maintenance, ordering inventory, supervise inventory",
+        "FormattedName": "inventory management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Stocking Shelves",
+        "Ontology": "Wholesale Trade>Supervisors of Sales and retail sales Workers>stocking shelves",
+        "Alias": "restocking shelves, fill a shelf, top up shelves, stock a shelf, refill shelves, fill shelves, shelf stocking, stock shelves",
+        "FormattedName": "stocking shelves",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Computer Skills",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Administrative Services>computer literacy",
+        "Alias": "internet-savvy, computer literate, internet skills, computer skills, program proficiency, computer software knowledge, computer competencies, computer competency, skills software, software-skills, ability to use computer, internet savvy, savvy internet, development computer skills, computing skills, computer-knowledge, computer-proficiency, computers skills, knowledge of computer, knowledge of computer programs, computer proficiency, computer knowledge, computer-literacy, software skills",
+        "FormattedName": "computer literacy",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Provide Support",
+        "Ontology": "Information>Computer User Support Specialists>provide support",
+        "Alias": "providing support",
+        "FormattedName": "provide support",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Manage Stock",
+        "Ontology": "Management of Companies and Enterprises>Purchasing Managers>inventory management",
+        "Alias": "managing an inventory, handling inventories, data management inventory, client stock management, stock option management, inventory investment, inventory processing, manage inventories, inventory management operations, inventory mgmt., maintain inventory, stock information management, managing stock, item management, maintaining equipment inventories, manage the items, inventory-management, physical stock management, backstock management, managing inventory, inventory handling, maintaining an inventory, implement stock management, stocks management, field inventory management, field inventory mgmt, inventory data management, managing stock levels, handle inventory, stationery inventory management, stationery inventory mgmt, maintain stock levels, management of stock, it inventory management, stock-management, inventory business management, stock rotation management, manage stock, retail stock management, manage the inventory, inventorying, physical-inventory management, physical-inventory-management, physical inventory mgmt, physical inventory management, inventory stock management, regulate inventory, inventory quality management, operations management inventory, maintaining inventory, inventory order management, inventor management, oversee inventory, managing the stock, management of inventory, processing inventory, stock mgmt., inventory keeping, logistics inventory management, logistics inventory mgmt, management inventory, inventory mgmt, inventory maintenance, online inventory management, production and inventory mgmt, production and inventory management, manage inventory operations, manage inventory, monitoring inventory of supplies, manage an inventory, inventory operations, manage store inventory, stock management, inventory skills, supply chain networking and inventory, product inventory, stock maintenance, ordering inventory, supervise inventory",
+        "FormattedName": "inventory management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maple",
+        "Ontology": "Information>Mathematical Science Occupations, All Other>maple",
+        "Alias": "soft maple, maple software, maple soft",
+        "FormattedName": "maple",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Asda",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      }
+    ],
+    "Experience": "Asda Supermarket Stocker \r Manchester, UK \r 2020 - Present \r At Asda, I am responsible for stocking shelves, rotating products, and ensuring that all aisles are tidy and organized. I assist customers with locating products and provide support to other departments as needed. My role requires attention to detail and the ability to work efficiently during busy periods. \r Tesco Supermarket Stocker \r Manchester, UK \r 2018 - 2020 \r While working at Tesco, I was in charge of maintaining inventory levels and ensuring that products were correctly displayed. I collaborated with team members to manage stock deliveries and handled customer inquiries. My commitment to maintaining a clean and organized store environment contributed to a positive shopping experience for customers.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Asda Supermarket",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Stocker",
+          "FormattedName": "stock clerk",
+          "Alias": "grocery carrier, product store stocking clerk, shelving clerk - library, shelf clerk, grocery checker, shelving clerk, grocery team member, accounts clerk grocery, grocery clerk, warehouse stocker, stock crewmember, stocker of warehouse, clerk of product store stocking, stock room clerk, market clerk, warehouse floor clerk, stock control clerk, warehouse stock clerk, grocer clerk, delivery stock clerk, back stockroom clerk, retail stock clerk, supermarket clerk, general stocker, grocery worker, floor stocker, clerk stock, stocker, stock clerk retail, clerk product store stocking",
+          "RelatedSkills": [
+            {
+              "Skill": "stock preparation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "stock removal",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "stock replenishment",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2020 - till",
+        "FormattedJobPeriod": "2020 to till",
+        "StartDate": "01/01/2020",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At Asda, I am responsible for stocking shelves, rotating products, and ensuring that all aisles are tidy and organized. I assist customers with locating products and provide support to other departments as needed. My role requires attention to detail and the ability to work efficiently during busy periods.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Tesco Supermarket",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Stocker",
+          "FormattedName": "stock clerk",
+          "Alias": "grocery carrier, product store stocking clerk, shelving clerk - library, shelf clerk, grocery checker, shelving clerk, grocery team member, accounts clerk grocery, grocery clerk, warehouse stocker, stock crewmember, stocker of warehouse, clerk of product store stocking, stock room clerk, market clerk, warehouse floor clerk, stock control clerk, warehouse stock clerk, grocer clerk, delivery stock clerk, back stockroom clerk, retail stock clerk, supermarket clerk, general stocker, grocery worker, floor stocker, clerk stock, stocker, stock clerk retail, clerk product store stocking",
+          "RelatedSkills": [
+            {
+              "Skill": "stock preparation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "stock removal",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "stock replenishment",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2018 - 2020",
+        "FormattedJobPeriod": "2018 to 2020",
+        "StartDate": "01/01/2018",
+        "EndDate": "31/12/2020",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "While working at Tesco, I was in charge of maintaining inventory levels and ensuring that products were correctly displayed. I collaborated with team members to manage stock deliveries and handled customer inquiries. My commitment to maintaining a clean and organized store environment contributed to a positive shopping experience for customers.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Asda Supermarket",
+    "JobProfile": "Stocker",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "79",
+      "TotalExperienceInYear": "6.7",
+      "TotalExperienceRange": "5-8 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "39",
+    "LongestStay": "43",
+    "Summary": "Hardworking and reliable individual with 5 years of experience in the supermarket industry. Proficient in stocking shelves, maintaining inventory, and providing excellent customer service. Known for being detail-oriented and capable of working efficiently in fast-paced environments.",
+    "ExecutiveSummary": "Jane has an experience in the domain of 'Administrative and Support and Waste Management and Remediation Services', particularly in the sub-domain of 'Stock Clerks and Order Fillers. 'The candidate has a total experience of 5 YearsThe candidate has been working as a Stocker at Asda Supermarket for the last 4.7 years. ",
+    "ManagementSummary": "Jane doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "Volunteering at local food banks",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 448ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Jane Herring\nContact Information : \nAddress : 456 Maple Street, Manchester, M11 2BB, England\nEmail : jane.Herring@email.com\nPhone : +44 7123 333444\n\nProfessional Profile : Hardworking and reliable individual with 5 years of experience in the supermarket industry. Proficient in stocking shelves, maintaining inventory, and providing excellent customer service. Known for being detail-oriented and capable of working efficiently in fast-paced environments.\n\nEducation : Springfield High School\nCompleted GCSEs : English, and Drama\nGraduated : 2018\n\nCareer History : \nAsda Supermarket Stocker\nManchester, UK\n2020 - Present\nAt Asda, I am responsible for stocking shelves, rotating products, and ensuring that all aisles are tidy and organized. I assist customers with locating products and provide support to other departments as needed. My role requires attention to detail and the ability to work efficiently during busy periods.\nTesco Supermarket Stocker\nManchester, UK\n2018 - 2020\nWhile working at Tesco, I was in charge of maintaining inventory levels and ensuring that products were correctly displayed. I collaborated with team members to manage stock deliveries and handled customer inquiries. My commitment to maintaining a clean and organized store environment contributed to a positive shopping experience for customers.\n\nSkills : \nStocking and Inventory Management\nCustomer Service and Assistance\nAttention to Detail\nTime Management and Efficiency\nTeam Collaboration\nBasic Computer Skills\n\nQualifications : \nHealth and Safety in the Workplace Certification\nBasic Food Hygiene Certificate\n\nHobbies and Interests : \nVolunteering at local food banks\nGardening and outdoor activities\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Jane Herring</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Address: 456 Maple Street, Manchester, M11 2BB, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Email: jane.Herring@email.com</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Phone: +44 7123 333444</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Profile:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> Hardworking and reliable individual with 5 years of experience in the supermarket industry. Proficient in stocking shelves, maintaining inventory, and providing excellent customer service. Known for being detail-oriented and capable of working efficiently in fast-paced environments.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Springfield High School</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Completed GCSEs: English, and Drama</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2018</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Career History:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Asda Supermarket</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Stocker</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2020 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">At Asda, I am responsible for stocking shelves, rotating products, and ensuring that all aisles are tidy and organized. I assist customers with locating products and provide support to other departments as needed. My role requires attention to detail and the ability to work efficiently during busy periods.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Tesco Supermarket</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Stocker</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2018 - 2020</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">While working at Tesco, I was in charge of maintaining inventory levels and ensuring that products were correctly displayed. I collaborated with team members to manage stock deliveries and handled customer inquiries. My commitment to maintaining a clean and organized store environment contributed to a positive shopping experience for customers.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Stocking and Inventory Management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Customer Service and Assistance</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Attention to Detail</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Time Management and Efficiency</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Team Collaboration</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Basic Computer Skills</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Qualifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Health and Safety in the Workplace Certification</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Basic Food Hygiene Certificate</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Hobbies and Interests:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Volunteering at local food banks</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Gardening and outdoor activities</span></li></ul><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

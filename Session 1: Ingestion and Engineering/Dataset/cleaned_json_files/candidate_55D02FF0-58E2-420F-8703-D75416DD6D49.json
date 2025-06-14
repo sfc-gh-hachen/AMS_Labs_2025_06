@@ -1,0 +1,823 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Emily Thompson.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:48:02",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Emily Thompson",
+      "TitleName": "",
+      "FirstName": "Emily",
+      "MiddleName": "",
+      "LastName": "Thompson",
+      "FormattedName": "Emily Thompson",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "emily.thompson@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123987654",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 987654",
+        "FormattedNumber": "+44 7123 987654",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/emilythompson"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "45 Birchwood Avenue",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M12XY",
+        "FormattedAddress": "45 Birchwood Avenue, Manchester, England, M12XY, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Financial Analysts and Advisors",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Manchester (Russell Group) \r MSc Financial Crime and Compliance Management, Merit \r Graduated : 2016 \r University of Leeds (Russell Group) \r BSc Criminology, Upper Second Class Honours \r Graduated : 2014",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "MSc Financial Crime and Compliance Management",
+          "NormalizeDegree": "Master of Science",
+          "Specialization": [
+            "Financial",
+            "Management"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2016",
+        "StartDate": "",
+        "EndDate": "31/12/2016",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "University of Leeds",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc Criminology",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Criminology"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2014",
+        "StartDate": "",
+        "EndDate": "31/12/2014",
+        "Aggregate": {
+          "Value": "2nd",
+          "MeasureType": "Class Honours"
+        }
+      }
+    ],
+    "Certification": "Certified Anti-Money Laundering Specialist (CAMS) \r International Diploma in Anti-Money Laundering (ICA) \r Certificate in Financial Crime Prevention \r Certified Financial Crime Specialist (CFCS)",
+    "SegregatedCertification": [],
+    "SkillBlock": "Enhanced Due Diligence (EDD) \r Anti-Money Laundering (AML) Compliance \r Financial Crime Risk Assessment \r Regulatory Reporting \r Transaction Monitoring \r Risk Mitigation Strategies \r Team Leadership and Training \r Excellent Analytical and Research Skills \r Strong Communication and Presentation Skills",
+    "SkillKeywords": "Comprehensive,Potential,Assisted,Presentation Skills,Highly Analytical,Team Leadership,Leading A Team,Collaborating,Communication,Financial Crime Risk Assessment,Development and Implementation,Risk Mitigation Strategies,Policies and Procedures,Regulatory Requirements,Financial Transactions,Transaction Monitoring,Anti-Money Laundering,Compliance Procedures,Regulatory Compliance,Compliance Framework,Documenting Findings,Regulatory Reporting,Ensuring Compliance,Internal Policies,Preparing Reports,Senior Management,Research Skills,Risk Assessment,Risk Management,Best Practices,Proven Ability,Due Diligence,CAMS",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Comprehensive",
+        "Ontology": "Educational Services>Instructional Coordinators>comprehensive",
+        "Alias": "comprehension, ability to understand",
+        "FormattedName": "comprehensive",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Potential",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk analysis",
+        "Alias": "performing risk analysis, conduct risk assessment, conduct risk assessments, risk assessment analytics, risk evaluation, risk measure, examining risks, examining risks and potentials, risk assessment, risk-analysis, identification of risks, risk identification, process risk analysis, risk measures, analysis of risk, assessing risk, risk-reviews, risk measurement, performed risk analysis, risks analysis, risk identi?cation, assessing risks, measuring risk, identified audit risks, risk analytics, identify risks, risk reviews, retail risk analytics, risk assessments, perform a risk analysis, business process risk assessments, business process risk assessment, retail risk assessment, risk-assessment, weekly risk analysis",
+        "FormattedName": "risk analysis",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2016",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Presentation Skills",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>presentation",
+        "Alias": "presentation capabilities, presentation skills, presenting skills, presentations skills, presentations",
+        "FormattedName": "presentation",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Highly Analytical",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>analytical skill",
+        "Alias": "logical and analytical skills, analyzing skills, analytical background, analytical abilities, analytical ability, analytic skills, analytical skills, analytical awareness, analytical-and interpretive skills, strong analytical planning, analysing skills, analytical and troubleshooting skill, organizational analytical skills, analytics skills, analytical and interpretive skill, analytical and interpretive skills, analytical and inherent skills, analytical and problem solving skills, analytical and problem-solving, highly analytical",
+        "FormattedName": "analytical skill",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Leadership",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leadership",
+        "Alias": "interdisciplinary team leadership, multi-national team leadership, lead the team member, leads group discussions, leads groups, group leadership, multi-cultural team leadership",
+        "FormattedName": "team leadership",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Leading A Team",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leading",
+        "Alias": "leading group, lead a group, team-leading, lead a team, leading a team, leading small teams, leading teams, lead the team to innovation, ability to lead teams, leading large teams",
+        "FormattedName": "team leading",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaborating",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Crime Risk Assessment",
+        "Ontology": "Military Specific Occupations >Detectives and Criminal Investigators>financial crime analytics",
+        "Alias": "analytics financial crime, finance crime analytics, forensic analytics, financial crime evaluation, financial crime analytic, financial crime assessment, financial crime risk assessment, financial crime investigative, financial crime analysis, financial crime analytical, financial crime investigation, analysis financial crime, finance crime risk assessment",
+        "FormattedName": "financial crime analytics",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Development and Implementation",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Mitigation Strategies",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk mitigation",
+        "Alias": "develop mitigation plans, risk mitigation strategy, risk mitigation plan, risk mitigation strategies, risk mitigation planning, risk-mitigation, reduce risk, mitigation planning, developing mitigations and controls, risk reduction, mitigation strategies, risk-mitigation strategy, risk handling",
+        "FormattedName": "risk mitigation",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Policies and Procedures",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>policies and procedures",
+        "Alias": "policies and-procedures",
+        "FormattedName": "policies and procedures",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Requirements",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "31/12/2016",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Transactions",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial transaction",
+        "Alias": "documents financial transactions, financing transaction, cash-transaction, international financial transactions, documents ?nancial transactions, financial-transactions-mgmt, financial-transactions mgmt, financial transactions, financial transactions mgmt, financial transaction management, cash disbursements, cash disbursement, payment transactions, finance transaction management, cash transaction, cash transactions, managing the financial transactions, managing the financial transaction, cash payment",
+        "FormattedName": "financial transaction",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Transaction Monitoring",
+        "Ontology": "Finance and Insurance>Financial Transactions Processing, Reserve, and Clearinghouse Activities>transaction monitoring",
+        "Alias": "monitoring banking, transaction-monitoring, payment oversight, business transitions monitoring, payment-monitoring, transaction data maintenance, transaction data monitoring, transaction monitoring and processing, monitoring of suspicious activities and transactions, business-transaction management, business-transaction-management, payment supervision, monitoring-payment, bank monitoring, business transaction-management, business transaction mgmt, business transaction management, business transaction monitoring, application transaction profiling, user defined transaction profiling, banking monitoring, transactional monitoring, payment monitoring, monitoring transactional, monitor banking activities",
+        "FormattedName": "transaction monitoring",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Anti-Money Laundering",
+        "Ontology": "Finance and Insurance>Financial Examiners>anti money laundering",
+        "Alias": "anti-money-laundering, anti - money laundering, anti money-laundering, anti money laundering operations, anti-money laundering operations, anti-money laundering",
+        "FormattedName": "anti money laundering",
+        "Evidence": "CertificationSection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Compliance Procedures",
+        "Ontology": "Finance and Insurance>Compliance Officers>compliance management",
+        "Alias": "operational compliance, maintains compliance, compliance operations, manage compliance, regulatory coordination, compliance system integration, maintain compliance, compliance mgmt., compliance program oversight, compliance program mgmt, compliance program governance, compliance program administration, compliance program control, compliance program management, regulatory mgmt, maintaining compliance, regulatory management, compliance implementation, organizational compliance, compliance maintenance, management compliance, integrated compliance, integrated compliance mgmt, corporate compliance management, corporate compliance mgmt, compliance-management, compliance administration, regulatory-management, legal compliance mgmt, legal compliance management, compliance task mgmt, compliance task management, compliance-program- management, compliance-program management, compliance tool management, managing compliance requirement, maintained compliance, regulatory operations, operations-compliance, compliance consulting, compliance process handling, compliance process mgt, compliance procedures, compliance process management, compliance management process, operational-compliance, management of compliance, manage the compliance, operational risk and compliance, operations compliance",
+        "FormattedName": "compliance management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Compliance Framework",
+        "Ontology": "Finance and Insurance>Compliance Officers>compliance framework",
+        "Alias": "regulatory compliance frameworks, compliance program, cybersecurity compliance framework, compliance-framework, compliance frameworks, security compliance frameworks, security compliance framework, compliance management-framework, compliance management framework",
+        "FormattedName": "compliance framework",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Documenting Findings",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Document Preparation Services>document research",
+        "Alias": "analyze documents, documentary-research, document evaluation, documenting findings, document research method, analyzing documents, documents analysis, document-research, documented analysis, document-analysis, documentary analysis, document analysis, documentation analysis, research documentary, research document, evaluated source documents, document assessment, documentary research",
+        "FormattedName": "document research",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Reporting",
+        "Ontology": "Finance and Insurance>Commercial Banking>regulatory reporting",
+        "Alias": "regulative reporting, regulatory-reporting, regulatory data reporting, financial and regulatory reporting, regulatory financial reports, regulatory financial reporting, regulatory coverage, regulatory reporting workflows, regulatory reporting analytics, regulatory reports development, regulatory reporting management, regulatory reporting framework, regulatory reporting automation, regulatory reports analysis, regulatory report preparation, regulatory report generation, regulatory reports preparation, regulatory report, regulatory reporting templates, regulatory reporting integration, regulatory reporting architecture, regulatory report development, regulatory reporting insight, regulatory report writing, integrated regulatory reporting",
+        "FormattedName": "regulatory reporting",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensuring Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>ensuring compliance",
+        "Alias": "guarantee compliance with policies, compliance assurance, compliance-assurance, assures compliance, make sure policies are compliant, ensure policy compliance, assurance of compliance, certify compliance with policies, ensure compliance, ensure compliance with policies, ensure compliance with legislation, ensure compliance with policy, ensuring compliance with the rules, ensuring compliance with policies",
+        "FormattedName": "ensuring compliance",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Internal Policies",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>company policy",
+        "Alias": "corporate-policy, corporate-policies, business policy, internal policy, maintaining company policies, organization policy, workplace policies, workplace policy, corporate policy, company policy and procedures, corporate policies, company policies and procedures, company policies, organisational policies, company-policy, organizational policies, business policies, internal policies",
+        "FormattedName": "company policy",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Preparing Reports",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Clerks, General>report generation",
+        "Alias": "generate report, development of reports, reports development, reports preparation, preparation of reports, report creation, develop custom reports, report development, preparing the reports, preparing the report, develop nightly reports, creating reports, preparing reports, develop a report, develop reports, produce reports, prepare reports, creation of new reports, developing reports, generating training reports, generating reports, generate reports, prepare report, creating new reports, report preparation, generated reports, report-generation",
+        "FormattedName": "report generation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2016",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Senior Management",
+        "Ontology": "Finance and Insurance>Management Analysts>senior management",
+        "Alias": "top-management, front line mgmt, top level management, senior and executive level management, front line management, senior mgmt, senior it management, frontline-management, executive level management, executive management, senior management functions, senior management function, upper management, frontline mgmt, top management system, top mgmt, sr management, exec mgmt, it executive management, top management, senior-management, frontline management",
+        "FormattedName": "senior management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 102
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Research Skills",
+        "Ontology": "Information>Computer and Information Research Scientists>research skills",
+        "Alias": "researching skills, searching skills",
+        "FormattedName": "research skills",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Assessment",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk analysis",
+        "Alias": "performing risk analysis, conduct risk assessment, conduct risk assessments, risk assessment analytics, risk evaluation, risk measure, examining risks, examining risks and potentials, risk assessment, risk-analysis, identification of risks, risk identification, process risk analysis, risk measures, analysis of risk, assessing risk, risk-reviews, risk measurement, performed risk analysis, risks analysis, risk identi?cation, assessing risks, measuring risk, identified audit risks, risk analytics, identify risks, risk reviews, retail risk analytics, risk assessments, perform a risk analysis, business process risk assessments, business process risk assessment, retail risk assessment, risk-assessment, weekly risk analysis",
+        "FormattedName": "risk analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Management",
+        "Ontology": "Finance and Insurance>Financial Specialists>risk management",
+        "Alias": "risk-mgmt, market risk management, protection planning, risks mgmt., manage the risks, retail risk management, management of risk, management of risk practitioner, management of risks, risk-management, managing risk, managing risks, risk mgmt, manage complex risk, departmental risk management, manage risks, risk management support, risk management processes, risk management process, manage the risk, management risk, risk process",
+        "FormattedName": "risk management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Best Practices",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>best practice",
+        "Alias": "best practice design, development best practices, best-practice, it best practice, it best practices, marketing best practices, best-practice frameworks, best practices, best practice management, best practices framework, best practices frameworks, best practice implementation, best practice framework, develop best practices, best practices operations",
+        "FormattedName": "best practice",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Proven Ability",
+        "Ontology": "Information>Mathematicians>proven ability",
+        "Alias": "proven ability to work well",
+        "FormattedName": "proven ability",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Due Diligence",
+        "Ontology": "Finance and Insurance>Personal Financial Advisors>due diligence",
+        "Alias": "operational-due-diligence, acquisition due diligence, operational-due diligence, accounting due diligence, operational due diligence, operational due-diligence, due-diligence, m&a due diligence, financial due-diligence, mortgage-due-diligence, financial due diligence, mortgage due diligence",
+        "FormattedName": "due diligence",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "CAMS",
+        "Ontology": "Construction>Mechanical Drafters>computer aided manufacturing",
+        "Alias": "cam programming, computer-aided-manufacturing, computer aided manufacturing cam software, computer aided manufacturing software, cam, cams, computer-aided manufacturing, computer-aided manufaturing, computer-aided manufacturing software, computer-aided- manufacturing",
+        "FormattedName": "computer aided manufacturing",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Barclays Bank Senior PEP & High Risk Analyst \r Manchester, UK \r 2019 - Present \r Leading a team of analysts in conducting enhanced due diligence (EDD) on politically exposed persons (PEPs) and high-risk clients. Responsible for identifying, assessing, and mitigating financial crime risks to ensure regulatory compliance and protect the bank's reputation. \r Key Responsibilities :  \r Conducting comprehensive EDD on high-risk clients, including PEPs, and documenting findings. \r Analyzing complex financial transactions to detect suspicious activities and potential risks. \r Collaborating with compliance and legal teams to ensure adherence to AML regulations and internal policies. \r Developing and implementing risk assessment frameworks to evaluate the risk level of new and existing clients. \r Training junior analysts on risk assessment methodologies and compliance procedures. \r Preparing detailed reports and presenting findings to senior management and regulatory bodies. \r Staying updated on the latest AML regulations and best practices to enhance the bank's compliance framework. \r HSBC Bank PEP & High Risk Analyst \r Manchester, UK \r 2016 - 2019 \r Performed due diligence and risk assessments on high-risk clients, including PEPs. Identified potential financial crime risks and provided recommendations to mitigate them. Ensured compliance with AML regulations and internal policies. \r Key Responsibilities :  \r Conducting EDD on high-risk clients and documenting the findings in detailed reports. \r Monitoring and analyzing client transactions to identify unusual patterns and potential risks. \r Collaborating with internal stakeholders to ensure effective risk management and compliance. \r Assisting in the development and implementation of AML policies and procedures. \r Preparing and submitting reports to regulatory bodies as required. \r Participating in regular training sessions to stay updated on regulatory changes and industry best practices. \r Lloyds Banking Group AML Analyst \r Manchester, UK \r 2014 - 2016 \r Supported the AML compliance team by conducting due diligence on new and existing clients. Assisted in identifying and mitigating financial crime risks and ensuring adherence to regulatory requirements. \r Key Responsibilities :  \r Conducting due diligence on new and existing clients to identify potential risks. \r Analyzing client transactions for signs of money laundering and other financial crimes. \r Assisting in the development and implementation of AML policies and procedures. \r Preparing reports on findings and recommendations for senior management. \r Collaborating with other departments to ensure a holistic approach to risk management.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Barclays Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Senior PEP & High Risk Analyst",
+          "FormattedName": "risk analyst",
+          "Alias": "risk score analyst, analyst - risk, risk analyser, analyst risk, rco risk control analyst, risk advisory analyst, riskcontrol analyst, risk -analyst, analyst of risk, analyst - risk management, risk concurrence analyst, risk services specialist, risk control analyst, risk-analyst, risk strategy analyst, business risk analyst, risk management analyst, risk management -analyst, risk monitoring analyst, risk and controls analyst, analyst - risk assurance, analyst - risk advisory",
+          "RelatedSkills": [
+            {
+              "Skill": "risk governance",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "quantitative risk assessment software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "primavera risk analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "credit risk monitoring",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "risk monitoring",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "qualitative risk analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "project risk analysis model",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "risk analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "risk based capital",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "key risk indicator",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "recursive partitioning",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "derivative valuation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "mitigating control",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "conic optimization",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "quantitative risk analysis",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2019 - till",
+        "FormattedJobPeriod": "2019 to till",
+        "StartDate": "01/01/2019",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Leading a team of analysts in conducting enhanced due diligence (EDD) on politically exposed persons (PEPs) and high-risk clients. Responsible for identifying, assessing, and mitigating financial crime risks to ensure regulatory compliance and protect the bank's reputation. \n Key Responsibilities : \n Conducting comprehensive EDD on high-risk clients, including PEPs, and documenting findings. \n Analyzing complex financial transactions to detect suspicious activities and potential risks. \n Collaborating with compliance and legal teams to ensure adherence to AML regulations and internal policies. \n Developing and implementing risk assessment frameworks to evaluate the risk level of new and existing clients. \n Training junior analysts on risk assessment methodologies and compliance procedures. \n Preparing detailed reports and presenting findings to senior management and regulatory bodies. \n Staying updated on the latest AML regulations and best practices to enhance the bank's compliance framework.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "HSBC Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "PEP & High Risk Analyst",
+          "FormattedName": "risk analyst",
+          "Alias": "risk score analyst, analyst - risk, risk analyser, analyst risk, rco risk control analyst, risk advisory analyst, riskcontrol analyst, risk -analyst, analyst of risk, analyst - risk management, risk concurrence analyst, risk services specialist, risk control analyst, risk-analyst, risk strategy analyst, business risk analyst, risk management analyst, risk management -analyst, risk monitoring analyst, risk and controls analyst, analyst - risk assurance, analyst - risk advisory",
+          "RelatedSkills": [
+            {
+              "Skill": "risk governance",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "quantitative risk assessment software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "primavera risk analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "credit risk monitoring",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "risk monitoring",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "qualitative risk analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "project risk analysis model",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "risk analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "risk based capital",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "key risk indicator",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "recursive partitioning",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "derivative valuation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "mitigating control",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "conic optimization",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "quantitative risk analysis",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2016 - 2019",
+        "FormattedJobPeriod": "2016 to 2019",
+        "StartDate": "01/01/2016",
+        "EndDate": "31/12/2019",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Performed due diligence and risk assessments on high-risk clients, including PEPs. Identified potential financial crime risks and provided recommendations to mitigate them. Ensured compliance with AML regulations and internal policies. \n Key Responsibilities : \n Conducting EDD on high-risk clients and documenting the findings in detailed reports. \n Monitoring and analyzing client transactions to identify unusual patterns and potential risks. \n Collaborating with internal stakeholders to ensure effective risk management and compliance. \n Assisting in the development and implementation of AML policies and procedures. \n Preparing and submitting reports to regulatory bodies as required. \n Participating in regular training sessions to stay updated on regulatory changes and industry best practices.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Lloyds Banking Group",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "AML Analyst",
+          "FormattedName": "anti money laundering analyst",
+          "Alias": "anti-money-laundering- analyst, analyst, anti money laundering compliance, aml investigator, analyst aml compliance, analyst anti-money laundering, analyst of anti money laundering, analyst, aml compliance, analyst, aml compl risk management, fraud and aml analyst, analyst - aml compliance, analyst, aml investigations, anti-money laundering analyst, aml compliance analyst, aml surveillance analyst, aml analyst, analyst anti money laundering, aml investigations specialist",
+          "RelatedSkills": [
+            {
+              "Skill": "anti money laundering",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "aml screening",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "beneficial ownership",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2014 - 2016",
+        "FormattedJobPeriod": "2014 to 2016",
+        "StartDate": "01/01/2014",
+        "EndDate": "31/12/2016",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Supported the AML compliance team by conducting due diligence on new and existing clients. Assisted in identifying and mitigating financial crime risks and ensuring adherence to regulatory requirements. \n Key Responsibilities : \n Conducting due diligence on new and existing clients to identify potential risks. \n Analyzing client transactions for signs of money laundering and other financial crimes. \n Assisting in the development and implementation of AML policies and procedures. \n Preparing reports on findings and recommendations for senior management. \n Collaborating with other departments to ensure a holistic approach to risk management.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Barclays Bank",
+    "JobProfile": "Senior PEP & High Risk Analyst",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "127",
+      "TotalExperienceInYear": "10.7",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "42",
+    "LongestStay": "55",
+    "Summary": "Detail-oriented and highly analytical PEP & High Risk Analyst with 8 years of experience in the banking sector. Expertise in conducting thorough due diligence, identifying and mitigating financial crime risks, and ensuring compliance with regulatory requirements. Proven ability to manage high-risk client portfolios and provide actionable insights to mitigate potential threats.",
+    "ExecutiveSummary": "Emily has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Financial Analysts and Advisors. 'The candidate has a total experience of 8 YearsThe candidate has been working as a Senior PEP & High Risk Analyst at Barclays Bank for the last 5.7 years. ",
+    "ManagementSummary": "Emily doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 729ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Emily Thompson\nContact Information : \nAddress : 45 Birchwood Avenue, Manchester, M1 2XY, England\nEmail : emily.thompson@email.com\nPhone : +44 7123 987654\nLinkedIn : linkedin.com/in/emilythompson\n\nProfessional Summary : \nDetail-oriented and highly analytical PEP & High Risk Analyst with 8 years of experience in the banking sector. Expertise in conducting thorough due diligence, identifying and mitigating financial crime risks, and ensuring compliance with regulatory requirements. Proven ability to manage high-risk client portfolios and provide actionable insights to mitigate potential threats.\n\nEducation : \nUniversity of Manchester (Russell Group) \nMSc Financial Crime and Compliance Management, Merit\nGraduated : 2016\nUniversity of Leeds (Russell Group) \nBSc Criminology, Upper Second Class Honours\nGraduated : 2014\n\nProfessional Experience : \nBarclays Bank Senior PEP & High Risk Analyst\nManchester, UK\n2019 - Present\nLeading a team of analysts in conducting enhanced due diligence (EDD) on politically exposed persons (PEPs) and high-risk clients. Responsible for identifying, assessing, and mitigating financial crime risks to ensure regulatory compliance and protect the bank's reputation.\nKey Responsibilities : \nConducting comprehensive EDD on high-risk clients, including PEPs, and documenting findings.\nAnalyzing complex financial transactions to detect suspicious activities and potential risks.\nCollaborating with compliance and legal teams to ensure adherence to AML regulations and internal policies.\nDeveloping and implementing risk assessment frameworks to evaluate the risk level of new and existing clients.\nTraining junior analysts on risk assessment methodologies and compliance procedures.\nPreparing detailed reports and presenting findings to senior management and regulatory bodies.\nStaying updated on the latest AML regulations and best practices to enhance the bank's compliance framework.\nHSBC Bank PEP & High Risk Analyst\nManchester, UK\n2016 - 2019\nPerformed due diligence and risk assessments on high-risk clients, including PEPs. Identified potential financial crime risks and provided recommendations to mitigate them. Ensured compliance with AML regulations and internal policies.\nKey Responsibilities : \nConducting EDD on high-risk clients and documenting the findings in detailed reports.\nMonitoring and analyzing client transactions to identify unusual patterns and potential risks.\nCollaborating with internal stakeholders to ensure effective risk management and compliance.\nAssisting in the development and implementation of AML policies and procedures.\nPreparing and submitting reports to regulatory bodies as required.\nParticipating in regular training sessions to stay updated on regulatory changes and industry best practices.\nLloyds Banking Group AML Analyst\nManchester, UK\n2014 - 2016\nSupported the AML compliance team by conducting due diligence on new and existing clients. Assisted in identifying and mitigating financial crime risks and ensuring adherence to regulatory requirements.\nKey Responsibilities : \nConducting due diligence on new and existing clients to identify potential risks.\nAnalyzing client transactions for signs of money laundering and other financial crimes.\nAssisting in the development and implementation of AML policies and procedures.\nPreparing reports on findings and recommendations for senior management.\nCollaborating with other departments to ensure a holistic approach to risk management.\n\nSkills : \nEnhanced Due Diligence (EDD) \nAnti-Money Laundering (AML) Compliance\nFinancial Crime Risk Assessment\nRegulatory Reporting\nTransaction Monitoring\nRisk Mitigation Strategies\nTeam Leadership and Training\nExcellent Analytical and Research Skills\nStrong Communication and Presentation Skills\n\nCertifications : \nCertified Anti-Money Laundering Specialist (CAMS) \nInternational Diploma in Anti-Money Laundering (ICA) \nCertificate in Financial Crime Prevention\nCertified Financial Crime Specialist (CFCS) \n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Emily Thompson</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 45 Birchwood Avenue, Manchester, M1 2XY, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> emily.thompson@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 987654</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> linkedin.com/in/emilythompson</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Detail-oriented and highly analytical PEP & High Risk Analyst with 8 years of experience in the banking sector. Expertise in conducting thorough due diligence, identifying and mitigating financial crime risks, and ensuring compliance with regulatory requirements. Proven ability to manage high-risk client portfolios and provide actionable insights to mitigate potential threats.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Manchester (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">MSc Financial Crime and Compliance Management, Merit</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2016</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Leeds (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">BSc Criminology, Upper Second Class Honours</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2014</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Barclays Bank</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Senior PEP & High Risk Analyst</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2019 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Leading a team of analysts in conducting enhanced due diligence (EDD) on politically exposed persons (PEPs) and high-risk clients. Responsible for identifying, assessing, and mitigating financial crime risks to ensure regulatory compliance and protect the bank's reputation.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducting comprehensive EDD on high-risk clients, including PEPs, and documenting findings.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Analyzing complex financial transactions to detect suspicious activities and potential risks.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborating with compliance and legal teams to ensure adherence to AML regulations and internal policies.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developing and implementing risk assessment frameworks to evaluate the risk level of new and existing clients.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Training junior analysts on risk assessment methodologies and compliance procedures.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Preparing detailed reports and presenting findings to senior management and regulatory bodies.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Staying updated on the latest AML regulations and best practices to enhance the bank's compliance framework.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC Bank</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">PEP & High Risk Analyst</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2016 - 2019</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Performed due diligence and risk assessments on high-risk clients, including PEPs. Identified potential financial crime risks and provided recommendations to mitigate them. Ensured compliance with AML regulations and internal policies.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducting EDD on high-risk clients and documenting the findings in detailed reports.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Monitoring and analyzing client transactions to identify unusual patterns and potential risks.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborating with internal stakeholders to ensure effective risk management and compliance.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisting in the development and implementation of AML policies and procedures.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Preparing and submitting reports to regulatory bodies as required.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Participating in regular training sessions to stay updated on regulatory changes and industry best practices.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lloyds Banking Group</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">AML Analyst</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2014 - 2016</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Supported the AML compliance team by conducting due diligence on new and existing clients. Assisted in identifying and mitigating financial crime risks and ensuring adherence to regulatory requirements.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducting due diligence on new and existing clients to identify potential risks.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Analyzing client transactions for signs of money laundering and other financial crimes.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisting in the development and implementation of AML policies and procedures.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Preparing reports on findings and recommendations for senior management.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborating with other departments to ensure a holistic approach to risk management.</span></li></ul></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Enhanced Due Diligence (EDD) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Anti-Money Laundering (AML) Compliance</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Financial Crime Risk Assessment</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Regulatory Reporting</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Transaction Monitoring</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Risk Mitigation Strategies</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Team Leadership and Training</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Excellent Analytical and Research Skills</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strong Communication and Presentation Skills</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Anti-Money Laundering Specialist (CAMS) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">International Diploma in Anti-Money Laundering (ICA) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certificate in Financial Crime Prevention</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Financial Crime Specialist (CFCS) </span></li></ul><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

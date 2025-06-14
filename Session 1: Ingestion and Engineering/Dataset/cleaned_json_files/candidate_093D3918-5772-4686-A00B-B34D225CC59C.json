@@ -1,0 +1,590 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "John Herring.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:32:00",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "John Herring",
+      "TitleName": "",
+      "FirstName": "John",
+      "MiddleName": "",
+      "LastName": "Herring",
+      "FormattedName": "John Herring",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "English",
+        "LanguageCode": "en"
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "john.herring@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123456789",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 456789",
+        "FormattedNumber": "+44 7123 456789",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "",
+        "Url": ""
+      }
+    ],
+    "Address": [
+      {
+        "Street": "15 Oak Street",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M213AA",
+        "FormattedAddress": "15 Oak Street, Manchester, England, M213AA, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Construction",
+    "SubCategory": "Brickmasons, Blockmasons, and Stonemasons",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Manchester High School \r GCSEs in Mathematics, English, and Design Technology \r Graduated : 2017\r\r\rNVQ Level 2 in Trowel Occupations (Bricklaying) \r CSCS (Construction Skills Certification Scheme) Card \r First Aid Certification \r Manual Handling Training",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "Manchester High School",
+          "Type": "School",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 8
+        },
+        "Degree": {
+          "DegreeName": "GCSEs in Mathematics English and Design Technology",
+          "NormalizeDegree": "",
+          "Specialization": [
+            "Mathematics",
+            "English",
+            "Technology"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "2017",
+        "StartDate": "",
+        "EndDate": "31/12/2017",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "NVQ Level 2 in Trowel Occupations Bricklaying",
+          "NormalizeDegree": "",
+          "Specialization": [],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "Construction Skills Certification",
+          "NormalizeDegree": "Certificate",
+          "Specialization": [
+            "Construction"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "",
+    "SegregatedCertification": [],
+    "SkillBlock": "Bricklaying and Masonry : Proficient in laying bricks, blocks, and stones to construct or repair structures. \r Blueprint Interpretation : Skilled in reading and interpreting construction plans and blueprints. \r Mortar Mixing : Experienced in mixing mortar and grout for masonry work. \r Tool Handling : Competent in using hand and power tools for cutting, shaping, and laying bricks. \r Detail-Oriented : Strong attention to detail to ensure high-quality workmanship. \r Physical Stamina : Able to perform physically demanding tasks for extended periods. \r Safety Compliance : Knowledgeable about health and safety regulations and practices in construction.",
+    "SkillKeywords": "Attention To Detail,Strong Work Ethic,Knowledgeable,Supervision,Commitment,Learning,Health and Safety Regulations,The Construction Industry,Interpreting Blueprints,Construction Drawings,Quality Workmanship,Construction Plans,Developing Skills,Health and Safety,Site Preparation,Bricklaying,Power Tools,Masonry",
+    "SegregatedSkill": [
+      {
+        "Type": "SoftSkill",
+        "Skill": "Attention To Detail",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>attention to detail",
+        "Alias": "detail-oriented tasks, attention to details, attention for details, detail-minded, attention to-detail, detail oriented, meticulous, attending to details, detail-orientated, highly detail oriented, eye for details, pay attention to detail, highly detail-oriented, detail focused, paying close attention to detail, detailed-oriented, attention-to-detail, pays attention to detail, pays attention to details, detail minded, acute attention to detail, detail orientated, attention to the details, detail-orientation, detail driven, attentive to details, attentive to detail, a good eye for detail and high level of accuracy, detailed oriented, attend to detail, attend to details, detail orientation, detail-oriented, high attention to detail, attentiveness to details, attentiveness to detail, organized and detail oriented, eye for detail",
+        "FormattedName": "attention to detail",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strong Work Ethic",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>work ethic",
+        "Alias": "work ethics, positive work ethic, job ethic, strong work ethic",
+        "FormattedName": "work ethic",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Knowledgeable",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>knowledgeable",
+        "Alias": "knowledgeable skills",
+        "FormattedName": "knowledgeable",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Supervision",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>supervision",
+        "Alias": "staff supervision, supervising, supervisory, monitoring others, supervisory skills, supervisory of staff",
+        "FormattedName": "supervision",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Commitment",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>commitment",
+        "Alias": "committed team, commitments, team commitment, commitment to achieving result",
+        "FormattedName": "commitment",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Learning",
+        "Ontology": "Information>Statisticians>learning",
+        "Alias": "learnability, ability to learn, learning skills",
+        "FormattedName": "learning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Health and Safety Regulations",
+        "Ontology": "Construction>Health and Safety Engineers, Except Mining Safety Engineers and Inspectors>osha regulation",
+        "Alias": "scope of health and safety regulations, scope of health and safety standards, safety-regulation, safety standards, health and safety regulations, safety regulations, safety regulation, application of health and safety regulations, application of health and safety standards, adhering to safety standards, occupational safety and health administration standards, occupational safety and health administration standard, safety-standards, coverage of health and safety standards, coverage of health and safety regulations, occupational health and safety administration regulation, osha standards, osha-regulation-knowledge, osha-regulations-general, health, safety and hygiene regulation, health, safety and hygiene statutes, health, safety and hygiene legislation rules, health, safety and hygiene legislation, osha regulation knowledge, range of health and safety regulations, range of health and safety standards, osha safety, osha regulations general, osha regulations",
+        "FormattedName": "osha regulation",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "The Construction Industry",
+        "Ontology": "Construction>Civil Engineers>construction industry",
+        "Alias": "the construction industry, construction skills, construction business, construction process, construction project, construction processes, residential building construction, project construction, building process, building projects, general construction, building industry, building-industry, works construction, general-construction, construction industries",
+        "FormattedName": "construction industry",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Interpreting Blueprints",
+        "Ontology": "Construction>Drafters, All Other>blueprint reading",
+        "Alias": "read blue prints, reading-blueprints, interpreting blueprints, reading blue prints, reading-blue-prints, reading blueprints, read blueprint, read blueprints",
+        "FormattedName": "blueprint reading",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Construction Drawings",
+        "Ontology": "Construction>Architectural and Civil Drafters>construction drawing",
+        "Alias": "project drawing, issued for construction drawings, construction-drawing, plan drawings, project drawings, ifc drawings, issue for construction-drawing, issue for construction drawing, construction drawings",
+        "FormattedName": "construction drawing",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Quality Workmanship",
+        "Ontology": "Construction>Industrial Engineers>quality workmanship",
+        "Alias": "quality-workmanship",
+        "FormattedName": "quality workmanship",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Construction Plans",
+        "Ontology": "Construction>Construction and Building Inspectors>construction planning",
+        "Alias": "civil-planning, construction plan, construction plans, building construction plans, building construction plan, construction project plans, construction project plan, construction project planning, house construction planning, civil planning, renovation planning, civil plan, planning construction of buildings, planning construction of houses, construction-planning, plans for house construction, planning the construction of buildings, planning the construction of houses, plans for building construction, construction strategy, civil plans, plan construction of houses, plan construction of buildings",
+        "FormattedName": "construction planning",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Developing Skills",
+        "Ontology": "Finance and Insurance>Training and Development Specialists>skill development",
+        "Alias": "competence-development, competencies development, develop your skills, resource competence development, key competencies development, developing skills, develop new skills, development of competences, development of competencies, develop professional skills, develop skills, upskilling, develop specific skill areas, competence development, develop personal skills, competency development, competency development plan, develop the skillset, develop the skills, key competency development, develop leadership skills, develop interpersonal skills, coordinated skill development, skills development, employee competencies development, employee competency development, development skills",
+        "FormattedName": "skill development",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Health and Safety",
+        "Ontology": "Health Care and Social Assistance>Occupational Health and Safety Specialists>occupational safety and health",
+        "Alias": "health and�safety orientation, safety science, h&s management, employee health and safety orientation, health safety program, environmental & occupational health, safety health and welfare in the workplace, safety program, safety programs, health and safety program, health and safety-program, health and safety management, health and safety in the workplace, health and safety management-system, health and safety management system, health and safety, health and safety mgmt, safety oriented, promote health and safety, environmental and occupational health, environmental and occupational-health, ohs, safety-programs, health-and-safety-management-system, occupational health services, occupational health-services, occupational health-program, occupational health and safety, occupational health & safety, occupational health, occupational health and safety management, occupational health and safety management system, occupational health program, safety in the workplace, safety and health-management, safety and health orientation, safety and health management, safety and health in the workplace, safety and health mgmt, health safety and welfare in the workplace, occupational-health services, occupational-health-services, occupational-safety and health, occupational-safety-and health, occupational-safety-and-health, labor safety, managing health and safety, workplace health and safety, workplace health, people safety and health, manage health and safety",
+        "FormattedName": "occupational safety and health",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Site Preparation",
+        "Ontology": "Construction>Site Preparation Contractors>site preparation",
+        "Alias": "construction site prep, structure preparation",
+        "FormattedName": "site preparation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Bricklaying",
+        "Ontology": "Construction>Brickmasons, Blockmasons, and Stonemasons>bricklaying",
+        "Alias": "brick laying, laying brick",
+        "FormattedName": "bricklaying",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Power Tools",
+        "Ontology": "Manufacturing>All Other Miscellaneous Manufacturing>power tools",
+        "Alias": "power tool operation, power tool",
+        "FormattedName": "power tools",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Masonry",
+        "Ontology": "Construction>Building and Grounds Cleaning and Maintenance Occupations>masonry",
+        "Alias": "masonry construction",
+        "FormattedName": "masonry",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 48
+      }
+    ],
+    "Experience": "Smith & Sons Construction Bricklayer \r Manchester, UK \r 2020 - Present \r At Smith & Sons Construction, I work on various residential and commercial projects, laying bricks and blocks to create structures according to specifications. I collaborate closely with site managers and other tradespeople to ensure projects are completed on time and to a high standard. \r Key Responsibilities :  \r Laying bricks, blocks, and stones for walls, foundations, and other structures. \r Mixing mortar and grout and spreading it onto work surfaces. \r Interpreting blueprints and drawings to ensure accurate construction. \r Cutting bricks to size using hammers, chisels, and power tools. \r Repairing and maintaining existing brick structures. \r Ensuring all work complies with health and safety regulations. \r Assisting with site preparation and clean-up activities. \r Brown & Co. Builders Apprentice Bricklayer \r Manchester, UK \r  \r 2017 - 2020 \r During my apprenticeship at Brown & Co. Builders, I learned the fundamentals of bricklaying under the supervision of experienced bricklayers. I gained hands-on experience in various aspects of masonry work, including laying bricks, mixing mortar, and interpreting construction plans. \r Key Responsibilities :  \r Assisting senior bricklayers with brick and block laying tasks. \r Mixing and applying mortar to work surfaces. \r Learning to read and interpret construction drawings and blueprints. \r Preparing and maintaining work areas and tools. \r Following health and safety guidelines on site. \r Developing skills in measuring, cutting, and shaping bricks.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "",
+          "FormattedName": "",
+          "ConfidenceScore": 0
+        },
+        "JobProfile": {
+          "Title": "Smith & Sons Construction Bricklayer",
+          "FormattedName": "bricklayer",
+          "Alias": "mason, bricklaying contractor, brick stacker, brick layer, brick laying worker, brickmaker, auxiliary mason, brick laying labourer",
+          "RelatedSkills": [
+            {
+              "Skill": "brick masonry",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "bricklaying",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "horizontal alignment",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "building material",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "operate masonry power saw",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "manage heavy equipment",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "concrete brick manufacturing",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "",
+          "CountryCode": {
+            "IsoAlpha2": "",
+            "IsoAlpha3": "",
+            "UNCode": ""
+          }
+        },
+        "JobPeriod": "2020 - till",
+        "FormattedJobPeriod": "2020 to till",
+        "StartDate": "01/01/2020",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At Smith & Sons Construction, I work on various residential and commercial projects, laying bricks and blocks to create structures according to specifications. I collaborate closely with site managers and other tradespeople to ensure projects are completed on time and to a high standard. \n Key Responsibilities : \n Laying bricks, blocks, and stones for walls, foundations, and other structures. \n Mixing mortar and grout and spreading it onto work surfaces. \n Interpreting blueprints and drawings to ensure accurate construction. \n Cutting bricks to size using hammers, chisels, and power tools. \n Repairing and maintaining existing brick structures. \n Ensuring all work complies with health and safety regulations. \n Assisting with site preparation and clean-up activities.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Brown & Co.",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Builders Apprentice Bricklayer",
+          "FormattedName": "bricklayer",
+          "Alias": "mason, bricklaying contractor, brick stacker, brick layer, brick laying worker, brickmaker, auxiliary mason, brick laying labourer",
+          "RelatedSkills": [
+            {
+              "Skill": "brick masonry",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "bricklaying",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "horizontal alignment",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "building material",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "operate masonry power saw",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "manage heavy equipment",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "concrete brick manufacturing",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2017 - 2020",
+        "FormattedJobPeriod": "2017 to 2020",
+        "StartDate": "01/01/2017",
+        "EndDate": "31/12/2020",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "During my apprenticeship at Brown & Co. Builders, I learned the fundamentals of bricklaying under the supervision of experienced bricklayers. I gained hands-on experience in various aspects of masonry work, including laying bricks, mixing mortar, and interpreting construction plans. \n Key Responsibilities : \n Assisting senior bricklayers with brick and block laying tasks. \n Mixing and applying mortar to work surfaces. \n Learning to read and interpret construction drawings and blueprints. \n Preparing and maintaining work areas and tools. \n Following health and safety guidelines on site. \n Developing skills in measuring, cutting, and shaping bricks.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "",
+    "JobProfile": "Smith & Sons Construction Bricklayer",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "91",
+      "TotalExperienceInYear": "7.7",
+      "TotalExperienceRange": "5-8 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "45",
+    "LongestStay": "48",
+    "Summary": "Skilled and reliable bricklayer with 7 years of hands-on experience in the construction industry. Proficient in laying bricks, blocks, and stones to construct or repair walls, foundations, partitions, arches, and other structures. Known for strong work ethic, attention to detail, and commitment to high-quality workmanship.",
+    "ExecutiveSummary": "John has an experience in the domain of 'Construction', particularly in the sub-domain of 'Brickmasons, Blockmasons, and Stonemasons. 'The candidate has a total experience of 7 Years",
+    "ManagementSummary": "John doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 577ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "John Herring\nContact Information : \nAddress : 15 Oak Street, Manchester, M21 3AA, England\nEmail : john.herring@email.com\nPhone : +44 7123 456789\n\nProfessional Summary : Skilled and reliable bricklayer with 7 years of hands-on experience in the construction industry. Proficient in laying bricks, blocks, and stones to construct or repair walls, foundations, partitions, arches, and other structures. Known for strong work ethic, attention to detail, and commitment to high-quality workmanship.\n\nEducation : Manchester High School\nGCSEs in Mathematics, English, and Design Technology\nGraduated : 2017\n\nProfessional Experience : \nSmith & Sons Construction Bricklayer\nManchester, UK\n2020 - Present\nAt Smith & Sons Construction, I work on various residential and commercial projects, laying bricks and blocks to create structures according to specifications. I collaborate closely with site managers and other tradespeople to ensure projects are completed on time and to a high standard.\nKey Responsibilities : \nLaying bricks, blocks, and stones for walls, foundations, and other structures.\nMixing mortar and grout and spreading it onto work surfaces.\nInterpreting blueprints and drawings to ensure accurate construction.\nCutting bricks to size using hammers, chisels, and power tools.\nRepairing and maintaining existing brick structures.\nEnsuring all work complies with health and safety regulations.\nAssisting with site preparation and clean-up activities.\nBrown & Co. Builders Apprentice Bricklayer\nManchester, UK\n\n2017 - 2020\nDuring my apprenticeship at Brown & Co. Builders, I learned the fundamentals of bricklaying under the supervision of experienced bricklayers. I gained hands-on experience in various aspects of masonry work, including laying bricks, mixing mortar, and interpreting construction plans.\nKey Responsibilities : \nAssisting senior bricklayers with brick and block laying tasks.\nMixing and applying mortar to work surfaces.\nLearning to read and interpret construction drawings and blueprints.\nPreparing and maintaining work areas and tools.\nFollowing health and safety guidelines on site.\nDeveloping skills in measuring, cutting, and shaping bricks.\n\nSkills : \nBricklaying and Masonry : Proficient in laying bricks, blocks, and stones to construct or repair structures.\nBlueprint Interpretation : Skilled in reading and interpreting construction plans and blueprints.\nMortar Mixing : Experienced in mixing mortar and grout for masonry work.\nTool Handling : Competent in using hand and power tools for cutting, shaping, and laying bricks.\nDetail-Oriented : Strong attention to detail to ensure high-quality workmanship.\nPhysical Stamina : Able to perform physically demanding tasks for extended periods.\nSafety Compliance : Knowledgeable about health and safety regulations and practices in construction.\n\nQualifications : \nNVQ Level 2 in Trowel Occupations (Bricklaying) \nCSCS (Construction Skills Certification Scheme) Card\nFirst Aid Certification\nManual Handling Training\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">John Herring</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 15 Oak Street, Manchester, M21 3AA, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> john.herring@email.com</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 456789</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> Skilled and reliable bricklayer with 7 years of hands-on experience in the construction industry. Proficient in laying bricks, blocks, and stones to construct or repair walls, foundations, partitions, arches, and other structures. Known for strong work ethic, attention to detail, and commitment to high-quality workmanship.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Manchester High School</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">GCSEs in Mathematics, English, and Design Technology</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2017</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Smith & Sons Construction</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Bricklayer</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2020 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">At Smith & Sons Construction, I work on various residential and commercial projects, laying bricks and blocks to create structures according to specifications. I collaborate closely with site managers and other tradespeople to ensure projects are completed on time and to a high standard.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Laying bricks, blocks, and stones for walls, foundations, and other structures.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Mixing mortar and grout and spreading it onto work surfaces.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Interpreting blueprints and drawings to ensure accurate construction.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Cutting bricks to size using hammers, chisels, and power tools.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Repairing and maintaining existing brick structures.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ensuring all work complies with health and safety regulations.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisting with site preparation and clean-up activities.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Brown & Co. Builders</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Apprentice Bricklayer</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2017 - 2020</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">During my apprenticeship at Brown & Co. Builders, I learned the fundamentals of bricklaying under the supervision of experienced bricklayers. I gained hands-on experience in various aspects of masonry work, including laying bricks, mixing mortar, and interpreting construction plans.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisting senior bricklayers with brick and block laying tasks.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Mixing and applying mortar to work surfaces.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Learning to read and interpret construction drawings and blueprints.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Preparing and maintaining work areas and tools.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Following health and safety guidelines on site.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developing skills in measuring, cutting, and shaping bricks.</span></li></ul></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Bricklaying and Masonry: Proficient in laying bricks, blocks, and stones to construct or repair structures.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Blueprint Interpretation: Skilled in reading and interpreting construction plans and blueprints.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Mortar Mixing: Experienced in mixing mortar and grout for masonry work.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Tool Handling: Competent in using hand and power tools for cutting, shaping, and laying bricks.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Detail-Oriented: Strong attention to detail to ensure high-quality workmanship.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Physical Stamina: Able to perform physically demanding tasks for extended periods.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Safety Compliance: Knowledgeable about health and safety regulations and practices in construction.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Qualifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">NVQ Level 2 in Trowel Occupations (Bricklaying) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">CSCS (Construction Skills Certification Scheme) Card</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">First Aid Certification</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Manual Handling Training</span></li></ul><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

@@ -1,0 +1,628 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Doug Ross - CV.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "07/03/2025 2:36:55",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Doug Ross",
+      "TitleName": "",
+      "FirstName": "Doug",
+      "MiddleName": "",
+      "LastName": "Ross",
+      "FormattedName": "Doug Ross",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "doug.ross@example.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+441234567895",
+        "ISDCode": "+44",
+        "OriginalNumber": "1234 567895",
+        "FormattedNumber": "+44 1234 567895",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "",
+        "Url": ""
+      }
+    ],
+    "Address": [
+      {
+        "Street": "789 Maple Street",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "789 Maple Street, Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Financial Analysts and Advisors",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "BSc in Economics University of Manchester, Manchester, UK \r September 2018 - June 2022",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "Manchester",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "UK",
+            "CountryCode": {
+              "IsoAlpha2": "GB",
+              "IsoAlpha3": "GBR",
+              "UNCode": "826"
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc in Economics",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Economics"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "09/2018 to 06/2022",
+        "StartDate": "01/09/2018",
+        "EndDate": "30/06/2022",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "",
+    "SegregatedCertification": [],
+    "SkillBlock": "Financial Analysis : Budgeting, Variance analysis\r\r\r\r\rExcel \r Analytical Skills : Data analysis \r Communication : Presentation, Stakeholder communication",
+    "SkillKeywords": "Analytical Skills,Communication,Presentation,Stakeholder Communication,Professional Development,Financial Data Analysis,Regulatory Requirements,Financial Performance,Ensuring Compliance,Banking Operations,Financial Analysis,Financial Services,Financial Software,Business Planning,Internal Policies,Senior Management,Variance Analysis,Cross-Functional,Financial Models,Software Tools,Data Analysis,Budgeting,Excel,Maple",
+    "SegregatedSkill": [
+      {
+        "Type": "SoftSkill",
+        "Skill": "Analytical Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>analytical skill",
+        "Alias": "researching skills, ability to research, proven analytical skills, excellent analytical, dealing with analysis, proven aptitude to analyze, logical and analytical skills, system analytical skills, analyzing skills, analytical background, analytical abilities, analytical ability, research skills, analytic skills, analytical skills, investigative skills, analysis skills, analytical awareness, analytical-and interpretive skills, strong analytical planning, strong analytical ability, ability to interpret results, demonstrated strong analytical skills, analysing skills, search skills, strong analysis capacity, searching skills, analytical and troubleshooting skill, organizational analytical skills, analytics skills, investigation skills, analytical and interpretive skill, analytical and interpretive skills, analytical and inherent skills, analytical and problem solving skills, analytical and problem-solving, highly analytical",
+        "FormattedName": "analytical skill",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, clear communication, able to convey information, able to convey information clearly, clear & concise communication, communications skills, excellent communicator, excellent communication, excellent communication skills, communicated effectively, clear verbal communication, communicational skills, communicating skill, outstanding-communication, clear and concise communication, communicate effectively, communicate effectively with guests, communicate, develop strong communication, effective-communication, developing effective communication, communications, great communication, great communications skills, great communicators, great communication skills, great communicator, effective interactions, effective interaction, effective communication is paramount, effective communicator, effective communication, effective communication skills, able to present ideas, maintaining a strong communication, communicating with supervisors, communicating with persons outside, clear verbal language, communicative, ability to interact effectively, communication with colleagues, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, effectively communicates, effectively communicating, good communication skills, good communication, interact effectively, maintaining strong communication, efficient communication, communicated regularly, communicating effectively, initiated timely coordination, clear-communication, openly expresses ideas, engaging conversation, outstanding communication, able to communicate, able to communicate effectively, develop effective communication skills, communication abilities, strong communication skills, strong communicator, high impact communication, communicates with colleagues, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Presentation",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>presentation",
+        "Alias": "presentation capabilities, presentation skills, presenting skills, excellent presentation skills, presentations skills, presents new ideas to senior management team, presentations",
+        "FormattedName": "presentation",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Stakeholder Communication",
+        "Ontology": "Arts, Entertainment, and Recreation>Public Relations Specialists>external communication",
+        "Alias": "public communication, business analysis communication, stakeholder communications, stakeholder communication, external market communication, communication with stakeholders, communication skills with stakeholders, external communications strategy, external communications, external communication strategy, external market-communication, external marketing communications, external marketing communication, business-analysis-communication, external mktg communication",
+        "FormattedName": "external communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Professional Development",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>career development",
+        "Alias": "internal career development, training and career development, professional-learning, employee career-development, career advancement, role development, workforce progression, career path planning, professional learning, career progression plan, career progression, career progression planning, career management plan, career management planning, professional development assistance, professional development, professional development process, professional-development, career preparation and development, career preparation, career-pathing, personal career development, professional-training, career-progression-plan, career pathing, career-preparation, career growth, career-advancement, employee career development, growth opportunities, career-development, career development training, career development theories, career development-programs, career development process, career development program, career development programs, career development planning, career development trainings, career development theory, career development plan, responsibilities development, professional-growth, professional training, professional growth strategies, professional growth, professional growth and development, career site development",
+        "FormattedName": "career development",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Data Analysis",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>financial performance analysis",
+        "Alias": "analysing financial performance of company, analysing financial data, review financial performance of a company, investigate financial performance of a company, corporate performance analysis, assessment of the financial condition of companies, evaluates financial information, analyzing income and expenditure statements, financial information analysis, financial results examination, finance reporting and-analysis, finance analysis reporting, business performance research, business performance measurement, business performance monitoring, business performance optimization, business performance assess, business performance analysis technique, business performance examination, business performance analysis, business performance diagnosis, business performance tracking, business performance metrics, business performance inspection, business performance review, business performance assessment, business performance improvement, business performance investigation, business performance analytics, business performance appraisal, business performance evaluation, business performance measure, business performance benchmarking, business performance audit, business performance survey, financial record analysis, analyse company financial performance, financial data analysis, evaluate financial information, evaluate financial performance of a company, financial data visualization, financial data visualizations, financial reporting and analysis, analysis financial record, analyse financial performance of a company, analyse financial performance of companies, analyse financial information, observed financial performance, visualization financial data, business metrics analysis, analyze financial data, analyze financial performance of a company, economic performance evaluation, financial visualization, financial analysis reporting, financial analysis and reporting, business effectiveness analysis, finance performance analysis, financial metrics assessment, business strategy performance analysis, business efficiency analysis, financial health assessment, examine financial performance of a company, financial performance analytics, financial performance evaluation, analyze ?nancial data, analytical studies of business performance, financial-performance analysis, financial-data visualization, monetary performance analysis, improve business performance",
+        "FormattedName": "financial performance analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 21
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Requirements",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "observing regulations, commercial compliance, commercial compliance process, comply with legal laws, comply with legal legislation, comply with legal statutes, comply with legal regulations, comply with legal rules, compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulation, compliance regulations, regulatory submissions, regulatory submission, regulatory knowledge, internal compliance, internal compliance system, regulatory standards, regulatory standard, handling statutory matters, safety compliance, regulatory guidelines, comply with a legal regulation, global regulatory compliance, adhere to an departmental guidelines, regulatory adherence, regulatory-requirements, legal regulation compliance, corporate compliance, following construction and government standards, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, operations regulatory, adhering to departmental guidelines, regulatory rules, legal compliance, statutory compliance, statutory compliances, governmental compliance, international regulatory compliance, observes regulations, government compliance, standard compliance, meet compliance requirements, complying with legal regulations, external compliance, manage regulatory compliance, business compliance, complying with regulations, investment-compliance, compliance technical, compliance investment, internal-compliance, regulatory conformance, investment compliance, regulatory remediation, ensuring compliance with regulations, regulating rules, compliance in business, managed regulatory compliance, operational regulations, ensures statutory procedures, operational-regulations, compliance with the requirements, compliance with the rules, compliance with current legislation, compliance with the regulations, compliance with safety standards, compliance with statutory requirements, compliance with safety regulations, compliance with statutory, compliance with regulatory requirements, compliance with regulations, compliance with legislation, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 21
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Performance",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>financial performance",
+        "Alias": "improved financial performance, monitor financial performance, monitoring fiscal performance, financial profitability, business profitability, financial performance monitoring, financial performance improvement, business-profitability, company performance",
+        "FormattedName": "financial performance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2023",
+        "ExperienceInMonths": 17
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensuring Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>ensuring compliance",
+        "Alias": "guarantee compliance with policies, compliance assurance, compliance-assurance, assures compliance, ensures compliance, make sure policies are compliant, ensure policy compliance, assurance of compliance, certify compliance with policies, ensure compliance, ensure compliance with policies, ensure compliance with legislation, ensure compliance with policy, ensuring compliance with the rules, ensuring compliance with policies",
+        "FormattedName": "ensuring compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 21
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Banking Operations",
+        "Ontology": "Management of Companies and Enterprises>Financial Managers>bank management",
+        "Alias": "bank operations, banking operations coordination, banking operations leadership, banking operations, banking operations management, banking operations mgmt., banking operations oversight, bank governance, directing the operations of banks, banking-operations-management, bank leadership, bank operations supervision, bank operations management, bank system administration, bank oversight, banking leadership, banking executive direction, banking executive management, banking management, banking project management, banking project mgmt, manage banking arrangements, direct the operations of banks, bank development, financial institution management, financial institution mgmt, management bank, manage banking, bank administration and control, bank administration, directs and co-ordinates the activities of financial institutions, managing corporate bank, maintain corporate bank, maintaining bank, banking services management, banking services direction, manage corporate bank, banking-project-management, operations banking, bank mgmt., directs and coordinates the activities of financial institutions",
+        "FormattedName": "bank management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2023",
+        "ExperienceInMonths": 17
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Analysis",
+        "Ontology": "Finance and Insurance>Accountants and Auditors>account analysis",
+        "Alias": "account examination, general leger analysis, account investigation, accounts measurably, bank statement analysis, balance analysis, analyses the financial position of clients, account audit, research on banks, accounting-measurement, account appraisal, technical accounting research, financial statement analysis, financial statement processing, research and analyze accounts, account review, finance analysis, account analysis process, identifying accounts, account-analysis, account research, financial status checking, finance calculations, finance calculation, accounting report interpretation, accounting-analysis, accounting-analyse, determining accounts, examining financial records, gl analysis, account assessment, finance analytics, financial analytics, analyzing accounting options, analyzing account, analyzing account information, balance sheet reviewing, balance sheet review, general ledger-analysis, evaluating financial, analyzed financial data, g/l analysis, accounting research, finance data analysis, finance data analytics, financial and business analysis, business finance analytics, financial calculations, research in banking and finance, research in banking, assesses the financial circumstances of claimants, bank analysis, financial research, financial service analytics, financial services analytics, financial-statement analysis, analysis of balance sheet, nominal ledger analysis, determine accounts, analysis of general ledger, finance evaluation, general ledger assessment, general ledger analysis, general ledger account analysis, financial examination, accounting-research, balance-sheet-analysis, analysis of profit and loss statements, analyse financial, balance -sheet-analysis, balance sheet examination, finance statement analysis, accounting analysis, accounting measurement, analysis general ledger, ledger analysis, account scrutiny, financial position analysis, financial analyses, financial analysis and valuation, financial analysis, assessing balance sheets, general ledger monitoring, banking research, analyze accounts, financial industry research, analyse g/l, financial insights, financial insight, analyses financial results, analyzed the balance sheet, analyzed the balance sheet and income statement, financial accounting research, financial-analysis, scrutinizing of ledgers, audits accounts, account measurement, analysis of accounting, analysis of accounting data, analysis of accounts, analysis of account, analysis of business financial statements, examine financial records, analyzing financial, analyzing financial statements, oversee financial analysis, account evaluation, account classification, analyse balance, financial evaluations, financial evaluation, balance sheet analytics, balance sheet analysis, analyze current and past financial data, analysis of financial results, analysis of financial, analysis of financial documentation, analysis of financial information systems, analysis of financial reporting, analysis of financial statements",
+        "FormattedName": "account analysis",
+        "Evidence": "SkillSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 38
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Services",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & financial services, finance related services, finance service, investment-services, banking activity, financing operations, banking-services, investor�servicing, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, investment services, credit services, banking activities, banking-activities, banking services, investment related services, banking and financial services, banking and finance, banking and-finance, investor servicing, financial svcs, finance service provision, finance services, credit-services, financial industry, investor service�, investor services, investor service, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Software",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial management software",
+        "Alias": "treasury banking app, financial platform, treasury management soft, treasury management software, treasury management system, finance management software, finance department software, banking operations software, cash application, cash applications, financial data reporting software, financial information-system, financial information system, financial information systems, financial statement software, finance reporting tools, finance reporting tool, financial application, financial application system, financial applications, financial applications management, accounting reporting software, treasury systems, financial record software, banking software suite, banking software, finance information system, banking management software, managing finance management system, banking system software, corporate finance software, wealth management software, financial reporting soft., financial reporting software, financial report generation software, financial and business management system, cash management system, cash management soft, cash management software, cash management tool, cash management systems, financial services soft, financial services tool, financial services software, financial service management system, financial software information systems, financial software management, financial software, financial software products, banking automation software, banking soft., finance business systems, finance platform, cash flow management software, finance software, money management software, financial management tool, financial management system, financial management soft., financial tracking software, financial system, financial systems, financial systems management, financial system software, financial department software, financial-reporting-software, financial processing management system, banking applications, banking application, banking application software, banking systems, banking solutions software, finance application, finance applications, financial app, banking technology platform, banking system, finance it system",
+        "FormattedName": "financial management software",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2023",
+        "ExperienceInMonths": 17
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Planning",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business planning",
+        "Alias": "business-development-planning, planned business process, commercial plan, organization strategies, formulation business plan, business-strategy-concepts, business-strategy, corporate organizational strategy, develop plans for business, formulated business plan, business plan formulation, business plans management, planning organization, corporate strategy, corporate strategic planning, enterprise-planning, business development prospects, business development plans, business development planning, business-blueprinting, business-blueprint, building new business development strategy, business performance planning, business performance plan, business-proposal, build customer proposals, business requirements scenario, commercial plans, develop overall business strategy, business proposals, business proposal, strategies for enterprise and business, create business plans, business plan-formulation, drafting business plans, company strategy, business blueprinting, business blueprint, business blueprinting process, business blueprint process, business planning process, business planning & development, business planning operations, business planning and development, formulation of business plan, commercial-direction, business scenario, strategic business, commercial planning, organizational-planning, business plans, generate business plans, commercial strategy, prepare the business plan, business-scenario, organizational-strategy, develop business plans, develop business plan, organizational strategy, organizational strategies, develop-business- plans, develop-business plans, enterprise strategy, organisation strategies, enterprise plan, corporate planning and analysis, corporate planning, produce business plans, creating business plans, corporate-strategy, execution of business plans, draw up the business plan, developing business plans, develop the business plan, business plan, business-planning, companys strategy, business plan development, business strategy, business strategy design, business strategy concepts, business strategizing, business strategies, business strategy-concepts, organizational planning process, organizational plan, organizational planning, business-plan-formulation, preparing business plan, preparation of business plans, business process blueprinting, business processes planned, implemented business plan, corporate-planning, organization planning, organization-strategy, commercial direction, commercial directing, enterprise planning, enterprise planning methodology, commercial-planning",
+        "FormattedName": "business planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2023",
+        "ExperienceInMonths": 17
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Internal Policies",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>company policy",
+        "Alias": "corporate-policy, corporate-policies, policies and procedures, business policy, internal policy, maintaining company policies, organization policy, administrative policies, company guidelines, workplace policies, workplace policy, corporate policy, company policy and procedures, corporate policies, company policies and procedures, company policies, organisational policies, company-policy, organizational policy, organizational policies, business policies, internal policies, business policy processes, business policy process, policies & procedures, policies and-procedures, organisation policy",
+        "FormattedName": "company policy",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 21
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Senior Management",
+        "Ontology": "Management of Companies and Enterprises>Top Executives>senior management",
+        "Alias": "top-management, front line mgmt, top level management, senior and executive level management, front line management, senior mgmt, senior it management, frontline-management, executive level management, executive management, c level management, senior management functions, senior management function, upper management, frontline mgmt, top management system, top mgmt, sr management, exec mgmt, it executive management, top management, senior-management, frontline management",
+        "FormattedName": "senior management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 21
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Variance Analysis",
+        "Ontology": "Finance and Insurance>Accountants and Auditors>account analysis>variance analysis",
+        "Alias": "analyzing of variations, budget variance analysis, variance processing, balance sheet variance analysis, balance sheet variance-analysis, variance measurement, financial statement variance analysis, variance explanations, variance explanation, cost variance analysis, routine variance analysis, variance-reporting, measures of variance, analyze variance, balance-sheet-variance-analysis, monitoring variance, monitoring variances, variances monitoring, variance reporting, analysis variation, financial variance analysis, monthly variance analysis, operational variance analysis, gl variance analysis, deviation analysis, variance monitoring",
+        "FormattedName": "variance analysis",
+        "Evidence": "SkillSection",
+        "LastUsed": "31/05/2023",
+        "ExperienceInMonths": 17
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cross-Functional",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>cross functional skills",
+        "Alias": "manage cross functional project teams, cross - functional team management, leading cross-functional teams, leading cross-functional teams effectively, management of multi-disciplinary teams, build effective cross functional teams, leading cross functional teams, worked within multi-discipline team, working across cross-functional teams, functional teams management, cross functional mgmt, cross functional-management, cross functional team management, cross functional relationship-building, cross functional relationship building, cross functional team facilitation, cross functional team-leadership, cross functional team building, cross functional communications, cross functional team leadership, cross functional assistance, cross functional management, cross-functional team-building, cross-functional- management, cross-functional team management, cross-functional skills, cross-functional relationship building, cross-functional- team management, cross-functional problem solving, cross-functional team leadership, cross-functional- relationship building, cross-functional management, cross-functional relationship management, cross-functional- skills, cross-functional, crossfunctional communication, crossfunctional problem solving, crossfunctional team leadership, global cross-functional team leadership, manage multidisciplinary teams, building a cross-functional team",
+        "FormattedName": "cross functional skills",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 21
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Models",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>financial modeling",
+        "Alias": "market risk model development, financial model development, financial modelings, investment modeling, financial-or-business-modeling, budget models, risk modelling, budget-modeling, creating financial models, finance modelling, business valuation modeling, develop financial models, business finance modelling, financial-modeling, risk models, financial models, financial or business modeling, budget modeling, risk modeling, creation of financial models, financial risk modelling, financial risk modeling, developing financial models, financial-risk-modeling, valuation models, financial data modelling, valuation modeling, budget modelling, financial modelling, finance data models, financial model",
+        "FormattedName": "financial modeling",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2023",
+        "ExperienceInMonths": 17
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Software Tools",
+        "Ontology": "Information>Software Developers, Applications>developer tools",
+        "Alias": "software programming tool, software tools, tool development, web platform development software, tools development, sw tools, software design tools, web developer tools, technology tools, technical tools, software development tools, software development tool, development tool, development tools, programming software, programming soft., system tool development, programming tools, programming tool, web development tools, tools software, technological tools",
+        "FormattedName": "developer tools",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, analyzing and interpreting data, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, reviews information, analyzing the data, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, analyses information, informatics analysis, insights generation, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, undertakes analyses of data, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, evaluates information, evaluates information sources, analytics data services, insight generation, insight generation process, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, spreadsheet analytics, analyze data, data review, data analysis and interpretation, review and analyze data, data analysis process, review data, assess facts, data analytical, informative analysis, data-analysis techniques, insight- generation, data-analysis and interpretation, data-analysis and-interpretation, data quality investigation, data analysis test, data analysis techniques, analyzes data, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, analyses of data, data-analysis- techniques, big data insight, technical data analysis, data-analysis- and interpretation, data-quality investigation, insight-generation",
+        "FormattedName": "data analysis",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Budgeting",
+        "Ontology": "Finance and Insurance>Budget Analysts>budgeting process",
+        "Alias": "budget setting, workplace budgeting, drawing up a budget, expense budget management, managed budgeting, large budget management, budgetary management, manage budgets, budget-process, making budgets, management of budgets, department budgeting, department budget management, budgetary processes, manage budget, managing budgets, manage the monthly budget, creating budgets for business units, creating budgets, draw up a budget, create and manage the budget, create and manage budget, maintaining budgets, maintaining budget, budget management, budgeting, manage overall budgets, develop budgeting, budget mgmt., budget process, draws up budgets, maintain and adhere to departmental budget, manage a departmental budget, creating and managing budgets, budget processes, manage division budget, departmental budget management, administer budgets, manage departmental budgets, manage department budgets, budget mgmt, managed budget, managing division budget, budget maintenance, managing budget, expenditure process, expenditure processes, managing a monthly budget, federal budget process, budget handling, managed budgets, managing large budgets, large budget mgmt, developing budgets",
+        "FormattedName": "budgeting process",
+        "Evidence": "SkillSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 38
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Excel",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Administrative Services>microsoft excel",
+        "Alias": "excel 4, windows excel, platform excel, excel 2000, advanced ms excel, microsoft technology ms excel, excel 2002, microsoft excel 2016, microsoft excel 2004 for mac, microsoft excel 2010, microsoft excel 2007, microsoft excel 2013, microsoft excel spreadsheet software, microsoft excel 2001 for mac, microsoft excel xp, microsoft excel 97 for windows, microsoft excel 2003, microsoft excel 2019, microsoft excel v2.0, microsoft excel 2000, microsoft excel soft., microsoft excel v5.0, microsoft excel software, microsoft excel 2002, ms excel 2004 for mac, ms excel 2003, microsoft software excel, pc software microsoft excel, ms excel 97 for windows, software excel, microsoft .excel, excel 95, excel 2004 for mac, advanced microsoft excel, advanced excel, ms excel 2000, microsoft products ms excel, excel platform, ms excel 2001 for mac, excel xp, ms-excel, excel 3, microsoft office excel, excel, excel 2010, ms excel 2010, ms excel, ms excel 2002, microsoft suite excel, excel skills, excel 2, excel 5, excel 2001 for mac, ms. excel, excel 97, excel software, excel 97 for windows, excel 2003, internet microsoft excel, excel 2016",
+        "FormattedName": "microsoft excel",
+        "Evidence": "SkillSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 21
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maple",
+        "Ontology": "Information>Mathematical Science Occupations, All Other>maple",
+        "Alias": "soft maple, maple software, maple soft",
+        "FormattedName": "maple",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Junior Finance Analyst ABC Bank, Manchester, UK \r June 2023 - Present \r Assisted in financial analysis and budgeting for various banking projects. \r Utilized Excel for financial data analysis and reporting. \r Prepared financial reports and presentations for senior management. \r Collaborated with cross-functional teams to support decision-making processes. \r Assisted in ensuring compliance with regulatory requirements and internal policies. \r Finance Intern XYZ Financial Services, Manchester, UK \r January 2022 - May 2023 \r Supported financial analysis and budgeting for banking operations. \r Developed basic financial models to support business planning and strategy. \r Conducted variance analysis and provided insights to improve financial performance. \r Prepared financial reports and presentations for stakeholders. \r Supported the implementation of financial software tools and systems.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "ABC Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Junior Finance Analyst",
+          "FormattedName": "Junior financial analyst",
+          "Alias": "operations and financial analyst, analyst financial advisory, analyst financial operations, analyst financial, analyst client financial, financial risk advisory analyst, finance management analyst, analyst finance, public debt analyst, client finance analyst, analyst deals  and  corporate finance, analyst corporate finance, analyst corporate financial, analyst, financial analysis, financial statements analyst, analyst-client finance, analyst of client finance, analyst - finance, analyst - financial operations, analyst - financial group, analyst - finance and operations, finance analyst, client finance-analyst, analyst project finance, corporate finance - analyst, corporate financial analyst, corporate financial-analyst, corporate finance summer analyst, corporate finance analyst, administration and finance department analyst, analyst-finance, analyst, operations and finance, financial service analyst, project finance analyst, finance business operations analyst, financial advisory analyst, analyst, finance, analyst- strategy  and  corporate finance, analyst-finance ops., services financial analyst, financing analyst, project financial analyst, department financial analyst, client financial analyst, public finance analyst, financial project analyst, finance -analyst, operational financial analyst, analyst of financial, financial analyst- service, financial analyst ops., financial analyst support, financial analyst, services, financial analyst corporate banking, financial analyst, service, financial analyst-corporate finance, financial analyst - organisation, financial analyst - service, financial analysis analyst, financial analyst for division, financial analyst, operations, financial analyst corporate accounting, financial analyst- corporate finance, financial analyst for service, financial analyst organisation, financial analyst of organisation, financial analyst operation, financial analyst service, financial analyst division, financial analyst corporate finance, financial analyst corporate planning and control, finance services analyst, corporate - financial analyst, operations financial analyst, operations finance analyst, analyst, corporate finance, finance support analyst, professional services financial analyst, financial accounting analyst, financial business analyst, financial controlling analyst, analyst of the corporate finance department, financial clearance analyst, financial solution analyst, analyst in finance, analyst in financial analysis, financial operations analyst, financial operation analyst, financial operating analyst, finance process and ops analyst, staff financial analyst, corporate advisory analyst",
+          "RelatedSkills": [
+            {
+              "Skill": "accounting principles",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "financial data",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "financial performance",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "portfolio analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "microsoft excel",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "variance analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "ratio analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "capital structure planning",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "financial closure",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "historical data analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "financial literacy",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "financial problem solving",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "financial forecasting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "bank guarantee",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "financial reporting",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "time value of money understanding",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "intellectual curiosity",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "account analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "financial modeling",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "vertical analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "budgeting process",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "June 2023 - till",
+        "FormattedJobPeriod": "06/2023 to till",
+        "StartDate": "01/06/2023",
+        "EndDate": "07/03/2025",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Assisted in financial analysis and budgeting for various banking projects. \n Utilized Excel for financial data analysis and reporting. \n Prepared financial reports and presentations for senior management. \n Collaborated with cross-functional teams to support decision-making processes. \n Assisted in ensuring compliance with regulatory requirements and internal policies.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "XYZ Financial Services",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Finance Intern",
+          "FormattedName": "finance intern",
+          "Alias": "intern in finance dept., intern in finance department, intern in finance operations, finance management trainee, finance management intern, finance department intern, intern - finance division, intern - finance, intern finance, intern finance operations, finance intern - corporate, finance intern-corporate, finance operations intern, finance operation intern, financial support intern, corporate-finance intern, financial intern, fiscal intern, financial analytics intern, corporate finance intern, corporate financial intern, corporate finance trainee, management finance trainee, finance-trainee, trainee finance, financial service intern, financial services intern, quantitative finance intern, quantitative financial intern, financial trainee, intern - corporate finance, intern finance department, financial department intern, financial planning department intern, intern -finance, finance - intern, finance-intern, finance area intern, intern - financial services, intern - financial, finance- intern, finance trainee",
+          "RelatedSkills": [
+            {
+              "Skill": "accounting principles",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "internal audit",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "financial planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "financial modeling",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "January 2022 - May 2023",
+        "FormattedJobPeriod": "2025 to till",
+        "StartDate": "01/01/2022",
+        "EndDate": "31/05/2023",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Supported financial analysis and budgeting for banking operations. \n Developed basic financial models to support business planning and strategy. \n Conducted variance analysis and provided insights to improve financial performance. \n Prepared financial reports and presentations for stakeholders. \n Supported the implementation of financial software tools and systems.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "ABC Bank",
+    "JobProfile": "Junior Finance Analyst",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "39",
+      "TotalExperienceInYear": "3.3",
+      "TotalExperienceRange": "3-5 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "19",
+    "LongestStay": "22",
+    "Summary": "Doug is a junior Finance Analyst with two years of experience. He has a basic understanding of financial analysis but lacks experience in many required skills.",
+    "ExecutiveSummary": "Doug has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Financial Analysts and Advisors'. The candidate has been working as a Junior Finance Analyst at ABC Bank for the last 1.10 years. ",
+    "ManagementSummary": "Doug doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "Available upon request.",
+    "CustomFields": "Parsing Time : 422ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Doug Ross\nContact Information : \nEmail : doug.ross@example.com\nPhone : +44 1234 567895\nAddress : 789 Maple Street, Manchester, UK\n\nProfessional Summary : Doug is a junior Finance Analyst with two years of experience. He has a basic understanding of financial analysis but lacks experience in many required skills.\n\nWork Experience : \nJunior Finance Analyst ABC Bank, Manchester, UK\nJune 2023 - Present\nAssisted in financial analysis and budgeting for various banking projects.\nUtilized Excel for financial data analysis and reporting.\nPrepared financial reports and presentations for senior management.\nCollaborated with cross-functional teams to support decision-making processes.\nAssisted in ensuring compliance with regulatory requirements and internal policies.\nFinance Intern XYZ Financial Services, Manchester, UK\nJanuary 2022 - May 2023\nSupported financial analysis and budgeting for banking operations.\nDeveloped basic financial models to support business planning and strategy.\nConducted variance analysis and provided insights to improve financial performance.\nPrepared financial reports and presentations for stakeholders.\nSupported the implementation of financial software tools and systems.\nEducation : \nBSc in Economics University of Manchester, Manchester, UK\nSeptember 2018 - June 2022\n\nSkills : \nFinancial Analysis : Budgeting, Variance analysis\nSoftware Tools : Excel\nAnalytical Skills : Data analysis\nCommunication : Presentation, Stakeholder communication\n\nProfessional Development : \nCompleted online courses on financial modelling and regulatory compliance.\nAttended various workshops and conferences on financial analysis and banking technology.\n\nReferences : Available upon request.\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.7.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Doug Ross</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Contact Information:</span></p><ol type=\"1\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span style=\"font-weight:bold\">Email:</span><span> </span><a href=\"mailto:doug.ross@example.com\" target=\"_blank\" style=\"text-decoration:none\"><span style=\"text-decoration:underline; color:#47a8a2\">doug.ross@example.com</span></a></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span style=\"font-weight:bold\">Phone:</span><span> </span><span>+44 1234 567895</span></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span style=\"font-weight:bold\">Address:</span><span> </span><span>789 Maple Street, Manchester, UK</span></li></ol><div align=\"center\"><hr size=\"2\" align=\"center\" style=\"width:100%\" /></div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Professional Summary:</span><span style=\"color:#2d1946\"> </span><span style=\"color:#2d1946\">Doug is a junior Finance Analyst with two years of experience. He has a basic understanding of financial analysis but lacks experience in many required skills.</span></p><div align=\"center\"><hr size=\"2\" align=\"center\" style=\"width:100%\" /></div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Work Experience:</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Junior Finance Analyst</span><span style=\"color:#2d1946\"> </span><span style=\"font-style:italic; color:#2d1946\">ABC Bank, Manchester, UK</span><br /><span style=\"font-style:italic; color:#2d1946\">June 2023 - Present</span></p><ol type=\"1\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span>Assisted in financial analysis and budgeting for various banking projects.</span></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span>Utilized Excel for financial data analysis and reporting.</span></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span>Prepared financial reports and presentations for senior management.</span></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span>Collaborated with cross-functional teams to support decision-making processes.</span></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span>Assisted in ensuring compliance with regulatory requirements and internal policies.</span></li></ol><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Finance Intern</span><span style=\"color:#2d1946\"> </span><span style=\"font-style:italic; color:#2d1946\">XYZ Financial Services, Manchester, UK</span><br /><span style=\"font-style:italic; color:#2d1946\">January 2022 - May 2023</span></p><ol type=\"1\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span>Supported financial analysis and budgeting for banking operations.</span></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span>Developed basic financial models to support business planning and strategy.</span></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span>Conducted variance analysis and provided insights to improve financial performance.</span></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span>Prepared financial reports and presentations for stakeholders.</span></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span>Supported the implementation of financial software tools and systems.</span></li></ol><div align=\"center\"><hr size=\"2\" align=\"center\" style=\"width:100%\" /></div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Education:</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">BSc in Economics</span><span style=\"color:#2d1946\"> </span><span style=\"font-style:italic; color:#2d1946\">University of Manchester, Manchester, UK</span><br /><span style=\"font-style:italic; color:#2d1946\">September 2018 - June 2022</span></p><div align=\"center\"><hr size=\"2\" align=\"center\" style=\"width:100%\" /></div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Skills:</span></p><ol type=\"1\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span style=\"font-weight:bold\">Financial Analysis:</span><span> </span><span>Budgeting, Variance analysis</span></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span style=\"font-weight:bold\">Software Tools:</span><span> </span><span>Excel</span></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span style=\"font-weight:bold\">Analytical Skills:</span><span> </span><span>Data analysis</span></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span style=\"font-weight:bold\">Communication:</span><span> </span><span>Presentation, Stakeholder communication</span></li></ol><div align=\"center\"><hr size=\"2\" align=\"center\" style=\"width:100%\" /></div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Professional Development:</span></p><ol type=\"1\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span>Completed online courses on financial modelling and regulatory compliance.</span></li><li style=\"margin-left:14.11pt; margin-bottom:10pt; line-height:130%; padding-left:21.89pt; font-size:12pt; color:#2d1946\"><span>Attended various workshops and conferences on financial analysis and banking technology.</span></li></ol><div align=\"center\"><hr size=\"2\" align=\"center\" style=\"width:100%\" /></div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">References:</span><span style=\"color:#2d1946\"> </span><span style=\"color:#2d1946\">Available upon request.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"-aw-import:ignore\"> </span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span style=\"height:0pt; text-align:left; display:block; position:absolute; z-index:-65534\"><img src=\"data:image/png;base64,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\" width=\"793\" height=\"43\" alt=\"AMS - Confidential\" style=\"margin-top:5.23pt; margin-left:-57.05pt; -aw-left-pos:0pt; -aw-rel-hpos:page; -aw-rel-vpos:page; -aw-top-pos:0pt; -aw-wrap-type:none; position:absolute\" /></span><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputData": "",
+      "TemplateOutputFileName": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2024.10.24"
+    }
+  }
+}

@@ -1,0 +1,703 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Sarah Green.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:45:56",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Sarah Green",
+      "TitleName": "",
+      "FirstName": "Sarah",
+      "MiddleName": "",
+      "LastName": "Green",
+      "FormattedName": "Sarah Green",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "sarah.green@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123654789",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 654789",
+        "FormattedNumber": "+44 7123 654789",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "",
+        "Url": ""
+      }
+    ],
+    "Address": [
+      {
+        "Street": "23 Maple Lane",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M43DD",
+        "FormattedAddress": "23 Maple Lane, Manchester, England, M43DD, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Wholesale Trade",
+    "SubCategory": "Sales and Related Occupations",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Springfield High School \r GCSE in English, Grade C \r Completed : 2018\r\r\rFood Safety Certificate : Completed a food safety training course to ensure compliance with health and safety regulations. \r Customer Service Training : Participated in Costa Coffee's customer service training program to enhance service skills.",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "Springfield High School",
+          "Type": "School",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 8
+        },
+        "Degree": {
+          "DegreeName": "GCSE in English",
+          "NormalizeDegree": "General Certificate in Secondary Education",
+          "Specialization": [
+            "English"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "2018",
+        "StartDate": "",
+        "EndDate": "31/12/2018",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "Food Safety Certificate",
+          "NormalizeDegree": "Certificate",
+          "Specialization": [
+            "Food Safety"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "",
+    "SegregatedCertification": [],
+    "SkillBlock": "Customer Service : Strong ability to provide friendly, efficient, and personalized service to customers. \r Coffee Preparation : Skilled in preparing a variety of coffee drinks and operating coffee-making equipment. \r Cash Handling : Proficient in handling cash transactions, operating POS systems, and balancing tills. \r Communication : Excellent verbal communication skills, with the ability to interact effectively with customers and team members. \r Attention to Detail : Meticulous in maintaining cleanliness and organization in the workplace. \r Teamwork : Proven ability to work collaboratively with colleagues to achieve common goals. \r Time Management : Capable of managing time effectively to complete tasks efficiently in a fast-paced environment.",
+    "SkillKeywords": "Positive Attitude,Enthusiastic,Dedicated,Ability To Interact Effectively,Develop Strong Communication,Verbal Communication Skills,Communication Skills,Attention To Detail,Time Management,Communication,Managing Time,Meticulous,Friendly,Teamwork,Health and Safety Regulations,Customer Service Skills,Inventory Management,Personalized Service,Assisting Customers,Ensuring Compliance,Cleaning Equipment,Coffee Preparation,Greeting Customers,Cash Transactions,Company Policies,Stocking Shelves,Store Operations,Proven Ability,Cash Handling,Taking Orders,POS System,Cleaning,Maple",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Positive Attitude",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>positive thinking",
+        "Alias": "good attitude, optimistic attitude, positive thinker, attitude positive, attitude positive can-do, positive attitude, positive approach, ability to positively meet the needs, positive-attitude, positive-approach, positive can-do attitude",
+        "FormattedName": "positive thinking",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Enthusiastic",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>energetic",
+        "Alias": "energetic skill, enthusiasm, enthusiastic, energetic worker",
+        "FormattedName": "energetic",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Dedicated",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Ability To Interact Effectively",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Develop Strong Communication",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>effective communication",
+        "Alias": "able to convey information, able to convey information clearly, clear & concise communication, excellent communicator, communicated effectively, clear and concise communication, develop strong communication, effective-communication, developing effective communication, great communicators, effective communication is paramount, effective communicator, effective communication skills, communicating with supervisors, communicated regularly, able to communicate effectively, develop effective communication skills",
+        "FormattedName": "effective communication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Verbal Communication Skills",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>verbal communication",
+        "Alias": "verbal skills, communicate spoken instructions, give instructions utilising verbal communication, provide instructions through verbal communication, communicate verbally, communicate verbal instructions, communicate instructions verbally, communicate instructions orally, oral communications, oral communication, oral communications skills, oral communication skills, verbal communication skills, verbal communications, verbal communication abilities, convey instructions verbally, verbal-communication, convey verbal instructions",
+        "FormattedName": "verbal communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Attention To Detail",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>attention to detail",
+        "Alias": "detail-oriented tasks, attention to details, attention for details, detail-minded, attention to-detail, detail oriented, meticulous, attending to details, detail-orientated, highly detail oriented, eye for details, pay attention to detail, highly detail-oriented, detail focused, paying close attention to detail, detailed-oriented, attention-to-detail, pays attention to detail, pays attention to details, detail minded, acute attention to detail, detail orientated, attention to the details, detail-orientation, detail driven, attentive to details, attentive to detail, a good eye for detail and high level of accuracy, detailed oriented, attend to detail, attend to details, detail orientation, detail-oriented, high attention to detail, attentiveness to details, attentiveness to detail, organized and detail oriented, eye for detail",
+        "FormattedName": "attention to detail",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Time Management",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>time management",
+        "Alias": "manage time, time handling, time mgmt., managing day, strategic time management, strategic time mgmt, managing time, excellent time management, timely development, time implementation, time managed, timely management, manage own time, time-management, timely decision making, managed the time, timely and accurate processing, time administration, time management process, time management skills, organization time management, time estimation",
+        "FormattedName": "time management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Managing Time",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>time management",
+        "Alias": "manage time, time handling, time mgmt., managing day, strategic time management, strategic time mgmt, managing time, excellent time management, timely development, time implementation, time managed, timely management, manage own time, time-management, timely decision making, managed the time, timely and accurate processing, time administration, time management process, time management skills, organization time management, time estimation",
+        "FormattedName": "time management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Meticulous",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>attention to detail",
+        "Alias": "detail-oriented tasks, attention to details, attention for details, detail-minded, attention to-detail, detail oriented, meticulous, attending to details, detail-orientated, highly detail oriented, eye for details, pay attention to detail, highly detail-oriented, detail focused, paying close attention to detail, detailed-oriented, attention-to-detail, pays attention to detail, pays attention to details, detail minded, acute attention to detail, detail orientated, attention to the details, detail-orientation, detail driven, attentive to details, attentive to detail, a good eye for detail and high level of accuracy, detailed oriented, attend to detail, attend to details, detail orientation, detail-oriented, high attention to detail, attentiveness to details, attentiveness to detail, organized and detail oriented, eye for detail",
+        "FormattedName": "attention to detail",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Friendly",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>friendliness",
+        "Alias": "friendly personality, friendly demeanor, frank, friendly",
+        "FormattedName": "friendliness",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Teamwork",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>teamwork",
+        "Alias": "able to work in teams, works well in a team, cross-team collaboration, team work, cross team collaboration, work with the client, fostering a collaborative environment, working well with others, crossteam collaboration, able to work well in a team, team-oriented, collaboratively with the members of the team, ability to work with all levels of staff, ability to work effectively in team environment, ability to work with a team, ability to work as a team, ability to work in a team, ability to work in teams, ability to work as part of a team, ability to work well with others, ability to work with teams, team-collaboration, team work oriented, work with the operations teams, team collaboration, work in teams, team-orientation, works well with others, works well with a team, works well with people, team orientation, working with clients, works well in groups, collaborated with other staff members, working with people, team-focused, collaborating with teams, foster collaboration, work with others, working in teams, team work skills, work as a team, cross-team communication, group collaboration, working with others, team working, works effectively with a team, teamworking, teamwork skills, work with people, team spirit, cross - team communication, enjoy working with people, ability of working in team, effective teamwork, cross - team collaboration, collaborate with team members, team oriented, assist other team members, committed to work as a collaborative and positive team member, team-orientated",
+        "FormattedName": "teamwork",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Health and Safety Regulations",
+        "Ontology": "Construction>Health and Safety Engineers, Except Mining Safety Engineers and Inspectors>osha regulation",
+        "Alias": "scope of health and safety regulations, scope of health and safety standards, safety-regulation, safety standards, health and safety regulations, safety regulations, safety regulation, application of health and safety regulations, application of health and safety standards, adhering to safety standards, occupational safety and health administration standards, occupational safety and health administration standard, safety-standards, coverage of health and safety standards, coverage of health and safety regulations, occupational health and safety administration regulation, osha standards, osha-regulation-knowledge, osha-regulations-general, health, safety and hygiene regulation, health, safety and hygiene statutes, health, safety and hygiene legislation rules, health, safety and hygiene legislation, osha regulation knowledge, range of health and safety regulations, range of health and safety standards, osha safety, osha regulations general, osha regulations",
+        "FormattedName": "osha regulation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Service Skills",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer service",
+        "Alias": "client care, client servicing, web customer service, client-services, it customer service, customer-friendly, telephone-customer-service, telephone customer service, customer care-services, customer care skills, customer-care services, servicing corporate clients, assistance to customers, friendly approach to clients, client-friendly, customer dealing, client-servicing, customer-care- services, customer service processes, customer service skills, customer services, computer-customer-service, it-customer-service, customer care, customer advice, client friendly, clients servicing, general-customer-service, retail-customer service, client-care, client service, giving our customers the best service, customer servicing, customer friendly, retail customer service, general-computer-customer-service, client care-services, customer-service, help customers, customer solutions, consumer services, service client general, online customer service, client services, advise clients, client service skills, general customer service, customer care services, general computer customer service, on line support to customers, computer customer service",
+        "FormattedName": "customer service",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Inventory Management",
+        "Ontology": "Management of Companies and Enterprises>Purchasing Managers>inventory management",
+        "Alias": "managing an inventory, handling inventories, data management inventory, client stock management, stock option management, inventory investment, inventory processing, manage inventories, inventory management operations, inventory mgmt., maintain inventory, stock information management, managing stock, item management, maintaining equipment inventories, manage the items, inventory-management, physical stock management, backstock management, managing inventory, inventory handling, maintaining an inventory, implement stock management, stocks management, field inventory management, field inventory mgmt, inventory data management, managing stock levels, handle inventory, stationery inventory management, stationery inventory mgmt, maintain stock levels, management of stock, it inventory management, stock-management, inventory business management, stock rotation management, manage stock, retail stock management, manage the inventory, inventorying, physical-inventory management, physical-inventory-management, physical inventory mgmt, physical inventory management, inventory stock management, regulate inventory, inventory quality management, operations management inventory, maintaining inventory, inventory order management, inventor management, oversee inventory, managing the stock, management of inventory, processing inventory, stock mgmt., inventory keeping, logistics inventory management, logistics inventory mgmt, management inventory, inventory mgmt, inventory maintenance, online inventory management, production and inventory mgmt, production and inventory management, manage inventory operations, manage inventory, monitoring inventory of supplies, manage an inventory, inventory operations, manage store inventory, stock management, inventory skills, supply chain networking and inventory, product inventory, stock maintenance, ordering inventory, supervise inventory",
+        "FormattedName": "inventory management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Personalized Service",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>personalized customer service",
+        "Alias": "customized customer service, personalized service, tailored customer service, personalized customer-service, individualized customer service",
+        "FormattedName": "personalized customer service",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Assisting Customers",
+        "Ontology": "Information>Computer User Support Specialists>software technical support",
+        "Alias": "telephony support, aid customers, computer support, system support, website support services, support-system, support teams, technical assistance, it & technology support, customer assistance, telephone support, hardware-support, cell phone support, customer support services, customer support, assist a customer, assisting customers, website-support, 2nd line support, functional it support, on-going assistance, ongoing support, network support, phone support, telephony-support, answering technical query, support-teams, providing technical support, call support, web-site-support, consumer support, system-support, providing it support, customer service support, customers support, online support, software-tech-support, supportability software, end user customer support, ongoing assistance, software-tech support, support helpdesk, assists the client, technology-assistance, second line-support, ongoing software support, helpdesk support, development support, software tech support, 1st line helpdesk, computer-assistance, computer assistance, functional it-support, customers assistance, assisted consumer, information support, support handling, assisting in developing, client support, software support, software supportability, software support services, support customers, 2nd line technical support, systems support, technical support, technical support and diagnosis, technical support mgmt, technical support management, handling support, enduser customer support, customer-assistance, team support, provide technical support, provide technical floor support, customer-support, technology assistance, supports clients, development-support, end user support, user support, help technical team with code fixes, functional support, it hardware support, technical and procedural assistance, technical-assistance, helpdesk-support, support with customer, general support-system, support the development, computer-support, second line support, support system, hardware support services, hardware support it, hardware support, software-supportability, software-support, systems-support, general support system, ongoing support and maintenance, computer telephony support, supporting the development, facilitate customers, website support, support software",
+        "FormattedName": "software technical support",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensuring Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>ensuring compliance",
+        "Alias": "guarantee compliance with policies, compliance assurance, compliance-assurance, assures compliance, make sure policies are compliant, ensure policy compliance, assurance of compliance, certify compliance with policies, ensure compliance, ensure compliance with policies, ensure compliance with legislation, ensure compliance with policy, ensuring compliance with the rules, ensuring compliance with policies",
+        "FormattedName": "ensuring compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cleaning Equipment",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Janitorial Services>cleaning janitorial",
+        "Alias": "cleaning equipment, cleaning kitchens, clearing and cleaning tables, cleaning glassware, cleaning work area, cleaning bar equipment, cleaning materials, janitorial cleaning, clearing tables, cleaning carpet and rugs",
+        "FormattedName": "cleaning janitorial",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Coffee Preparation",
+        "Ontology": "Manufacturing>Coffee and Tea Manufacturing>coffee preparation",
+        "Alias": "coffee grinding, coffee making, making coffee",
+        "FormattedName": "coffee preparation",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Greeting Customers",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Hotel, Motel, and Resort Desk Clerks>greet guests",
+        "Alias": "greeting customers, greeting guests, greeting visitors, greeted guests, greeting clients, welcome customers, greeting patients, greet customers",
+        "FormattedName": "greet guests",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cash Transactions",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial transaction",
+        "Alias": "documents financial transactions, financing transaction, cash-transaction, international financial transactions, documents ?nancial transactions, financial-transactions-mgmt, financial-transactions mgmt, financial transactions, financial transactions mgmt, financial transaction management, cash disbursements, cash disbursement, payment transactions, finance transaction management, cash transaction, cash transactions, managing the financial transactions, managing the financial transaction, cash payment",
+        "FormattedName": "financial transaction",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Company Policies",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>company policy",
+        "Alias": "corporate-policy, corporate-policies, business policy, internal policy, maintaining company policies, organization policy, workplace policies, workplace policy, corporate policy, company policy and procedures, corporate policies, company policies and procedures, company policies, organisational policies, company-policy, organizational policies, business policies, internal policies",
+        "FormattedName": "company policy",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Stocking Shelves",
+        "Ontology": "Wholesale Trade>Supervisors of Sales and retail sales Workers>stocking shelves",
+        "Alias": "restocking shelves, fill a shelf, top up shelves, stock a shelf, refill shelves, fill shelves, shelf stocking, stock shelves",
+        "FormattedName": "stocking shelves",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Store Operations",
+        "Ontology": "Wholesale Trade>Supervisors of Sales and retail sales Workers>retail operations",
+        "Alias": "store operation, store setup operations, merchandising store operations, retail operation, store operations, managed store operations, retail sales operations, retail-operation, operations retail, retail store operation, store opening operations",
+        "FormattedName": "retail operations",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Proven Ability",
+        "Ontology": "Information>Mathematicians>proven ability",
+        "Alias": "proven ability to work well",
+        "FormattedName": "proven ability",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cash Handling",
+        "Ontology": "Wholesale Trade>Cashiers>cash handling",
+        "Alias": "cash-handling, handling of money, handle cash, handling money, control of petty cash, monetary handling, cash - handling, money handling",
+        "FormattedName": "cash handling",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Taking Orders",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Order Clerks>order taking",
+        "Alias": "order-taking, taking orders",
+        "FormattedName": "order taking",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "POS System",
+        "Ontology": "Wholesale Trade>Retail Salespersons>point of sale software",
+        "Alias": "point of sale platforms, pos retail software, point of sale systems, point of sale system, point of sale workstation, point of sale tool, pos system operation, point-of sale terminal, open source pos, point of sale retail software, point of sale terminal system, point of sale terminal, point of sale terminal software, point of sale terminals, point of sale management system, point-of sale software, software pos, pos systems, pos server, point of sale framework, pos framework, pos software, point-of-sale system, point of-sale-terminal, pos system, point of sale software systems, point-of-sale terminal, point-of-sale software",
+        "FormattedName": "point of sale software",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cleaning",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Janitorial Services>cleaning janitorial",
+        "Alias": "cleaning equipment, cleaning kitchens, clearing and cleaning tables, cleaning glassware, cleaning work area, cleaning bar equipment, cleaning materials, janitorial cleaning, clearing tables, cleaning carpet and rugs",
+        "FormattedName": "cleaning janitorial",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maple",
+        "Ontology": "Information>Mathematical Science Occupations, All Other>maple",
+        "Alias": "soft maple, maple software, maple soft",
+        "FormattedName": "maple",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Costa Coffee Barista \r Manchester, UK \r 2019 - Present \r As a barista at Costa Coffee, I am responsible for preparing a variety of coffee drinks, providing excellent customer service, and ensuring a clean and welcoming environment for customers. My role requires strong communication skills, attention to detail, and the ability to work efficiently in a fast-paced setting. \r Key Responsibilities :  \r Preparing and serving a range of coffee drinks, including espressos, lattes, cappuccinos, and specialty beverages. \r Greeting customers, taking orders, and providing friendly and efficient service. \r Handling cash transactions, operating the POS system, and balancing the till at the end of shifts. \r Maintaining cleanliness and organization of the coffee shop, including cleaning equipment, countertops, and seating areas. \r Assisting with inventory management, including restocking supplies and reporting shortages to the manager. \r Ensuring compliance with health and safety regulations and company policies. \r Summerhill Bakery Sales Assistant \r Manchester, UK \r 2018 - 2019 \r In my role as a Sales Assistant at Summerhill Bakery, I provided customer service, managed cash transactions, and maintained store cleanliness. This position helped me develop strong communication and customer service skills. \r Key Responsibilities :  \r Assisting customers with their purchases and providing product recommendations. \r Handling cash and card transactions, ensuring accuracy and efficiency. \r Maintaining cleanliness and organization of the store, including stocking shelves and cleaning display areas. \r Assisting with inventory management and restocking supplies as needed. \r Supporting the team with various tasks to ensure smooth store operations.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "",
+          "FormattedName": "",
+          "ConfidenceScore": 0
+        },
+        "JobProfile": {
+          "Title": "Costa Coffee Barista",
+          "FormattedName": "barista",
+          "Alias": "specialised coffee bartender, crepe maker, juice barista, coffee master, crepe machine operator, certified barista",
+          "RelatedSkills": [
+            {
+              "Skill": "prepare hot drinks",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prepare specialised coffee",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer success",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "coffee preparation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "check deliveries on receipt",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "cash management",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "",
+          "CountryCode": {
+            "IsoAlpha2": "",
+            "IsoAlpha3": "",
+            "UNCode": ""
+          }
+        },
+        "JobPeriod": "2019 - till",
+        "FormattedJobPeriod": "2019 to till",
+        "StartDate": "01/01/2019",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "As a barista at Costa Coffee, I am responsible for preparing a variety of coffee drinks, providing excellent customer service, and ensuring a clean and welcoming environment for customers. My role requires strong communication skills, attention to detail, and the ability to work efficiently in a fast-paced setting. \n Key Responsibilities : \n Preparing and serving a range of coffee drinks, including espressos, lattes, cappuccinos, and specialty beverages. \n Greeting customers, taking orders, and providing friendly and efficient service. \n Handling cash transactions, operating the POS system, and balancing the till at the end of shifts. \n Maintaining cleanliness and organization of the coffee shop, including cleaning equipment, countertops, and seating areas. \n Assisting with inventory management, including restocking supplies and reporting shortages to the manager. \n Ensuring compliance with health and safety regulations and company policies.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Summerhill Bakery",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Sales Assistant",
+          "FormattedName": "sales assistant",
+          "Alias": "production and sales assistant, sales support assistant, sales department assistant, sales service assistant, sales asst, sell assistant, sales phone assistant, sale and support assistant, sales representative assistant, asst. sales, sales-assistant, retail and sale assistant, sales attendant, office and sales assistant, temporary sales assistant, asst sales, asst of sales, assistant of the sales, sales and service assistant, summer sale assistant, assistant dealer, summer sales assistant, assistant-dealer, after-sales service assistant, sales- attendant, sales operations assistant, assistant sales, assistant in sales department, versatile sales assistant, sales services assistant, assistant of sales, assistant of sales department",
+          "RelatedSkills": [
+            {
+              "Skill": "sales operations",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "social selling",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales decision process",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "sales�territory mapping",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain store cleanliness",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "carry out active selling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "stocking shelves",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2018 - 2019",
+        "FormattedJobPeriod": "2018 to 2019",
+        "StartDate": "01/01/2018",
+        "EndDate": "31/12/2019",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "In my role as a Sales Assistant at Summerhill Bakery, I provided customer service, managed cash transactions, and maintained store cleanliness. This position helped me develop strong communication and customer service skills. \n Key Responsibilities : \n Assisting customers with their purchases and providing product recommendations. \n Handling cash and card transactions, ensuring accuracy and efficiency. \n Maintaining cleanliness and organization of the store, including stocking shelves and cleaning display areas. \n Assisting with inventory management and restocking supplies as needed. \n Supporting the team with various tasks to ensure smooth store operations.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "",
+    "JobProfile": "Costa Coffee Barista",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "79",
+      "TotalExperienceInYear": "6.7",
+      "TotalExperienceRange": "5-8 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "39",
+    "LongestStay": "55",
+    "Summary": "Enthusiastic and dedicated barista with 3 years of experience working at Costa Coffee. Known for excellent customer service skills, attention to detail, and a positive attitude. Adept at preparing a variety of coffee drinks, maintaining cleanliness, and handling cash transactions efficiently.",
+    "ExecutiveSummary": "Sarah has an experience in the domain of 'Wholesale Trade', particularly in the sub-domain of 'Sales and Related Occupations. 'The candidate has a total experience of 3 Years",
+    "ManagementSummary": "Sarah doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 625ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Sarah Green\nContact Information : \nAddress : 23 Maple Lane, Manchester, M4 3DD, England\nEmail : sarah.green@email.com\nPhone : +44 7123 654789\n\nProfessional Summary : \nEnthusiastic and dedicated barista with 3 years of experience working at Costa Coffee. Known for excellent customer service skills, attention to detail, and a positive attitude. Adept at preparing a variety of coffee drinks, maintaining cleanliness, and handling cash transactions efficiently.\n\nEducation : \nSpringfield High School\nGCSE in English, Grade C\nCompleted : 2018\n\nProfessional Experience : \nCosta Coffee Barista\nManchester, UK\n2019 - Present\nAs a barista at Costa Coffee, I am responsible for preparing a variety of coffee drinks, providing excellent customer service, and ensuring a clean and welcoming environment for customers. My role requires strong communication skills, attention to detail, and the ability to work efficiently in a fast-paced setting.\nKey Responsibilities : \nPreparing and serving a range of coffee drinks, including espressos, lattes, cappuccinos, and specialty beverages.\nGreeting customers, taking orders, and providing friendly and efficient service.\nHandling cash transactions, operating the POS system, and balancing the till at the end of shifts.\nMaintaining cleanliness and organization of the coffee shop, including cleaning equipment, countertops, and seating areas.\nAssisting with inventory management, including restocking supplies and reporting shortages to the manager.\nEnsuring compliance with health and safety regulations and company policies.\nSummerhill Bakery Sales Assistant\nManchester, UK\n2018 - 2019\nIn my role as a Sales Assistant at Summerhill Bakery, I provided customer service, managed cash transactions, and maintained store cleanliness. This position helped me develop strong communication and customer service skills.\nKey Responsibilities : \nAssisting customers with their purchases and providing product recommendations.\nHandling cash and card transactions, ensuring accuracy and efficiency.\nMaintaining cleanliness and organization of the store, including stocking shelves and cleaning display areas.\nAssisting with inventory management and restocking supplies as needed.\nSupporting the team with various tasks to ensure smooth store operations.\n\nSkills : \nCustomer Service : Strong ability to provide friendly, efficient, and personalized service to customers.\nCoffee Preparation : Skilled in preparing a variety of coffee drinks and operating coffee-making equipment.\nCash Handling : Proficient in handling cash transactions, operating POS systems, and balancing tills.\nCommunication : Excellent verbal communication skills, with the ability to interact effectively with customers and team members.\nAttention to Detail : Meticulous in maintaining cleanliness and organization in the workplace.\nTeamwork : Proven ability to work collaboratively with colleagues to achieve common goals.\nTime Management : Capable of managing time effectively to complete tasks efficiently in a fast-paced environment.\n\nQualifications : \nFood Safety Certificate : Completed a food safety training course to ensure compliance with health and safety regulations.\nCustomer Service Training : Participated in Costa Coffee's customer service training program to enhance service skills.\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Sarah Green</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 23 Maple Lane, Manchester, M4 3DD, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> sarah.green@email.com</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 654789</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Enthusiastic and dedicated barista with 3 years of experience working at Costa Coffee. Known for excellent customer service skills, attention to detail, and a positive attitude. Adept at preparing a variety of coffee drinks, maintaining cleanliness, and handling cash transactions efficiently.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Springfield High School</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">GCSE in English, Grade C</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Completed: 2018</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Costa Coffee</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Barista</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2019 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">As a barista at Costa Coffee, I am responsible for preparing a variety of coffee drinks, providing excellent customer service, and ensuring a clean and welcoming environment for customers. My role requires strong communication skills, attention to detail, and the ability to work efficiently in a fast-paced setting.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Preparing and serving a range of coffee drinks, including espressos, lattes, cappuccinos, and specialty beverages.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Greeting customers, taking orders, and providing friendly and efficient service.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Handling cash transactions, operating the POS system, and balancing the till at the end of shifts.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Maintaining cleanliness and organization of the coffee shop, including cleaning equipment, countertops, and seating areas.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisting with inventory management, including restocking supplies and reporting shortages to the manager.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ensuring compliance with health and safety regulations and company policies.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Summerhill Bakery</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Sales Assistant</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2018 - 2019</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">In my role as a Sales Assistant at Summerhill Bakery, I provided customer service, managed cash transactions, and maintained store cleanliness. This position helped me develop strong communication and customer service skills.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisting customers with their purchases and providing product recommendations.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Handling cash and card transactions, ensuring accuracy and efficiency.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Maintaining cleanliness and organization of the store, including stocking shelves and cleaning display areas.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisting with inventory management and restocking supplies as needed.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Supporting the team with various tasks to ensure smooth store operations.</span></li></ul></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Customer Service:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong ability to provide friendly, efficient, and personalized service to customers.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Coffee Preparation:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Skilled in preparing a variety of coffee drinks and operating coffee-making equipment.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Cash Handling:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Proficient in handling cash transactions, operating POS systems, and balancing tills.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Communication:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Excellent verbal communication skills, with the ability to interact effectively with customers and team members.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Attention to Detail:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Meticulous in maintaining cleanliness and organization in the workplace.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Teamwork:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Proven ability to work collaboratively with colleagues to achieve common goals.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Time Management:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Capable of managing time effectively to complete tasks efficiently in a fast-paced environment.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Qualifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Food Safety Certificate:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Completed a food safety training course to ensure compliance with health and safety regulations.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Customer Service Training:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Participated in Costa Coffee's customer service training program to enhance service skills.</span></li></ul><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

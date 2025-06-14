@@ -1,0 +1,602 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Emily Johnson.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:04:58",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Emily Johnson",
+      "TitleName": "",
+      "FirstName": "Emily",
+      "MiddleName": "",
+      "LastName": "Johnson",
+      "FormattedName": "Emily Johnson",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "emily.johnson@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+441234543210",
+        "ISDCode": "+44",
+        "OriginalNumber": "1234 543210",
+        "FormattedNumber": "+44 1234 543210",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/emilyjohnson"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 7
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Market Research Analysts and Marketing Specialists",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Bachelor of Arts in Marketing \r University of Leeds \r Graduated : 2015",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Leeds",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "Bachelor of Arts in Marketing",
+          "NormalizeDegree": "Bachelor of Arts",
+          "Specialization": [
+            "Marketing"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2015",
+        "StartDate": "",
+        "EndDate": "31/12/2015",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Google Analytics Certified \r HubSpot Content Marketing Certification",
+    "SegregatedCertification": [],
+    "SkillBlock": "Data analysis (Excel, Tableau) \r Market research \r Report generation \r Strong analytical skills \r Strategic planning \r Effective communication",
+    "SkillKeywords": "Improvement,Effective Communication,Customer Engagement,Strategic Planning,Analytical Skills,Development Of Marketing Campaigns,Develop Marketing Strategies,Preparing Presentations,Business Improvement,Customer Acquisition,Marketing Strategies,Generating Reports,Consumer Behavior,Content Marketing,Marketing Efforts,Report Generation,Senior Management,Google Analytics,Market Research,Analyzing Data,Data Analysis,Data Insights,Market Share,Data-Driven,HubSpot,Tableau,Excel",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Improvement",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business improvement",
+        "Alias": "business improvement process, business improvement-process, business improvement activities, company improvement, business-improvement",
+        "FormattedName": "business improvement",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Effective Communication",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>effective communication",
+        "Alias": "able to convey information, able to convey information clearly, clear & concise communication, excellent communicator, communicated effectively, clear and concise communication, develop strong communication, effective-communication, developing effective communication, great communicators, effective communication is paramount, effective communicator, effective communication skills, communicating with supervisors, communicated regularly, able to communicate effectively, develop effective communication skills",
+        "FormattedName": "effective communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Customer Engagement",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer engagement",
+        "Alias": "client engagement, client engagement mgmt, client engagement management, customer support engagement, customer service engagement, digital engagement operations, digital engagement, customer-engagement, interacting with potential clients, customer engagement-management, customer engagements, customer engagement mgmt, customer engagement management, customer engagement strategy",
+        "FormattedName": "customer engagement",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strategic Planning",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>strategic planning",
+        "Alias": "strategic prognosis planning, strategical planning, strategic plan-development, strategy planning, planning strategy, planning strategically, develop-strategic- plans, develop-strategic plans, strategic plans, development of the strategic plan, strategic development plan, strategic-roadmap, strategic-planning, strategic business plan development, strategic business planning, strategic roadmap, strategic roadmaps, develop strategic plans, develop strategic roadmaps, strategic road map, strategic planning process, strategic planning-management, strategic planning and implementation, strategic planning management, strategic planning for growth, strategic planning mgmt, strategic planning development, strategy and planning, developing a strategic plan, development of a strategic plan",
+        "FormattedName": "strategic planning",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Analytical Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>analytical skill",
+        "Alias": "logical and analytical skills, analyzing skills, analytical background, analytical abilities, analytical ability, analytic skills, analytical skills, analytical awareness, analytical-and interpretive skills, strong analytical planning, analysing skills, analytical and troubleshooting skill, organizational analytical skills, analytics skills, analytical and interpretive skill, analytical and interpretive skills, analytical and inherent skills, analytical and problem solving skills, analytical and problem-solving, highly analytical",
+        "FormattedName": "analytical skill",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Development Of Marketing Campaigns",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>marketing campaigns",
+        "Alias": "email campaign, digital campaign marketing, digital campaign design, digital campaign, digital campaign management framework, digital campaign management, campaign advertising, marketing campaigns templates, marketing campaign, marketing campaign tactics, marketing campaign process, marketing campaigns promotions, marketing campaign promotions, managed digital advertising campaigns, sales campaigns, email marketing campaign, develop advertising campaign, digital media marketing campaigns, advertising campaign-design, advertising campaign, advertising campaigns, advertising campaigns management, advertising campaign design, launch campaign, email-campaign, develop digital marketing campaigns, campaign design, electronic campaigns, manage email campaign, manage digital marketing campaigns, advertising-campaign-design, advertising-campaigns, email-campaigning, branding campaign, branding campaigns, email campaigns, brand campaign, digital marketing campaign, design advertising campaign, campaign-design, promotional campaign, promotional campaigns, sales campaign strategy, sales campaign strategies, campaign process, digital-marketing- campaign, digital-marketing campaign, sales campaign, designing marketing campaigns, sales-campaigns, create email campaign, promotional-campaign, development of advertising campaigns, development of marketing campaigns",
+        "FormattedName": "marketing campaigns",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/06/2018",
+        "ExperienceInMonths": 37
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Develop Marketing Strategies",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>marketing planning",
+        "Alias": "marketing tactical plans, marketing tactics, marketing plan implementation, strategic-market-planning, marketing initiative, marketing capability planning, marketing activities planned, marketing scenario, planning a marketing strategy, plan a marketing strategy, marketing plan creation, plan promotions, design marketing strategies, design marketing strategy, marketing execution, promotion planning, marketing strategic initiatives, marketing strategies, marketing strategy formulation, marketing strategy, marketing strategy formulation process, creation of marketing plans, marketing decision-making, marketing decision making, promotional strategies, promotional strategy, internet marketing tactics, market strategy, market-planning, marketing program execution, plan marketing strategy, plan marketing strategies, marketing plan execution, design market strategy, marketing drafting, planning marketing, marketing proposal, marketing plan development, marketing and strategy, execution plan for marketing, execution in marketing, development of strategic marketing plans, marketing-planning, marketing plan preparation, project marketing strategy, promotional-planning, marketing business plans, promotional planning, promotional plan, develop marketing strategies, develop marketing plans, marketing plans, strategic marketing planning, strategic marketing plan, strategic marketing plans, strategic market-planning, strategic marketing-planning, mktg strategy, promotions planned, promotions planning and implementation, promotions planning, design-market-strategy, advertising decision making, marketing plan, promotions plan, marketing-scenario, business marketing tactics, market planning, develop the marketing plan, organise marketing strategy, mktg proposal, creating marketing plans, creating marketing plan, marketing-proposal, planning market, designing marketing strategies, marketing-strategy, marketing-strategy formulation, arrange marketing strategy, promotion strategy, develop a marketing strategy, development of a marketing plan, development of marketing plans, development of marketing tactics",
+        "FormattedName": "marketing planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Preparing Presentations",
+        "Ontology": "Professional, Scientific, and Technical Services>Graphic Design Services>presentation development",
+        "Alias": "design representation, makes presentations, presentation-drawing, making a presentation, presentation development process, design-representation, presentation drawing, presentation drawings, represented design, developing presentation materials, preparing presentations",
+        "FormattedName": "presentation development",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/06/2018",
+        "ExperienceInMonths": 37
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Improvement",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business improvement",
+        "Alias": "business improvement process, business improvement-process, business improvement activities, company improvement, business-improvement",
+        "FormattedName": "business improvement",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Acquisition",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer acquisition",
+        "Alias": "customer acquisition analytics, customer acquisition strategy, customer acquisition logistic, customer acquisition strategies, acquisition sales, sales acquisition, product acquisitions, telecom customer acquisition, new customer acquisitions, new account acquisition, client acquisition, customer-acquisition strategy, customer-acquisition- strategy, customer-acquisition, acquire new customers, acquisition retail, new client acquisitions, account acquisition, account acquisitions, develop new customer, strategic account acquisition",
+        "FormattedName": "customer acquisition",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/06/2018",
+        "ExperienceInMonths": 37
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Marketing Strategies",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>marketing planning",
+        "Alias": "marketing tactical plans, marketing tactics, marketing plan implementation, strategic-market-planning, marketing initiative, marketing capability planning, marketing activities planned, marketing scenario, planning a marketing strategy, plan a marketing strategy, marketing plan creation, plan promotions, design marketing strategies, design marketing strategy, marketing execution, promotion planning, marketing strategic initiatives, marketing strategies, marketing strategy formulation, marketing strategy, marketing strategy formulation process, creation of marketing plans, marketing decision-making, marketing decision making, promotional strategies, promotional strategy, internet marketing tactics, market strategy, market-planning, marketing program execution, plan marketing strategy, plan marketing strategies, marketing plan execution, design market strategy, marketing drafting, planning marketing, marketing proposal, marketing plan development, marketing and strategy, execution plan for marketing, execution in marketing, development of strategic marketing plans, marketing-planning, marketing plan preparation, project marketing strategy, promotional-planning, marketing business plans, promotional planning, promotional plan, develop marketing strategies, develop marketing plans, marketing plans, strategic marketing planning, strategic marketing plan, strategic marketing plans, strategic market-planning, strategic marketing-planning, mktg strategy, promotions planned, promotions planning and implementation, promotions planning, design-market-strategy, advertising decision making, marketing plan, promotions plan, marketing-scenario, business marketing tactics, market planning, develop the marketing plan, organise marketing strategy, mktg proposal, creating marketing plans, creating marketing plan, marketing-proposal, planning market, designing marketing strategies, marketing-strategy, marketing-strategy formulation, arrange marketing strategy, promotion strategy, develop a marketing strategy, development of a marketing plan, development of marketing plans, development of marketing tactics",
+        "FormattedName": "marketing planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/06/2018",
+        "ExperienceInMonths": 37
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Generating Reports",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Clerks, General>report generation",
+        "Alias": "generate report, development of reports, reports development, reports preparation, preparation of reports, report creation, develop custom reports, report development, preparing the reports, preparing the report, develop nightly reports, creating reports, preparing reports, develop a report, develop reports, produce reports, prepare reports, creation of new reports, developing reports, generating training reports, generating reports, generate reports, prepare report, creating new reports, report preparation, generated reports, report-generation",
+        "FormattedName": "report generation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/06/2018",
+        "ExperienceInMonths": 37
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Consumer Behavior",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>consumer behavior",
+        "Alias": "consumer behavior study, consumer behaviour, audience behavior, consumer buying behavior, consumer-behavior, consumer-behaviour",
+        "FormattedName": "consumer behavior",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "30/06/2018",
+        "ExperienceInMonths": 37
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Content Marketing",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>content marketing",
+        "Alias": "content mktg, business-to-business content marketing, content-promotion, content advertisement, content advertising, marketing content strategy, content promotion, b2b content-marketing, content marketing b2b, content marketing strategy, digital content marketing, content-marketing",
+        "FormattedName": "content marketing",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Marketing Efforts",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>marketing efforts",
+        "Alias": "marketing initiatives, mktg efforts",
+        "FormattedName": "marketing efforts",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/06/2018",
+        "ExperienceInMonths": 37
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Report Generation",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Clerks, General>report generation",
+        "Alias": "generate report, development of reports, reports development, reports preparation, preparation of reports, report creation, develop custom reports, report development, preparing the reports, preparing the report, develop nightly reports, creating reports, preparing reports, develop a report, develop reports, produce reports, prepare reports, creation of new reports, developing reports, generating training reports, generating reports, generate reports, prepare report, creating new reports, report preparation, generated reports, report-generation",
+        "FormattedName": "report generation",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Senior Management",
+        "Ontology": "Finance and Insurance>Management Analysts>senior management",
+        "Alias": "top-management, front line mgmt, top level management, senior and executive level management, front line management, senior mgmt, senior it management, frontline-management, executive level management, executive management, senior management functions, senior management function, upper management, frontline mgmt, top management system, top mgmt, sr management, exec mgmt, it executive management, top management, senior-management, frontline management",
+        "FormattedName": "senior management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Google Analytics",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>google analytics",
+        "Alias": "google-analytics, google analytics software, google analytics soft",
+        "FormattedName": "google analytics",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Research",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>market research",
+        "Alias": "market survey, brand research, product-research, design market research, social-media-market-research, social-media-market research, scanning marketing, market investigation, performing market research, marketing researching, marketing research development, marketing research analysis, marketing research, marketing investigation, marketing investigations, financial market research, marketing internet research, product research, undertake market research, marketing survey, marketing surveys, sales market research, market research data, market research operations, market research management, market research and analysis, market-exploration, product study, marketing information research, market exploration, market surveys, market data research, market-investigation, market information research, setting up market surveys, perform market research, market studies, branding-research, implement market research, research branding, researching market, researching market trends, marketing scanning, market study, interpreting marketing research, research market, marketing-researching, marketing-research, social media market research, retail market research, media market research, marketing original research, social-media market research, researching the markets, researching the market, marketing data research, market scanning, branding research, online market research, designing marketing surveys, market-research",
+        "FormattedName": "market research",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Analyzing Data",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "30/06/2018",
+        "ExperienceInMonths": 37
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Insights",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Share",
+        "Ontology": "Wholesale Trade>Securities, Commodities, and Financial Services Sales Agents>market share",
+        "Alias": "market share development, market share management, market-share, market shares, market share estimation, marketing share",
+        "FormattedName": "market share",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data-Driven",
+        "Ontology": "Information>Data Processing, Hosting, and Related Services>data driven",
+        "Alias": "data-driven approach, data-driven",
+        "FormattedName": "data driven",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/06/2018",
+        "ExperienceInMonths": 37
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "HubSpot",
+        "Ontology": "Wholesale Trade>Sales and Related Workers, All Other>hubspot software",
+        "Alias": "hub spot platform, hubspot, hubspot crm software, hubspot crm soft, hubspot soft, hubspotcrm, hub spot software, hubspot crm, hubspot sales, hubspot platform",
+        "FormattedName": "hubspot software",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Tableau",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>tableau software",
+        "Alias": "tableau 2019.4, tableau 8.2, tableau 2019.2, tableau 10.2, tableau 2018.2, tableau 2020.3, tableau 10.0, tableau api, tableau 2020.1, tableau server, tableau 8.0, tableau 7, tableau online soft, tableau online software, tableau 2018.3, tableau reader, tableau server soft, tableau server software, tableau version 10.4, tableau version 10.3, tableau version 10.2, tableau analytics, tableau reader 10.5., tableau reader 10.3, tableau reader 10.2, tableau 10.4, tableau 10.3, tableau 10.5, tableau online, tableau cloud, tableau bi tool, tableau business intelligence software, tableau 2020.2, tableau 8.1, tableau 9.3, tableau, tableau 2019.3, tableau 2018.1, server tableau, software tableau, tableau reporting dashboard, tableau reporting, tableau reporting server, tableau reporting tool, tableau reporting solutions, tableau reporting software, tableau 10.1, tableau 8.3, tableau dashboard, tableau-dashboard, tableau cloud software, tableau cloud soft, tableau infrastructure, tableau reader soft., tableau reader software",
+        "FormattedName": "tableau software",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Excel",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Administrative Services>microsoft excel",
+        "Alias": "excel 4, windows excel, platform excel, excel 2000, advanced ms excel, microsoft technology ms excel, excel 2002, microsoft excel 2016, microsoft excel 2004 for mac, microsoft excel 2010, microsoft excel 2007, microsoft excel 2013, microsoft excel spreadsheet software, microsoft excel 2001 for mac, microsoft excel xp, microsoft excel 97 for windows, microsoft excel 2003, microsoft excel 2019, microsoft excel v2.0, microsoft excel 2000, microsoft excel soft., microsoft excel v5.0, microsoft excel software, microsoft excel 2002, ms excel 2004 for mac, ms excel 2003, microsoft software excel, pc software microsoft excel, ms excel 97 for windows, software excel, microsoft .excel, excel 95, excel 2004 for mac, advanced microsoft excel, advanced excel, ms excel 2000, microsoft products ms excel, excel platform, ms excel 2001 for mac, excel xp, ms-excel, excel 3, microsoft office excel, excel, excel 2010, ms excel 2010, ms excel, ms excel 2002, microsoft suite excel, excel skills, excel 2, excel 5, excel 2001 for mac, ms. excel, excel 97, excel software, excel 97 for windows, excel 2003, internet microsoft excel, excel 2016",
+        "FormattedName": "microsoft excel",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      }
+    ],
+    "Experience": "Lloyds Banking Group \r Marketing Analyst \r July 2018 - Present \r Manchester, UK \r At Lloyds, I analyze market data to support strategic marketing decisions. My responsibilities include gathering and analyzing data using tools like Excel and Tableau, generating detailed reports, and presenting findings to senior management. I collaborate with various teams to develop marketing strategies based on data insights. My role also involves identifying market trends and opportunities for improvement, leading to increased market share and customer engagement. \r Barclays UK \r Junior Marketing Analyst \r June 2015 - June 2018 \r Manchester, UK \r At Barclays, I supported the marketing team by conducting data analysis and generating reports on market trends and consumer behavior. My tasks included preparing presentations for management, assisting in the development of marketing campaigns, and monitoring campaign performance. I worked closely with stakeholders to ensure marketing strategies were data-driven and effective. My contributions helped optimize marketing efforts and improve customer acquisition.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Lloyds Banking Group",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Marketing Analyst",
+          "FormattedName": "marketing analyst",
+          "Alias": "commercial marketing analyst, advertising account analyst, corporate marketing analyst, analyst - marketing operations, analyst - marketing, advertising analyst, promotions analyst, associate marketing analyst, analyst - product and marketing analytics, marketing effectiveness analyst, product marketing data analyst, product marketing analyst, corporate content marketing analyst, advertising performance analyst, brand marketing analyst, mktg analyst, advertisment analyst, contract marketing analyst, analyst in marketing department, marketing analyst - customer analytics, personal marketing analyst, marketing solutions analyst, analyst marketing, content marketing analyst, analyst of marketing, marketing -analyst",
+          "RelatedSkills": [
+            {
+              "Skill": "google analytics",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "search engine optimization analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "identify potential markets for companies",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "market structure",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product adaptation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market analysis",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "ad hoc marketing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "profit impact of market strategy",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "analytical skill",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "July 2018 - till",
+        "FormattedJobPeriod": "07/2018 to till",
+        "StartDate": "01/07/2018",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At Lloyds, I analyze market data to support strategic marketing decisions. My responsibilities include gathering and analyzing data using tools like Excel and Tableau, generating detailed reports, and presenting findings to senior management. I collaborate with various teams to develop marketing strategies based on data insights. My role also involves identifying market trends and opportunities for improvement, leading to increased market share and customer engagement.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Barclays UK",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Junior Marketing Analyst",
+          "FormattedName": "junior marketing analyst",
+          "Alias": "jr marketing analyst, analyst junior marketing, junior mktg analyst, entry level marketing analyst, digital marketing junior analyst, marketing analyst junior, marketing analyst jr., junior analyst of marketing, junior level marketing analyst, marketing jr. analyst, junior analyst marketing, junior digital marketing analyst",
+          "RelatedSkills": [
+            {
+              "Skill": "strategic marketing analysis",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "June 2015 - June 2018",
+        "FormattedJobPeriod": "06/2015 to 06/2018",
+        "StartDate": "01/06/2015",
+        "EndDate": "30/06/2018",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "At Barclays, I supported the marketing team by conducting data analysis and generating reports on market trends and consumer behavior. My tasks included preparing presentations for management, assisting in the development of marketing campaigns, and monitoring campaign performance. I worked closely with stakeholders to ensure marketing strategies were data-driven and effective. My contributions helped optimize marketing efforts and improve customer acquisition.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Lloyds Banking Group",
+    "JobProfile": "Marketing Analyst",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "110",
+      "TotalExperienceInYear": "9.2",
+      "TotalExperienceRange": "8-10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "55",
+    "LongestStay": "73",
+    "Summary": "Marketing Analyst with over 5 years of experience in analyzing market trends and consumer behavior. Expertise in data analysis, report generation, and strategic planning. Seeking to transition into a Business Analyst role to apply my analytical skills and contribute to business improvement projects.",
+    "ExecutiveSummary": "Emily has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Market Research Analysts and Marketing Specialists. 'The candidate has a total experience of 5 YearsThe candidate has been working as a Marketing Analyst at Lloyds Banking Group for the last 6.1 years. ",
+    "ManagementSummary": "Emily doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "References available upon request",
+    "CustomFields": "Parsing Time : 493ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Emily Johnson\nManchester, UK\nemily.johnson@email.com\n+44 1234 543210\nLinkedIn : linkedin.com/in/emilyjohnson\n\nProfessional Summary : \nMarketing Analyst with over 5 years of experience in analyzing market trends and consumer behavior. Expertise in data analysis, report generation, and strategic planning. Seeking to transition into a Business Analyst role to apply my analytical skills and contribute to business improvement projects.\n\nProfessional Experience : \nLloyds Banking Group\nMarketing Analyst\nJuly 2018 - Present\nManchester, UK\nAt Lloyds, I analyze market data to support strategic marketing decisions. My responsibilities include gathering and analyzing data using tools like Excel and Tableau, generating detailed reports, and presenting findings to senior management. I collaborate with various teams to develop marketing strategies based on data insights. My role also involves identifying market trends and opportunities for improvement, leading to increased market share and customer engagement.\nBarclays UK\nJunior Marketing Analyst\nJune 2015 - June 2018\nManchester, UK\nAt Barclays, I supported the marketing team by conducting data analysis and generating reports on market trends and consumer behavior. My tasks included preparing presentations for management, assisting in the development of marketing campaigns, and monitoring campaign performance. I worked closely with stakeholders to ensure marketing strategies were data-driven and effective. My contributions helped optimize marketing efforts and improve customer acquisition.\n\nEducation : \nBachelor of Arts in Marketing\nUniversity of Leeds\nGraduated : 2015\n\nSkills : \nData analysis (Excel, Tableau) \nMarket research\nReport generation\nStrong analytical skills\nStrategic planning\nEffective communication\n\nCertifications : \nGoogle Analytics Certified\nHubSpot Content Marketing Certification\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Emily Johnson</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">emily.johnson@email.com</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">+44 1234 543210</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">LinkedIn: linkedin.com/in/emilyjohnson</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Marketing Analyst with over 5 years of experience in analyzing market trends and consumer behavior. Expertise in data analysis, report generation, and strategic planning. Seeking to transition into a Business Analyst role to apply my analytical skills and contribute to business improvement projects.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lloyds Banking Group</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Marketing Analyst</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">July 2018 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At Lloyds, I analyze market data to support strategic marketing decisions. My responsibilities include gathering and analyzing data using tools like Excel and Tableau, generating detailed reports, and presenting findings to senior management. I collaborate with various teams to develop marketing strategies based on data insights. My role also involves identifying market trends and opportunities for improvement, leading to increased market share and customer engagement.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Barclays UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Junior Marketing Analyst</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">June 2015 - June 2018</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At Barclays, I supported the marketing team by conducting data analysis and generating reports on market trends and consumer behavior. My tasks included preparing presentations for management, assisting in the development of marketing campaigns, and monitoring campaign performance. I worked closely with stakeholders to ensure marketing strategies were data-driven and effective. My contributions helped optimize marketing efforts and improve customer acquisition.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Bachelor of Arts in Marketing</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">University of Leeds</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2015</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data analysis (Excel, Tableau) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Market research</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Report generation</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strong analytical skills</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strategic planning</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Effective communication</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Google Analytics Certified</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">HubSpot Content Marketing Certification</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">References available upon request</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

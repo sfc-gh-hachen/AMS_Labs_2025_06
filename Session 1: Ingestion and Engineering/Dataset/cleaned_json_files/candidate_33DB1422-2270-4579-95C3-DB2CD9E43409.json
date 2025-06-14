@@ -1,0 +1,707 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Olivia Davis.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:28:04",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Olivia Davis",
+      "TitleName": "",
+      "FirstName": "Olivia",
+      "MiddleName": "",
+      "LastName": "Davis",
+      "FormattedName": "Olivia Davis",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "olivia.davis@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123123987",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 123987",
+        "FormattedNumber": "+44 7123 123987",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/oliviadavis"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "78 Maple Lane",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M43HD",
+        "FormattedAddress": "78 Maple Lane, Manchester, England, M43HD, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Business Operations Specialists",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Manchester (Russell Group) \r MSc Business Analytics and Consulting, Merit \r Graduated : 2015 \r University of Birmingham (Russell Group) \r BSc Finance and Accounting, First Class Honours \r Graduated : 2013",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "MSc Business Analytics and Consulting",
+          "NormalizeDegree": "Master of Science",
+          "Specialization": [
+            "Business Analytics"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2015",
+        "StartDate": "",
+        "EndDate": "31/12/2015",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "University of Birmingham",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc Finance and Accounting",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Finance and Accounting"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2013",
+        "StartDate": "",
+        "EndDate": "31/12/2013",
+        "Aggregate": {
+          "Value": "1st",
+          "MeasureType": "Class Honours"
+        }
+      }
+    ],
+    "Certification": "Certified Business Analysis Professional (CBAP) \r Lean Six Sigma Green Belt \r Certified Data Management Professional (CDMP)",
+    "SegregatedCertification": [],
+    "SkillBlock": "Data Analysis \r Business Requirements Gathering \r Process Improvement \r Project Management \r Stakeholder Management \r Regulatory Compliance",
+    "SkillKeywords": "Business Analysis,Facilitating,Innovative,Documenting Business Requirements,Key Performance Indicators,Operational Efficiency,Stakeholder Management,Business Requirements,Regulatory Compliance,Business Improvement,Regulatory Standards,Gather Requirements,Process Improvement,Project Management,Strategic Business,Internal Policies,Project Proposals,Deliver Projects,Data Management,Risk Management,Business Cases,Data Reporting,Lean Six Sigma,Data Analysis,Maple",
+    "SegregatedSkill": [
+      {
+        "Type": "SoftSkill",
+        "Skill": "Business Analysis",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business analysis",
+        "Alias": "business analyze, business area analysis, business analysis operations, business analysis consulting, business analysis implementation, business analysis managing, business analysis research, business analysis management, business analysis process, enterprise analysis, business analyses, business solutions, managing business analysis, manage business analytics, business-analysis, analysis of businesses, analysis of business, business-analyze",
+        "FormattedName": "business analysis",
+        "Evidence": "ExperienceSection,CertificationSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Facilitating",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>facilitate",
+        "Alias": "ability to facilitate, facilitating",
+        "FormattedName": "facilitate",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Innovative",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>innovation",
+        "Alias": "innovative product idea, innovativeness, innovative, innovation skill, innovator",
+        "FormattedName": "innovation",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Documenting Business Requirements",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business requirement",
+        "Alias": "stakeholder requirements specifications, documenting business requirements, key business requirements, business requirements, business requirements documentation, business requirements design, business requirements management, business requirements document review, business requirements document, business requirements specifications, business requirements loading, business requirements engineering, business requirements templates, business requirement implementation, business requirements development, business needs, business need, develop the business requirements, business-requirement, address business requirements, translate business requirements",
+        "FormattedName": "business requirement",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Key Performance Indicators",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>key performance indicator",
+        "Alias": "kpi dashboard, sales-metric, kpi development, performance management metrics, dashboard kpi, staff kpi, kpi, business-metric, marketing campaign metrics, execution metrics, sales metric, financial kpi, manage metrics, performance-metric, business metric, monitoring kpi, finance kpi, knowledge management-metrics, knowledge management metrics, km metrics, understanding data and metrics, track metrics, kpis monitoring, key performance indicators, financial key performance indicator, metric-management, development of key performance indicators, management metrics, performance metrics management, performance metrics, business metrics monitoring, business metrics visualization, business metrics, digital marketing metrics, digital marketing matrices, key success indicator, sales metrics, kpi monitoring, marketing business metrics, key-performance-indicator, metrics management, kpi performance analysis, kpi performance management, marketing key performance indicators, marketing key performance indicator, performance indicator, marketing kpi, marketing metrics, kpi implementation, business-process-kpi, digital-marketing metrics, digital-marketing- metrics, business process-kpi, business process kpi, develop kpis, metric management, logistics kpi, maintain metrics",
+        "FormattedName": "key performance indicator",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Operational Efficiency",
+        "Ontology": "Other Services (except Public Administration) >Business Associations>operational efficiency",
+        "Alias": "operation efficiencies, operation efficiency, operational-efficiency, operating efficiencies, improve operational efficiency, drive operational e?ciencies, drive operational efficiencies, operating ef?ciencies, operation ef?ciencies, increasing operational efficiency, maintain and improve operational efficiency",
+        "FormattedName": "operational efficiency",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Stakeholder Management",
+        "Ontology": "Management of Companies and Enterprises>Transportation, Storage, and Distribution Managers>stakeholder management",
+        "Alias": "stakeholder mgmt., stakeholder managing, managing stakeholder, manage client stakeholders, multiple stakeholder management, manage client-stakeholder, manage stakeholder expectations, manage stakeholder, consistent stakeholder management, stakeholders affairs management, created stakeholder management, stakeholder-management, management stakeholder",
+        "FormattedName": "stakeholder management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Requirements",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business requirement",
+        "Alias": "stakeholder requirements specifications, documenting business requirements, key business requirements, business requirements, business requirements documentation, business requirements design, business requirements management, business requirements document review, business requirements document, business requirements specifications, business requirements loading, business requirements engineering, business requirements templates, business requirement implementation, business requirements development, business needs, business need, develop the business requirements, business-requirement, address business requirements, translate business requirements",
+        "FormattedName": "business requirement",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Improvement",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business improvement",
+        "Alias": "business improvement process, business improvement-process, business improvement activities, company improvement, business-improvement",
+        "FormattedName": "business improvement",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Standards",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Gather Requirements",
+        "Ontology": "Information>Software Developers and Programmers>requirements elicitation",
+        "Alias": "gathering project requirement, capture requirements, business requirements solicitation, business requirements discovery, requirements gathering design, requirements gathering, requirement gathering design, requirement gathering architecture, requirement gathering, requirement gathering automation, gathering business requirements, gathering business, gather requirements, requirements discovery, requirements discovery process, user requirements gathering, user requirements capture, gathering user requirements, user-requirements capture, user-requirements-capture, gather business requirements, gathering requirements, requirements capture, elicit requirements, eliciting and specifying project requirements, technical requirements gathering, it requirements gathering, collect requirements",
+        "FormattedName": "requirements elicitation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Process Improvement",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>process improvement",
+        "Alias": "improve processes, manage process improvement, improvement of work processes, develop process improvements, develop process improvement, system improvement, system improvement process, system improvements, work process improvement, process operations improvement, system-improvement, improvement of the process, systems improvement, identifying process improvements, improvement analysis, process-improvement, operations process improvement, refining business units, refining business processes, process refinement, operational process improvement, business process refinement, business process improvement, process improvement methodology, process improvement initiation, process improvement implementation, process improvement framework, process improvement workflows, process improvement operations, process improvements, process improvement initiative, process enhancement",
+        "FormattedName": "process improvement",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Management",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project management",
+        "Alias": "project managed development, managing multiple projects, project mgmt., project-management, manage complex projects, project mgmt, manage a project, project-coordination, manage multiple project tasks, manage multiple projects, managing large scale projects, project co - ordination, project co-ordination, managing complex projects, project manage, managed smaller projects, management of project, operations project management, projects coordination, proj management, managed special projects, overseeing projects, manage the incoming project, project-handling, project management and coordination, project management processes, project management process, managing of projects, projects managing, project handling, coordination of international projects, coordination of projects, project description management, managed projects, project processing, manage a multiphase project, project-manage, manage small projects, managed phases, managed project, managed project operations, proj mgmt, handling of project, new project management, manage projects, managed long term projects, organizational project management, projects management, manage the project, project methods, projects handled, project coordination, project coordination and implementation, project coordinating, managing projects, managing project, manage the complex projects, project work management, management projects, managing the project planning, multiple projects management, project creation, handle multiple projects, manage several projects, project managing, coordinating projects",
+        "FormattedName": "project management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Business",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business planning",
+        "Alias": "business-development-planning, planned business process, formulation business plan, business-strategy-concepts, business-strategy, develop plans for business, business plan formulation, business plans management, corporate strategy, corporate strategic planning, business development prospects, business development plans, business development planning, business-blueprinting, business-blueprint, building new business development strategy, business requirements scenario, create business plans, business plan-formulation, drafting business plans, company strategy, business blueprinting, business blueprint, business blueprinting process, business blueprint process, business planning process, business planning & development, business planning operations, business planning and development, formulation of business plan, business scenario, strategic business, business plans, generate business plans, prepare the business plan, business-scenario, develop business plans, develop business plan, develop-business- plans, develop-business plans, corporate planning and analysis, corporate planning, produce business plans, creating business plans, corporate-strategy, execution of business plans, draw up the business plan, developing business plans, develop the business plan, business plan, business-planning, companys strategy, business strategy, business strategy design, business strategy concepts, business strategizing, business strategies, business strategy-concepts, business-plan-formulation, preparing business plan, business process blueprinting, business processes planned, implemented business plan, corporate-planning",
+        "FormattedName": "business planning",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Internal Policies",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>company policy",
+        "Alias": "corporate-policy, corporate-policies, business policy, internal policy, maintaining company policies, organization policy, workplace policies, workplace policy, corporate policy, company policy and procedures, corporate policies, company policies and procedures, company policies, organisational policies, company-policy, organizational policies, business policies, internal policies",
+        "FormattedName": "company policy",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Proposals",
+        "Ontology": "Construction>Engineers, All Other>project proposal",
+        "Alias": "develop a project proposal, project-proposal, drafting project, drafting projects, project proposals, proposal of project",
+        "FormattedName": "project proposal",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Deliver Projects",
+        "Ontology": "Finance and Insurance>Business and Financial Operations Occupations>project delivery method",
+        "Alias": "delivers projects, project deliverables, project delivery operations, project delivery, delivering projects, delivering projects on time, deliver project, delivery of projects, deliver projects, project-delivery-method, project-delivery method",
+        "FormattedName": "project delivery method",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Management",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>data management",
+        "Alias": "data management services, data management skills, data management process, engineering information management, manage data collection systems, manage data collection system, manage the information, management data services, raw data management, manage unstructured data, data organization, data process management, systems data maintenance, information sources management, information sources mgmt, managing information sources, managing data, maintain-data, manage all the information, management business information, manage the data, data organisation, managed the data, managed information, data-management, organisation of data, information mgmt., maintain data, data implementation, data mgmt., manages the data, organizing raw data, management data, information-management, corporate data management, organization of data, data coordination, information management, organizing data, manage information, manage information sources, business information mgmt, business information management, info management",
+        "FormattedName": "data management",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Management",
+        "Ontology": "Finance and Insurance>Financial Specialists>risk management",
+        "Alias": "risk-mgmt, market risk management, protection planning, risks mgmt., manage the risks, retail risk management, management of risk, management of risk practitioner, management of risks, risk-management, managing risk, managing risks, risk mgmt, manage complex risk, departmental risk management, manage risks, risk management support, risk management processes, risk management process, manage the risk, management risk, risk process",
+        "FormattedName": "risk management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Cases",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business case",
+        "Alias": "business casing, business-case, business development case, management business cases, finance business cases, business case justification, business cases, business case production, business case preparation",
+        "FormattedName": "business case",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Reporting",
+        "Ontology": "Information>Data Processing, Hosting, and Related Services>data reporting",
+        "Alias": "data reporting analysis, analysis report, reporting on data, analytical-report, analytical report, analytical reporting, data analysis report, analytical technical report preparation, reporting data, data-reporting",
+        "FormattedName": "data reporting",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Lean Six Sigma",
+        "Ontology": "Information>All Other Information Services>lean six sigma",
+        "Alias": "lean six-sigma, six sigma lean methodology, six sigma lean methodologies, lean six sigma execution",
+        "FormattedName": "lean six sigma",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maple",
+        "Ontology": "Information>Mathematical Science Occupations, All Other>maple",
+        "Alias": "soft maple, maple software, maple soft",
+        "FormattedName": "maple",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "HSBC Bank \r Business Analyst \r Manchester, UK \r 2019 - Present \r At HSBC, Olivia has been leading business analysis efforts for strategic projects, conducting data analysis to provide insights for strategic decision-making, developing and documenting business requirements and process maps, and facilitating stakeholder workshops to gather requirements and provide project updates. She ensures compliance with regulatory standards and internal policies.  \r Olivia successfully led the implementation of a new risk management system and improved reporting processes, reducing manual efforts by 30%. \r Lloyds Banking Group \r Junior Business Analyst \r Manchester, UK \r 2016 - 2019 \r In her role at Lloyds Banking Group, Olivia conducted data analysis to identify trends and insights for business improvement, gathered and documented business requirements for new projects, developed business cases and project proposals, and provided training and support to users on new systems and processes. She led a project to enhance data reporting capabilities and identified key performance indicators that improved operational efficiency.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "HSBC Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Business Analyst",
+          "FormattedName": "business analyst",
+          "Alias": "business  -analyst, business connectivity analyst, analyst of business, business -analyst, industrial business analyst, analyst - business, analyst - business analytics, analyst, business analysis, business services analyst, analyst  business analytics , business analyst - services, business analyst ba, business analysts, business analyst - ba, business analyst ba , analyst business, analyst business analysis, business efficiency analyst, business analytics analyst, business analytics-analyst, business-analyst",
+          "RelatedSkills": [
+            {
+              "Skill": "business analysis communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis reporting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "presentation skills coaching",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "verbal communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "function point analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis framework",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "objectstudio",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "active listening",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "advise on communication strategies",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "advise on personnel management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "commercial awareness",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "pv wave",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "quality customer service",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "use case diagram",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "use case",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "decision making",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business ecosystem",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "integration definition for information modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "recursive partitioning",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "ansoff matrix",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "subscription business model",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "strategy dynamics",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "phase implementation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "predictive modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "business analytics",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2019 - till",
+        "FormattedJobPeriod": "2019 to till",
+        "StartDate": "01/01/2019",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At HSBC, Olivia has been leading business analysis efforts for strategic projects, conducting data analysis to provide insights for strategic decision-making, developing and documenting business requirements and process maps, and facilitating stakeholder workshops to gather requirements and provide project updates. She ensures compliance with regulatory standards and internal policies. \n Olivia successfully led the implementation of a new risk management system and improved reporting processes, reducing manual efforts by 30%.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Lloyds Banking Group",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Junior Business Analyst",
+          "FormattedName": "junior business analyst",
+          "Alias": "jr functional analyst, jnr business analyst, junior business support analyst, junior business agent, junior business consultant, jr. functional analyst, new business analyst jr, jr. business analyst, business jr. analyst, jnr functional analyst, jr business agent, junior analyst of business, junior functional analyst, jr business analysis, junior level business analyst, business junior analyst, junior analyst business",
+          "RelatedSkills": [
+            {
+              "Skill": "analyse business objectives",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "development management",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "business plan analysis",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2016 - 2019",
+        "FormattedJobPeriod": "2016 to 2019",
+        "StartDate": "01/01/2016",
+        "EndDate": "31/12/2019",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "In her role at Lloyds Banking Group, Olivia conducted data analysis to identify trends and insights for business improvement, gathered and documented business requirements for new projects, developed business cases and project proposals, and provided training and support to users on new systems and processes. She led a project to enhance data reporting capabilities and identified key performance indicators that improved operational efficiency.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "HSBC Bank",
+    "JobProfile": "Business Analyst",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "103",
+      "TotalExperienceInYear": "8.7",
+      "TotalExperienceRange": "8-10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "51",
+    "LongestStay": "55",
+    "Summary": "Innovative and analytical Business Analyst with 7 years of experience in the banking sector. Adept at leveraging data analysis and process improvement methodologies to drive business efficiencies. Known for excellent problem-solving skills and the ability to deliver projects that align with strategic business goals.",
+    "ExecutiveSummary": "Olivia has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Business Operations Specialists. 'The candidate has a total experience of 7 YearsThe candidate has been working as a Business Analyst at HSBC Bank for the last 5.7 years. ",
+    "ManagementSummary": "Olivia doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 535ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Olivia Davis\nContact Information : \nAddress : 78 Maple Lane, Manchester, M4 3HD, England\nEmail : olivia.davis@email.com\nPhone : +44 7123 123987\nLinkedIn : linkedin.com/in/oliviadavis\n\nProfessional Summary : \nInnovative and analytical Business Analyst with 7 years of experience in the banking sector. Adept at leveraging data analysis and process improvement methodologies to drive business efficiencies. Known for excellent problem-solving skills and the ability to deliver projects that align with strategic business goals.\n\nEducation : \nUniversity of Manchester (Russell Group) \nMSc Business Analytics and Consulting, Merit\nGraduated : 2015\nUniversity of Birmingham (Russell Group) \nBSc Finance and Accounting, First Class Honours\nGraduated : 2013\n\nProfessional Experience : \nHSBC Bank\nBusiness Analyst\nManchester, UK\n2019 - Present\nAt HSBC, Olivia has been leading business analysis efforts for strategic projects, conducting data analysis to provide insights for strategic decision-making, developing and documenting business requirements and process maps, and facilitating stakeholder workshops to gather requirements and provide project updates. She ensures compliance with regulatory standards and internal policies. \nOlivia successfully led the implementation of a new risk management system and improved reporting processes, reducing manual efforts by 30%.\nLloyds Banking Group\nJunior Business Analyst\nManchester, UK\n2016 - 2019\nIn her role at Lloyds Banking Group, Olivia conducted data analysis to identify trends and insights for business improvement, gathered and documented business requirements for new projects, developed business cases and project proposals, and provided training and support to users on new systems and processes. She led a project to enhance data reporting capabilities and identified key performance indicators that improved operational efficiency.\nInternship : NatWest Group\nData Analyst Intern\nManchester, UK\nSummer 2015\nDuring her internship at NatWest Group, Olivia assisted in analyzing large datasets to identify trends and insights, supported the development of data models and reporting tools, and conducted market research to support business development initiatives. She developed a new reporting tool that improved data accessibility for business users and identified key market trends that informed the development of a new product line.\n\nSkills : \nData Analysis\nBusiness Requirements Gathering\nProcess Improvement\nProject Management\nStakeholder Management\nRegulatory Compliance\n\nCertifications : \nCertified Business Analysis Professional (CBAP) \nLean Six Sigma Green Belt\nCertified Data Management Professional (CDMP) \n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Olivia Davis</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 78 Maple Lane, Manchester, M4 3HD, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> olivia.davis@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 123987</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> linkedin.com/in/oliviadavis</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Innovative and analytical Business Analyst with 7 years of experience in the banking sector. Adept at leveraging data analysis and process improvement methodologies to drive business efficiencies. Known for excellent problem-solving skills and the ability to deliver projects that align with strategic business goals.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Manchester (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">MSc Business Analytics and Consulting, Merit</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2015</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Birmingham (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">BSc Finance and Accounting, First Class Honours</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2013</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC Bank</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Business Analyst</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2019 - Present</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At HSBC, Olivia has been leading business analysis efforts for strategic projects, conducting data analysis to provide insights for strategic decision-making, developing and documenting business requirements and process maps, and facilitating stakeholder workshops to gather requirements and provide project updates. She ensures compliance with regulatory standards and internal policies. Olivia successfully led the implementation of a new risk management system and improved reporting processes, reducing manual efforts by 30%.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lloyds Banking Group</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Junior Business Analyst</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2016 - 2019</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">In her role at Lloyds Banking Group, Olivia conducted data analysis to identify trends and insights for business improvement, gathered and documented business requirements for new projects, developed business cases and project proposals, and provided training and support to users on new systems and processes. She led a project to enhance data reporting capabilities and identified key performance indicators that improved operational efficiency.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Internship: NatWest Group</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Data Analyst Intern</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Summer 2015</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">During her internship at NatWest Group, Olivia assisted in analyzing large datasets to identify trends and insights, supported the development of data models and reporting tools, and conducted market research to support business development initiatives. She developed a new reporting tool that improved data accessibility for business users and identified key market trends that informed the development of a new product line.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data Analysis</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Business Requirements Gathering</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Process Improvement</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Project Management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Stakeholder Management</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Regulatory Compliance</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Business Analysis Professional (CBAP) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Lean Six Sigma Green Belt</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Data Management Professional (CDMP) </span></li></ul><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

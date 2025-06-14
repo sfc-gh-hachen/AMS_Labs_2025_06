@@ -1,0 +1,774 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Mark Herring.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:36:12",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Mark Herring",
+      "TitleName": "",
+      "FirstName": "Mark",
+      "MiddleName": "",
+      "LastName": "Herring",
+      "FormattedName": "Mark Herring",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "mark.herring@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123111222",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 111222",
+        "FormattedNumber": "+44 7123 111222",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/markherring"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "101 Oakwood Drive",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M101AA",
+        "FormattedAddress": "101 Oakwood Drive, Manchester, England, M101AA, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Management of Companies and Enterprises",
+    "SubCategory": "Construction Managers",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Manchester College \r Diploma in Construction and the Built Environment \r Graduated : 2012\r\r\rNVQ Level 3 in Construction Site Supervision \r CSCS (Construction Skills Certification Scheme) Card \r SMSTS (Site Management Safety Training Scheme) \r First Aid at Work Certification \r  \r  \r  \r Attending construction industry workshops and seminars \r Playing rugby with a local team \r Volunteering for community construction projects \r Reading about new construction technologies and methods",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "Manchester College",
+          "Type": "College",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 8
+        },
+        "Degree": {
+          "DegreeName": "Diploma in Construction and the Built Environment",
+          "NormalizeDegree": "Diploma",
+          "Specialization": [
+            "Construction",
+            "Built Environment"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "2012",
+        "StartDate": "",
+        "EndDate": "31/12/2012",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "NVQ Level 3 in Construction Site Supervision",
+          "NormalizeDegree": "",
+          "Specialization": [
+            "Construction"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "Construction Skills Certification",
+          "NormalizeDegree": "Certificate",
+          "Specialization": [
+            "Construction"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "SMSTS Site Management Safety Training Scheme",
+          "NormalizeDegree": "",
+          "Specialization": [
+            "Management"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "",
+    "SegregatedCertification": [],
+    "SkillBlock": "Site Supervision and Management \r Safety Compliance and Protocols \r Team Coordination and Leadership \r Quality Control and Assurance \r Construction Techniques and Tools \r Project Scheduling and Time Management \r Effective Communication and Problem Solving",
+    "SkillKeywords": "High Standards,Assisted,Effective Communication,Proven Track Record,Project Scheduling,Team Coordination,Problem Solving,Time Management,Leadership,Construction Practices,Project Specifications,Ensuring Compliance,Project Completion,Safety Regulations,Building Industry,Quality Standards,Safety Management,Safety Procedures,Site Supervision,Quality Control,Site Operations,Workmanship,Carpentry,Masonry",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "High Standards",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Effective Communication",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>effective communication",
+        "Alias": "able to convey information, able to convey information clearly, clear & concise communication, excellent communicator, communicated effectively, clear and concise communication, develop strong communication, effective-communication, developing effective communication, great communicators, effective communication is paramount, effective communicator, effective communication skills, communicating with supervisors, communicated regularly, able to communicate effectively, develop effective communication skills",
+        "FormattedName": "effective communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Proven Track Record",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>proven track record",
+        "Alias": "proven leadership skills",
+        "FormattedName": "proven track record",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Project Scheduling",
+        "Ontology": "Information>All Other Information Services>project scheduling",
+        "Alias": "project schedules, project schedule, project-scheduling",
+        "FormattedName": "project scheduling",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Coordination",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team coordination",
+        "Alias": "coordination in a team, coordinate with internal and external team members, coordination process, group-coordination, coordinate communication within a team, team-coordination, staff coordination, group coordination, staffing coordination, coordinating team, coordinating team efforts, coordinating teams, coordination team, coordinated with department, teams coordination, team co-ordination, coordination staff, leading other coordinators in department, staff-coordination",
+        "FormattedName": "team coordination",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Problem Solving",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>problem solving",
+        "Alias": "solve problems creatively, resolution of problems, find appropriate solutions, resolve issues, collaborative problem solving, resolve problems, solving issues, ability to solve problems, ability to analyze and solve problems, theoretical problem solving, solving problem, problems resolve, solving problems, problem handling, solving complex problems, problem-solving skills, able to resolve issues, able-to-resolve issues, complex problem-solving, complex problem-solving abilities, analytic problem solving, solve highly analytical problems, problem-solving, solves problems, quickly identifying problems, problem resolution, addressing concerns, analytical problem solving, resolving concerns, addressing the issues, problem solving ability, problem solving skills, problem solving abilities, problem solving leadership, general problem solving, team problem solving, problem solver, solve complex problems, problem-solver, solutions to problems, complex problem solving, strategic problem solving, problem solution skills, problem solution, recognizing problems, solve problems, resourceful problem solving, solving skills, investigating problems, solving engineering problems, resolves problems, resolving issues, solve any problem, resolving technical problems, efficient problem solving, resolve a problem",
+        "FormattedName": "problem solving",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Time Management",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>time management",
+        "Alias": "manage time, time handling, time mgmt., managing day, strategic time management, strategic time mgmt, managing time, excellent time management, timely development, time implementation, time managed, timely management, manage own time, time-management, timely decision making, managed the time, timely and accurate processing, time administration, time management process, time management skills, organization time management, time estimation",
+        "FormattedName": "time management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Leadership",
+        "Ontology": "Management of Companies and Enterprises>Top Executives>leadership",
+        "Alias": "leadership skills, leadership ability, leadership abilities, abilities to lead, leading people, leading skills, leaderships skills, leadership qualities, leadership management, people leadership, strong leadership, provide leadership, established leadership skills, inclusive leadership",
+        "FormattedName": "leadership",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Construction Practices",
+        "Ontology": "Construction>Commercial and Institutional Building Construction>construction methods",
+        "Alias": "construction techniques, construction procedures, construction-methods, methods of construction, construction-office-procedures, construction office procedures, construction approaches, construction-practices, construction systems, construction methodology, construction practices",
+        "FormattedName": "construction methods",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Specifications",
+        "Ontology": "Information>Software Developers and Programmers>software requirements specification",
+        "Alias": "srs, software specifications, requirement for a system, software-requirements, software-requirements-specification, software-requirements document, software-requirements specification, product-requirement document, design software requirements, requirements software, requirements documents, develop system specifications, ict application specifications, project-specification, specification software, user requirement, user requirements, user requirements specifications, user requirements documentation, user requirements document, user requirements documents, user requirement documents, user requirements specification, user requirement specifications, system specification documentation, system specifications, system specification, product requirement document, product requirement documents, requirements specification documentation, requirements specification, requirements specifications, software speci?cations, ict software specifying, ict software specification, ict software specifications, system�requirements�specification, ict system specifications, technical project specifications, it requirement documents, software requirements, software requirement, software requirements documentation, software requirements-document, software requirements design, software requirements-specification, software requirement specification, software requirements specifications, software requirements specification documentation, requirement specifications, requirement speci?cations, development of srs, system requirement, system requirements specifications, system requirements documentation, system requirements, user-requirements-specification, information technology requirements, engineering requirements specification, engineering requirement specifications, design of software requirement specifications, project specification, project specifications, specification system, ict programme specifications, system software specifications, system-requirements, requirements-documents, application software specifications, technical requirements documentation, technical requirement specification, technical requirements documents, technical requirement document, it requirements document, it requirements documents, application requirement, computer system requirements",
+        "FormattedName": "software requirements specification",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2014",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensuring Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>ensuring compliance",
+        "Alias": "guarantee compliance with policies, compliance assurance, compliance-assurance, assures compliance, make sure policies are compliant, ensure policy compliance, assurance of compliance, certify compliance with policies, ensure compliance, ensure compliance with policies, ensure compliance with legislation, ensure compliance with policy, ensuring compliance with the rules, ensuring compliance with policies",
+        "FormattedName": "ensuring compliance",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Completion",
+        "Ontology": "Finance and Insurance>Portfolio Management>project completion",
+        "Alias": "complete projects on time, complete projects, manages the project completion, project-completion, project closure, driving projects to completion, completion of the project",
+        "FormattedName": "project completion",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Safety Regulations",
+        "Ontology": "Construction>Health and Safety Engineers, Except Mining Safety Engineers and Inspectors>osha regulation",
+        "Alias": "scope of health and safety regulations, scope of health and safety standards, safety-regulation, safety standards, health and safety regulations, safety regulations, safety regulation, application of health and safety regulations, application of health and safety standards, adhering to safety standards, occupational safety and health administration standards, occupational safety and health administration standard, safety-standards, coverage of health and safety standards, coverage of health and safety regulations, occupational health and safety administration regulation, osha standards, osha-regulation-knowledge, osha-regulations-general, health, safety and hygiene regulation, health, safety and hygiene statutes, health, safety and hygiene legislation rules, health, safety and hygiene legislation, osha regulation knowledge, range of health and safety regulations, range of health and safety standards, osha safety, osha regulations general, osha regulations",
+        "FormattedName": "osha regulation",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Building Industry",
+        "Ontology": "Construction>Civil Engineers>construction industry",
+        "Alias": "the construction industry, construction skills, construction business, construction process, construction project, construction processes, residential building construction, project construction, building process, building projects, general construction, building industry, building-industry, works construction, general-construction, construction industries",
+        "FormattedName": "construction industry",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Quality Standards",
+        "Ontology": "Information>Software Quality Assurance Analysts and Testers>quality standards",
+        "Alias": "maintaining quality control standards, quality-assurance-standards, quality management standards, operations quality standards, quality assurance standards, quality standard",
+        "FormattedName": "quality standards",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2014",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Safety Management",
+        "Ontology": "Construction>Hazardous Materials Removal Workers>safety management",
+        "Alias": "safety mgmt., develop safety, safety management process, address and report safety concerns, managing safety, development of safety, safety improvements, developing safety, safety-management, manage annual safety, develop safety program",
+        "FormattedName": "safety management",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Safety Procedures",
+        "Ontology": "Construction>Health and Safety Engineers, Except Mining Safety Engineers and Inspectors>safety procedure",
+        "Alias": "workplace safety procedures, safety procedures and regulations, safety procedures, safety procedure and regulation",
+        "FormattedName": "safety procedure",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Site Supervision",
+        "Ontology": "Construction>Construction and Building Inspectors>construction supervision",
+        "Alias": "supervision of constructions, site supervision, construction-supervision, building site supervision, construction site supervision",
+        "FormattedName": "construction supervision",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Quality Control",
+        "Ontology": "Construction>Industrial Engineers>quality control",
+        "Alias": "processes quality assurance, qa assurance, quality checks, content quality assurance, qc, laboratory quality assurance, qc operations, ensure the quality, content quality-assurance, qa process, quality-assurance, ensure quality of the work, quality-control-management, quality-control-assurance, qa, quality control, quality process analysis, production quality control, qa-assurance, assure quality of the products, qa engineering, assessing quality standards, managed qa, ensuring quality, assure the quality of the works, q.a, qa analysis, product qa, quality tests, quality checking, quality metrics, quality-control, ensure quality, manage qa, quality testing, quality assurance process, quality assurance management, quality assurance content, quality assurance processes, quality assurance, quality metrics-management, service quality control, quality metrics management, quality analysis, content qa, quality concern analysis, manage quality assurance, quality control process, quality control assurance, quality control techniques, quality control of service, quality control operations, quality control management, quality control mgmt., quality control of the service, quality control monitoring, quality control processes, quality control of products, quality control services, quality-checking, quality strategy, qa management, quality-checks, quality controlling",
+        "FormattedName": "quality control",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Site Operations",
+        "Ontology": "Construction>Architecture and Engineering Occupations>site operations",
+        "Alias": "operations site",
+        "FormattedName": "site operations",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Workmanship",
+        "Ontology": "Construction>Electricians>workmanship",
+        "Alias": "craftsmanship",
+        "FormattedName": "workmanship",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Carpentry",
+        "Ontology": "Manufacturing>Woodworkers>woodworking",
+        "Alias": "woodturning, wood working processes, woodworking systems, bench carpentry, wood turning, general-woodworking, general-carpentry, general carpentry, woodwork processes, woodworking design, general woodworking, turning wood, carpentry, woodwork, woodwork design, wood working, wood shaping, wood lathing, woodworking mechanisms, woodworking procedures, woodworking processes",
+        "FormattedName": "woodworking",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Masonry",
+        "Ontology": "Construction>Building and Grounds Cleaning and Maintenance Occupations>masonry",
+        "Alias": "masonry construction",
+        "FormattedName": "masonry",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 36
+      }
+    ],
+    "Experience": "Wilson Construction Ltd Site Supervisor \r Manchester, UK \r 2018 - Present \r As a Site Supervisor at Wilson Construction, I am responsible for overseeing daily operations on various construction sites. My duties include coordinating with subcontractors, ensuring compliance with safety regulations, and managing schedules to ensure timely project completion. I have successfully supervised several residential and commercial projects, maintaining high standards of quality and safety. \r Brown & Sons Builders Assistant Site Supervisor \r Manchester, UK \r 2014 - 2018 \r At Brown & Sons Builders, I assisted the Site Supervisor in managing construction activities. My responsibilities included monitoring site operations, ensuring materials were available as needed, and enforcing safety protocols. I played a key role in maintaining project timelines and quality control. \r Greenfield Construction Site Foreman \r Manchester, UK \r 2012 - 2014 \r In my role as Site Foreman at Greenfield Construction, I oversaw daily construction tasks, coordinated with workers, and ensured adherence to project specifications. I managed on-site labor, supervised subcontractors, and ensured that all work met the required safety and quality standards. \r Smith & Co Construction Construction Worker \r Manchester, UK \r 2010 - 2012 \r As a Construction Worker at Smith & Co, I gained hands-on experience in various aspects of construction, including masonry, carpentry, and concrete work. I worked closely with site supervisors and foremen, developing a strong foundation in construction practices and safety procedures.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Wilson Construction Ltd",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Site Supervisor",
+          "FormattedName": "site supervisor",
+          "Alias": "onsite -supervisor, site supervision charge, site-supervisor, site operations supervisor, remote site supervisor, site incharge and supervisor",
+          "RelatedSkills": [
+            {
+              "Skill": "site management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "crane rigging",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "restaurant construction",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2018 - till",
+        "FormattedJobPeriod": "2018 to till",
+        "StartDate": "01/01/2018",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Wilson Construction",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Brown & Sons Builders Assistant Site Supervisor",
+          "FormattedName": "assistant site supervisor",
+          "Alias": "assistant supervisor-site, assistant supervisor, site, supervise site assistant, assistant-site- supervisor, assistant/supervisor-site, assistant-site supervisor, asst site supervisor",
+          "RelatedSkills": [
+            {
+              "Skill": "site investigation",
+              "ProficiencyLevel": "Moderate"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2014 - 2018",
+        "FormattedJobPeriod": "2014 to 2018",
+        "StartDate": "01/01/2014",
+        "EndDate": "31/12/2018",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "At Brown & Sons Builders, I assisted the Site Supervisor in managing construction activities. My responsibilities included monitoring site operations, ensuring materials were available as needed, and enforcing safety protocols. I played a key role in maintaining project timelines and quality control.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Greenfield Construction",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Site Foreman",
+          "FormattedName": "foreman",
+          "Alias": "site foreman, foreman concrete, foreman helper, building construction foreman, lime preparation foreman, concrete foreman, field foreman, quality foreman, waferboard foreman, foreman operator, sector lead foreman, crew foreman, location foreman, construction foreman, construction fore-man, startup foreman, demolition foreman, factory foreman, sector foreman, foreman of crew, area foreman, general foreman, foreperson",
+          "RelatedSkills": [
+            {
+              "Skill": "site investigation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prepare site for construction",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "hand tool",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "work in a construction team",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage heavy equipment",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "site analysis",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2012 - 2014",
+        "FormattedJobPeriod": "2012 to 2014",
+        "StartDate": "01/01/2012",
+        "EndDate": "31/12/2014",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "In my role as Site Foreman at Greenfield Construction, I oversaw daily construction tasks, coordinated with workers, and ensured adherence to project specifications. I managed on-site labor, supervised subcontractors, and ensured that all work met the required safety and quality standards.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Greenfield Construction",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Smith & Co Construction Construction Worker",
+          "FormattedName": "laborer",
+          "Alias": "site worker, laboring operative, labour worker, construction general laborer, building construction worker, building construction laborer, construction helper, construction crew member, general contractor helper, laborer operator, building labourer, manual labor, general-purpose construction worker, construction worker, general labor, building-construction- worker, general labourer, construction laborer, construction labourer, civil worker, practical worker, general laborer, construction- helper, construction site laborer, construction site helper, construction site worker, general laboror, laborer worker, building laborer, day laborer, labourer, construction - worker, labor crew member, building site worker, skilled general labour, field laborer, civil helper, general worker, construction person, casual labourer, building site laborer",
+          "RelatedSkills": [
+            {
+              "Skill": "basement waterproofing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "construction industry",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "equipment maintenance",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "pipe laying",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "cargo handling",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "measuring instrument",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "trenching",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2010 - 2012",
+        "FormattedJobPeriod": "2010 to 2012",
+        "StartDate": "01/01/2010",
+        "EndDate": "31/12/2012",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "As a Construction Worker at Smith & Co, I gained hands-on experience in various aspects of construction, including masonry, carpentry, and concrete work. I worked closely with site supervisors and foremen, developing a strong foundation in construction practices and safety procedures.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Wilson Construction Ltd",
+    "JobProfile": "Site Supervisor",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "175",
+      "TotalExperienceInYear": "14.7",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "43",
+    "LongestStay": "67",
+    "Summary": "LinkedIn : linkedin.com / in / markherring \r  \r Professional Profile : Experienced construction professional with a decade of hands-on experience in the building industry. Proven track record in site supervision, safety management, and team coordination. Skilled in ensuring project completion within deadlines and maintaining high standards of workmanship and safety.",
+    "ExecutiveSummary": "Mark has an experience in the domain of 'Management of Companies and Enterprises', particularly in the sub-domain of 'Construction Managers. The candidate has been working as a Site Supervisor at Wilson Construction Ltd for the last 6.7 years. ",
+    "ManagementSummary": "Currently, Mark holds a Low Management Level position, as Site Supervisor at Wilson Construction Ltd. from 01/01/2018 to 05/07/2024. The candidate has a total experience of 6.7 years in this company.\n\nMark holds a Low Management Level position, as Brown & Sons Builders Assistant Site Supervisor at Wilson Construction. from 01/01/2014 to 31/12/2018. The candidate has a total experience of 5.0 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "DIY and home improvement projects",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 651ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Mark Herring\nContact Information : \nAddress : 101 Oakwood Drive, Manchester, M10 1AA, England\nEmail : mark.herring@email.com\nPhone : +44 7123 111222\nLinkedIn : linkedin.com/in/markherring\n\nProfessional Profile : Experienced construction professional with a decade of hands-on experience in the building industry. Proven track record in site supervision, safety management, and team coordination. Skilled in ensuring project completion within deadlines and maintaining high standards of workmanship and safety.\n\nEducation : Manchester College\nDiploma in Construction and the Built Environment\nGraduated : 2012\n\nCareer History : \nWilson Construction Ltd Site Supervisor\nManchester, UK\n2018 - Present\nAs a Site Supervisor at Wilson Construction, I am responsible for overseeing daily operations on various construction sites. My duties include coordinating with subcontractors, ensuring compliance with safety regulations, and managing schedules to ensure timely project completion. I have successfully supervised several residential and commercial projects, maintaining high standards of quality and safety.\nBrown & Sons Builders Assistant Site Supervisor\nManchester, UK\n2014 - 2018\nAt Brown & Sons Builders, I assisted the Site Supervisor in managing construction activities. My responsibilities included monitoring site operations, ensuring materials were available as needed, and enforcing safety protocols. I played a key role in maintaining project timelines and quality control.\nGreenfield Construction Site Foreman\nManchester, UK\n2012 - 2014\nIn my role as Site Foreman at Greenfield Construction, I oversaw daily construction tasks, coordinated with workers, and ensured adherence to project specifications. I managed on-site labor, supervised subcontractors, and ensured that all work met the required safety and quality standards.\nSmith & Co Construction Construction Worker\nManchester, UK\n2010 - 2012\nAs a Construction Worker at Smith & Co, I gained hands-on experience in various aspects of construction, including masonry, carpentry, and concrete work. I worked closely with site supervisors and foremen, developing a strong foundation in construction practices and safety procedures.\n\nSkills : \nSite Supervision and Management\nSafety Compliance and Protocols\nTeam Coordination and Leadership\nQuality Control and Assurance\nConstruction Techniques and Tools\nProject Scheduling and Time Management\nEffective Communication and Problem Solving\n\nQualifications : \nNVQ Level 3 in Construction Site Supervision\nCSCS (Construction Skills Certification Scheme) Card\nSMSTS (Site Management Safety Training Scheme) \nFirst Aid at Work Certification\n\nHobbies and Interests : \nDIY and home improvement projects\nAttending construction industry workshops and seminars\nPlaying rugby with a local team\nVolunteering for community construction projects\nReading about new construction technologies and methods\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Mark Herring</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Address: 101 Oakwood Drive, Manchester, M10 1AA, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Email: mark.herring@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Phone: +44 7123 111222</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">LinkedIn: linkedin.com/in/markherring</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Profile:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> Experienced construction professional with a decade of hands-on experience in the building industry. Proven track record in site supervision, safety management, and team coordination. Skilled in ensuring project completion within deadlines and maintaining high standards of workmanship and safety.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Manchester College</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Diploma in Construction and the Built Environment</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2012</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Career History:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Wilson Construction Ltd</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Site Supervisor</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2018 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">As a Site Supervisor at Wilson Construction, I am responsible for overseeing daily operations on various construction sites. My duties include coordinating with subcontractors, ensuring compliance with safety regulations, and managing schedules to ensure timely project completion. I have successfully supervised several residential and commercial projects, maintaining high standards of quality and safety.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Brown & Sons Builders</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Assistant Site Supervisor</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2014 - 2018</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">At Brown & Sons Builders, I assisted the Site Supervisor in managing construction activities. My responsibilities included monitoring site operations, ensuring materials were available as needed, and enforcing safety protocols. I played a key role in maintaining project timelines and quality control.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Greenfield Construction</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Site Foreman</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2012 - 2014</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">In my role as Site Foreman at Greenfield Construction, I oversaw daily construction tasks, coordinated with workers, and ensured adherence to project specifications. I managed on-site labor, supervised subcontractors, and ensured that all work met the required safety and quality standards.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Smith & Co Construction</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Construction Worker</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2010 - 2012</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">As a Construction Worker at Smith & Co, I gained hands-on experience in various aspects of construction, including masonry, carpentry, and concrete work. I worked closely with site supervisors and foremen, developing a strong foundation in construction practices and safety procedures.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Site Supervision and Management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Safety Compliance and Protocols</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Team Coordination and Leadership</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Quality Control and Assurance</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Construction Techniques and Tools</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Project Scheduling and Time Management</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Effective Communication and Problem Solving</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Qualifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">NVQ Level 3 in Construction Site Supervision</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">CSCS (Construction Skills Certification Scheme) Card</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">SMSTS (Site Management Safety Training Scheme) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">First Aid at Work Certification</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Hobbies and Interests:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">DIY and home improvement projects</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Attending construction industry workshops and seminars</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Playing rugby with a local team</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Volunteering for community construction projects</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Reading about new construction technologies and methods</span></li></ul><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

@@ -1,0 +1,683 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Jessica Lee.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 1:09:03",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Jessica Lee",
+      "TitleName": "",
+      "FirstName": "Jessica",
+      "MiddleName": "",
+      "LastName": "Lee",
+      "FormattedName": "Jessica Lee",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "jessica.lee@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123678901",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 678901",
+        "FormattedNumber": "+44 7123 678901",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/jessicalee"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "45 Birch Road",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M35HD",
+        "FormattedAddress": "45 Birch Road, Manchester, England, M35HD, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Financial Analysts and Advisors",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Manchester (Russell Group) \r MSc Risk Management and Compliance, Distinction \r Graduated : 2017 \r University of Birmingham (Russell Group) \r BSc Finance, Upper Second Class Honours \r Graduated : 2015",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "MSc Risk Management and Compliance",
+          "NormalizeDegree": "Master of Science",
+          "Specialization": [
+            "Risk Management"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2017",
+        "StartDate": "",
+        "EndDate": "31/12/2017",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "University of Birmingham",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc Finance",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Finance"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2015",
+        "StartDate": "",
+        "EndDate": "31/12/2015",
+        "Aggregate": {
+          "Value": "2nd",
+          "MeasureType": "Class Honours"
+        }
+      }
+    ],
+    "Certification": "Certified Risk Management Professional (CRMP) \r International Certificate in Risk Management (ICRM) \r Certified Financial Services Auditor (CFSA)",
+    "SegregatedCertification": [],
+    "SkillBlock": "Risk Assessment \r Data Analysis \r Regulatory Compliance \r Risk Mitigation Strategies \r Financial Data Analysis \r Report Writing \r Collaboration",
+    "SkillKeywords": "Comprehensive,Potential,Assisted,Attention To Detail,Analytical Skills,Collaborating,Collaboration,Presentations,Initiative,Proactive,Risk Mitigation Strategies,Risk Management Framework,Conduct Risk Assessments,Financial Data Analysis,Regulatory Requirements,Analyze Financial Data,Regulatory Compliance,Regulatory Standards,Ensuring Compliance,Ensure Compliance,Internal Policies,Banking Industry,Cross-Functional,Risk Assessment,Risk Management,Risk Mitigation,Financial Data,Report Writing,Analyzed Data,Data Analysis,Analyze Data",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Comprehensive",
+        "Ontology": "Educational Services>Instructional Coordinators>comprehensive",
+        "Alias": "comprehension, ability to understand",
+        "FormattedName": "comprehensive",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Potential",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk analysis",
+        "Alias": "performing risk analysis, conduct risk assessment, conduct risk assessments, risk assessment analytics, risk evaluation, risk measure, examining risks, examining risks and potentials, risk assessment, risk-analysis, identification of risks, risk identification, process risk analysis, risk measures, analysis of risk, assessing risk, risk-reviews, risk measurement, performed risk analysis, risks analysis, risk identi?cation, assessing risks, measuring risk, identified audit risks, risk analytics, identify risks, risk reviews, retail risk analytics, risk assessments, perform a risk analysis, business process risk assessments, business process risk assessment, retail risk assessment, risk-assessment, weekly risk analysis",
+        "FormattedName": "risk analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Attention To Detail",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>attention to detail",
+        "Alias": "detail-oriented tasks, attention to details, attention for details, detail-minded, attention to-detail, detail oriented, meticulous, attending to details, detail-orientated, highly detail oriented, eye for details, pay attention to detail, highly detail-oriented, detail focused, paying close attention to detail, detailed-oriented, attention-to-detail, pays attention to detail, pays attention to details, detail minded, acute attention to detail, detail orientated, attention to the details, detail-orientation, detail driven, attentive to details, attentive to detail, a good eye for detail and high level of accuracy, detailed oriented, attend to detail, attend to details, detail orientation, detail-oriented, high attention to detail, attentiveness to details, attentiveness to detail, organized and detail oriented, eye for detail",
+        "FormattedName": "attention to detail",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Analytical Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>analytical skill",
+        "Alias": "logical and analytical skills, analyzing skills, analytical background, analytical abilities, analytical ability, analytic skills, analytical skills, analytical awareness, analytical-and interpretive skills, strong analytical planning, analysing skills, analytical and troubleshooting skill, organizational analytical skills, analytics skills, analytical and interpretive skill, analytical and interpretive skills, analytical and inherent skills, analytical and problem solving skills, analytical and problem-solving, highly analytical",
+        "FormattedName": "analytical skill",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaborating",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaboration",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Presentations",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>presentation",
+        "Alias": "presentation capabilities, presentation skills, presenting skills, presentations skills, presentations",
+        "FormattedName": "presentation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Initiative",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>initiative",
+        "Alias": "initiative skills, self initiative, self initiatives",
+        "FormattedName": "initiative",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Proactive",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>proactive",
+        "Alias": "pro-active, proactivity, proactive behavior, ability to be proactive",
+        "FormattedName": "proactive",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Mitigation Strategies",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk mitigation",
+        "Alias": "develop mitigation plans, risk mitigation strategy, risk mitigation plan, risk mitigation strategies, risk mitigation planning, risk-mitigation, reduce risk, mitigation planning, developing mitigations and controls, risk reduction, mitigation strategies, risk-mitigation strategy, risk handling",
+        "FormattedName": "risk mitigation",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Management Framework",
+        "Ontology": "Information>Computer Network Architects>risk management framework",
+        "Alias": "risk assessment framework development, risk assessment framework, enterprise risk management framework., operations framework risk management, risk-management framework, risk-management-framework, risk analytics framework, management framework risk, operational-risk management framework, operational-risk-management framework, risk analysis framework, fraud management framework, risk management frame work, operations risk management framework, operational risk management framework, operational risk management-framework",
+        "FormattedName": "risk management framework",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Conduct Risk Assessments",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk analysis",
+        "Alias": "performing risk analysis, conduct risk assessment, conduct risk assessments, risk assessment analytics, risk evaluation, risk measure, examining risks, examining risks and potentials, risk assessment, risk-analysis, identification of risks, risk identification, process risk analysis, risk measures, analysis of risk, assessing risk, risk-reviews, risk measurement, performed risk analysis, risks analysis, risk identi?cation, assessing risks, measuring risk, identified audit risks, risk analytics, identify risks, risk reviews, retail risk analytics, risk assessments, perform a risk analysis, business process risk assessments, business process risk assessment, retail risk assessment, risk-assessment, weekly risk analysis",
+        "FormattedName": "risk analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Data Analysis",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>financial performance analysis",
+        "Alias": "analysing financial performance of company, analysing financial data, review financial performance of a company, investigate financial performance of a company, analyzing income and expenditure statements, financial record analysis, analyse company financial performance, financial data analysis, evaluate financial performance of a company, analysis financial record, analyse financial performance of a company, analyse financial performance of companies, analyze financial data, analyze financial performance of a company, finance performance analysis, examine financial performance of a company, financial performance analytics, analyze ?nancial data, financial-performance analysis",
+        "FormattedName": "financial performance analysis",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Requirements",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Analyze Financial Data",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>financial performance analysis",
+        "Alias": "analysing financial performance of company, analysing financial data, review financial performance of a company, investigate financial performance of a company, analyzing income and expenditure statements, financial record analysis, analyse company financial performance, financial data analysis, evaluate financial performance of a company, analysis financial record, analyse financial performance of a company, analyse financial performance of companies, analyze financial data, analyze financial performance of a company, finance performance analysis, examine financial performance of a company, financial performance analytics, analyze ?nancial data, financial-performance analysis",
+        "FormattedName": "financial performance analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Standards",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensuring Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>ensuring compliance",
+        "Alias": "guarantee compliance with policies, compliance assurance, compliance-assurance, assures compliance, make sure policies are compliant, ensure policy compliance, assurance of compliance, certify compliance with policies, ensure compliance, ensure compliance with policies, ensure compliance with legislation, ensure compliance with policy, ensuring compliance with the rules, ensuring compliance with policies",
+        "FormattedName": "ensuring compliance",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensure Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>ensuring compliance",
+        "Alias": "guarantee compliance with policies, compliance assurance, compliance-assurance, assures compliance, make sure policies are compliant, ensure policy compliance, assurance of compliance, certify compliance with policies, ensure compliance, ensure compliance with policies, ensure compliance with legislation, ensure compliance with policy, ensuring compliance with the rules, ensuring compliance with policies",
+        "FormattedName": "ensuring compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Internal Policies",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>company policy",
+        "Alias": "corporate-policy, corporate-policies, business policy, internal policy, maintaining company policies, organization policy, workplace policies, workplace policy, corporate policy, company policy and procedures, corporate policies, company policies and procedures, company policies, organisational policies, company-policy, organizational policies, business policies, internal policies",
+        "FormattedName": "company policy",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Banking Industry",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & finance, banking & financial services, finance related services, finance service, financing operations, banking-services, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, credit services, banking services, banking and financial services, banking and finance, banking and-finance, financial svcs, finance service provision, finance services, credit-services, financial industry, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cross-Functional",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Assessment",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk analysis",
+        "Alias": "performing risk analysis, conduct risk assessment, conduct risk assessments, risk assessment analytics, risk evaluation, risk measure, examining risks, examining risks and potentials, risk assessment, risk-analysis, identification of risks, risk identification, process risk analysis, risk measures, analysis of risk, assessing risk, risk-reviews, risk measurement, performed risk analysis, risks analysis, risk identi?cation, assessing risks, measuring risk, identified audit risks, risk analytics, identify risks, risk reviews, retail risk analytics, risk assessments, perform a risk analysis, business process risk assessments, business process risk assessment, retail risk assessment, risk-assessment, weekly risk analysis",
+        "FormattedName": "risk analysis",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Management",
+        "Ontology": "Finance and Insurance>Financial Specialists>risk management",
+        "Alias": "risk-mgmt, market risk management, protection planning, risks mgmt., manage the risks, retail risk management, management of risk, management of risk practitioner, management of risks, risk-management, managing risk, managing risks, risk mgmt, manage complex risk, departmental risk management, manage risks, risk management support, risk management processes, risk management process, manage the risk, management risk, risk process",
+        "FormattedName": "risk management",
+        "Evidence": "ExperienceSection,CertificationSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Mitigation",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk mitigation",
+        "Alias": "develop mitigation plans, risk mitigation strategy, risk mitigation plan, risk mitigation strategies, risk mitigation planning, risk-mitigation, reduce risk, mitigation planning, developing mitigations and controls, risk reduction, mitigation strategies, risk-mitigation strategy, risk handling",
+        "FormattedName": "risk mitigation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Data",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>financial data",
+        "Alias": "financial databases, financial-data, marketing financial data, finance databases, designed and implemented financial data",
+        "FormattedName": "financial data",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Report Writing",
+        "Ontology": "Arts, Entertainment, and Recreation>Writers and Editors>report writing",
+        "Alias": "making reports, preparation of draft reports, write reports, report writing assisting, report-writing, writing reports",
+        "FormattedName": "report writing",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Analyzed Data",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Analyze Data",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 24
+      }
+    ],
+    "Experience": "Santander UK \r Risk Assessment Associate \r Manchester, UK \r 2018 - Present \r At Santander, Jessica is responsible for conducting risk assessments, identifying potential financial risks, and developing risk mitigation strategies. Her role involves analyzing financial data, preparing detailed risk reports, and collaborating with various departments to ensure compliance with regulatory standards and enhance the bank's risk management framework. \r Key Responsibilities :  \r Conduct comprehensive risk assessments. \r Identify and evaluate financial risks. \r Develop and implement risk mitigation strategies. \r Analyze financial data and prepare detailed risk reports. \r Ensure compliance with regulatory standards and internal policies. \r Collaborate with cross-functional teams to enhance risk management frameworks. \r Key Achievements :  \r Successfully implemented a risk management initiative that reduced financial risk exposure by 20%. \r Developed a risk assessment model that improved the accuracy of identifying potential risks. \r Lloyds Banking Group \r Junior Risk Analyst \r Manchester, UK \r 2017 - 2018 \r In her role as a Junior Risk Analyst at Lloyds Banking Group, Jessica conducted risk assessments on various financial products and services. She analyzed data to identify trends and potential risks, assisted in developing risk management strategies, and ensured compliance with regulatory requirements. Jessica also supported senior analysts in preparing risk reports and presentations for management. \r Key Responsibilities :  \r Conduct risk assessments on financial products and services. \r Analyze data to identify trends and potential risks. \r Assist in developing risk management strategies. \r Ensure compliance with regulatory requirements. \r Support senior analysts in preparing risk reports and presentations. \r Key Achievements :  \r Contributed to the development of a risk management strategy that improved risk mitigation efforts. \r Identified key risk indicators that were adopted in the bank's risk assessment processes.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Santander UK",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Risk Assessment Associate",
+          "FormattedName": "administrative assistant",
+          "Alias": "asst. administrative, asst of administrative, assistant in dep, management administrative assistant, field associate, admin asst., division assistant, assistant administrator, assistant administrative, assistant administration, adm assistant, admin assistant, assistant of administrative, associate, administrative evaluation assistant, departmental support assistant, assistant admin, financial administrative associate, administrative information assistant, commercial office employee, administration helper, department assistant, assistant of secretaries and administrative, administrative helper, office services aide, office services assistant, office services administrative assistant, assistant in administrative services, assistant in administrative department, admin associate, administration aide, administration assistant, assistant - administration, asst admin, secretaries and administrative asst, secretaries and administrative assistant, associate admin, administrative rep, administrative representative, administrative management assistant, administrative support asst, administrative services assistant, administrative supporter, administrative support associate, administrative service assistant, administrative support assistant, administrative staff, office - assistant, dept assistant, corporate department assistant, general administrative assistant, organization assistant, office asst., assistant of the dept., department asst, assistant office service, assistant office, admn asst, asst administration, admin asst, admin - asst, assistant to administration department, office assistant - service, office assistant, administrative office asst, administrative office assistant, asst. office, assistant, assistant to department, assistant to dept, office asst, administrative center assistant, administration employee, admin staff, administration dept. assistant, administrated assistant, attendant, administrative document assistant, administrative department assistant, organisational assistant, office administrative assistant, administrate assistant, admin service rep, field administrative assistant, admin aide, administration-aide, office aide, assistant department, office admin assistant, office staff, administration services assistant, asst of secretaries and administrative, admin services assistant, asst. admin, general office assistant, general office associate, administrative asst, administrative aide, administrative attendant, administrative and service assistant, administrative admin, administrative associate, office support assistant",
+          "RelatedSkills": [
+            {
+              "Skill": "data entry",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "administrative skills",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain statutory books",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "calendar management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "administrative support services",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "proofreading",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "database management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "microsoft office",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "administrative activity",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2018 - till",
+        "FormattedJobPeriod": "2018 to till",
+        "StartDate": "01/01/2018",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At Santander, Jessica is responsible for conducting risk assessments, identifying potential financial risks, and developing risk mitigation strategies. Her role involves analyzing financial data, preparing detailed risk reports, and collaborating with various departments to ensure compliance with regulatory standards and enhance the bank's risk management framework. \n Key Responsibilities : \n Conduct comprehensive risk assessments. \n Identify and evaluate financial risks. \n Develop and implement risk mitigation strategies. \n Analyze financial data and prepare detailed risk reports. \n Ensure compliance with regulatory standards and internal policies. \n Collaborate with cross-functional teams to enhance risk management frameworks. \n Key Achievements : \n Successfully implemented a risk management initiative that reduced financial risk exposure by 20%. \n Developed a risk assessment model that improved the accuracy of identifying potential risks.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Lloyds Banking Group",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Junior Risk Analyst",
+          "FormattedName": "junior risk analyst",
+          "Alias": "risk junior analyst, entry level risk analyst, risk jr. analyst, risk analyst jr., jr. risk analyst, risk analyst junior, junior analyst risk, junior analyst of risk, junior level risk analyst, junior financial risk analyst, jr risk analyst",
+          "RelatedSkills": [
+            {
+              "Skill": "currency management",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "audit planning",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "corporate finance",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "risk financing",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2017 - 2018",
+        "FormattedJobPeriod": "2017 to 2018",
+        "StartDate": "01/01/2017",
+        "EndDate": "31/12/2018",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "In her role as a Junior Risk Analyst at Lloyds Banking Group, Jessica conducted risk assessments on various financial products and services. She analyzed data to identify trends and potential risks, assisted in developing risk management strategies, and ensured compliance with regulatory requirements. Jessica also supported senior analysts in preparing risk reports and presentations for management. \n Key Responsibilities : \n Conduct risk assessments on financial products and services. \n Analyze data to identify trends and potential risks. \n Assist in developing risk management strategies. \n Ensure compliance with regulatory requirements. \n Support senior analysts in preparing risk reports and presentations. \n Key Achievements : \n Contributed to the development of a risk management strategy that improved risk mitigation efforts. \n Identified key risk indicators that were adopted in the bank's risk assessment processes.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Santander UK",
+    "JobProfile": "Risk Assessment Associate",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "91",
+      "TotalExperienceInYear": "7.7",
+      "TotalExperienceRange": "5-8 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "45",
+    "LongestStay": "67",
+    "Summary": "Proactive and analytical Risk Assessment Associate with 5 years of experience in the banking industry. Adept at conducting detailed risk assessments, developing risk mitigation strategies, and ensuring compliance with regulatory requirements. Known for strong analytical skills, attention to detail, and the ability to work collaboratively with cross-functional teams.",
+    "ExecutiveSummary": "Jessica has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Financial Analysts and Advisors. 'The candidate has a total experience of 5 YearsThe candidate has been working as a Risk Assessment Associate at Santander UK for the last 6.7 years. ",
+    "ManagementSummary": "Jessica doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 621ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Jessica Lee\nJessica Lee\nContact Information : \nAddress : 45 Birch Road, Manchester, M3 5HD, England\nEmail : jessica.lee@email.com\nPhone : +44 7123 678901\nLinkedIn : linkedin.com/in/jessicalee\n\nProfessional Profile : \nProactive and analytical Risk Assessment Associate with 5 years of experience in the banking industry. Adept at conducting detailed risk assessments, developing risk mitigation strategies, and ensuring compliance with regulatory requirements. Known for strong analytical skills, attention to detail, and the ability to work collaboratively with cross-functional teams.\n\nEducation : \nUniversity of Manchester (Russell Group) \nMSc Risk Management and Compliance, Distinction\nGraduated : 2017\nUniversity of Birmingham (Russell Group) \nBSc Finance, Upper Second Class Honours\nGraduated : 2015\n\nCareer History : \nSantander UK\nRisk Assessment Associate\nManchester, UK\n2018 - Present\nAt Santander, Jessica is responsible for conducting risk assessments, identifying potential financial risks, and developing risk mitigation strategies. Her role involves analyzing financial data, preparing detailed risk reports, and collaborating with various departments to ensure compliance with regulatory standards and enhance the bank's risk management framework.\nKey Responsibilities : \nConduct comprehensive risk assessments.\nIdentify and evaluate financial risks.\nDevelop and implement risk mitigation strategies.\nAnalyze financial data and prepare detailed risk reports.\nEnsure compliance with regulatory standards and internal policies.\nCollaborate with cross-functional teams to enhance risk management frameworks.\nKey Achievements : \nSuccessfully implemented a risk management initiative that reduced financial risk exposure by 20%.\nDeveloped a risk assessment model that improved the accuracy of identifying potential risks.\nLloyds Banking Group\nJunior Risk Analyst\nManchester, UK\n2017 - 2018\nIn her role as a Junior Risk Analyst at Lloyds Banking Group, Jessica conducted risk assessments on various financial products and services. She analyzed data to identify trends and potential risks, assisted in developing risk management strategies, and ensured compliance with regulatory requirements. Jessica also supported senior analysts in preparing risk reports and presentations for management.\nKey Responsibilities : \nConduct risk assessments on financial products and services.\nAnalyze data to identify trends and potential risks.\nAssist in developing risk management strategies.\nEnsure compliance with regulatory requirements.\nSupport senior analysts in preparing risk reports and presentations.\nKey Achievements : \nContributed to the development of a risk management strategy that improved risk mitigation efforts.\nIdentified key risk indicators that were adopted in the bank's risk assessment processes.\n\nKey Skills : \nRisk Assessment\nData Analysis\nRegulatory Compliance\nRisk Mitigation Strategies\nFinancial Data Analysis\nReport Writing\nCollaboration\n\nCertifications : \nCertified Risk Management Professional (CRMP) \nInternational Certificate in Risk Management (ICRM) \nCertified Financial Services Auditor (CFSA) \n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Jessica Lee</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Jessica Lee</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 45 Birch Road, Manchester, M3 5HD, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> jessica.lee@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 678901</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> linkedin.com/in/jessicalee</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Profile:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Proactive and analytical Risk Assessment Associate with 5 years of experience in the banking industry. Adept at conducting detailed risk assessments, developing risk mitigation strategies, and ensuring compliance with regulatory requirements. Known for strong analytical skills, attention to detail, and the ability to work collaboratively with cross-functional teams.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Manchester (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">MSc Risk Management and Compliance, Distinction</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2017</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Birmingham (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">BSc Finance, Upper Second Class Honours</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2015</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Career History:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Santander UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Risk Assessment Associate</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2018 - Present</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At Santander, Jessica is responsible for conducting risk assessments, identifying potential financial risks, and developing risk mitigation strategies. Her role involves analyzing financial data, preparing detailed risk reports, and collaborating with various departments to ensure compliance with regulatory standards and enhance the bank's risk management framework.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conduct comprehensive risk assessments.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Identify and evaluate financial risks.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Develop and implement risk mitigation strategies.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Analyze financial data and prepare detailed risk reports.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ensure compliance with regulatory standards and internal policies.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborate with cross-functional teams to enhance risk management frameworks.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Successfully implemented a risk management initiative that reduced financial risk exposure by 20%.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed a risk assessment model that improved the accuracy of identifying potential risks.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lloyds Banking Group</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Junior Risk Analyst</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2017 - 2018</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">In her role as a Junior Risk Analyst at Lloyds Banking Group, Jessica conducted risk assessments on various financial products and services. She analyzed data to identify trends and potential risks, assisted in developing risk management strategies, and ensured compliance with regulatory requirements. Jessica also supported senior analysts in preparing risk reports and presentations for management.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conduct risk assessments on financial products and services.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Analyze data to identify trends and potential risks.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assist in developing risk management strategies.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ensure compliance with regulatory requirements.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Support senior analysts in preparing risk reports and presentations.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Contributed to the development of a risk management strategy that improved risk mitigation efforts.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Identified key risk indicators that were adopted in the bank's risk assessment processes.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Risk Assessment</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data Analysis</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Regulatory Compliance</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Risk Mitigation Strategies</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Financial Data Analysis</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Report Writing</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaboration</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Risk Management Professional (CRMP) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">International Certificate in Risk Management (ICRM) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Financial Services Auditor (CFSA) </span></li></ul><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

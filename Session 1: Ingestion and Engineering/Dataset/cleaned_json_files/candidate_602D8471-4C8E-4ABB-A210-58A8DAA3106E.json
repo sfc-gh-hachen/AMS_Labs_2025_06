@@ -1,0 +1,757 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Jeremy Smith.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:36:05",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "J Smith",
+      "TitleName": "",
+      "FirstName": "J",
+      "MiddleName": "",
+      "LastName": "Smith",
+      "FormattedName": "J Smith",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "j.smith@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123456789",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 456789",
+        "FormattedNumber": "+44 7123 456789",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/jsmith"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "123 Elm Street",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M11AB",
+        "FormattedAddress": "123 Elm Street, Manchester, England, M11AB, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Administrative and Support and Waste Management and Remediation Services",
+    "SubCategory": "Customer Service Representatives",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Manchester (Russell Group) \r BSc Mathematics, First Class Honours \r Graduated : 2008\r\r\rCertified Customer Service Specialist (CCSS) \r Advanced Certificate in Customer Relationship Management \r First Aid Certification \r Member of the Chartered Institute for Securities & Investment (CISI)",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 7,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc Mathematics",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Mathematics"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "2008",
+        "StartDate": "",
+        "EndDate": "31/12/2008",
+        "Aggregate": {
+          "Value": "1st",
+          "MeasureType": "Class Honours"
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "Certified Customer Service Specialist",
+          "NormalizeDegree": "Certificate",
+          "Specialization": [
+            "Customer Service"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "Chartered Institute for Securities & Investment",
+          "Type": "Institute",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 10
+        },
+        "Degree": {
+          "DegreeName": "Advanced Certificate in Customer Relationship Management",
+          "NormalizeDegree": "Certificate",
+          "Specialization": [
+            "Customer Relationship Management"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "",
+    "SegregatedCertification": [],
+    "SkillBlock": "Excellent Customer Service Skills \r Strong Communication and Interpersonal Skills \r Problem-Solving and Conflict Resolution \r Team Leadership and Staff Training \r Proficient in Banking Software and CRM Systems",
+    "SkillKeywords": "High Standards,Assisted,Interpersonal Skills,Conflict Resolution,Team Leadership,Troubleshooting,Communication,Customer Service Skills,Customer Satisfaction,Customer Experience,Banking Services,Banking Software,Managed Customer,Online Banking,Staff Training,Customer Care,CRM Systems,Elm",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "High Standards",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Interpersonal Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>interpersonal skills",
+        "Alias": "strong interpersonal skills, social skill, effective i?nterpersonal skills, people skill, interpersonal leadership skills, interpersonal development, interpersonal skill, social-skills, interpersonal relationships, interpersonal relationship skills, intrapersonal skill, intrapersonal skills, good interpersonal skills, good interpersonal, people skills, ability to socialize, personal skills, interoperation, excellent interpersonal skills, social skills, interpersonal savvy, interpersonal-savvy, interpersonal sensitivity",
+        "FormattedName": "interpersonal skills",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Conflict Resolution",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>conflict resolution",
+        "Alias": "resolving conflict, resolving conflicts among staff, resolving conflicts, conflict resolution planning, conflict resolver, conflict solving, resolution skill, resolution skills, conflict-resolution, resolutions skills, resolving con?icts, resolve conflicts, resolve conflict",
+        "FormattedName": "conflict resolution",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Leadership",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leadership",
+        "Alias": "interdisciplinary team leadership, multi-national team leadership, lead the team member, leads group discussions, leads groups, group leadership, multi-cultural team leadership",
+        "FormattedName": "team leadership",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Troubleshooting",
+        "Ontology": "Information>Computer User Support Specialists>troubleshooting",
+        "Alias": "problem troubleshooting, trouble shooting, trouble-shoot, repair basic issues, ability to troubleshoot, trouble-shooting, troubleshoot, troubleshooting process, troubleshooting abilities, troubleshooting analysis, troubleshooter, repairing basic issues, trouble shooter, troubleshoot issues",
+        "FormattedName": "troubleshooting",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2009",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Service Skills",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer service",
+        "Alias": "client care, client servicing, web customer service, client-services, it customer service, customer-friendly, telephone-customer-service, telephone customer service, customer care-services, customer care skills, customer-care services, servicing corporate clients, assistance to customers, friendly approach to clients, client-friendly, customer dealing, client-servicing, customer-care- services, customer service processes, customer service skills, customer services, computer-customer-service, it-customer-service, customer care, customer advice, client friendly, clients servicing, general-customer-service, retail-customer service, client-care, client service, giving our customers the best service, customer servicing, customer friendly, retail customer service, general-computer-customer-service, client care-services, customer-service, help customers, customer solutions, consumer services, service client general, online customer service, client services, advise clients, client service skills, general customer service, customer care services, general computer customer service, on line support to customers, computer customer service",
+        "FormattedName": "customer service",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Satisfaction",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer satisfaction",
+        "Alias": "assessing guest satisfaction, customer-quality, guest satisfaction, manage customer satisfaction, customer quality mgmt, customer quality, customer quality management, customer-satisfaction, satisfied clients, client satisfaction management, client satisfaction, satis?ed customers",
+        "FormattedName": "customer satisfaction",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Experience",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer experience",
+        "Alias": "customer-journey, client experience, cx strategy, customer-experience, customer journeys, customer experience cx",
+        "FormattedName": "customer experience",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2019",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Banking Services",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & finance, banking & financial services, finance related services, finance service, financing operations, banking-services, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, credit services, banking services, banking and financial services, banking and finance, banking and-finance, financial svcs, finance service provision, finance services, credit-services, financial industry, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Banking Software",
+        "Ontology": "Finance and Insurance>Investment Banking and Securities Dealing>banking software",
+        "Alias": "banking soft., banking applications, banking application, banking application software, banking systems, banking system",
+        "FormattedName": "banking software",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Managed Customer",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer management",
+        "Alias": "manage internal customer, manage customers, customer-management, managed customer, consumer management, management of customer, manage business client, customer administration, customer solutions management, management of consumer, customers management, customer processing, managed the customer, customer mgmt.",
+        "FormattedName": "customer management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Online Banking",
+        "Ontology": "Finance and Insurance>Commercial Banking>online banking",
+        "Alias": "digital banking framework, digital banking analytics, digital banking operations, ebam, digital banking, e - banking, e-banking, electronic bank account management, mobile banking, internet banking system, internet banking, ebanking, electronic banking, electronic banking finance, internet finance, remote banking, finance internet, mobile financial services",
+        "FormattedName": "online banking",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2009",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Staff Training",
+        "Ontology": "Finance and Insurance>Training and Development Specialists>staff training",
+        "Alias": "train newly hired staff, train new employees, employee training, training of employees, trained new staff members, training new staff, training of staff, trained staff, staff -training, train staff, training for employees, training personnel, provide training for staff, people training, coordinate staff training",
+        "FormattedName": "staff training",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Care",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer service",
+        "Alias": "client care, client servicing, web customer service, client-services, it customer service, customer-friendly, telephone-customer-service, telephone customer service, customer care-services, customer care skills, customer-care services, servicing corporate clients, assistance to customers, friendly approach to clients, client-friendly, customer dealing, client-servicing, customer-care- services, customer service processes, customer service skills, customer services, computer-customer-service, it-customer-service, customer care, customer advice, client friendly, clients servicing, general-customer-service, retail-customer service, client-care, client service, giving our customers the best service, customer servicing, customer friendly, retail customer service, general-computer-customer-service, client care-services, customer-service, help customers, customer solutions, consumer services, service client general, online customer service, client services, advise clients, client service skills, general customer service, customer care services, general computer customer service, on line support to customers, computer customer service",
+        "FormattedName": "customer service",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 90
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "CRM Systems",
+        "Ontology": "Information>All Other Information Services>crm systems",
+        "Alias": "customerrelationshipmanagementapplications, crm platforms, crm soft, customer relationship management applications, customer relationship management system, customer relationship management software, crm apps, consumer relationship systems, crm applications, crm software, customer information systems",
+        "FormattedName": "crm systems",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Elm",
+        "Ontology": "Information>Software Developers and Programmers>elm",
+        "Alias": "elm framework, elm programming language, elm 0.19.1",
+        "FormattedName": "elm",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Barclays Bank Specialist Customer Care Manchester, UK 2019 - Present \r Led a team of customer service representatives to ensure high standards of customer care. \r Handled complex customer inquiries and resolved issues efficiently. \r Implemented new customer service protocols that improved customer satisfaction by 20%. \r HSBC Customer Care Specialist Manchester, UK 2015 - 2019 \r Provided exceptional customer support for high-value clients. \r Trained new staff on customer service techniques and bank products. \r Managed a portfolio of client accounts ensuring a personalized customer experience. \r Lloyds Bank Senior Customer Service Representative Manchester, UK 2012 - 2015 \r Assisted in the development of customer service policies. \r Resolved escalated customer complaints and provided feedback to improve services. \r Conducted customer service workshops for the team. \r NatWest Bank Customer Service Representative Manchester, UK 2009 - 2012 \r Delivered front-line customer support and banking services. \r Addressed customer inquiries about products and services. \r Managed customer transactions and maintained accurate records. \r Royal Bank of Scotland Customer Service Trainee Manchester, UK 2008 - 2009 \r Provided basic customer support and account management services. \r Assisted customers with online banking setup and troubleshooting. \r Supported senior staff in daily operations and customer care tasks.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Barclays Bank Specialist Customer Care",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "",
+          "FormattedName": "",
+          "Alias": "",
+          "RelatedSkills": [],
+          "ConfidenceScore": 0
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2019 - till",
+        "FormattedJobPeriod": "2019 to till",
+        "StartDate": "01/01/2019",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Led a team of customer service representatives to ensure high standards of customer care. \n Handled complex customer inquiries and resolved issues efficiently. \n Implemented new customer service protocols that improved customer satisfaction by 20%.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "HSBC",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Customer Care Specialist",
+          "FormattedName": "customer care specialist",
+          "Alias": "customer care professional, customer service professional, customer-care-specialist, care specialist, hybrid customer specialist, client care specialist, client care expert, corporate customer care professional, specialist of customer care, customer professional, customer care expert, customer healthcare specialist, specialist customer care",
+          "RelatedSkills": [
+            {
+              "Skill": "complaints management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer data collection",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "outbound sales",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 8
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2015 - 2019",
+        "FormattedJobPeriod": "2015 to 2019",
+        "StartDate": "01/01/2015",
+        "EndDate": "31/12/2019",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Provided exceptional customer support for high-value clients. \n Trained new staff on customer service techniques and bank products. \n Managed a portfolio of client accounts ensuring a personalized customer experience.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Lloyds Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Senior Customer Service Representative",
+          "FormattedName": "senior customer service representative",
+          "Alias": "sr. advice line rep, senior service center rep, sr. customer care representative, senior phone rep, senior rep. client, chat senior csr, senior c.s.r, sr inbound cs rep, customer support sr.executive, sr. customer representative, sr. customer services rep, sr. customer service representative, sr. csr, customer operations sr rep, senior client representative, senior customer service rep, senior customer representative, senior customer care agent, senior customer relation agent, senior customer support representative, senior customer service rep., senior customer solutions agent, senior customer services representative, senior career service representative, contact center senior agent, customer service representative sr, customer service senior rep, sr. service agent, senior consumer service rep, senior consumer service representative, sr. customer assistance agent, customer care sr. representative, snr customer service representative, senior representative, sen. customer service representative, sr.customer service representative, client services sr rep, sr. customer relations representative, senior branch customer service representative, sr - customer service representatives, sr. customer support rep, senior-customer-service-representative, customer care senior representative, customer care senior rep, sr customer service representative, sr. call center specialist, senior level customer service representative",
+          "RelatedSkills": [
+            {
+              "Skill": "customer service excellence",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer service analytics",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer service operations",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer analytics",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 8
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2012 - 2015",
+        "FormattedJobPeriod": "2012 to 2015",
+        "StartDate": "01/01/2012",
+        "EndDate": "31/12/2015",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Assisted in the development of customer service policies. \n Resolved escalated customer complaints and provided feedback to improve services. \n Conducted customer service workshops for the team.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "NatWest Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Customer Service Representative",
+          "FormattedName": "customer service representative",
+          "Alias": "service representative, costumer services rep., representative customer service, client rep, customer returns rep, consumer care rep, client servicing representative, business csr, service arrangements rep, customer assistance representative, clients contact rep, call center support representative, consumer affairs agent, cse representative, customer support rep, customer support handler, customer support phone agent, customer support representative, client interactive service rep, customer disputes rep, client service rep, client service representative, customer counter representative, customers service rep, service person, customer response representative, customer response rep, customer operations representative, customer operations support rep, legal process customer rep, client relations representative, consumer support rep, direct customer service representative, customer -service representative, customer services representative, customer service representatives, customer service employee, customer service resolution rep, customer services staff, customer service resoluton rep, customer service support staff, customer service rep., customer service desk rep, customer service administrative representative, customer service person, customer service problem resolution rep, customer services rep, customer service staff, customer servicer, customer service worker, customer service representative csr, customer service rep, customer service call rep, employee customer service, commercial customer support rep, customer excellence rep, administration and customer service staff, customer contact care rep, customer contact representative, service support representative, client support representative, customer servant, enterprise customer support rep, corporate service rep, customer srvc rep, customer relations representative, customer serv rep, customer satisfaction rep, customer satisfaction attendant, service and support rep, general care rep, call center professional, corporate consumer relations rep, customer svc rep, public service rep, customer servics rep, cust service rep, client service unit rep, customer fulfillment representive, customer serivce agent, contact support rep, contact support agent, customer-service-representative, customer facing agent, client services representative, client services rep, customer solutions rep, customer solutions representative, customer field representative, customer cares professional, supportive service rep, customer srvce rep, online customer service specialist, customer representative, mobile client rep, service user rep, customer navigation rep, customer care personnel, customer tier agent, csr attendant, customer experience representative, operations csr, business customer rep, customer survey rep, rep clients, client relation rep, contract services rep, relationship representative, relationship rep, claims care center rep, customer rep",
+          "RelatedSkills": [
+            {
+              "Skill": "customer relationship analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "investigate customer complaints",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer acquisition",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "call center scripting",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "customer due diligence",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer service analytics",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "keep records of customer interaction",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "empathy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "perform escalation procedure",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "customer service operations",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "adaptability",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer retention",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "priority customer service",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "customer enablement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer needs analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer service empowerment",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "outbound transaction",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "return merchandise authorization",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "business process outsourcing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "personalized customer service",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 8
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2009 - 2012",
+        "FormattedJobPeriod": "2009 to 2012",
+        "StartDate": "01/01/2009",
+        "EndDate": "31/12/2012",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Delivered front-line customer support and banking services. \n Addressed customer inquiries about products and services. \n Managed customer transactions and maintained accurate records.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Royal Bank of Scotland",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Customer Service Trainee",
+          "FormattedName": "customer service intern",
+          "Alias": "costumer intern, service intern, customer service and support intern, customer service department intern, customer service trainee, customer-service-intern, client services intern, intern customer service, intern customer service center",
+          "RelatedSkills": [],
+          "ConfidenceScore": 8
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2008 - 2009",
+        "FormattedJobPeriod": "2008 to 2009",
+        "StartDate": "01/01/2008",
+        "EndDate": "31/12/2009",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Provided basic customer support and account management services. \n Assisted customers with online banking setup and troubleshooting. \n Supported senior staff in daily operations and customer care tasks.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Barclays Bank Specialist Customer Care",
+    "JobProfile": "",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "199",
+      "TotalExperienceInYear": "16.7",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "39",
+    "LongestStay": "55",
+    "Summary": "",
+    "ExecutiveSummary": "J has an experience in the domain of 'Administrative and Support and Waste Management and Remediation Services', particularly in the sub-domain of 'Customer Service Representatives. and has been currently working for Barclays Bank Specialist Customer Care for the last 5.7 years. ",
+    "ManagementSummary": "J doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "Volunteering at local community centers \r Playing football with a local league \r Reading financial and economic literature \r Traveling and exploring new cultures \r Participating in mathematics and logic puzzles competitions",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 629ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Jeremy Smith\nManchester, England\t,j.smith@email.com\t,+44 7123 456789\t,LinkedIn : linkedin.com/in/jsmith\n\nPersonal Details\nName : J Smith\nAddress : 123 Elm Street, Manchester, M1 1AB, England\nEmail : j.smith@email.com\nPhone : +44 7123 456789\n\nEducation History\nUniversity of Manchester (Russell Group) \nBSc Mathematics, First Class Honours\nGraduated : 2008\n\nWork History\nBarclays Bank Specialist Customer Care Manchester, UK 2019 - Present\nLed a team of customer service representatives to ensure high standards of customer care.\nHandled complex customer inquiries and resolved issues efficiently.\nImplemented new customer service protocols that improved customer satisfaction by 20%.\nHSBC Customer Care Specialist Manchester, UK 2015 - 2019\nProvided exceptional customer support for high-value clients.\nTrained new staff on customer service techniques and bank products.\nManaged a portfolio of client accounts ensuring a personalized customer experience.\nLloyds Bank Senior Customer Service Representative Manchester, UK 2012 - 2015\nAssisted in the development of customer service policies.\nResolved escalated customer complaints and provided feedback to improve services.\nConducted customer service workshops for the team.\nNatWest Bank Customer Service Representative Manchester, UK 2009 - 2012\nDelivered front-line customer support and banking services.\nAddressed customer inquiries about products and services.\nManaged customer transactions and maintained accurate records.\nRoyal Bank of Scotland Customer Service Trainee Manchester, UK 2008 - 2009\nProvided basic customer support and account management services.\nAssisted customers with online banking setup and troubleshooting.\nSupported senior staff in daily operations and customer care tasks.\n\nPersonal Hobbies\nVolunteering at local community centers\nPlaying football with a local league\nReading financial and economic literature\nTraveling and exploring new cultures\nParticipating in mathematics and logic puzzles competitions\n\nSkills\nExcellent Customer Service Skills\nStrong Communication and Interpersonal Skills\nProblem-Solving and Conflict Resolution\nTeam Leadership and Staff Training\nProficient in Banking Software and CRM Systems\n\nQualifications\nCertified Customer Service Specialist (CCSS) \nAdvanced Certificate in Customer Relationship Management\nFirst Aid Certification\nMember of the Chartered Institute for Securities & Investment (CISI) \n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Jeremy Smith</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, England | j.smith@email.com | +44 7123 456789 | LinkedIn: linkedin.com/in/jsmith</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Personal Details</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Name: J Smith</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Address: 123 Elm Street, Manchester, M1 1AB, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Email: j.smith@email.com</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Phone: +44 7123 456789</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education History</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Manchester (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">BSc Mathematics, First Class Honours</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2008</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Work History</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Barclays Bank</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Specialist Customer Care</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2019 - Present</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Led a team of customer service representatives to ensure high standards of customer care.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Handled complex customer inquiries and resolved issues efficiently.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Implemented new customer service protocols that improved customer satisfaction by 20%.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Customer Care Specialist</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2015 - 2019</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Provided exceptional customer support for high-value clients.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Trained new staff on customer service techniques and bank products.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Managed a portfolio of client accounts ensuring a personalized customer experience.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lloyds Bank</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Senior Customer Service Representative</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2012 - 2015</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted in the development of customer service policies.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Resolved escalated customer complaints and provided feedback to improve services.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducted customer service workshops for the team.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">NatWest Bank</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Customer Service Representative</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2009 - 2012</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Delivered front-line customer support and banking services.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Addressed customer inquiries about products and services.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Managed customer transactions and maintained accurate records.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Royal Bank of Scotland</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Customer Service Trainee</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2008 - 2009</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Provided basic customer support and account management services.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted customers with online banking setup and troubleshooting.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Supported senior staff in daily operations and customer care tasks.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Personal Hobbies</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Volunteering at local community centers</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Playing football with a local league</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Reading financial and economic literature</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Traveling and exploring new cultures</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Participating in mathematics and logic puzzles competitions</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Excellent Customer Service Skills</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strong Communication and Interpersonal Skills</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Problem-Solving and Conflict Resolution</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Team Leadership and Staff Training</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Proficient in Banking Software and CRM Systems</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Qualifications</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Customer Service Specialist (CCSS) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Advanced Certificate in Customer Relationship Management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">First Aid Certification</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Member of the Chartered Institute for Securities & Investment (CISI) </span></li></ul><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

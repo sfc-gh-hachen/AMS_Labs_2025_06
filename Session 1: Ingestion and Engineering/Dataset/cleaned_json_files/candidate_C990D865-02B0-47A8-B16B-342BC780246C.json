@@ -1,0 +1,819 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Jonathan Turner.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:31:58",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Jonathan Turner",
+      "TitleName": "",
+      "FirstName": "Jonathan",
+      "MiddleName": "",
+      "LastName": "Turner",
+      "FormattedName": "Jonathan Turner",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "jonathan.turner@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123666888",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 666888",
+        "FormattedNumber": "+44 7123 666888",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/jonathanturner"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "45 Oak Lane",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M172YY",
+        "FormattedAddress": "45 Oak Lane, Manchester, England, M172YY, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Business Operations Specialists",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Bristol (Russell Group) \r BSc Economics and Finance \r Graduated : 2004",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Bristol",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc Economics and Finance",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Economics and Finance"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2004",
+        "StartDate": "",
+        "EndDate": "31/12/2004",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Chartered Banker MBA \r Certified Business Relationship Manager (CBRM) \r Diploma in Financial Planning \r Member of the Chartered Institute for Securities & Investment (CISI) \r Certificate in Risk Management \r  \r  \r  \r Participating in charity runs and community events \r Cooking and exploring new cuisines \r Traveling and experiencing different cultures \r Reading economic and financial journals",
+    "SegregatedCertification": [],
+    "SkillBlock": "Business Relationship Management : Extensive experience in managing high-value client portfolio's and delivering exceptional service. \r Financial Advising and Planning : Skilled in developing and implementing strategic financial plans to meet client needs. \r Market Analysis and Risk Management : Proficient in analyzing market trends and assessing risks to inform client advisory. \r Client Engagement and Retention : Strong ability to build and maintain long-term client relationships. \r Team Leadership and Performance Management : Experienced in leading and developing high-performing teams. \r Strategic Business Development : Proven ability to identify and capitalize on new business opportunities. \r Negotiation and Communication : Excellent negotiation and communication skills, with a track record of successful client engagements.",
+    "SkillKeywords": "Assisted,Business Relationship Management,Client Relationship Management,Client Relationships,Communication Skills,Demonstrated Ability,Strategic Planning,Client Engagement,Team Performance,Team Leadership,Communication,Productivity,Engagements,Lead A Team,Negotiation,Planning,Identify New Business Opportunities,Business Development Activities,Development and Implementation,Strategic Business Development,New Client Acquisitions,Business Opportunities,Performance Management,Business Development,Client Satisfaction,Strategic Financial,Financial Advising,Financial Analysis,Financial Planning,Strategic Business,Client Management,Financial Reports,Client Retention,Assessing Risks,Business Growth,Client Advisory,Client Meetings,Market Analysis,Market Research,Risk Assessment,Risk Management,Client Service,Highly Skilled,Proven Ability,Track Record,Cooking",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2008",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Business Relationship Management",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business relationship management",
+        "Alias": "maintenance of business relationships, business relationships, business relationship mgmt., business relationship development, business relations, business relations management, maintain business relationships, it relationship management, maintain good business relationships, closing business relationships, business-relationship-management",
+        "FormattedName": "business relationship management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Client Relationship Management",
+        "Ontology": "Arts, Entertainment, and Recreation>Public Relations Specialists>client relationship management",
+        "Alias": "key client relationship management, client relationship, client relationships strengthening, client relations coordination, client relationship mgmt",
+        "FormattedName": "client relationship management",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Client Relationships",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer relationship management",
+        "Alias": "managing client relationships, developing relationships with clients, long term customer relationship, maintain customer relationships, customer-relationship- management, customer-relationship management, manage crm, relationship management, relation management, client-relations, client management relationship, build and maintain customer relationships, crm, build customer relationships, managed the relationship, client relations, client relationship mgt., client relationships, customer care management, crm planning, manage strong customer relationships, client resource management, building relationships with customers, constituent relationship management, constituent relationship mgmt, manage customer relationships, manage customer relationship, customer relationship development, customer relationship mgmt, customer relations, customer relation management, customer relations management, customer relationships, customer relationship mgmt., customer relations development, customer relationship planning, customer relationships management, customer relationship, customers relations, relational management, long term relationship building, long term business relationships, manage the client relationship, long-term customer relationship, relationship mgmt, relationship mgmt., crm management, marketing crm, building the customer relationship, manage client relationships, consumer relationship management, relations management, managed crm, manage relationships, manage relationship, manage the relationship, client relation management, consumer-relationship-management, relationships management, managing relationships, managing relationships with clients",
+        "FormattedName": "customer relationship management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Demonstrated Ability",
+        "Ontology": "Wholesale Trade>Demonstrators and Product Promoters>demonstrated ability",
+        "Alias": "demonstrated capacity, demonstrated abilities, demonstrated success record, demonstrated-capacity",
+        "FormattedName": "demonstrated ability",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strategic Planning",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>strategic planning",
+        "Alias": "strategic prognosis planning, strategical planning, strategic plan-development, strategy planning, planning strategy, planning strategically, develop-strategic- plans, develop-strategic plans, strategic plans, development of the strategic plan, strategic development plan, strategic-roadmap, strategic-planning, strategic business plan development, strategic business planning, strategic roadmap, strategic roadmaps, develop strategic plans, develop strategic roadmaps, strategic road map, strategic planning process, strategic planning-management, strategic planning and implementation, strategic planning management, strategic planning for growth, strategic planning mgmt, strategic planning development, strategy and planning, developing a strategic plan, development of a strategic plan",
+        "FormattedName": "strategic planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 102
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Client Engagement",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer engagement",
+        "Alias": "client engagement, client engagement mgmt, client engagement management, customer support engagement, customer service engagement, digital engagement operations, digital engagement, customer-engagement, interacting with potential clients, customer engagement-management, customer engagements, customer engagement mgmt, customer engagement management, customer engagement strategy",
+        "FormattedName": "customer engagement",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Performance",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team effectiveness",
+        "Alias": "group effectiveness, team performance, team-effectiveness",
+        "FormattedName": "team effectiveness",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 102
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Leadership",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leadership",
+        "Alias": "interdisciplinary team leadership, multi-national team leadership, lead the team member, leads group discussions, leads groups, group leadership, multi-cultural team leadership",
+        "FormattedName": "team leadership",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Productivity",
+        "Ontology": "Manufacturing>Team Assemblers>productivity",
+        "Alias": "productive",
+        "FormattedName": "productivity",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 102
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Engagements",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer engagement",
+        "Alias": "client engagement, client engagement mgmt, client engagement management, customer support engagement, customer service engagement, digital engagement operations, digital engagement, customer-engagement, interacting with potential clients, customer engagement-management, customer engagements, customer engagement mgmt, customer engagement management, customer engagement strategy",
+        "FormattedName": "customer engagement",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Lead A Team",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leading",
+        "Alias": "leading group, lead a group, team-leading, lead a team, leading a team, leading small teams, leading teams, lead the team to innovation, ability to lead teams, leading large teams",
+        "FormattedName": "team leading",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 102
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Negotiation",
+        "Ontology": "Management of Companies and Enterprises>Marketing and Sales Managers>negotiating",
+        "Alias": "negotiation skills, negotiation, commercial negotiation, commercial-negotiation, high level negotiation, negotiating skills, negotiations, negotiations skills, business negotiation, high-level negotiation",
+        "FormattedName": "negotiating",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Planning",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>planning process",
+        "Alias": "ability to plan, planning, planning ability, planning-process, planning skills, ability to create plans",
+        "FormattedName": "planning process",
+        "Evidence": "CertificationSection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Identify New Business Opportunities",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>identify new business opportunities",
+        "Alias": "business opportunity evaluation, identifying new business opportunities, diagnose new business opportunities, analyse new business opportunities, exploring new business opportunities, identifying a new business opportunity, classify new business opportunities, identify a new business opportunity, determine new business opportunities",
+        "FormattedName": "identify new business opportunities",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2008",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Development Activities",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business development",
+        "Alias": "business-development, business-development-framework, business-development-activities, business-development activities, small business development, company development, implementation of the company, business procedure development, business line development, operations business development, business development framework, business development operations, business development concept, business development related activities, business developments, business development-framework, business development activities, business development analytics, business development management, business development retail, building new business, government business development, develop the company, enterprise-development, general business development, development of the company, management business development, new business development, generate new business, finance business development, business solution development, business solutions development, business implementations, corporate development, develop business components, develop business solution, develop business, enterprise development, business management development, coordinating the business development, developing business, develop new business, it business development, commercial business development, biz development, develop enterprise, development of business, development of an enterprise, business sales development",
+        "FormattedName": "business development",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2008",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Development and Implementation",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2008",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Business Development",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>strategic business development",
+        "Alias": "strategic-business development, strategic business-development",
+        "FormattedName": "strategic business development",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "New Client Acquisitions",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer acquisition",
+        "Alias": "customer acquisition analytics, customer acquisition strategy, customer acquisition logistic, customer acquisition strategies, acquisition sales, sales acquisition, product acquisitions, telecom customer acquisition, new customer acquisitions, new account acquisition, client acquisition, customer-acquisition strategy, customer-acquisition- strategy, customer-acquisition, acquire new customers, acquisition retail, new client acquisitions, account acquisition, account acquisitions, develop new customer, strategic account acquisition",
+        "FormattedName": "customer acquisition",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 102
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Opportunities",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business opportunity",
+        "Alias": "business opportunities, business-opportunity",
+        "FormattedName": "business opportunity",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Performance Management",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>performance management",
+        "Alias": "performance-management, performance management operations, performance management analysis, performance management analytics, organization performance management, performance mgmt, performance data management, manage performance goals, process performance management, quality and performance management, process management performance",
+        "FormattedName": "performance management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Development",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business development",
+        "Alias": "business-development, business-development-framework, business-development-activities, business-development activities, small business development, company development, implementation of the company, business procedure development, business line development, operations business development, business development framework, business development operations, business development concept, business development related activities, business developments, business development-framework, business development activities, business development analytics, business development management, business development retail, building new business, government business development, develop the company, enterprise-development, general business development, development of the company, management business development, new business development, generate new business, finance business development, business solution development, business solutions development, business implementations, corporate development, develop business components, develop business solution, develop business, enterprise development, business management development, coordinating the business development, developing business, develop new business, it business development, commercial business development, biz development, develop enterprise, development of business, development of an enterprise, business sales development",
+        "FormattedName": "business development",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 102
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Satisfaction",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer satisfaction",
+        "Alias": "assessing guest satisfaction, customer-quality, guest satisfaction, manage customer satisfaction, customer quality mgmt, customer quality, customer quality management, customer-satisfaction, satisfied clients, client satisfaction management, client satisfaction, satis?ed customers",
+        "FormattedName": "customer satisfaction",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 102
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Financial",
+        "Ontology": "Management of Companies and Enterprises>Financial Managers>strategic financial management",
+        "Alias": "strategic-financial-management, managing strategic financial, strategic finance, strategic financial, strategic financial planning, strategic financial mgmt., strategic finance management, strategic finance mgmt, strategic financial-management, strategic financial-mgmt, financial management strategies, financial management strategy, manage the strategic financial, financial strategic planning",
+        "FormattedName": "strategic financial management",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Advising",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>financial advisory",
+        "Alias": "advisory corporate finance, independent financial advice, financial advisement, insurance advisory, consulting insurance, financial coaching, bank advice, finance advisement, finance guidance, financial guidance, corporate finance advisory, banking advice, financial-advisory, financial services consulting, financial-advice, insurance advice, finance consulting, economic counseling, bank bill advice, financial advice, insurance consulting, finance services consulting, financial-coaching, financial advising, financial consulting services, financial consulting, financial strategy consulting, economic advice, financial solution recommendation",
+        "FormattedName": "financial advisory",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Analysis",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>account analysis",
+        "Alias": "accounts measurably, accounting-measurement, technical accounting research, financial statement analysis, financial statement processing, finance analysis, account analysis process, account-analysis, account research, accounting report interpretation, accounting-analysis, accounting-analyse, examining financial records, finance analytics, financial analytics, analyzing accounting options, analyzing account, analyzing account information, evaluating financial, accounting research, finance data analysis, finance data analytics, financial and business analysis, business finance analytics, bank analysis, financial research, financial service analytics, financial services analytics, financial-statement analysis, finance evaluation, financial examination, accounting-research, analysis of profit and loss statements, finance statement analysis, accounting analysis, accounting measurement, financial analysis and valuation, financial analysis, analyses financial results, analyzed the balance sheet and income statement, financial accounting research, financial-analysis, account measurement, analysis of accounting data, analysis of accounts, analysis of account, analysis of business financial statements, examine financial records, analyzing financial statements, oversee financial analysis, financial evaluations, financial evaluation, analysis of financial results, analysis of financial, analysis of financial documentation, analysis of financial information systems, analysis of financial reporting, analysis of financial statements",
+        "FormattedName": "account analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2016",
+        "ExperienceInMonths": 108
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Planning",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial planning",
+        "Alias": "fiscal-planning, personal financial-planning, personal financial planning, financial statement planning, planning fiscal, finance resource planning, fiscal planning, finance strategy, business finance planning, planning financial, business financial planning, framework implementations coso, framework implementations coso / s&p rating, wealth-planning, finance technology strategy, financial plan, financial planning process, personal-financial planning, personal-financial-planning, financial-planning, forecasting / demand planning analytics, finance application strategy, finance application roadmap and strategy, finance application roadmap, financial road map, financial roadmap, fragrances / perfumes and cosmetics industry knowledge, expense planning, financial strategy, finance planning, wealth plan, finance it strategy, wealth planning, monetary planning",
+        "FormattedName": "financial planning",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Business",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business planning",
+        "Alias": "business-development-planning, planned business process, formulation business plan, business-strategy-concepts, business-strategy, develop plans for business, business plan formulation, business plans management, corporate strategy, corporate strategic planning, business development prospects, business development plans, business development planning, business-blueprinting, business-blueprint, building new business development strategy, business requirements scenario, create business plans, business plan-formulation, drafting business plans, company strategy, business blueprinting, business blueprint, business blueprinting process, business blueprint process, business planning process, business planning & development, business planning operations, business planning and development, formulation of business plan, business scenario, strategic business, business plans, generate business plans, prepare the business plan, business-scenario, develop business plans, develop business plan, develop-business- plans, develop-business plans, corporate planning and analysis, corporate planning, produce business plans, creating business plans, corporate-strategy, execution of business plans, draw up the business plan, developing business plans, develop the business plan, business plan, business-planning, companys strategy, business strategy, business strategy design, business strategy concepts, business strategizing, business strategies, business strategy-concepts, business-plan-formulation, preparing business plan, business process blueprinting, business processes planned, implemented business plan, corporate-planning",
+        "FormattedName": "business planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2008",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Management",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>client management",
+        "Alias": "directing clients, client monitoring, managed clients, client consultation, evaluation client, client management operations, client selection, client assistance, managing clients, client processing, client integration, client governance, client evaluation, assistance client, client driven, managed client, commercial management of clients, addressing client",
+        "FormattedName": "client management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2008",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Reports",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Financial Clerks, All Other>financial statements",
+        "Alias": "recording financial, generating ?nancial reports, update ?nancial records, understanding financial statements, financial statements management, financial results, financial result, reporting of financial statements, financial recording, financial records, financial reports, creating ?nancial reports, financial documentation, financial documents, producing financial reports, maintain ?nancial records, prepare ?nancial statements",
+        "FormattedName": "financial statements",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2008",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Retention",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer retention",
+        "Alias": "maintaining customer, retention programs, client-retention, retain customers, account retention, business retention, increase customer retention, client retention programs, client retention, customer-retention, sales retention, customer retentions, customer retention marketing, customer retention strategies, retaining customers",
+        "FormattedName": "customer retention",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2016",
+        "ExperienceInMonths": 108
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Assessing Risks",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk analysis",
+        "Alias": "performing risk analysis, conduct risk assessment, conduct risk assessments, risk assessment analytics, risk evaluation, risk measure, examining risks, examining risks and potentials, risk assessment, risk-analysis, identification of risks, risk identification, process risk analysis, risk measures, analysis of risk, assessing risk, risk-reviews, risk measurement, performed risk analysis, risks analysis, risk identi?cation, assessing risks, measuring risk, identified audit risks, risk analytics, identify risks, risk reviews, retail risk analytics, risk assessments, perform a risk analysis, business process risk assessments, business process risk assessment, retail risk assessment, risk-assessment, weekly risk analysis",
+        "FormattedName": "risk analysis",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Growth",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business growth",
+        "Alias": "business-growth, organization growth, cultivating business, corporate growth, organizational growth, managing company growth, growing a business, business growth impact, business growth management, driving business growth, growing businesses, growing business, cultivating-business",
+        "FormattedName": "business growth",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "31/12/2016",
+        "ExperienceInMonths": 108
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Advisory",
+        "Ontology": "Other Services (except Public Administration) >Counselors, All Other>client counseling",
+        "Alias": "advised-client, client counselling, client advice, client advising, customer advisory, counsel clients, client guidance, advised client, client centred counseling, client centred counselling, client-counseling, client-centred counselling, advised clients, advises clients, client advisory, client counselings, advisory client, client consulting, assist and guide clients",
+        "FormattedName": "client counseling",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Meetings",
+        "Ontology": "Finance and Insurance>Meeting, Convention, and Event Planners>client meeting",
+        "Alias": "client meetings, meeting clients, client-meeting, customer meetings",
+        "FormattedName": "client meeting",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2008",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Analysis",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>market analysis",
+        "Alias": "market estimate, sales market analysis, global marketing analytics, market assessment, market assessments, marketing-analysis, advertising analytics, market analyzes, analyze market information, product marketing analytics, marketing campaign analytics, market data analytics, market data analysis, analyzing-marketing, campaign management analytics, web marketing analytics, market research analysis, market research analytics, marketing information analysis, market analysis process, market analysis research, marketing data analysis, marketing data analytics, media and marketing analytics, market valuation, market strategy analytics, market estimation, marketing-audit, analysis of the marketing, analysis of the market, marketing assessment, analysing marketing, analysing market requirements, analyzing marketing information, analyzing marketing, analyzing market strategies, data analysis marketing, market-evaluation, market analyze, analysis market, marketing analytics, marketing analytics integration, marketing analytics strategies, analyzing the market for sales, sales and marketing audit, marketing analysis and research, marketing analysis, gather and analyze market information, market research-analytics, mktg. analytics, market-analysis, marketing performance analysis, market-assessment, market and analysis, evaluations marketing, market needs analysis, market evaluation, market evaluations, manage marketing analytics, retail market analysis, marketing audit, development of market assessments, marketing-analytics",
+        "FormattedName": "market analysis",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "31/12/2008",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Research",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>market research",
+        "Alias": "market survey, brand research, product-research, design market research, social-media-market-research, social-media-market research, scanning marketing, market investigation, performing market research, marketing researching, marketing research development, marketing research analysis, marketing research, marketing investigation, marketing investigations, financial market research, marketing internet research, product research, undertake market research, marketing survey, marketing surveys, sales market research, market research data, market research operations, market research management, market research and analysis, market-exploration, product study, marketing information research, market exploration, market surveys, market data research, market-investigation, market information research, setting up market surveys, perform market research, market studies, branding-research, implement market research, research branding, researching market, researching market trends, marketing scanning, market study, interpreting marketing research, research market, marketing-researching, marketing-research, social media market research, retail market research, media market research, marketing original research, social-media market research, researching the markets, researching the market, marketing data research, market scanning, branding research, online market research, designing marketing surveys, market-research",
+        "FormattedName": "market research",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2008",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Assessment",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk analysis",
+        "Alias": "performing risk analysis, conduct risk assessment, conduct risk assessments, risk assessment analytics, risk evaluation, risk measure, examining risks, examining risks and potentials, risk assessment, risk-analysis, identification of risks, risk identification, process risk analysis, risk measures, analysis of risk, assessing risk, risk-reviews, risk measurement, performed risk analysis, risks analysis, risk identi?cation, assessing risks, measuring risk, identified audit risks, risk analytics, identify risks, risk reviews, retail risk analytics, risk assessments, perform a risk analysis, business process risk assessments, business process risk assessment, retail risk assessment, risk-assessment, weekly risk analysis",
+        "FormattedName": "risk analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2016",
+        "ExperienceInMonths": 108
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Management",
+        "Ontology": "Finance and Insurance>Financial Specialists>risk management",
+        "Alias": "risk-mgmt, market risk management, protection planning, risks mgmt., manage the risks, retail risk management, management of risk, management of risk practitioner, management of risks, risk-management, managing risk, managing risks, risk mgmt, manage complex risk, departmental risk management, manage risks, risk management support, risk management processes, risk management process, manage the risk, management risk, risk process",
+        "FormattedName": "risk management",
+        "Evidence": "SummarySection,CertificationSection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Service",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer service",
+        "Alias": "client care, client servicing, web customer service, client-services, it customer service, customer-friendly, telephone-customer-service, telephone customer service, customer care-services, customer care skills, customer-care services, servicing corporate clients, assistance to customers, friendly approach to clients, client-friendly, customer dealing, client-servicing, customer-care- services, customer service processes, customer service skills, customer services, computer-customer-service, it-customer-service, customer care, customer advice, client friendly, clients servicing, general-customer-service, retail-customer service, client-care, client service, giving our customers the best service, customer servicing, customer friendly, retail customer service, general-computer-customer-service, client care-services, customer-service, help customers, customer solutions, consumer services, service client general, online customer service, client services, advise clients, client service skills, general customer service, customer care services, general computer customer service, on line support to customers, computer customer service",
+        "FormattedName": "customer service",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 102
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Highly Skilled",
+        "Ontology": "Arts, Entertainment, and Recreation>Coaches and Scouts>highly skilled",
+        "Alias": "highly-skilled",
+        "FormattedName": "highly skilled",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Proven Ability",
+        "Ontology": "Information>Mathematicians>proven ability",
+        "Alias": "proven ability to work well",
+        "FormattedName": "proven ability",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Track Record",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Administrative Services>record management",
+        "Alias": "records tracking, records management, maintain accurate records, maintaining office records, storage record, prepare and maintain the daily work record, records-management, record-keeping, track record, maintenance records, record keeping, maintained office records, recordskeeping, records correction, maintaining o?ce records, government record management, government records management, maintained records, records and information management, maintaining proper records in data base, store record, record mgmt., manage records, correction records, record maintenance, maintain records, record tracking, recordkeeping, records information management, records information mgmt, keeping management, record storage, personal records management, record-management, maintaining records, customer records management",
+        "FormattedName": "record management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cooking",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Santander UK Senior Business Relationship Manager \r Manchester, UK \r 2016 - Present \r At Santander, I lead a team of relationship managers and oversee a portfolio of high-profile business clients. My responsibilities include developing financial strategies, providing expert advice, and ensuring client satisfaction. I have successfully increased the portfolio's value by 45% through strategic planning and exceptional client service.\r\r Key Achievements :  \r Spearheaded the implementation of a client feedback system, resulting in a 25% increase in client satisfaction. \r Developed and executed targeted business development initiatives, contributing to a 40% increase in new client acquisitions. \r Mentored and developed junior relationship managers, enhancing team performance and productivity. \r Lloyds Bank Business Relationship Manager \r Manchester, UK \r 2008 - 2016 \r In this role, I managed and grew a diverse portfolio of business clients, providing customized financial solutions and support. My role involved in-depth financial analysis, risk assessment, and strategic planning. My efforts led to significant business growth and high client retention rates. \r Key Responsibilities :  \r Conducted detailed financial analyses to provide tailored financial solutions for clients. \r Developed and maintained strong relationships with key business clients. \r Collaborated with internal departments to deliver comprehensive financial services. \r HSBC Bank Assistant Relationship Manager \r Manchester, UK \r 2004 - 2008 \r As an Assistant Relationship Manager at HSBC, I supported senior relationship managers in client management and business development activities. I conducted market research, prepared financial reports, and assisted in client meetings. My contributions helped improve client retention rates and identify new business opportunities. \r Key Contributions :  \r Assisted in the development and implementation of client financial plans. \r Conducted market analysis to support strategic business decisions. \r Provided exceptional support during client meetings, contributing to successful outcomes.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Santander UK",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Senior Business Relationship Manager",
+          "FormattedName": "senior business relationship manager",
+          "Alias": "senior level business relationship manager, senior manager business relationship, snr. business relationship manager, sr. business relationship manager, sr. business relations manager, senior manager of business relationship, senior business relations manager, senior business relationship team manager, senior business relationship team mgr, senior business relationship head, senior business relationship mgr, senior business relationship mngr, sr business relationship manager, snr business relationship manager",
+          "RelatedSkills": [
+            {
+              "Skill": "release management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business planning",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2016 - till",
+        "FormattedJobPeriod": "2016 to till",
+        "StartDate": "01/01/2016",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At Santander, I lead a team of relationship managers and oversee a portfolio of high-profile business clients. My responsibilities include developing financial strategies, providing expert advice, and ensuring client satisfaction. I have successfully increased the portfolio's value by 45% through strategic planning and exceptional client service. \n \n Key Achievements : \n Spearheaded the implementation of a client feedback system, resulting in a 25% increase in client satisfaction. \n Developed and executed targeted business development initiatives, contributing to a 40% increase in new client acquisitions. \n Mentored and developed junior relationship managers, enhancing team performance and productivity.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Lloyds Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Business Relationship Manager",
+          "FormattedName": "business relationship manager",
+          "Alias": "manager of business relationship, manager - business relations, manager - business relationship, business relationship team mgr, business relationship partner, business relationship team leader, business relationship mngr, business relationship mgr, business relations manager, business relationship team manager, business relationship head, account manager - business relations, manager, business relationship management, commercial relations manager, manager business relationship, business-relationship- manager",
+          "RelatedSkills": [
+            {
+              "Skill": "cost leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business relationship management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "enterprise software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business planning",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2008 - 2016",
+        "FormattedJobPeriod": "2008 to 2016",
+        "StartDate": "01/01/2008",
+        "EndDate": "31/12/2016",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "In this role, I managed and grew a diverse portfolio of business clients, providing customized financial solutions and support. My role involved in-depth financial analysis, risk assessment, and strategic planning. My efforts led to significant business growth and high client retention rates. \n Key Responsibilities : \n Conducted detailed financial analyses to provide tailored financial solutions for clients. \n Developed and maintained strong relationships with key business clients. \n Collaborated with internal departments to deliver comprehensive financial services.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "HSBC Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Assistant Relationship Manager",
+          "FormattedName": "assistant relationship manager",
+          "Alias": "manager assistant relationship, asst. manager relationships, assistant - relationship manager, assistant relationship team mgr, assistant relationship head, assistant relationship mgr, assistant relationship team manager, relationship manager associate, asst. relationship manager, assistant, relationship manager, assistant-manager relationship, assistant  manager relationship, assistant manager of relationship, assistant manager of  relationship, assistant manager-relationship",
+          "RelatedSkills": [
+            {
+              "Skill": "meeting management",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "customer development",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2004 - 2008",
+        "FormattedJobPeriod": "2004 to 2008",
+        "StartDate": "01/01/2004",
+        "EndDate": "31/12/2008",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "As an Assistant Relationship Manager at HSBC, I supported senior relationship managers in client management and business development activities. I conducted market research, prepared financial reports, and assisted in client meetings. My contributions helped improve client retention rates and identify new business opportunities. \n Key Contributions : \n Assisted in the development and implementation of client financial plans. \n Conducted market analysis to support strategic business decisions. \n Provided exceptional support during client meetings, contributing to successful outcomes.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Santander UK",
+    "JobProfile": "Senior Business Relationship Manager",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "247",
+      "TotalExperienceInYear": "20.7",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "82",
+    "LongestStay": "96",
+    "Summary": "Accomplished Business Relationship Manager with 20 years of experience in the banking sector. Expertise in client relationship management, financial advising, and team leadership. Demonstrated ability to drive business growth, enhance client satisfaction, and develop strategic financial solutions. Highly skilled in market analysis, risk management, and negotiation.",
+    "ExecutiveSummary": "Jonathan has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Business Operations Specialists. 'The candidate has a total experience of 20 YearsThe candidate has been working as a Senior Business Relationship Manager at Santander UK for the last 8.7 years. ",
+    "ManagementSummary": "Currently, Jonathan holds a Mid Management Level position, as Senior Business Relationship Manager at Santander UK. from 01/01/2016 to 05/07/2024. The candidate has a total experience of 8.7 years in this company.\n\nJonathan holds a Mid Management Level position, as Business Relationship Manager at Lloyds Bank. from 01/01/2008 to 31/12/2016. The candidate has a total experience of 9.0 years in this company.\n\nJonathan holds a Mid Management Level position, as Assistant Relationship Manager at HSBC Bank. from 01/01/2004 to 31/12/2008. The candidate has a total experience of 5.0 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "Mentoring aspiring finance professionals",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 728ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Jonathan Turner\nContact Information : \nAddress : 45 Oak Lane, Manchester, M17 2YY, England\nEmail : jonathan.turner@email.com\nPhone : +44 7123 666888\nLinkedIn : linkedin.com/in/jonathanturner\n\nProfessional Profile : Accomplished Business Relationship Manager with 20 years of experience in the banking sector. Expertise in client relationship management, financial advising, and team leadership. Demonstrated ability to drive business growth, enhance client satisfaction, and develop strategic financial solutions. Highly skilled in market analysis, risk management, and negotiation.\n\nEducation : University of Bristol (Russell Group) \nBSc Economics and Finance\nGraduated : 2004\n\nCareer History : \nSantander UK Senior Business Relationship Manager\nManchester, UK\n2016 - Present\nAt Santander, I lead a team of relationship managers and oversee a portfolio of high-profile business clients. My responsibilities include developing financial strategies, providing expert advice, and ensuring client satisfaction. I have successfully increased the portfolio's value by 45% through strategic planning and exceptional client service.\nKey Achievements : \nSpearheaded the implementation of a client feedback system, resulting in a 25% increase in client satisfaction.\nDeveloped and executed targeted business development initiatives, contributing to a 40% increase in new client acquisitions.\nMentored and developed junior relationship managers, enhancing team performance and productivity.\nLloyds Bank Business Relationship Manager\nManchester, UK\n2008 - 2016\nIn this role, I managed and grew a diverse portfolio of business clients, providing customized financial solutions and support. My role involved in-depth financial analysis, risk assessment, and strategic planning. My efforts led to significant business growth and high client retention rates.\nKey Responsibilities : \nConducted detailed financial analyses to provide tailored financial solutions for clients.\nDeveloped and maintained strong relationships with key business clients.\nCollaborated with internal departments to deliver comprehensive financial services.\nHSBC Bank Assistant Relationship Manager\nManchester, UK\n2004 - 2008\nAs an Assistant Relationship Manager at HSBC, I supported senior relationship managers in client management and business development activities. I conducted market research, prepared financial reports, and assisted in client meetings. My contributions helped improve client retention rates and identify new business opportunities.\nKey Contributions : \nAssisted in the development and implementation of client financial plans.\nConducted market analysis to support strategic business decisions.\nProvided exceptional support during client meetings, contributing to successful outcomes.\n\nKey Skills : \nBusiness Relationship Management : Extensive experience in managing high-value client portfolios and delivering exceptional service.\nFinancial Advising and Planning : Skilled in developing and implementing strategic financial plans to meet client needs.\nMarket Analysis and Risk Management : Proficient in analyzing market trends and assessing risks to inform client advisory.\nClient Engagement and Retention : Strong ability to build and maintain long-term client relationships.\nTeam Leadership and Performance Management : Experienced in leading and developing high-performing teams.\nStrategic Business Development : Proven ability to identify and capitalize on new business opportunities.\nNegotiation and Communication : Excellent negotiation and communication skills, with a track record of successful client engagements.\n\nProfessional Certifications : \nChartered Banker MBA\nCertified Business Relationship Manager (CBRM) \nDiploma in Financial Planning\nMember of the Chartered Institute for Securities & Investment (CISI) \nCertificate in Risk Management\n\nInterests : \nMentoring aspiring finance professionals\nParticipating in charity runs and community events\nCooking and exploring new cuisines\nTraveling and experiencing different cultures\nReading economic and financial journals\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Jonathan Turner</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 45 Oak Lane, Manchester, M17 2YY, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> jonathan.turner@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 666888</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> linkedin.com/in/jonathanturner</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Profile:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> Accomplished Business Relationship Manager with 20 years of experience in the banking sector. Expertise in client relationship management, financial advising, and team leadership. Demonstrated ability to drive business growth, enhance client satisfaction, and develop strategic financial solutions. Highly skilled in market analysis, risk management, and negotiation.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Bristol (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">BSc Economics and Finance</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2004</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Career History:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Santander UK</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Senior Business Relationship Manager</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2016 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">At Santander, I lead a team of relationship managers and oversee a portfolio of high-profile business clients. My responsibilities include developing financial strategies, providing expert advice, and ensuring client satisfaction. I have successfully increased the portfolio's value by 45% through strategic planning and exceptional client service.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Achievements:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Spearheaded the implementation of a client feedback system, resulting in a 25% increase in client satisfaction.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed and executed targeted business development initiatives, contributing to a 40% increase in new client acquisitions.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Mentored and developed junior relationship managers, enhancing team performance and productivity.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lloyds Bank</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Business Relationship Manager</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2008 - 2016</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">In this role, I managed and grew a diverse portfolio of business clients, providing customized financial solutions and support. My role involved in-depth financial analysis, risk assessment, and strategic planning. My efforts led to significant business growth and high client retention rates.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducted detailed financial analyses to provide tailored financial solutions for clients.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed and maintained strong relationships with key business clients.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborated with internal departments to deliver comprehensive financial services.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC Bank</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Assistant Relationship Manager</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2004 - 2008</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">As an Assistant Relationship Manager at HSBC, I supported senior relationship managers in client management and business development activities. I conducted market research, prepared financial reports, and assisted in client meetings. My contributions helped improve client retention rates and identify new business opportunities.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Contributions:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted in the development and implementation of client financial plans.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducted market analysis to support strategic business decisions.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Provided exceptional support during client meetings, contributing to successful outcomes.</span></li></ul></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Business Relationship Management:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Extensive experience in managing high-value client portfolios and delivering exceptional service.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Financial Advising and Planning:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Skilled in developing and implementing strategic financial plans to meet client needs.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Market Analysis and Risk Management:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Proficient in analyzing market trends and assessing risks to inform client advisory.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Client Engagement and Retention:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong ability to build and maintain long-term client relationships.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Team Leadership and Performance Management:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Experienced in leading and developing high-performing teams.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Strategic Business Development:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Proven ability to identify and capitalize on new business opportunities.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Negotiation and Communication:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Excellent negotiation and communication skills, with a track record of successful client engagements.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Chartered Banker MBA</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Business Relationship Manager (CBRM) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Diploma in Financial Planning</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Member of the Chartered Institute for Securities & Investment (CISI) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certificate in Risk Management</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Interests:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Mentoring aspiring finance professionals</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Participating in charity runs and community events</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Cooking and exploring new cuisines</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Traveling and experiencing different cultures</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Reading economic and financial journals</span></li></ul><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

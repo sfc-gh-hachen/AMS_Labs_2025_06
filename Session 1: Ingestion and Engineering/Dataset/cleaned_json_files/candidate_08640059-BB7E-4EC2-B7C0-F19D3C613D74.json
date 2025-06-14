@@ -1,0 +1,670 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Sarah Johnson.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:43:06",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Sarah Johnson",
+      "TitleName": "",
+      "FirstName": "Sarah",
+      "MiddleName": "",
+      "LastName": "Johnson",
+      "FormattedName": "Sarah Johnson",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "sarah.johnson@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123789654",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 789654",
+        "FormattedNumber": "+44 7123 789654",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/sarahjohnson"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "21 Cedar Lane",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M43AD",
+        "FormattedAddress": "21 Cedar Lane, Manchester, England, M43AD, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Compliance Officers",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Manchester (Russell Group) \r MSc Financial Regulation and Compliance, Distinction \r Graduated : 2013 \r University of Edinburgh (Russell Group) \r BSc Economics and Business, First Class Honours \r Graduated : 2010",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "MSc Financial Regulation and Compliance",
+          "NormalizeDegree": "Master of Science",
+          "Specialization": [
+            "Financial Regulation"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2013",
+        "StartDate": "",
+        "EndDate": "31/12/2013",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "University of Edinburgh",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc Economics and Business",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Economics and Business"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2010",
+        "StartDate": "",
+        "EndDate": "31/12/2010",
+        "Aggregate": {
+          "Value": "1st",
+          "MeasureType": "Class Honours"
+        }
+      }
+    ],
+    "Certification": "Certified Regulatory Compliance Manager (CRCM) \r International Diploma in Financial Crime Prevention (ICA) \r Certified Anti-Money Laundering Specialist (CAMS) \r Certificate in Risk Management (CIRM)",
+    "SegregatedCertification": [],
+    "SkillBlock": "Regulatory Compliance : Extensive knowledge of regulatory requirements and best practices in the banking sector. \r Risk Assessment : Proficient in conducting risk assessments and developing risk mitigation strategies. \r Policy Development : Skilled in developing and implementing compliance policies and procedures. \r Team Leadership : Strong leadership skills with experience in managing and mentoring compliance teams.",
+    "SkillKeywords": "Comprehensive,Dedicated,Potential,Assisted,Strategic Planning,Strategic Thinking,Leadership Skills,Strong Leadership,Team Leadership,Leading A Team,Collaborating,Mentoring,Risk Mitigation Strategies,Regulatory Requirements,Regulatory Compliance,Support and Training,Compliance Policies,Ensuring Compliance,Strategic Direction,Policy Development,Compliance Audits,Senior Management,Risk Assessment,Risk Management,Best Practices,Highly Skilled,Due Diligence,CAMS",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Comprehensive",
+        "Ontology": "Educational Services>Instructional Coordinators>comprehensive",
+        "Alias": "comprehension, ability to understand",
+        "FormattedName": "comprehensive",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Dedicated",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Potential",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk analysis",
+        "Alias": "performing risk analysis, conduct risk assessment, conduct risk assessments, risk assessment analytics, risk evaluation, risk measure, examining risks, examining risks and potentials, risk assessment, risk-analysis, identification of risks, risk identification, process risk analysis, risk measures, analysis of risk, assessing risk, risk-reviews, risk measurement, performed risk analysis, risks analysis, risk identi?cation, assessing risks, measuring risk, identified audit risks, risk analytics, identify risks, risk reviews, retail risk analytics, risk assessments, perform a risk analysis, business process risk assessments, business process risk assessment, retail risk assessment, risk-assessment, weekly risk analysis",
+        "FormattedName": "risk analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 138
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2014",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strategic Planning",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>strategic planning",
+        "Alias": "strategic prognosis planning, strategical planning, strategic plan-development, strategy planning, planning strategy, planning strategically, develop-strategic- plans, develop-strategic plans, strategic plans, development of the strategic plan, strategic development plan, strategic-roadmap, strategic-planning, strategic business plan development, strategic business planning, strategic roadmap, strategic roadmaps, develop strategic plans, develop strategic roadmaps, strategic road map, strategic planning process, strategic planning-management, strategic planning and implementation, strategic planning management, strategic planning for growth, strategic planning mgmt, strategic planning development, strategy and planning, developing a strategic plan, development of a strategic plan",
+        "FormattedName": "strategic planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strategic Thinking",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>strategic thinking",
+        "Alias": "strategic-thinking, strategic thinker, strategic analytical thinking, strategic thinking process",
+        "FormattedName": "strategic thinking",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Leadership Skills",
+        "Ontology": "Management of Companies and Enterprises>Top Executives>leadership",
+        "Alias": "leadership skills, leadership ability, leadership abilities, abilities to lead, leading people, leading skills, leaderships skills, leadership qualities, leadership management, people leadership, strong leadership, provide leadership, established leadership skills, inclusive leadership",
+        "FormattedName": "leadership",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strong Leadership",
+        "Ontology": "Management of Companies and Enterprises>Top Executives>leadership",
+        "Alias": "leadership skills, leadership ability, leadership abilities, abilities to lead, leading people, leading skills, leaderships skills, leadership qualities, leadership management, people leadership, strong leadership, provide leadership, established leadership skills, inclusive leadership",
+        "FormattedName": "leadership",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Leadership",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leadership",
+        "Alias": "interdisciplinary team leadership, multi-national team leadership, lead the team member, leads group discussions, leads groups, group leadership, multi-cultural team leadership",
+        "FormattedName": "team leadership",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Leading A Team",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leading",
+        "Alias": "leading group, lead a group, team-leading, lead a team, leading a team, leading small teams, leading teams, lead the team to innovation, ability to lead teams, leading large teams",
+        "FormattedName": "team leading",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaborating",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Mentoring",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>mentoring",
+        "Alias": "mentor-ship, mentoring skills, mentorship, success mentoring, mentors",
+        "FormattedName": "mentoring",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Mitigation Strategies",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk mitigation",
+        "Alias": "develop mitigation plans, risk mitigation strategy, risk mitigation plan, risk mitigation strategies, risk mitigation planning, risk-mitigation, reduce risk, mitigation planning, developing mitigations and controls, risk reduction, mitigation strategies, risk-mitigation strategy, risk handling",
+        "FormattedName": "risk mitigation",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Requirements",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "CertificationSection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Support and Training",
+        "Ontology": "Finance and Insurance>Training and Development Specialists>training support",
+        "Alias": "support training, employee training support, learning and development support, training and development support, support and training",
+        "FormattedName": "training support",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2014",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Compliance Policies",
+        "Ontology": "Finance and Insurance>Compliance Officers>compliance policy",
+        "Alias": "compliance policy and procedure, compliance policies, compliance policy procedure",
+        "FormattedName": "compliance policy",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensuring Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>ensuring compliance",
+        "Alias": "guarantee compliance with policies, compliance assurance, compliance-assurance, assures compliance, make sure policies are compliant, ensure policy compliance, assurance of compliance, certify compliance with policies, ensure compliance, ensure compliance with policies, ensure compliance with legislation, ensure compliance with policy, ensuring compliance with the rules, ensuring compliance with policies",
+        "FormattedName": "ensuring compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Direction",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>strategic direction",
+        "Alias": "strategic direction of the company, strategic business direction, setting strategic direction",
+        "FormattedName": "strategic direction",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Policy Development",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Insurance Claims and Policy Processing Clerks>policy development",
+        "Alias": "develop policies, development of policies, policies development, creating policies, policy-writing, developing the policy, policy-development, policy writing, developing policies, develop the policies, write policy",
+        "FormattedName": "policy development",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Compliance Audits",
+        "Ontology": "Finance and Insurance>Compliance Officers>compliance audit",
+        "Alias": "compliance-investigation, audit regulation, regulatory compliance audit, regulatory compliance auditing, compliance survey, compliance audits, compliance audit projects, compliance auditing, compliance inspection, compliance research, regulative auditing, regulative audit, legal compliance audit, legal compliance auditing, compliance inquiry, government compliance audit, government compliance auditing, regulatory auditing, regulatory audit, regulatory audits, compliance-research, compliance examine, compliance examination, compliance investigations, compliance investigation, compliance exploration, audit compliance, compliance-audits, compliance-audit, regulatory investigation, regulatory investigate, compliance security audits",
+        "FormattedName": "compliance audit",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Senior Management",
+        "Ontology": "Finance and Insurance>Management Analysts>senior management",
+        "Alias": "top-management, front line mgmt, top level management, senior and executive level management, front line management, senior mgmt, senior it management, frontline-management, executive level management, executive management, senior management functions, senior management function, upper management, frontline mgmt, top management system, top mgmt, sr management, exec mgmt, it executive management, top management, senior-management, frontline management",
+        "FormattedName": "senior management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Assessment",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk analysis",
+        "Alias": "performing risk analysis, conduct risk assessment, conduct risk assessments, risk assessment analytics, risk evaluation, risk measure, examining risks, examining risks and potentials, risk assessment, risk-analysis, identification of risks, risk identification, process risk analysis, risk measures, analysis of risk, assessing risk, risk-reviews, risk measurement, performed risk analysis, risks analysis, risk identi?cation, assessing risks, measuring risk, identified audit risks, risk analytics, identify risks, risk reviews, retail risk analytics, risk assessments, perform a risk analysis, business process risk assessments, business process risk assessment, retail risk assessment, risk-assessment, weekly risk analysis",
+        "FormattedName": "risk analysis",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Management",
+        "Ontology": "Finance and Insurance>Financial Specialists>risk management",
+        "Alias": "risk-mgmt, market risk management, protection planning, risks mgmt., manage the risks, retail risk management, management of risk, management of risk practitioner, management of risks, risk-management, managing risk, managing risks, risk mgmt, manage complex risk, departmental risk management, manage risks, risk management support, risk management processes, risk management process, manage the risk, management risk, risk process",
+        "FormattedName": "risk management",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Best Practices",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>best practice",
+        "Alias": "best practice design, development best practices, best-practice, it best practice, it best practices, marketing best practices, best-practice frameworks, best practices, best practice management, best practices framework, best practices frameworks, best practice implementation, best practice framework, develop best practices, best practices operations",
+        "FormattedName": "best practice",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Highly Skilled",
+        "Ontology": "Arts, Entertainment, and Recreation>Coaches and Scouts>highly skilled",
+        "Alias": "highly-skilled",
+        "FormattedName": "highly skilled",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Due Diligence",
+        "Ontology": "Finance and Insurance>Personal Financial Advisors>due diligence",
+        "Alias": "operational-due-diligence, acquisition due diligence, operational-due diligence, accounting due diligence, operational due diligence, operational due-diligence, due-diligence, m&a due diligence, financial due-diligence, mortgage-due-diligence, financial due diligence, mortgage due diligence",
+        "FormattedName": "due diligence",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2014",
+        "ExperienceInMonths": 60
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "CAMS",
+        "Ontology": "Construction>Mechanical Drafters>computer aided manufacturing",
+        "Alias": "cam programming, computer-aided-manufacturing, computer aided manufacturing cam software, computer aided manufacturing software, cam, cams, computer-aided manufacturing, computer-aided manufaturing, computer-aided manufacturing software, computer-aided- manufacturing",
+        "FormattedName": "computer aided manufacturing",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "HSBC Bank Head of Compliance \r Manchester, UK \r 2018 - Present \r Leading the compliance team, responsible for developing and implementing comprehensive compliance programs. Conducting regular risk assessments and ensuring the bank adheres to all regulatory requirements. \r Key Responsibilities :  \r Leading a team of compliance officers, providing strategic direction and support. \r Developing and updating compliance policies and procedures. \r Conducting regular compliance audits and risk assessments to identify and mitigate potential risks. \r Ensuring compliance with AML, GDPR, and other regulatory requirements. \r Collaborating with senior management to integrate compliance into the bank's strategic planning. \r Preparing and presenting compliance reports to the board of directors. \r Investigating and resolving compliance issues and breaches. \r Barclays Bank Senior Compliance Manager \r Manchester, UK \r 2014 - 2018 \r Managed the compliance function, ensuring the bank's operations were in line with regulatory requirements. Conducted risk assessments, developed compliance programs, and provided training to staff. \r Key Responsibilities :  \r Conducted comprehensive risk assessments and compliance audits. \r Developed and implemented compliance policies and procedures. \r Provided training and support to staff on compliance-related matters. \r Monitored regulatory changes and ensured the bank's compliance programs were updated accordingly. \r Investigated compliance issues and reported findings to senior management. \r Collaborated with various departments to ensure a cohesive approach to compliance. \r Lloyds Banking Group Compliance Officer \r Manchester, UK \r 2010 - 2014 \r Supported the compliance team in monitoring and enforcing compliance with regulatory requirements. Conducted due diligence, reviewed transactions, and assisted in developing compliance programs. \r Key Responsibilities :  \r Conducted due diligence on new and existing clients. \r Monitored transactions for suspicious activities and potential compliance breaches. \r Assisted in developing and implementing compliance policies and procedures. \r Provided support and training to staff on compliance-related issues. \r Prepared compliance reports and documentation for senior management. \r Ensured compliance with AML and other regulatory requirements.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "HSBC Bank Head of Compliance",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "",
+          "FormattedName": "",
+          "Alias": "",
+          "RelatedSkills": [],
+          "ConfidenceScore": 0
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2018 - till",
+        "FormattedJobPeriod": "2018 to till",
+        "StartDate": "01/01/2018",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Leading the compliance team, responsible for developing and implementing comprehensive compliance programs. Conducting regular risk assessments and ensuring the bank adheres to all regulatory requirements. \n Key Responsibilities : \n Leading a team of compliance officers, providing strategic direction and support. \n Developing and updating compliance policies and procedures. \n Conducting regular compliance audits and risk assessments to identify and mitigate potential risks. \n Ensuring compliance with AML, GDPR, and other regulatory requirements. \n Collaborating with senior management to integrate compliance into the bank's strategic planning. \n Preparing and presenting compliance reports to the board of directors. \n Investigating and resolving compliance issues and breaches.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Barclays Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Senior Compliance Manager",
+          "FormattedName": "senior compliance manager",
+          "Alias": "senior level compliance manager, compliance sr. manager, sr compliance manager, sr. compliance manager, compliance senior manager, senior manager of compliance, senior compliance team mgr, senior compliance supervisor, senior compliance mgr, senior compliance head, senior compliance mngr, senior compliance team manager, senior manager compliance, senior-compliance- manager, snr compliance manager",
+          "RelatedSkills": [],
+          "ConfidenceScore": 8
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2014 - 2018",
+        "FormattedJobPeriod": "2014 to 2018",
+        "StartDate": "01/01/2014",
+        "EndDate": "31/12/2018",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Managed the compliance function, ensuring the bank's operations were in line with regulatory requirements. Conducted risk assessments, developed compliance programs, and provided training to staff. \n Key Responsibilities : \n Conducted comprehensive risk assessments and compliance audits. \n Developed and implemented compliance policies and procedures. \n Provided training and support to staff on compliance-related matters. \n Monitored regulatory changes and ensured the bank's compliance programs were updated accordingly. \n Investigated compliance issues and reported findings to senior management. \n Collaborated with various departments to ensure a cohesive approach to compliance.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Lloyds Banking Group",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Compliance Officer",
+          "FormattedName": "compliance officer",
+          "Alias": "agent compliance reviewer, regulatory compliance inspector, compliance and protection officer, compliance and control rep, branch safety and compliance inspector, officer of compliance, compliance services officer, compliance rep, regional compliance officer, officer compliance, compliance representative, bilingual compliance officer, compliance staff, compliance oversight officer, compliance and inspection officer, operations compliance officer",
+          "RelatedSkills": [
+            {
+              "Skill": "banking compliance",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "police accountability",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "exchange traded derivative",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "beneficial ownership",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "acceptable use policy",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "compliance planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "fraud abuse control information system",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "risk culture improvement",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 8
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2010 - 2014",
+        "FormattedJobPeriod": "2010 to 2014",
+        "StartDate": "01/01/2010",
+        "EndDate": "31/12/2014",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Supported the compliance team in monitoring and enforcing compliance with regulatory requirements. Conducted due diligence, reviewed transactions, and assisted in developing compliance programs. \n Key Responsibilities : \n Conducted due diligence on new and existing clients. \n Monitored transactions for suspicious activities and potential compliance breaches. \n Assisted in developing and implementing compliance policies and procedures. \n Provided support and training to staff on compliance-related issues. \n Prepared compliance reports and documentation for senior management. \n Ensured compliance with AML and other regulatory requirements.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "HSBC Bank Head of Compliance",
+    "JobProfile": "",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "175",
+      "TotalExperienceInYear": "14.7",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "58",
+    "LongestStay": "67",
+    "Summary": "Highly skilled and dedicated Head of Compliance with 10 years of experience in the banking sector. Expert in developing compliance programs, conducting risk assessments, and ensuring adherence to regulatory requirements. Known for exceptional leadership skills, strategic thinking, and the ability to foster a culture of compliance within organizations.",
+    "ExecutiveSummary": "Sarah has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Compliance Officers. 'The candidate has a total experience of 10 Years and has been currently working for HSBC Bank Head of Compliance for the last 6.7 years. ",
+    "ManagementSummary": "Currently, Sarah holds a Mid Management Level position, as Senior Compliance Manager at Barclays Bank. from 01/01/2014 to 31/12/2018. The candidate has a total experience of 5.0 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 722ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Sarah Johnson\nContact Information : \nAddress : 21 Cedar Lane, Manchester, M4 3AD, England\nEmail : sarah.johnson@email.com\nPhone : +44 7123 789654\nLinkedIn : linkedin.com/in/sarahjohnson\n\nProfessional Summary : \nHighly skilled and dedicated Head of Compliance with 10 years of experience in the banking sector. Expert in developing compliance programs, conducting risk assessments, and ensuring adherence to regulatory requirements. Known for exceptional leadership skills, strategic thinking, and the ability to foster a culture of compliance within organizations.\n\nEducation : \nUniversity of Manchester (Russell Group) \nMSc Financial Regulation and Compliance, Distinction\nGraduated : 2013\nUniversity of Edinburgh (Russell Group) \nBSc Economics and Business, First Class Honours\nGraduated : 2010\n\nProfessional Experience : \nHSBC Bank Head of Compliance\nManchester, UK\n2018 - Present\nLeading the compliance team, responsible for developing and implementing comprehensive compliance programs. Conducting regular risk assessments and ensuring the bank adheres to all regulatory requirements.\nKey Responsibilities : \nLeading a team of compliance officers, providing strategic direction and support.\nDeveloping and updating compliance policies and procedures.\nConducting regular compliance audits and risk assessments to identify and mitigate potential risks.\nEnsuring compliance with AML, GDPR, and other regulatory requirements.\nCollaborating with senior management to integrate compliance into the bank's strategic planning.\nPreparing and presenting compliance reports to the board of directors.\nInvestigating and resolving compliance issues and breaches.\nBarclays Bank Senior Compliance Manager\nManchester, UK\n2014 - 2018\nManaged the compliance function, ensuring the bank's operations were in line with regulatory requirements. Conducted risk assessments, developed compliance programs, and provided training to staff.\nKey Responsibilities : \nConducted comprehensive risk assessments and compliance audits.\nDeveloped and implemented compliance policies and procedures.\nProvided training and support to staff on compliance-related matters.\nMonitored regulatory changes and ensured the bank's compliance programs were updated accordingly.\nInvestigated compliance issues and reported findings to senior management.\nCollaborated with various departments to ensure a cohesive approach to compliance.\nLloyds Banking Group Compliance Officer\nManchester, UK\n2010 - 2014\nSupported the compliance team in monitoring and enforcing compliance with regulatory requirements. Conducted due diligence, reviewed transactions, and assisted in developing compliance programs.\nKey Responsibilities : \nConducted due diligence on new and existing clients.\nMonitored transactions for suspicious activities and potential compliance breaches.\nAssisted in developing and implementing compliance policies and procedures.\nProvided support and training to staff on compliance-related issues.\nPrepared compliance reports and documentation for senior management.\nEnsured compliance with AML and other regulatory requirements.\n\nSkills : \nRegulatory Compliance : Extensive knowledge of regulatory requirements and best practices in the banking sector.\nRisk Assessment : Proficient in conducting risk assessments and developing risk mitigation strategies.\nPolicy Development : Skilled in developing and implementing compliance policies and procedures.\nTeam Leadership : Strong leadership skills with experience in managing and mentoring compliance teams.\nTraining and Development : Experienced in providing compliance training and support to staff.\nStrategic Thinking : Ability to integrate compliance into the bank's strategic planning.\nAnalytical Skills : Strong analytical abilities with a keen eye for detail.\nCommunication : Excellent verbal and written communication skills, with the ability to present complex information clearly.\n\nCertifications : \nCertified Regulatory Compliance Manager (CRCM) \nInternational Diploma in Financial Crime Prevention (ICA) \nCertified Anti-Money Laundering Specialist (CAMS) \nCertificate in Risk Management (CIRM) \n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Sarah Johnson</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 21 Cedar Lane, Manchester, M4 3AD, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> sarah.johnson@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 789654</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> linkedin.com/in/sarahjohnson</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Highly skilled and dedicated Head of Compliance with 10 years of experience in the banking sector. Expert in developing compliance programs, conducting risk assessments, and ensuring adherence to regulatory requirements. Known for exceptional leadership skills, strategic thinking, and the ability to foster a culture of compliance within organizations.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Manchester (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">MSc Financial Regulation and Compliance, Distinction</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2013</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Edinburgh (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">BSc Economics and Business, First Class Honours</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2010</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC Bank</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Head of Compliance</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2018 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Leading the compliance team, responsible for developing and implementing comprehensive compliance programs. Conducting regular risk assessments and ensuring the bank adheres to all regulatory requirements.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Leading a team of compliance officers, providing strategic direction and support.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developing and updating compliance policies and procedures.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducting regular compliance audits and risk assessments to identify and mitigate potential risks.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ensuring compliance with AML, GDPR, and other regulatory requirements.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborating with senior management to integrate compliance into the bank's strategic planning.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Preparing and presenting compliance reports to the board of directors.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Investigating and resolving compliance issues and breaches.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Barclays Bank</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Senior Compliance Manager</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2014 - 2018</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Managed the compliance function, ensuring the bank's operations were in line with regulatory requirements. Conducted risk assessments, developed compliance programs, and provided training to staff.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducted comprehensive risk assessments and compliance audits.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed and implemented compliance policies and procedures.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Provided training and support to staff on compliance-related matters.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Monitored regulatory changes and ensured the bank's compliance programs were updated accordingly.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Investigated compliance issues and reported findings to senior management.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborated with various departments to ensure a cohesive approach to compliance.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lloyds Banking Group</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Compliance Officer</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2010 - 2014</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Supported the compliance team in monitoring and enforcing compliance with regulatory requirements. Conducted due diligence, reviewed transactions, and assisted in developing compliance programs.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducted due diligence on new and existing clients.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Monitored transactions for suspicious activities and potential compliance breaches.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted in developing and implementing compliance policies and procedures.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Provided support and training to staff on compliance-related issues.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Prepared compliance reports and documentation for senior management.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ensured compliance with AML and other regulatory requirements.</span></li></ul></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Regulatory Compliance:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Extensive knowledge of regulatory requirements and best practices in the banking sector.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Risk Assessment:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Proficient in conducting risk assessments and developing risk mitigation strategies.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Policy Development:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Skilled in developing and implementing compliance policies and procedures.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Team Leadership:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong leadership skills with experience in managing and mentoring compliance teams.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Training and Development:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Experienced in providing compliance training and support to staff.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Strategic Thinking:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Ability to integrate compliance into the bank's strategic planning.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Analytical Skills:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong analytical abilities with a keen eye for detail.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Communication:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Excellent verbal and written communication skills, with the ability to present complex information clearly.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Certified Regulatory Compliance Manager (CRCM) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">International Diploma in Financial Crime Prevention (ICA) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Certified Anti-Money Laundering Specialist (CAMS) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Certificate in Risk Management (CIRM) </span></li></ul><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

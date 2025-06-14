@@ -1,0 +1,828 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Fatima Khalid.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:05:11",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Fatima Khalid",
+      "TitleName": "",
+      "FirstName": "Fatima",
+      "MiddleName": "",
+      "LastName": "Khalid",
+      "FormattedName": "Fatima Khalid",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "fatima.khalid@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+441234567890",
+        "ISDCode": "+44",
+        "OriginalNumber": "1234 567890",
+        "FormattedNumber": "+44 1234 567890",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/fatimakhalid"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 7
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Business Operations Specialists",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "MBA in Business Administration \r University of Manchester \r Graduated : 2003 \r BSc in Economics \r University of Manchester \r Graduated : 2001",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 7,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "MBA in Business Administration",
+          "NormalizeDegree": "Master of Business Administration",
+          "Specialization": [
+            "Business Administration"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "2003",
+        "StartDate": "",
+        "EndDate": "31/12/2003",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc in Economics",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Economics"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2001",
+        "StartDate": "",
+        "EndDate": "31/12/2001",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Certified Business Analysis Professional (CBAP) \r PMI Professional in Business Analysis (PMI-PBA)",
+    "SegregatedCertification": [],
+    "SkillBlock": "Advanced data analysis (Excel, SQL, Tableau) \r Project management (Agile, Waterfall) \r Strong analytical and problem-solving skills \r Excellent communication and interpersonal skills \r Detail-oriented and organized",
+    "SkillKeywords": "Comprehensive,Assisted,Effective Communication,Excellent Communication,Interpersonal Skills,Clear Communication,Strategic Planning,Business Analysis,Strategic Project Management,Operational Efficiency,Requirements Gathering,Business Requirements,Process Optimization,Regulatory Standards,Business Efficiency,Data Analysis Tools,Ensuring Compliance,Process Improvement,Financial Services,Generating Reports,Project Management,Operational Costs,Senior Management,Project Planning,Manage Projects,Managed Project,Data Analysis,Tableau,Agile,Excel,PMI,SQL",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Comprehensive",
+        "Ontology": "Educational Services>Instructional Coordinators>comprehensive",
+        "Alias": "comprehension, ability to understand",
+        "FormattedName": "comprehensive",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 210
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2006",
+        "ExperienceInMonths": 43
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Effective Communication",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>effective communication",
+        "Alias": "able to convey information, able to convey information clearly, clear & concise communication, excellent communicator, communicated effectively, clear and concise communication, develop strong communication, effective-communication, developing effective communication, great communicators, effective communication is paramount, effective communicator, effective communication skills, communicating with supervisors, communicated regularly, able to communicate effectively, develop effective communication skills",
+        "FormattedName": "effective communication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/03/2012",
+        "ExperienceInMonths": 63
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Excellent Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Interpersonal Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>interpersonal skills",
+        "Alias": "strong interpersonal skills, social skill, effective i?nterpersonal skills, people skill, interpersonal leadership skills, interpersonal development, interpersonal skill, social-skills, interpersonal relationships, interpersonal relationship skills, intrapersonal skill, intrapersonal skills, good interpersonal skills, good interpersonal, people skills, ability to socialize, personal skills, interoperation, excellent interpersonal skills, social skills, interpersonal savvy, interpersonal-savvy, interpersonal sensitivity",
+        "FormattedName": "interpersonal skills",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Clear Communication",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>clear communication",
+        "Alias": "clear verbal communication, clear verbal language, clear-communication",
+        "FormattedName": "clear communication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 147
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strategic Planning",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>strategic planning",
+        "Alias": "strategic prognosis planning, strategical planning, strategic plan-development, strategy planning, planning strategy, planning strategically, develop-strategic- plans, develop-strategic plans, strategic plans, development of the strategic plan, strategic development plan, strategic-roadmap, strategic-planning, strategic business plan development, strategic business planning, strategic roadmap, strategic roadmaps, develop strategic plans, develop strategic roadmaps, strategic road map, strategic planning process, strategic planning-management, strategic planning and implementation, strategic planning management, strategic planning for growth, strategic planning mgmt, strategic planning development, strategy and planning, developing a strategic plan, development of a strategic plan",
+        "FormattedName": "strategic planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/03/2012",
+        "ExperienceInMonths": 63
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Business Analysis",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business analysis",
+        "Alias": "business analyze, business area analysis, business analysis operations, business analysis consulting, business analysis implementation, business analysis managing, business analysis research, business analysis management, business analysis process, enterprise analysis, business analyses, business solutions, managing business analysis, manage business analytics, business-analysis, analysis of businesses, analysis of business, business-analyze",
+        "FormattedName": "business analysis",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Project Management",
+        "Ontology": "Finance and Insurance>Portfolio Management>strategic project management",
+        "Alias": "strategic-project-management, strategic it project management, managing strategic project, manage the strategic project, directs strategic projects, strategic project mgmt., strategic project management process, strategic project-management",
+        "FormattedName": "strategic project management",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Operational Efficiency",
+        "Ontology": "Other Services (except Public Administration) >Business Associations>operational efficiency",
+        "Alias": "operation efficiencies, operation efficiency, operational-efficiency, operating efficiencies, improve operational efficiency, drive operational e?ciencies, drive operational efficiencies, operating ef?ciencies, operation ef?ciencies, increasing operational efficiency, maintain and improve operational efficiency",
+        "FormattedName": "operational efficiency",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 147
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Requirements Gathering",
+        "Ontology": "Information>Software Developers and Programmers>requirements elicitation",
+        "Alias": "gathering project requirement, capture requirements, business requirements solicitation, business requirements discovery, requirements gathering design, requirements gathering, requirement gathering design, requirement gathering architecture, requirement gathering, requirement gathering automation, gathering business requirements, gathering business, gather requirements, requirements discovery, requirements discovery process, user requirements gathering, user requirements capture, gathering user requirements, user-requirements capture, user-requirements-capture, gather business requirements, gathering requirements, requirements capture, elicit requirements, eliciting and specifying project requirements, technical requirements gathering, it requirements gathering, collect requirements",
+        "FormattedName": "requirements elicitation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 147
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Requirements",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business requirement",
+        "Alias": "stakeholder requirements specifications, documenting business requirements, key business requirements, business requirements, business requirements documentation, business requirements design, business requirements management, business requirements document review, business requirements document, business requirements specifications, business requirements loading, business requirements engineering, business requirements templates, business requirement implementation, business requirements development, business needs, business need, develop the business requirements, business-requirement, address business requirements, translate business requirements",
+        "FormattedName": "business requirement",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/03/2012",
+        "ExperienceInMonths": 106
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Process Optimization",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>process optimization",
+        "Alias": "process support and optimization, flow path optimization, retail process optimization, system and process optimization, efficiency optimization, process flow optimization, process optimisation, process-optimization, data process optimization, optimized processes, optimization of established processes, optimization of efficiency",
+        "FormattedName": "process optimization",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2006",
+        "ExperienceInMonths": 43
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Standards",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 147
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Efficiency",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business efficiency",
+        "Alias": "efficiency in business, business-efficiency",
+        "FormattedName": "business efficiency",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis Tools",
+        "Ontology": "Information>Data Processing, Hosting, and Related Services>data analysis software",
+        "Alias": "data analysis tool, data analysis tools, analysis tools, big data analysis tool, data-analysis- software, data-analysis software, data analysis management software, data analysis soft., data analytics apps",
+        "FormattedName": "data analysis software",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 147
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensuring Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>ensuring compliance",
+        "Alias": "guarantee compliance with policies, compliance assurance, compliance-assurance, assures compliance, make sure policies are compliant, ensure policy compliance, assurance of compliance, certify compliance with policies, ensure compliance, ensure compliance with policies, ensure compliance with legislation, ensure compliance with policy, ensuring compliance with the rules, ensuring compliance with policies",
+        "FormattedName": "ensuring compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 147
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Process Improvement",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>process improvement",
+        "Alias": "improve processes, manage process improvement, improvement of work processes, develop process improvements, develop process improvement, system improvement, system improvement process, system improvements, work process improvement, process operations improvement, system-improvement, improvement of the process, systems improvement, identifying process improvements, improvement analysis, process-improvement, operations process improvement, refining business units, refining business processes, process refinement, operational process improvement, business process refinement, business process improvement, process improvement methodology, process improvement initiation, process improvement implementation, process improvement framework, process improvement workflows, process improvement operations, process improvements, process improvement initiative, process enhancement",
+        "FormattedName": "process improvement",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 210
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Services",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & finance, banking & financial services, finance related services, finance service, financing operations, banking-services, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, credit services, banking services, banking and financial services, banking and finance, banking and-finance, financial svcs, finance service provision, finance services, credit-services, financial industry, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Generating Reports",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Clerks, General>report generation",
+        "Alias": "generate report, development of reports, reports development, reports preparation, preparation of reports, report creation, develop custom reports, report development, preparing the reports, preparing the report, develop nightly reports, creating reports, preparing reports, develop a report, develop reports, produce reports, prepare reports, creation of new reports, developing reports, generating training reports, generating reports, generate reports, prepare report, creating new reports, report preparation, generated reports, report-generation",
+        "FormattedName": "report generation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2006",
+        "ExperienceInMonths": 43
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Management",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project management",
+        "Alias": "project managed development, managing multiple projects, project mgmt., project-management, manage complex projects, project mgmt, manage a project, project-coordination, manage multiple project tasks, manage multiple projects, managing large scale projects, project co - ordination, project co-ordination, managing complex projects, project manage, managed smaller projects, management of project, operations project management, projects coordination, proj management, managed special projects, overseeing projects, manage the incoming project, project-handling, project management and coordination, project management processes, project management process, managing of projects, projects managing, project handling, coordination of international projects, coordination of projects, project description management, managed projects, project processing, manage a multiphase project, project-manage, manage small projects, managed phases, managed project, managed project operations, proj mgmt, handling of project, new project management, manage projects, managed long term projects, organizational project management, projects management, manage the project, project methods, projects handled, project coordination, project coordination and implementation, project coordinating, managing projects, managing project, manage the complex projects, project work management, management projects, managing the project planning, multiple projects management, project creation, handle multiple projects, manage several projects, project managing, coordinating projects",
+        "FormattedName": "project management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Operational Costs",
+        "Ontology": "Finance and Insurance>Cost Estimators>operating expense",
+        "Alias": "operating costs, operation expenses, operating-expense, opex, operating expenses, opex planning, operating cost, operational cost, operational costs, operational expense, operational expenditure, operating expenditure, operating-cost, opex analysis",
+        "FormattedName": "operating expense",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/03/2012",
+        "ExperienceInMonths": 63
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Senior Management",
+        "Ontology": "Finance and Insurance>Management Analysts>senior management",
+        "Alias": "top-management, front line mgmt, top level management, senior and executive level management, front line management, senior mgmt, senior it management, frontline-management, executive level management, executive management, senior management functions, senior management function, upper management, frontline mgmt, top management system, top mgmt, sr management, exec mgmt, it executive management, top management, senior-management, frontline management",
+        "FormattedName": "senior management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 210
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Planning",
+        "Ontology": "Management of Companies and Enterprises>Computer and Information Systems Managers>project planning",
+        "Alias": "planning a project, project plan documentation, project roadmapping, soft project plan, project plan, project-plan-template, planning projects, project road map, project road mapping, project-plan template, project plans development, software project plan, software project planning, project work plan, software-planning, project road-map, software-project-plan, software-project plan, project-planning, software planning process, software planning, project plan templates, project plan template, software development project plan, software development project plans, project management planning, project management plan, project description planning, project-execution-plan, planning of software, project execution plan, project planning operations, project planning and coordination, project planning and development, project planning management, project plans, project workplan, project roadmap, project strategy, project roadmaps, project plan execution, project plan-template, software strategy",
+        "FormattedName": "project planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2006",
+        "ExperienceInMonths": 43
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Manage Projects",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project management",
+        "Alias": "project managed development, managing multiple projects, project mgmt., project-management, manage complex projects, project mgmt, manage a project, project-coordination, manage multiple project tasks, manage multiple projects, managing large scale projects, project co - ordination, project co-ordination, managing complex projects, project manage, managed smaller projects, management of project, operations project management, projects coordination, proj management, managed special projects, overseeing projects, manage the incoming project, project-handling, project management and coordination, project management processes, project management process, managing of projects, projects managing, project handling, coordination of international projects, coordination of projects, project description management, managed projects, project processing, manage a multiphase project, project-manage, manage small projects, managed phases, managed project, managed project operations, proj mgmt, handling of project, new project management, manage projects, managed long term projects, organizational project management, projects management, manage the project, project methods, projects handled, project coordination, project coordination and implementation, project coordinating, managing projects, managing project, manage the complex projects, project work management, management projects, managing the project planning, multiple projects management, project creation, handle multiple projects, manage several projects, project managing, coordinating projects",
+        "FormattedName": "project management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 147
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Managed Project",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project management",
+        "Alias": "project managed development, managing multiple projects, project mgmt., project-management, manage complex projects, project mgmt, manage a project, project-coordination, manage multiple project tasks, manage multiple projects, managing large scale projects, project co - ordination, project co-ordination, managing complex projects, project manage, managed smaller projects, management of project, operations project management, projects coordination, proj management, managed special projects, overseeing projects, manage the incoming project, project-handling, project management and coordination, project management processes, project management process, managing of projects, projects managing, project handling, coordination of international projects, coordination of projects, project description management, managed projects, project processing, manage a multiphase project, project-manage, manage small projects, managed phases, managed project, managed project operations, proj mgmt, handling of project, new project management, manage projects, managed long term projects, organizational project management, projects management, manage the project, project methods, projects handled, project coordination, project coordination and implementation, project coordinating, managing projects, managing project, manage the complex projects, project work management, management projects, managing the project planning, multiple projects management, project creation, handle multiple projects, manage several projects, project managing, coordinating projects",
+        "FormattedName": "project management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/03/2012",
+        "ExperienceInMonths": 63
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "31/03/2012",
+        "ExperienceInMonths": 106
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Tableau",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>tableau software",
+        "Alias": "tableau 2019.4, tableau 8.2, tableau 2019.2, tableau 10.2, tableau 2018.2, tableau 2020.3, tableau 10.0, tableau api, tableau 2020.1, tableau server, tableau 8.0, tableau 7, tableau online soft, tableau online software, tableau 2018.3, tableau reader, tableau server soft, tableau server software, tableau version 10.4, tableau version 10.3, tableau version 10.2, tableau analytics, tableau reader 10.5., tableau reader 10.3, tableau reader 10.2, tableau 10.4, tableau 10.3, tableau 10.5, tableau online, tableau cloud, tableau bi tool, tableau business intelligence software, tableau 2020.2, tableau 8.1, tableau 9.3, tableau, tableau 2019.3, tableau 2018.1, server tableau, software tableau, tableau reporting dashboard, tableau reporting, tableau reporting server, tableau reporting tool, tableau reporting solutions, tableau reporting software, tableau 10.1, tableau 8.3, tableau dashboard, tableau-dashboard, tableau cloud software, tableau cloud soft, tableau infrastructure, tableau reader soft., tableau reader software",
+        "FormattedName": "tableau software",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 147
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Agile",
+        "Ontology": "Information>Software Developers and Programmers>agile software development",
+        "Alias": "agile app development, agile techniques, agile software application development, development agile software, agile team practices, agile team practice, agile-methodology, agile it systems, agile product engineering, agile system development, agile engineering, agile process improvement method, agile process improvement, agile-sdlc-methodology, agile implementation, agile implementation methodology, agile implementation of projects, agile test life cycle management, agile sdlc, agile methodology, agile methodological, agile methodologies, agile methodologies engineering, agile methodology sdlc, agile program management, agile software development life cycle, agile software design, agile software development lifecycle, agile model driven development, application development agile, feature driven, agile fdd, agile model development, agile process-improvement, agile application development, agile applications development, agile application software development, agile solution development, feature driven development methodology, feature driven development method, feature driven development, agile technical development, agile-soft development life-cycle, feature-driven development, development features, software development methodologies agile, software development agile process, agile lifecycle development, agile software engineering practices, agile software engineering, agile devops, agile web-development, implementation agile, agile method sdlc, agile processes, agile best practices, agile product creation, agile programming, agile-software-development, agile-product development life cycle, agile methods, agile process, agile sdlc methodology, agile sdlc methodologies, agile team development, agile project development, agile website development, agile processes development, agile web development, agile lean implementation, agile software implementation, agile software lifecycle, agile development project, agile development methodologies, agile development sdlc, agile development practice, agile development, agile development methodology, agile web technologies, agile product development lifecycle, agile product development, agile product development life cycle, agile software processes, agile it development, agile practice, agile project lifecycle management, agile project life cycle mythology, agile project life cycle, feature development, agile soft development life cycle, agile sw development, agile method, agile-process-improvement, lightweight methodology, lightweight-methodology, agile",
+        "FormattedName": "agile software development",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 147
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Excel",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Administrative Services>microsoft excel",
+        "Alias": "excel 4, windows excel, platform excel, excel 2000, advanced ms excel, microsoft technology ms excel, excel 2002, microsoft excel 2016, microsoft excel 2004 for mac, microsoft excel 2010, microsoft excel 2007, microsoft excel 2013, microsoft excel spreadsheet software, microsoft excel 2001 for mac, microsoft excel xp, microsoft excel 97 for windows, microsoft excel 2003, microsoft excel 2019, microsoft excel v2.0, microsoft excel 2000, microsoft excel soft., microsoft excel v5.0, microsoft excel software, microsoft excel 2002, ms excel 2004 for mac, ms excel 2003, microsoft software excel, pc software microsoft excel, ms excel 97 for windows, software excel, microsoft .excel, excel 95, excel 2004 for mac, advanced microsoft excel, advanced excel, ms excel 2000, microsoft products ms excel, excel platform, ms excel 2001 for mac, excel xp, ms-excel, excel 3, microsoft office excel, excel, excel 2010, ms excel 2010, ms excel, ms excel 2002, microsoft suite excel, excel skills, excel 2, excel 5, excel 2001 for mac, ms. excel, excel 97, excel software, excel 97 for windows, excel 2003, internet microsoft excel, excel 2016",
+        "FormattedName": "microsoft excel",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 147
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "PMI",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>parallel method invocation",
+        "Alias": "parallel invoke method, parallel invocation method, pmi",
+        "FormattedName": "parallel method invocation",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "SQL",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>sql",
+        "Alias": "sql 2008, structured query language, sql 2003, oracle sql2005, sql-2003, advanced sql, programming language sql, oracle sql programming, sql 2005, sql/400, sql programming, sql coding, database definition language, database sql, ibm sql/400, sql language, oracle sql, databases sql, sql development, sqldb, coding sql, sql databases, sql computer language, sql 2000, ibm sql400, sql database, data definition language, sql400, data dictionary language, programming sql, sql oracle, oql, sql database query language, advanced sql programming, sql programming language, ansi sql, sql queries, data description lang, data description language, object query language, sql2005, microsoft sql programming, structured-query-language",
+        "FormattedName": "sql",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 147
+      }
+    ],
+    "Experience": "HSBC UK \r Senior Business Analyst \r April 2012 - Present \r Manchester, UK \r At HSBC, I lead high-priority projects, conducting comprehensive requirements gathering sessions with stakeholders. I spearhead process improvement initiatives that have enhanced operational efficiency by 20%. Utilizing advanced data analysis tools like Excel, SQL, and Tableau, I provide actionable insights that guide strategic decisions. I manage projects using both Agile and Waterfall methodologies, ensuring timely and budget-compliant delivery. My role also involves maintaining clear communication with senior management and ensuring compliance with regulatory standards. \r Standard Chartered Bank \r Business Analyst \r January 2007 - March 2012 \r Manchester, UK \r I collaborated with stakeholders to define project scopes and business requirements, translating them into actionable plans. I played a key role in process improvement efforts, achieving a 15% reduction in operational costs. My responsibilities included detailed data analysis to support strategic planning and preparing comprehensive reports for senior management. I managed project timelines and facilitated effective communication between business and technical teams. \r Lloyds Banking Group \r Junior Business Analyst \r June 2003 - December 2006 \r  \r Manchester, UK \r In my early career at Lloyds, I assisted senior analysts in gathering and analyzing business requirements for various projects. I supported process optimization initiatives that improved overall efficiency. My role involved conducting data analysis and generating reports to support decision-making, and participating in project planning and execution.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "HSBC UK",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Senior Business Analyst",
+          "FormattedName": "senior business analyst",
+          "Alias": "sr. business analyst and programmer, sr. business analyst, senior technical business analyst, senior level business analyst, business senior analyst, sr. analyst - business development, sr. functional analyst, senior technology business analyst, it senior business analyst, analyst senior business, sr. it business analyst, senior analyst, senior - business analyst, professional senior business analyst, sr.business analyst, senior analyst business, sr. business reporting mgr, analyst senior functional, senior analyst of business, senior analyst of functional, senior analyst functional, sr. requirements analyst, senior level functional analyst, snr functional analyst, sr. lead analyst, sr. business-analyst, sr analyst functional, senior business analyst - it, senior business analyst it, sr. business solutions analyst, snr business analyst, sr. systems business analyst, sr. business process analyst, business process senior specialist, sr business analyst, sr business analysis professional, senior functional analyst, senior functional business analyst, sr analyst, sr functional analyst",
+          "RelatedSkills": [
+            {
+              "Skill": "team assessment",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "task analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "team coordination",
+              "ProficiencyLevel": "Moderate"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "April 2012 - till",
+        "FormattedJobPeriod": "04/2012 to till",
+        "StartDate": "01/04/2012",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At HSBC, I lead high-priority projects, conducting comprehensive requirements gathering sessions with stakeholders. I spearhead process improvement initiatives that have enhanced operational efficiency by 20%. Utilizing advanced data analysis tools like Excel, SQL, and Tableau, I provide actionable insights that guide strategic decisions. I manage projects using both Agile and Waterfall methodologies, ensuring timely and budget-compliant delivery. My role also involves maintaining clear communication with senior management and ensuring compliance with regulatory standards.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Standard Chartered Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Business Analyst",
+          "FormattedName": "business analyst",
+          "Alias": "business  -analyst, business connectivity analyst, analyst of business, business -analyst, industrial business analyst, analyst - business, analyst - business analytics, analyst, business analysis, business services analyst, analyst  business analytics , business analyst - services, business analyst ba, business analysts, business analyst - ba, business analyst ba , analyst business, analyst business analysis, business efficiency analyst, business analytics analyst, business analytics-analyst, business-analyst",
+          "RelatedSkills": [
+            {
+              "Skill": "business analysis communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis reporting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "presentation skills coaching",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "verbal communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "function point analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis framework",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "objectstudio",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "active listening",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "advise on communication strategies",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "advise on personnel management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "commercial awareness",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "pv wave",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "quality customer service",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "use case diagram",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "use case",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "decision making",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business ecosystem",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "integration definition for information modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "recursive partitioning",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "ansoff matrix",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "subscription business model",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "strategy dynamics",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "phase implementation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "predictive modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "business analytics",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "January 2007 - March 2012",
+        "FormattedJobPeriod": "01/2007 to 03/2012",
+        "StartDate": "01/01/2007",
+        "EndDate": "31/03/2012",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "I collaborated with stakeholders to define project scopes and business requirements, translating them into actionable plans. I played a key role in process improvement efforts, achieving a 15% reduction in operational costs. My responsibilities included detailed data analysis to support strategic planning and preparing comprehensive reports for senior management. I managed project timelines and facilitated effective communication between business and technical teams.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Lloyds Banking Group",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Junior Business Analyst",
+          "FormattedName": "junior business analyst",
+          "Alias": "jr functional analyst, jnr business analyst, junior business support analyst, junior business agent, junior business consultant, jr. functional analyst, new business analyst jr, jr. business analyst, business jr. analyst, jnr functional analyst, jr business agent, junior analyst of business, junior functional analyst, jr business analysis, junior level business analyst, business junior analyst, junior analyst business",
+          "RelatedSkills": [
+            {
+              "Skill": "analyse business objectives",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "development management",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "business plan analysis",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "June 2003 - December 2006",
+        "FormattedJobPeriod": "06/2003 to 12/2006",
+        "StartDate": "01/06/2003",
+        "EndDate": "31/12/2006",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "In my early career at Lloyds, I assisted senior analysts in gathering and analyzing business requirements for various projects. I supported process optimization initiatives that improved overall efficiency. My role involved conducting data analysis and generating reports to support decision-making, and participating in project planning and execution.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "HSBC UK",
+    "JobProfile": "Senior Business Analyst",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "254",
+      "TotalExperienceInYear": "21.2",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "84",
+    "LongestStay": "148",
+    "Summary": "Experienced Business Analyst with over 15 years in the financial services industry, specializing in data analysis, process improvement, and strategic project management. Known for delivering high-impact solutions that drive business efficiency and growth.",
+    "ExecutiveSummary": "Fatima has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Business Operations Specialists. The candidate has been working as a Senior Business Analyst at HSBC UK for the last 12.4 years. ",
+    "ManagementSummary": "Fatima doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "References available upon request",
+    "CustomFields": "Parsing Time : 620ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Fatima Khalid\nManchester, UK\nfatima.khalid@email.com\n+44 1234 567890\nLinkedIn : linkedin.com/in/fatimakhalid\n\nProfile : \nExperienced Business Analyst with over 15 years in the financial services industry, specializing in data analysis, process improvement, and strategic project management. Known for delivering high-impact solutions that drive business efficiency and growth.\n\nProfessional Experience : \nHSBC UK\nSenior Business Analyst\nApril 2012 - Present\nManchester, UK\nAt HSBC, I lead high-priority projects, conducting comprehensive requirements gathering sessions with stakeholders. I spearhead process improvement initiatives that have enhanced operational efficiency by 20%. Utilizing advanced data analysis tools like Excel, SQL, and Tableau, I provide actionable insights that guide strategic decisions. I manage projects using both Agile and Waterfall methodologies, ensuring timely and budget-compliant delivery. My role also involves maintaining clear communication with senior management and ensuring compliance with regulatory standards.\nStandard Chartered Bank\nBusiness Analyst\nJanuary 2007 - March 2012\nManchester, UK\nI collaborated with stakeholders to define project scopes and business requirements, translating them into actionable plans. I played a key role in process improvement efforts, achieving a 15% reduction in operational costs. My responsibilities included detailed data analysis to support strategic planning and preparing comprehensive reports for senior management. I managed project timelines and facilitated effective communication between business and technical teams.\nLloyds Banking Group\nJunior Business Analyst\nJune 2003 - December 2006\n\nManchester, UK\nIn my early career at Lloyds, I assisted senior analysts in gathering and analyzing business requirements for various projects. I supported process optimization initiatives that improved overall efficiency. My role involved conducting data analysis and generating reports to support decision-making, and participating in project planning and execution.\n\nEducation : \nMBA in Business Administration\nUniversity of Manchester\nGraduated : 2003\nBSc in Economics\nUniversity of Manchester\nGraduated : 2001\n\nSkills : \nAdvanced data analysis (Excel, SQL, Tableau) \nProject management (Agile, Waterfall) \nStrong analytical and problem-solving skills\nExcellent communication and interpersonal skills\nDetail-oriented and organized\n\nCertifications : \nCertified Business Analysis Professional (CBAP) \nPMI Professional in Business Analysis (PMI-PBA) \n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Fatima Khalid</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">fatima.khalid@email.com</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">+44 1234 567890</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">LinkedIn: linkedin.com/in/fatimakhalid</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Profile:</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Experienced Business Analyst with over 15 years in the financial services industry, specializing in data analysis, process improvement, and strategic project management. Known for delivering high-impact solutions that drive business efficiency and growth.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Senior Business Analyst</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">April 2012 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At HSBC, I lead high-priority projects, conducting comprehensive requirements gathering sessions with stakeholders. I spearhead process improvement initiatives that have enhanced operational efficiency by 20%. Utilizing advanced data analysis tools like Excel, SQL, and Tableau, I provide actionable insights that guide strategic decisions. I manage projects using both Agile and Waterfall methodologies, ensuring timely and budget-compliant delivery. My role also involves maintaining clear communication with senior management and ensuring compliance with regulatory standards.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Standard Chartered Bank</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Business Analyst</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">January 2007 - March 2012</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">I collaborated with stakeholders to define project scopes and business requirements, translating them into actionable plans. I played a key role in process improvement efforts, achieving a 15% reduction in operational costs. My responsibilities included detailed data analysis to support strategic planning and preparing comprehensive reports for senior management. I managed project timelines and facilitated effective communication between business and technical teams.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lloyds Banking Group</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Junior Business Analyst</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">June 2003 - December 2006</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">In my early career at Lloyds, I assisted senior analysts in gathering and analyzing business requirements for various projects. I supported process optimization initiatives that improved overall efficiency. My role involved conducting data analysis and generating reports to support decision-making, and participating in project planning and execution.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">MBA in Business Administration</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">University of Manchester</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2003</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">BSc in Economics</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">University of Manchester</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2001</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Advanced data analysis (Excel, SQL, Tableau) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Project management (Agile, Waterfall) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strong analytical and problem-solving skills</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Excellent communication and interpersonal skills</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Detail-oriented and organized</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Business Analysis Professional (CBAP) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">PMI Professional in Business Analysis (PMI-PBA) </span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">References available upon request</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}
