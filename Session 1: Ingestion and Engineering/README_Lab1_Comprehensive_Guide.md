@@ -1,17 +1,17 @@
-# 🎯 AMS Labs - Lab1 Snowflake Evaluation Guide
-## **Talent Acquisition Analytics: Snowflake vs Databricks Decision Framework**
+# 🎯 AMS Labs - Lab1 Snowflake Demo Guide
+## **Talent Acquisition Analytics with Snowflake**
 
 ---
 
 ## 📋 **Project Overview**
 
 ### **Mission Statement**
-This Lab1 demonstration showcases Snowflake's comprehensive capabilities for organizations evaluating Snowflake against Databricks for their data platform purchase decision. The project uses real-world Talent Acquisition (TA) data to demonstrate enterprise-grade features through hands-on experience.
+This Lab1 demonstration showcases Snowflake's comprehensive data platform capabilities using real-world Talent Acquisition (TA) data to demonstrate enterprise-grade features through hands-on experience.
 
 ### **Target Audience**
-- **Decision Makers** who have never used Snowflake before
-- **Technical Evaluators** comparing Snowflake vs Databricks capabilities  
-- **Business Stakeholders** needing to see practical ROI and business value
+- **Decision Makers** evaluating modern data platforms
+- **Technical Teams** exploring Snowflake capabilities  
+- **Business Stakeholders** seeking practical ROI and business value
 
 ### **Dataset Context**
 - **Domain**: Talent Acquisition and Recruitment Analytics
@@ -64,10 +64,10 @@ This Lab1 demonstration showcases Snowflake's comprehensive capabilities for org
 6. **📈 Streamlit Integration** - Native app development and dashboards
 7. **🔄 Tasks & Stored Procedures** - Workflow automation and orchestration
 
-### **Differentiators vs Databricks**
+### **Key Snowflake Advantages**
 - **Zero-Copy Cloning** - Instant data duplication without storage costs
 - **Automatic Scaling** - Compute scales up/down automatically without management
-- **SQL-First Approach** - Familiar SQL interface vs Spark complexity  
+- **SQL-First Approach** - Familiar SQL interface for all users
 - **Built-in Governance** - Native RBAC and data quality monitoring
 - **Integrated Analytics** - Streamlit apps run natively in Snowflake
 
@@ -87,21 +87,18 @@ This Lab1 demonstration showcases Snowflake's comprehensive capabilities for org
 **File:** `Lab1 - 00_data_ingestion.sql`
 
 ### **What This Step Does:**
-- Creates robust CSV file format handling semicolon delimiters
-- Sets up automated data pipeline with deduplication
-- Implements real-time data ingestion using Snowpipes
-- Creates deduplicated dynamic table that refreshes every minute
+- Creates robust CSV file format handling with custom delimiters
+- Sets up automated data pipeline with real-time ingestion
+- Implements dynamic table with automatic deduplication
 
-### **Key Features Demonstrated:**
+### **Key Features:**
 - **File Format Handling** - Custom CSV parsing with error handling
-- **Data Pipelines** - Automated ingestion with pattern matching
-- **Dynamic Tables** - Real-time deduplication using ROW_NUMBER() window functions
-- **Data Profiling** - Row counts, status distributions, and data quality checks
+- **Data Pipelines** - Automated ingestion using Snowpipes
+- **Dynamic Tables** - Real-time deduplication (1-minute refresh)
 
 ### **Expected Outcome:**
 - `TA_APPLICATION_DATA_BRONZE` - Raw talent acquisition data
-- `TA_APPLICATION_DATA_BRONZE_DEDUP` - Automatically deduplicated data
-- ~500+ application records ready for transformation
+- `TA_APPLICATION_DATA_BRONZE_DEDUP` - Deduplicated data ready for transformation
 
 ---
 
@@ -109,33 +106,22 @@ This Lab1 demonstration showcases Snowflake's comprehensive capabilities for org
 **File:** `Lab1 - 01_data_quality.sql`
 
 ### **What This Step Does:**
-- Establishes enterprise-grade Role-Based Access Control
+- Establishes Role-Based Access Control (RBAC)
 - Implements comprehensive data quality monitoring
-- Creates customer-specific business rule validations
-- Sets up automated monitoring with 5-minute refresh cycles
+- Creates custom business rule validations
 
-### **Data Metric Functions (DMFs) Implemented:**
-1. **System DMFs:**
-   - `ROW_COUNT` - Volume monitoring baseline
-   - `NULL_COUNT` - Critical field completeness
-   - `UNIQUE_COUNT` / `DUPLICATE_COUNT` - Data integrity checks
+### **Data Metric Functions (DMFs):**
+- **System DMFs:** ROW_COUNT, NULL_COUNT, UNIQUE_COUNT, DUPLICATE_COUNT
+- **Custom Business Rules:** JobNumber format (AMS prefix), WorkdayID format (JR prefix), status validations
 
-2. **Custom Business Rule DMFs:**
-   - `INVALID_JOBNUMBER_FORMAT_COUNT` - JobNumber must start with "AMS"
-   - `INVALID_WORKDAYID_FORMAT_COUNT` - WorkdayID must match "JR-#####" pattern
-   - `INVALID_JOBSTATUS_COUNT` - Enum validation for job statuses
-   - `INVALID_CANDIDATESTATUS_COUNT` - Enum validation for candidate statuses
-
-### **Key Features Demonstrated:**
-- **Enterprise Security** - RBAC with custom roles and access patterns
-- **Data Governance** - Automated quality monitoring and alerting
-- **Custom Business Logic** - DMFs tailored to customer requirements
-- **Real-time Monitoring** - Scheduled quality checks with result tracking
+### **Key Features:**
+- **Enterprise Security** - RBAC with custom roles
+- **Data Governance** - Automated quality monitoring (5-minute refresh)
+- **Custom Validation** - Business-specific data quality rules
 
 ### **Expected Outcome:**
-- Comprehensive data quality dashboard
-- Real-time monitoring of business rule violations
-- Enterprise-ready security framework
+- Real-time data quality monitoring
+- Automated business rule validation
 
 ---
 
@@ -163,44 +149,28 @@ This Lab1 demonstration showcases Snowflake's comprehensive capabilities for org
 ### **What This Step Does:**
 - Implements advanced data transformations using UDFs and AI
 - Creates enriched, business-ready datasets
-- Establishes customer-specific analytics foundations
-- Builds scalable, reusable data architecture patterns
+- Establishes analytics foundations with real-time processing
 
-### **Customer-Specific UDFs Implemented:**
+### **User-Defined Functions (UDFs):**
+- **Python UDF:** `CALCULATE_WORKING_DAYS` - Business day calculations for hiring metrics
+- **SQL UDFs:** 
+  - `GENERATE_UNIQUE_APPLICATION_ID` - Composite key generation
+  - `CATEGORIZE_JOB_FUNCTION` - Job title classification
+  - `CATEGORIZE_WORKING_DAYS_BUCKET` - Time bucket standardization
 
-#### **Python UDFs (Business Logic):**
-1. **`CALCULATE_WORKING_DAYS`** - Accurate business day calculations excluding weekends
-   - Powers time-to-hire and time-to-rejection analytics
-   - Handles null values and date edge cases
-
-#### **SQL UDFs (Data Processing):**
-2. **`GENERATE_UNIQUE_APPLICATION_ID`** - Composite unique key generation
-   - Format: JobNumber-WorkdayID-CandidateID
-   - Enables reliable data integration and deduplication
-
-3. **`CATEGORIZE_JOB_FUNCTION`** - Advanced job title classification
-   - Maps complex job titles to 5 business function categories
-   - Supports regional hiring analysis and reporting
-
-4. **`CATEGORIZE_WORKING_DAYS_BUCKET`** - Time bucket standardization
-   - Creates consistent time-to-hire benchmark categories
-   - Enables comparative analysis and trend reporting
-
-### **AI-Powered Geographic Mapping:**
-- **`AI_CLASSIFY` Function** - Snowflake's cutting-edge AI capabilities
-- **Purpose**: Intelligent country-to-region classification (APAC/EMEA/Americas)
-- **Benefits**: Self-updating classifications, transparent AI reasoning, scalable to new countries
+### **AI-Powered Features:**
+- **`AI_CLASSIFY` Function** - Intelligent country-to-region classification (APAC/EMEA/Americas)
+- **Benefits**: Self-updating classifications, scalable to new countries
 
 ### **Dynamic Tables Created:**
-1. **`SILVER_APPLICATIONS_CLEANED`** - Standardized and cleaned data
-2. **`SILVER_APPLICATIONS_ENRICHED`** - UDF-enhanced with calculated fields
-3. **`COUNTRY_REGION_MAPPING`** - AI-powered geographic classifications
+- `SILVER_APPLICATIONS_CLEANED` - Standardized data
+- `SILVER_APPLICATIONS_ENRICHED` - UDF-enhanced with calculated fields
+- `COUNTRY_REGION_MAPPING` - AI-powered geographic classifications
 
-### **Key Features Demonstrated:**
-- **Advanced UDFs** - Python and SQL functions for complex business logic
-- **AI Integration** - Snowflake's AI_CLASSIFY for intelligent data processing
-- **Real-time Processing** - Dynamic tables with 1-minute refresh cycles
-- **Performance Optimization** - JOIN-based architecture vs UDF calls
+### **Key Features:**
+- **Advanced UDFs** - Python and SQL functions for business logic
+- **AI Integration** - Snowflake's AI_CLASSIFY for data processing
+- **Real-time Processing** - Dynamic tables with 1-minute refresh
 
 ---
 
@@ -208,38 +178,19 @@ This Lab1 demonstration showcases Snowflake's comprehensive capabilities for org
 **File:** `Lab1 - 02_data_transformation.sql` (continued)
 
 ### **What This Step Does:**
-- Creates customer-specific analytics tables for business insights
-- Implements comprehensive hiring funnel analysis
+- Creates analytics tables for business insights
+- Implements hiring funnel analysis and KPI calculations
 - Builds time-series trend analysis capabilities
-- Establishes executive-ready KPI calculations
 
 ### **Gold Tables Created:**
+- **`GOLD_CUSTOMER_HIRING_METRICS`** - Hiring performance KPIs, funnel analysis, geographic performance
+- **`GOLD_APPLICATION_TRENDS`** - Time-series analysis, daily volumes, rolling averages
 
-#### **1. `GOLD_CUSTOMER_HIRING_METRICS`**
-**Purpose:** Customer-specific KPIs and hiring performance analytics
-
-**Key Metrics Included:**
-- **Working Days Analysis:** Average, median, min, max time-to-hire/rejection
-- **Funnel Progression:** Applied → In Process → Offered → Hired conversion rates
-- **Geographic Performance:** Success rates by region and country
-- **Sourcing Effectiveness:** Channel performance and ROI analysis
-- **Success Rates:** Overall conversion percentages and benchmarking
-
-#### **2. `GOLD_APPLICATION_TRENDS`**
-**Purpose:** Time-series analysis and trend identification
-
-**Analytics Provided:**
-- Daily application volumes and success rates
-- 30-day rolling averages for trend smoothing
-- Regional performance comparisons over time
-- Application aging analysis (fresh vs aged applications)
-- Top sourcing channels by day/region
-
-### **Advanced Analytics Features:**
-- **Complex CTEs** - Multi-stage analytical processing
-- **Window Functions** - Rolling calculations and rankings
-- **Statistical Functions** - Median, percentiles, and distributions
-- **Business Logic** - Funnel conversion and drop-off analysis
+### **Key Analytics Features:**
+- Working days analysis (average, median, min, max time-to-hire/rejection)
+- Funnel progression rates (Applied → In Process → Offered → Hired)
+- Geographic and sourcing channel performance
+- 30-day rolling averages and trend identification
 
 ---
 
@@ -247,21 +198,17 @@ This Lab1 demonstration showcases Snowflake's comprehensive capabilities for org
 **File:** `Lab1 - 02_data_transformation.sql` (continued)
 
 ### **What This Step Does:**
-- Implements automated executive reporting
-- Creates C-level dashboard data feeds
-- Establishes workflow automation with Tasks
-- Provides production-ready stored procedures
+- Implements automated executive reporting and workflow automation
+- Creates executive dashboard data feeds and operational monitoring
 
-### **Stored Procedures & Automation:**
-1. **`GENERATE_EXECUTIVE_DASHBOARD()`** - Automated executive summary generation
-2. **`DAILY_PIPELINE_SUMMARY_TASK`** - Scheduled daily reporting
-3. **`WEEKLY_EXECUTIVE_REPORT_TASK`** - Weekly executive dashboard updates
+### **Automation Features:**
+- **Stored Procedures:** `GENERATE_EXECUTIVE_DASHBOARD()` - Automated reporting
+- **Tasks:** Daily and weekly scheduled reporting tasks
 
-### **Executive Views Created:**
-- **`PLATINUM_EXECUTIVE_DASHBOARD`** - C-level KPI summary
-- **`ANALYST_APPLICATION_SUMMARY`** - Detailed analytical views
-- **`REALTIME_PIPELINE_STATUS`** - Operational health monitoring
-- **`FUNNEL_METRICS_SUMMARY`** - Recruitment funnel performance
+### **Executive Views:**
+- `PLATINUM_EXECUTIVE_DASHBOARD` - C-level KPI summary
+- `ANALYST_APPLICATION_SUMMARY` - Detailed analytics
+- `REALTIME_PIPELINE_STATUS` - Operational health monitoring
 
 ---
 
@@ -269,48 +216,21 @@ This Lab1 demonstration showcases Snowflake's comprehensive capabilities for org
 **File:** `Lab1 - 03_analytics_dashboard.py`
 
 ### **What This Step Does:**
-- Delivers comprehensive interactive analytics experience
-- Provides customer-specific visualizations and insights
-- Enables self-service analytics for business users
-- Demonstrates Snowflake's native Streamlit integration
+- Delivers interactive analytics experience using Snowflake's native Streamlit integration
+- Provides comprehensive visualizations and self-service analytics
 
-### **Dashboard Tabs & Features:**
-
-#### **📊 Executive Overview**
-- **Key Metrics Cards:** Total applications, success rates, time-to-hire, unique candidates
-- **Performance Insights:** Top performing regions, hiring efficiency analysis
-- **Trend Visualization:** Application volume trends with 30-day rolling averages
-
-#### **🔄 Application Funnel Flow**
-- **Interactive Sankey Diagram:** Visual application journey through recruitment stages
-- **Conversion Analysis:** Stage-by-stage progression rates and drop-off points
-- **Process Insights:** Screening success, interview conversion, offer acceptance rates
-
-#### **⏱️ Time-to-Hire Analysis** 
-- **Working Days Trends:** 13-month trend analysis as requested by customer
-- **Regional Comparisons:** Time-to-hire performance by geographic region
-- **Bucket Analysis:** Distribution across time categories (1-5 days, 6-30 days, etc.)
-
-#### **❌ Rejection Analysis**
-- **Stage Analysis:** Where candidates are rejected in the process
-- **Time-to-Rejection:** How quickly rejection decisions are made
-- **Improvement Opportunities:** Identifies bottlenecks and optimization areas
-
-#### **📢 Sourcing Performance**
-- **Channel Effectiveness:** Performance analysis by sourcing channel type
-- **Drill-through Capability:** Interactive exploration of channel performance
-- **ROI Analysis:** Cost-effectiveness and volume analysis by source
-
-#### **🗺️ Geographic Distribution**
-- **Map Visualization:** Global candidate distribution by country
-- **Regional Performance:** Success rates and volume by APAC/EMEA/Americas
-- **Market Insights:** Talent acquisition performance by geographic market
+### **Dashboard Features:**
+- **📊 Executive Overview** - Key metrics, performance insights, trend visualization
+- **🔄 Application Funnel Flow** - Interactive Sankey diagram showing recruitment journey
+- **⏱️ Time-to-Hire Analysis** - Working days trends and regional comparisons
+- **❌ Rejection Analysis** - Stage analysis and improvement opportunities
+- **📢 Sourcing Performance** - Channel effectiveness with drill-through capability
+- **🗺️ Geographic Distribution** - Global candidate distribution and regional performance
 
 ### **Interactive Features:**
-- **Dynamic Filtering:** Real-time filters by region, job function, sourcing channel
-- **Drill-down Analysis:** Click-through capability for detailed investigation
-- **Export Functionality:** Download data and insights for further analysis
-- **Refresh Controls:** Real-time data updates and cache management
+- Dynamic filtering by region, job function, sourcing channel
+- Drill-down analysis and export functionality
+- Real-time data updates and refresh controls
 
 ---
 
@@ -325,31 +245,23 @@ This Lab1 demonstration showcases Snowflake's comprehensive capabilities for org
 
 ---
 
-## 🎯 **Customer Requirements Fulfillment**
+## 🎯 **Key Features Delivered**
 
-### **✅ Data Integrity Requirements Met:**
-- JobNumber PREFIX validation ("AMS" mandatory)
-- WorkdayID PREFIX validation ("JR" mandatory)  
-- JobStatus enum validation
-- CandidateStatus enum validation
-- All implemented via custom DMFs with real-time monitoring
+### **✅ Data Quality & Integrity:**
+- Custom business rule validation (JobNumber, WorkdayID, status fields)
+- Real-time monitoring with automated alerts
+- Interactive quality dashboard with drill-down capabilities
 
-### **✅ Data Enhancement Requirements Met:**
-- Regional mapping (APAC/EMEA/Americas) via AI_CLASSIFY
-- Unique application ID generation via UDF
-- Working days calculations for accurate business metrics
+### **✅ Advanced Analytics:**
+- AI-powered geographic region classification
+- Working days calculations for hiring metrics
+- Comprehensive funnel analysis and KPI tracking
 
-### **✅ Visual Requirements Met:**
-- Time-to-hire trend analysis (13-month line charts)
-- Time-to-rejection trend analysis (13-month line charts)
-- Rejection by stage analysis (pie charts with LastCompletedStep)
-- Sourcing channel performance (pie charts with drill-through)
-- Geographic distribution (map visualization by country)
-
-### **✅ Interactive Filtering Met:**
-- All customer-requested filter fields implemented
-- Real-time filtering across all visualizations
-- Cross-dashboard filter consistency
+### **✅ Interactive Visualization:**
+- Time-to-hire and rejection trend analysis
+- Interactive Sankey diagrams for recruitment flow
+- Geographic distribution with regional performance
+- Real-time filtering and drill-down capabilities
 
 ---
 
@@ -395,25 +307,22 @@ numpy>=1.24.0
 
 ---
 
-## 🏆 **Expected Business Outcomes**
+## 🏆 **Expected Outcomes**
 
 ### **For Decision Makers:**
-- **Hands-on Experience:** Direct interaction with Snowflake's capabilities
-- **Real-world Context:** Practical talent acquisition analytics use case
-- **ROI Demonstration:** Clear business value and immediate applicability
-- **Comparison Framework:** Direct feature comparison with Databricks
+- Hands-on experience with Snowflake's enterprise capabilities
+- Real-world business context with practical talent acquisition use case
+- Clear ROI demonstration and immediate applicability
 
-### **For Technical Evaluators:**
-- **Architecture Patterns:** Modern data lakehouse implementation
-- **Performance Insights:** Real-time processing and auto-scaling capabilities  
-- **Governance Demonstration:** Enterprise-grade security and data quality
-- **Integration Capabilities:** Native AI, visualization, and workflow automation
+### **For Technical Teams:**
+- Modern data lakehouse architecture patterns
+- Real-time processing and auto-scaling insights
+- Enterprise security, data quality, and AI integration examples
 
 ### **For Business Users:**
-- **Self-Service Analytics:** Interactive dashboards and drill-down capabilities
-- **Real-time Insights:** Live data processing and automated refresh
-- **Actionable Intelligence:** Data-driven recruitment optimization opportunities
-- **Executive Reporting:** C-level dashboard and automated insights
+- Self-service interactive analytics and dashboards
+- Real-time insights and automated reporting
+- Data-driven recruitment optimization opportunities
 
 ---
 
@@ -432,20 +341,18 @@ numpy>=1.24.0
 
 ---
 
-## 📞 **Support & Next Steps**
+## 📞 **Next Steps**
 
-### **Immediate Actions:**
+### **Get Started:**
 1. Execute the step-by-step guide
-2. Explore interactive dashboards  
-3. Compare capabilities with current data platform
-4. Identify specific use cases for your organization
+2. Explore the interactive dashboards
+3. Identify specific use cases for your organization
 
 ### **Advanced Exploration:**
-- Customize UDFs for your business logic
-- Extend DMFs for your data quality requirements
-- Build additional dashboards for your specific needs
+- Customize UDFs and DMFs for your business needs
+- Build additional dashboards for specific requirements
 - Explore Snowflake's advanced features (data sharing, marketplace, etc.)
 
 ---
 
-**🎯 Ready to transform your data platform decision-making process with hands-on Snowflake experience!** 
+**🎯 Ready to experience Snowflake's modern data platform capabilities!** 
