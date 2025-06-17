@@ -1,0 +1,617 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Jack Taylor.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 1:09:11",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Jack Taylor",
+      "TitleName": "",
+      "FirstName": "Jack",
+      "MiddleName": "",
+      "LastName": "Taylor",
+      "FormattedName": "Jack Taylor",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "jack.taylor@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123567890",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 567890",
+        "FormattedNumber": "+44 7123 567890",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/jacktaylor"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "45 Maple Road",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M36JD",
+        "FormattedAddress": "45 Maple Road, Manchester, England, M36JD, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Installation, Maintenance, and Repair Occupations",
+    "SubCategory": "Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Manchester College of Technology \r Diploma in Automotive Technology \r Graduated : 2018 \r Manchester High School \r GCSEs : Mathematics (C) , English (C) , Science (C) \r Completed : 2014",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "Manchester College of Technology",
+          "Type": "College",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 10
+        },
+        "Degree": {
+          "DegreeName": "Diploma in Automotive Technology",
+          "NormalizeDegree": "Diploma",
+          "Specialization": [
+            "Automotive Technology"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2018",
+        "StartDate": "",
+        "EndDate": "31/12/2018",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "Manchester High School",
+          "Type": "School",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 10
+        },
+        "Degree": {
+          "DegreeName": "GCSEs : Mathematics C English C Science",
+          "NormalizeDegree": "",
+          "Specialization": [
+            "Mathematics",
+            "English",
+            "Science"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2014",
+        "StartDate": "",
+        "EndDate": "31/12/2014",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "NVQ Level 3 in Vehicle Maintenance and Repair \r Automotive Service Excellence (ASE) Certified Mechanic \r Certified Diagnostic Technician \r  \r  \r  \r Restoration Projects : Enjoy working on car restoration projects in my free time. \r Technology : Keen interest in automotive technology and staying updated with industry advancements.",
+    "SegregatedCertification": [],
+    "SkillBlock": "Vehicle Diagnostics : Proficient in using diagnostic tools and equipment to identify mechanical issues. \r Mechanical Repairs : Skilled in repairing engines, transmissions, brakes, and other vehicle systems. \r Routine Maintenance : Experienced in performing oil changes, tire rotations, brake inspections, and other maintenance tasks. \r Customer Service : Excellent communication skills with the ability to explain repair needs and options to customers. \r Problem Solving : Strong problem-solving skills with the ability to troubleshoot complex mechanical issues. \r Teamwork : Ability to work collaboratively with other mechanics and support staff. \r Attention to Detail : Meticulous in ensuring all repairs meet industry standards and safety regulations.",
+    "SkillKeywords": "High Standards,Potential,Assisted,Excellent Communication Skills,Ability To Troubleshoot,Willingness To Learn,Attention To Detail,Strong Work Ethic,Problem Solving,Commitment,Meticulous,Teamwork,Inventory Management System,Automotive Technology,Customer Satisfaction,Vehicle Maintenance,Industry Standards,Safety Regulations,Workflow Processes,Car Restoration,Vehicle Systems,Reduced Costs,Maple",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "High Standards",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Potential",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Excellent Communication Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Ability To Troubleshoot",
+        "Ontology": "Information>Computer User Support Specialists>troubleshooting",
+        "Alias": "problem troubleshooting, trouble shooting, trouble-shoot, repair basic issues, ability to troubleshoot, trouble-shooting, troubleshoot, troubleshooting process, troubleshooting abilities, troubleshooting analysis, troubleshooter, repairing basic issues, trouble shooter, troubleshoot issues",
+        "FormattedName": "troubleshooting",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Willingness To Learn",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>willing to learn",
+        "Alias": "eagerness, ready to learn, always ready to learn, eager to learn, willingness to learn, willingness to learn new things, inquisitive, readiness to learn, inquisitive skill, eager learner, eagerness to learn, desire-to learn, ready to-learn, eager to learn new things, desire to learn, desire-to-learn, eager learning, having a desire to learn, desire to-learn, keen to learn, willing to learn new, willing to learn new things",
+        "FormattedName": "willing to learn",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Attention To Detail",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>attention to detail",
+        "Alias": "detail-oriented tasks, attention to details, attention for details, detail-minded, attention to-detail, detail oriented, meticulous, attending to details, detail-orientated, highly detail oriented, eye for details, pay attention to detail, highly detail-oriented, detail focused, paying close attention to detail, detailed-oriented, attention-to-detail, pays attention to detail, pays attention to details, detail minded, acute attention to detail, detail orientated, attention to the details, detail-orientation, detail driven, attentive to details, attentive to detail, a good eye for detail and high level of accuracy, detailed oriented, attend to detail, attend to details, detail orientation, detail-oriented, high attention to detail, attentiveness to details, attentiveness to detail, organized and detail oriented, eye for detail",
+        "FormattedName": "attention to detail",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strong Work Ethic",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>work ethic",
+        "Alias": "work ethics, positive work ethic, job ethic, strong work ethic",
+        "FormattedName": "work ethic",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Problem Solving",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>problem solving",
+        "Alias": "solve problems creatively, resolution of problems, find appropriate solutions, resolve issues, collaborative problem solving, resolve problems, solving issues, ability to solve problems, ability to analyze and solve problems, theoretical problem solving, solving problem, problems resolve, solving problems, problem handling, solving complex problems, problem-solving skills, able to resolve issues, able-to-resolve issues, complex problem-solving, complex problem-solving abilities, analytic problem solving, solve highly analytical problems, problem-solving, solves problems, quickly identifying problems, problem resolution, addressing concerns, analytical problem solving, resolving concerns, addressing the issues, problem solving ability, problem solving skills, problem solving abilities, problem solving leadership, general problem solving, team problem solving, problem solver, solve complex problems, problem-solver, solutions to problems, complex problem solving, strategic problem solving, problem solution skills, problem solution, recognizing problems, solve problems, resourceful problem solving, solving skills, investigating problems, solving engineering problems, resolves problems, resolving issues, solve any problem, resolving technical problems, efficient problem solving, resolve a problem",
+        "FormattedName": "problem solving",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Commitment",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>commitment",
+        "Alias": "committed team, commitments, team commitment, commitment to achieving result",
+        "FormattedName": "commitment",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Meticulous",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>attention to detail",
+        "Alias": "detail-oriented tasks, attention to details, attention for details, detail-minded, attention to-detail, detail oriented, meticulous, attending to details, detail-orientated, highly detail oriented, eye for details, pay attention to detail, highly detail-oriented, detail focused, paying close attention to detail, detailed-oriented, attention-to-detail, pays attention to detail, pays attention to details, detail minded, acute attention to detail, detail orientated, attention to the details, detail-orientation, detail driven, attentive to details, attentive to detail, a good eye for detail and high level of accuracy, detailed oriented, attend to detail, attend to details, detail orientation, detail-oriented, high attention to detail, attentiveness to details, attentiveness to detail, organized and detail oriented, eye for detail",
+        "FormattedName": "attention to detail",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Teamwork",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>teamwork",
+        "Alias": "able to work in teams, works well in a team, cross-team collaboration, team work, cross team collaboration, work with the client, fostering a collaborative environment, working well with others, crossteam collaboration, able to work well in a team, team-oriented, collaboratively with the members of the team, ability to work with all levels of staff, ability to work effectively in team environment, ability to work with a team, ability to work as a team, ability to work in a team, ability to work in teams, ability to work as part of a team, ability to work well with others, ability to work with teams, team-collaboration, team work oriented, work with the operations teams, team collaboration, work in teams, team-orientation, works well with others, works well with a team, works well with people, team orientation, working with clients, works well in groups, collaborated with other staff members, working with people, team-focused, collaborating with teams, foster collaboration, work with others, working in teams, team work skills, work as a team, cross-team communication, group collaboration, working with others, team working, works effectively with a team, teamworking, teamwork skills, work with people, team spirit, cross - team communication, enjoy working with people, ability of working in team, effective teamwork, cross - team collaboration, collaborate with team members, team oriented, assist other team members, committed to work as a collaborative and positive team member, team-orientated",
+        "FormattedName": "teamwork",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Inventory Management System",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Procurement Clerks>inventory management software",
+        "Alias": "inventory software, materials management system, materials management software, inventory management soft, inventory management system, inventory management soft., inventory management systems software, inventory management framework, inventory management-framework, inventory management system software, inventory tracking software, retail inventory software, inventory database systems, inventory-program, computerized inventory system, computerized inventory systems, computerized inventory tracking software, materials inventory software, stock control software, inventory sy?em, inventory information software, inventory information systems, inventory information system, inventory mgmt software, inventory-control-system, software inventory, inventory system management, inventory system, inventory program, supply inventory software, inventory control systems, inventory control system software, inventory control software, inventory control programs, inventory control system, stock management system, stock management software",
+        "FormattedName": "inventory management software",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Automotive Technology",
+        "Ontology": "Other Services (except Public Administration) >Automotive Body, Paint, and Interior Repair and Maintenance>automotive technology",
+        "Alias": "automotive-technology, automotive-technical, automotive tech, automotive-tech, automotive technologies, automotive technical",
+        "FormattedName": "automotive technology",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Satisfaction",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer satisfaction",
+        "Alias": "assessing guest satisfaction, customer-quality, guest satisfaction, manage customer satisfaction, customer quality mgmt, customer quality, customer quality management, customer-satisfaction, satisfied clients, client satisfaction management, client satisfaction, satis?ed customers",
+        "FormattedName": "customer satisfaction",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Vehicle Maintenance",
+        "Ontology": "Installation, Maintenance, and Repair Occupations>Automotive Body and Related Repairers>vehicle maintenance",
+        "Alias": "maintain vehicle service, maintain vehicle servicing, car service, forklift-maintenance, motor vehicle service, repairs of machinery fleet, automotive-service, truck repairs, truck repair, forklift service, forklift repair, motor vehicle-service, maintenance of forklift, maintenance forklift, vehicle service maintenance, automotive service, automotive services, truck-maintenance, automotive repair, forklift repairing, preserve vehicle service, transit maintenance, auto repair, forklift maintenance, truck maintenance, car repair, fleet maintenance, repair vehicles, car maintenance",
+        "FormattedName": "vehicle maintenance",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Industry Standards",
+        "Ontology": "Construction>Industrial Engineers>industry standards",
+        "Alias": "industry-standards, industry- standards",
+        "FormattedName": "industry standards",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Safety Regulations",
+        "Ontology": "Construction>Health and Safety Engineers, Except Mining Safety Engineers and Inspectors>osha regulation",
+        "Alias": "scope of health and safety regulations, scope of health and safety standards, safety-regulation, safety standards, health and safety regulations, safety regulations, safety regulation, application of health and safety regulations, application of health and safety standards, adhering to safety standards, occupational safety and health administration standards, occupational safety and health administration standard, safety-standards, coverage of health and safety standards, coverage of health and safety regulations, occupational health and safety administration regulation, osha standards, osha-regulation-knowledge, osha-regulations-general, health, safety and hygiene regulation, health, safety and hygiene statutes, health, safety and hygiene legislation rules, health, safety and hygiene legislation, osha regulation knowledge, range of health and safety regulations, range of health and safety standards, osha safety, osha regulations general, osha regulations",
+        "FormattedName": "osha regulation",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Workflow Processes",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>workflow process",
+        "Alias": "process workflows, workflow-process, business workflows, workflow processing, workflow processes, business process work?ows, business process workflows",
+        "FormattedName": "workflow process",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Car Restoration",
+        "Ontology": "Installation, Maintenance, and Repair Occupations>Automotive Body and Related Repairers>automotive restoration",
+        "Alias": "automotive maintenance, auto restoration services, auto restoration, car restoration, vehicle restoration, automotive-restoration, automotive mechanical",
+        "FormattedName": "automotive restoration",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Vehicle Systems",
+        "Ontology": "Installation, Maintenance, and Repair Occupations>Automotive Technicians and Repairers>vehicle systems",
+        "Alias": "vehicular systems, automotive systems, car systems, automobile systems",
+        "FormattedName": "vehicle systems",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Reduced Costs",
+        "Ontology": "Finance and Insurance>Cost Estimators>cost reduction",
+        "Alias": "finance cost savings, cutting expenses, total cost reduction, cost saving, cost savings, cost-savings, labor cost reduction, reduction of operational costs, cost reduction strategies, reduced costs, reduce costs, cost-cutting, manufacturing-cost-reduction, operations cost reduction, reducing operating costs, cost-reduction, labor-cost-reduction, cost cutting, cost reduction process, cost reduction program, cost reduction programs, cost reduction planning, general cost reduction, cost savings strategies, cost reduction management, cost reduction mgmt, reduction of cost, reduction of costs, reduced total cost, expense reduction, manufacturing cost reduction, cost improvements, cost improvement, cost reduction implementation, reducing costs",
+        "FormattedName": "cost reduction",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maple",
+        "Ontology": "Information>Mathematical Science Occupations, All Other>maple",
+        "Alias": "soft maple, maple software, maple soft",
+        "FormattedName": "maple",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "AutoFix Garage \r Car Mechanic \r Manchester, UK \r 2020 - Present \r At AutoFix Garage, Jack is responsible for diagnosing, repairing, and servicing a variety of vehicle makes and models. He performs routine maintenance, conducts thorough vehicle inspections, and ensures that all repairs meet industry standards. Jack is known for his ability to troubleshoot complex mechanical issues and his commitment to providing top-notch customer service. \r Key Responsibilities :  \r Diagnose mechanical issues using diagnostic tools and equipment. \r Perform repairs on engines, transmissions, brakes, and other vehicle systems. \r Conduct routine maintenance, including oil changes, tire rotations, and brake inspections. \r Complete thorough vehicle inspections to identify potential issues. \r Provide excellent customer service by explaining repair needs and options to customers. \r Ensure all repairs meet industry standards and safety regulations. \r Key Achievements :  \r Successfully increased customer satisfaction by reducing repair turnaround time by 20%. \r Implemented a new inventory management system that improved parts availability and reduced costs. \r Speedy Motors \r Junior Mechanic \r Manchester, UK \r 2018 - 2020 \r In his role as a Junior Mechanic at Speedy Motors, Jack assisted senior mechanics in diagnosing and repairing vehicles. He performed routine maintenance tasks, helped with more complex repairs, and ensured the workshop was clean and organized. Jack quickly gained a reputation for his strong work ethic and willingness to learn. \r Key Responsibilities :  \r Assist senior mechanics with vehicle diagnostics and repairs. \r Perform routine maintenance tasks, such as oil changes and tire rotations. \r Help with complex repairs, including engine and transmission work. \r Maintain a clean and organized workshop. \r Ensure all work is completed to high standards and within safety regulations. \r Key Achievements :  \r Recognized for excellent teamwork and ability to quickly learn new repair techniques. \r Played a key role in reducing vehicle repair times by streamlining workflow processes.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "AutoFix Garage",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Car Mechanic",
+          "FormattedName": "mechanic",
+          "Alias": "general mechanic, mechanical worker, general repair mechanic, service mechanic, repairig mechanic, vehicle mechanic",
+          "RelatedSkills": [
+            {
+              "Skill": "repair engines",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "hand tool",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage heavy equipment",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintenance management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "mechanical assembly",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "fluid coupling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "preventive maintenance",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "vehicle maintenance",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2020 - till",
+        "FormattedJobPeriod": "2020 to till",
+        "StartDate": "01/01/2020",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At AutoFix Garage, Jack is responsible for diagnosing, repairing, and servicing a variety of vehicle makes and models. He performs routine maintenance, conducts thorough vehicle inspections, and ensures that all repairs meet industry standards. Jack is known for his ability to troubleshoot complex mechanical issues and his commitment to providing top-notch customer service. \n Key Responsibilities : \n Diagnose mechanical issues using diagnostic tools and equipment. \n Perform repairs on engines, transmissions, brakes, and other vehicle systems. \n Conduct routine maintenance, including oil changes, tire rotations, and brake inspections. \n Complete thorough vehicle inspections to identify potential issues. \n Provide excellent customer service by explaining repair needs and options to customers. \n Ensure all repairs meet industry standards and safety regulations. \n Key Achievements : \n Successfully increased customer satisfaction by reducing repair turnaround time by 20%. \n Implemented a new inventory management system that improved parts availability and reduced costs.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Speedy Motors",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Junior Mechanic",
+          "FormattedName": "mechanic",
+          "Alias": "general mechanic, mechanical worker, general repair mechanic, service mechanic, repairig mechanic, vehicle mechanic",
+          "RelatedSkills": [
+            {
+              "Skill": "repair engines",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "hand tool",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage heavy equipment",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintenance management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "mechanical assembly",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "fluid coupling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "preventive maintenance",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "vehicle maintenance",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2018 - 2020",
+        "FormattedJobPeriod": "2018 to 2020",
+        "StartDate": "01/01/2018",
+        "EndDate": "31/12/2020",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "In his role as a Junior Mechanic at Speedy Motors, Jack assisted senior mechanics in diagnosing and repairing vehicles. He performed routine maintenance tasks, helped with more complex repairs, and ensured the workshop was clean and organized. Jack quickly gained a reputation for his strong work ethic and willingness to learn. \n Key Responsibilities : \n Assist senior mechanics with vehicle diagnostics and repairs. \n Perform routine maintenance tasks, such as oil changes and tire rotations. \n Help with complex repairs, including engine and transmission work. \n Maintain a clean and organized workshop. \n Ensure all work is completed to high standards and within safety regulations. \n Key Achievements : \n Recognized for excellent teamwork and ability to quickly learn new repair techniques. \n Played a key role in reducing vehicle repair times by streamlining workflow processes.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "AutoFix Garage",
+    "JobProfile": "Car Mechanic",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "79",
+      "TotalExperienceInYear": "6.7",
+      "TotalExperienceRange": "5-8 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "39",
+    "LongestStay": "43",
+    "Summary": "Skilled and reliable Car Mechanic with 6 years of experience in the automotive repair and maintenance industry. Proficient in diagnosing, repairing, and servicing a wide range of vehicle makes and models. Known for strong problem-solving skills, attention to detail, and commitment to providing excellent customer service.",
+    "ExecutiveSummary": "Jack has an experience in the domain of 'Installation, Maintenance, and Repair Occupations', particularly in the sub-domain of 'Vehicle and Mobile Equipment Mechanics, Installers, and Repairers. 'The candidate has a total experience of 6 YearsThe candidate has been working as a Car Mechanic at AutoFix Garage for the last 4.7 years. ",
+    "ManagementSummary": "Jack doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "Motorsports : Enthusiastic about motorsports and regularly attend racing events.",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 667ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Jack Taylor\nContact Information : \nAddress : 45 Maple Road, Manchester, M3 6JD, England\nEmail : jack.taylor@email.com\nPhone : +44 7123 567890\nLinkedIn : linkedin.com/in/jacktaylor\n\nProfessional Summary : \nSkilled and reliable Car Mechanic with 6 years of experience in the automotive repair and maintenance industry. Proficient in diagnosing, repairing, and servicing a wide range of vehicle makes and models. Known for strong problem-solving skills, attention to detail, and commitment to providing excellent customer service.\n\nEducation : \nManchester College of Technology\nDiploma in Automotive Technology\nGraduated : 2018\nManchester High School\nGCSEs : Mathematics (C) , English (C) , Science (C) \nCompleted : 2014\n\nProfessional Experience : \nAutoFix Garage\nCar Mechanic\nManchester, UK\n2020 - Present\nAt AutoFix Garage, Jack is responsible for diagnosing, repairing, and servicing a variety of vehicle makes and models. He performs routine maintenance, conducts thorough vehicle inspections, and ensures that all repairs meet industry standards. Jack is known for his ability to troubleshoot complex mechanical issues and his commitment to providing top-notch customer service.\nKey Responsibilities : \nDiagnose mechanical issues using diagnostic tools and equipment.\nPerform repairs on engines, transmissions, brakes, and other vehicle systems.\nConduct routine maintenance, including oil changes, tire rotations, and brake inspections.\nComplete thorough vehicle inspections to identify potential issues.\nProvide excellent customer service by explaining repair needs and options to customers.\nEnsure all repairs meet industry standards and safety regulations.\nKey Achievements : \nSuccessfully increased customer satisfaction by reducing repair turnaround time by 20%.\nImplemented a new inventory management system that improved parts availability and reduced costs.\nSpeedy Motors\nJunior Mechanic\nManchester, UK\n2018 - 2020\nIn his role as a Junior Mechanic at Speedy Motors, Jack assisted senior mechanics in diagnosing and repairing vehicles. He performed routine maintenance tasks, helped with more complex repairs, and ensured the workshop was clean and organized. Jack quickly gained a reputation for his strong work ethic and willingness to learn.\nKey Responsibilities : \nAssist senior mechanics with vehicle diagnostics and repairs.\nPerform routine maintenance tasks, such as oil changes and tire rotations.\nHelp with complex repairs, including engine and transmission work.\nMaintain a clean and organized workshop.\nEnsure all work is completed to high standards and within safety regulations.\nKey Achievements : \nRecognized for excellent teamwork and ability to quickly learn new repair techniques.\nPlayed a key role in reducing vehicle repair times by streamlining workflow processes.\nInternship : Fast Track Auto Repair\nMechanic Intern\nManchester, UK\nSummer 2017\nDuring his internship at Fast Track Auto Repair, Jack gained hands-on experience in vehicle diagnostics and repairs. He assisted mechanics with various tasks, performed basic maintenance, and learned about different automotive systems and tools.\nKey Responsibilities : \nAssist mechanics with vehicle diagnostics and repairs.\nPerform basic maintenance tasks, such as oil changes and brake inspections.\nLearn about different automotive systems and diagnostic tools.\nMaintain a clean and organized work area.\nKey Achievements : \nDeveloped a strong foundation in automotive repair techniques.\nDemonstrated a keen interest in learning and a strong work ethic.\n\nSkills : \nVehicle Diagnostics : Proficient in using diagnostic tools and equipment to identify mechanical issues.\nMechanical Repairs : Skilled in repairing engines, transmissions, brakes, and other vehicle systems.\nRoutine Maintenance : Experienced in performing oil changes, tire rotations, brake inspections, and other maintenance tasks.\nCustomer Service : Excellent communication skills with the ability to explain repair needs and options to customers.\nProblem Solving : Strong problem-solving skills with the ability to troubleshoot complex mechanical issues.\nTeamwork : Ability to work collaboratively with other mechanics and support staff.\nAttention to Detail : Meticulous in ensuring all repairs meet industry standards and safety regulations.\n\nCertifications : \nNVQ Level 3 in Vehicle Maintenance and Repair\nAutomotive Service Excellence (ASE) Certified Mechanic\nCertified Diagnostic Technician\n\nInterests : \nMotorsports : Enthusiastic about motorsports and regularly attend racing events.\nRestoration Projects : Enjoy working on car restoration projects in my free time.\nTechnology : Keen interest in automotive technology and staying updated with industry advancements.\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Jack Taylor</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 45 Maple Road, Manchester, M3 6JD, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> jack.taylor@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 567890</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> linkedin.com/in/jacktaylor</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Skilled and reliable Car Mechanic with 6 years of experience in the automotive repair and maintenance industry. Proficient in diagnosing, repairing, and servicing a wide range of vehicle makes and models. Known for strong problem-solving skills, attention to detail, and commitment to providing excellent customer service.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Manchester College of Technology</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Diploma in Automotive Technology</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2018</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Manchester High School</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">GCSEs: Mathematics (C) , English (C) , Science (C) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Completed: 2014</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">AutoFix Garage</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Car Mechanic</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2020 - Present</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At AutoFix Garage, Jack is responsible for diagnosing, repairing, and servicing a variety of vehicle makes and models. He performs routine maintenance, conducts thorough vehicle inspections, and ensures that all repairs meet industry standards. Jack is known for his ability to troubleshoot complex mechanical issues and his commitment to providing top-notch customer service.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Diagnose mechanical issues using diagnostic tools and equipment.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Perform repairs on engines, transmissions, brakes, and other vehicle systems.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conduct routine maintenance, including oil changes, tire rotations, and brake inspections.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Complete thorough vehicle inspections to identify potential issues.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Provide excellent customer service by explaining repair needs and options to customers.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ensure all repairs meet industry standards and safety regulations.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Successfully increased customer satisfaction by reducing repair turnaround time by 20%.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Implemented a new inventory management system that improved parts availability and reduced costs.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Speedy Motors</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Junior Mechanic</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2018 - 2020</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">In his role as a Junior Mechanic at Speedy Motors, Jack assisted senior mechanics in diagnosing and repairing vehicles. He performed routine maintenance tasks, helped with more complex repairs, and ensured the workshop was clean and organized. Jack quickly gained a reputation for his strong work ethic and willingness to learn.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assist senior mechanics with vehicle diagnostics and repairs.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Perform routine maintenance tasks, such as oil changes and tire rotations.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Help with complex repairs, including engine and transmission work.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Maintain a clean and organized workshop.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ensure all work is completed to high standards and within safety regulations.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Recognized for excellent teamwork and ability to quickly learn new repair techniques.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Played a key role in reducing vehicle repair times by streamlining workflow processes.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Internship: Fast Track Auto Repair</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Mechanic Intern</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Summer 2017</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">During his internship at Fast Track Auto Repair, Jack gained hands-on experience in vehicle diagnostics and repairs. He assisted mechanics with various tasks, performed basic maintenance, and learned about different automotive systems and tools.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assist mechanics with vehicle diagnostics and repairs.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Perform basic maintenance tasks, such as oil changes and brake inspections.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Learn about different automotive systems and diagnostic tools.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Maintain a clean and organized work area.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed a strong foundation in automotive repair techniques.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Demonstrated a keen interest in learning and a strong work ethic.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Vehicle Diagnostics:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Proficient in using diagnostic tools and equipment to identify mechanical issues.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Mechanical Repairs:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Skilled in repairing engines, transmissions, brakes, and other vehicle systems.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Routine Maintenance:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Experienced in performing oil changes, tire rotations, brake inspections, and other maintenance tasks.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Customer Service:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Excellent communication skills with the ability to explain repair needs and options to customers.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Problem Solving:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong problem-solving skills with the ability to troubleshoot complex mechanical issues.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Teamwork:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Ability to work collaboratively with other mechanics and support staff.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Attention to Detail:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Meticulous in ensuring all repairs meet industry standards and safety regulations.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">NVQ Level 3 in Vehicle Maintenance and Repair</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Automotive Service Excellence (ASE) Certified Mechanic</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Certified Diagnostic Technician</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Interests:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Motorsports:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Enthusiastic about motorsports and regularly attend racing events.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Restoration Projects:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Enjoy working on car restoration projects in my free time.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Technology:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Keen interest in automotive technology and staying updated with industry advancements.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>4</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

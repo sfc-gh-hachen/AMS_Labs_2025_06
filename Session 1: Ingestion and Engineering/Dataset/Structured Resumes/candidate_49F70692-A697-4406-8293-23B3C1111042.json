@@ -1,0 +1,1703 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Oliver Thompson.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 1:06:27",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Oliver Thompson",
+      "TitleName": "",
+      "FirstName": "Oliver",
+      "MiddleName": "",
+      "LastName": "Thompson",
+      "FormattedName": "Oliver Thompson",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "oliver.thompson@example.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "07798123456",
+        "ISDCode": "+44",
+        "OriginalNumber": "7798 123456",
+        "FormattedNumber": "+44 7798 123456",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "",
+        "Url": ""
+      }
+    ],
+    "Address": [
+      {
+        "Street": "15 Maple Street",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "15 Maple Street, Manchester, England, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Management of Companies and Enterprises",
+    "SubCategory": "Marketing and Sales Managers",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Durham (Russell Group) \r BSc Mathematics \r Graduated : 1994\r\r\r\r\rCertified Product Manager (CPM) \r PRINCE2 Practitioner \r Agile Certified Practitioner (PMI-ACP) \r Six Sigma Green Belt \r Certified ScrumMaster (CSM)",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Durham",
+          "Type": "University",
+          "ConfidenceScore": 7,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc Mathematics",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Mathematics"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "1994",
+        "StartDate": "",
+        "EndDate": "31/12/1994",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "PRINCE2 Practitioner",
+          "NormalizeDegree": "",
+          "Specialization": [],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "Agile Certified Practitioner",
+          "NormalizeDegree": "Certificate",
+          "Specialization": [],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "Six Sigma Green Belt",
+          "NormalizeDegree": "",
+          "Specialization": [],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "Certified ScrumMaster CSM",
+          "NormalizeDegree": "Certificate",
+          "Specialization": [],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "",
+        "StartDate": "",
+        "EndDate": "",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "",
+    "SegregatedCertification": [],
+    "SkillBlock": "Summary \r Product Development and Management \r Market Analysis and Trend Forecasting \r Strategic Planning and Execution \r Cross-functional Team Leadership \r Customer Relationship Management \r Data-driven Decision Making",
+    "SkillKeywords": "Competitiveness,Comprehensive,Customer Relationship Management,Strategic Planning,Team Leadership,Innovation,Focused,Product Innovation and Development,Product Lifecycle Management,Data-Driven Decision Making,Customer-Centric Design,Stakeholder Engagement,Customer Satisfaction,Customer Acquisition,Process Optimization,Product Development,Product Integration,Banking Operations,Product Management,Customer Feedback,Product Offerings,Product Portfolio,Trend Forecasting,Cross-Functional,Customer Loyalty,Product Rollouts,Strategic Vision,Business Growth,Managed Product,Market Analysis,User Experience,Customer Needs,Market Share,Maple",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Competitiveness",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>competitiveness",
+        "Alias": "competitive skill, challenging employees, challenging myself",
+        "FormattedName": "competitiveness",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Comprehensive",
+        "Ontology": "Educational Services>Instructional Coordinators>comprehensive",
+        "Alias": "comprehension, ability to understand",
+        "FormattedName": "comprehensive",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2004",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Customer Relationship Management",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer relationship management",
+        "Alias": "managing client relationships, developing relationships with clients, long term customer relationship, maintain customer relationships, customer-relationship- management, customer-relationship management, manage crm, relationship management, relation management, client-relations, client management relationship, build and maintain customer relationships, crm, build customer relationships, managed the relationship, client relations, client relationship mgt., client relationships, customer care management, crm planning, manage strong customer relationships, client resource management, building relationships with customers, constituent relationship management, constituent relationship mgmt, manage customer relationships, manage customer relationship, customer relationship development, customer relationship mgmt, customer relations, customer relation management, customer relations management, customer relationships, customer relationship mgmt., customer relations development, customer relationship planning, customer relationships management, customer relationship, customers relations, relational management, long term relationship building, long term business relationships, manage the client relationship, long-term customer relationship, relationship mgmt, relationship mgmt., crm management, marketing crm, building the customer relationship, manage client relationships, consumer relationship management, relations management, managed crm, manage relationships, manage relationship, manage the relationship, client relation management, consumer-relationship-management, relationships management, managing relationships, managing relationships with clients",
+        "FormattedName": "customer relationship management",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strategic Planning",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>strategic planning",
+        "Alias": "strategic prognosis planning, strategical planning, strategic plan-development, strategy planning, planning strategy, planning strategically, develop-strategic- plans, develop-strategic plans, strategic plans, development of the strategic plan, strategic development plan, strategic-roadmap, strategic-planning, strategic business plan development, strategic business planning, strategic roadmap, strategic roadmaps, develop strategic plans, develop strategic roadmaps, strategic road map, strategic planning process, strategic planning-management, strategic planning and implementation, strategic planning management, strategic planning for growth, strategic planning mgmt, strategic planning development, strategy and planning, developing a strategic plan, development of a strategic plan",
+        "FormattedName": "strategic planning",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Leadership",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leadership",
+        "Alias": "interdisciplinary team leadership, multi-national team leadership, lead the team member, leads group discussions, leads groups, group leadership, multi-cultural team leadership",
+        "FormattedName": "team leadership",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Innovation",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>innovation",
+        "Alias": "innovative product idea, innovativeness, innovative, innovation skill, innovator",
+        "FormattedName": "innovation",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "31/12/2010",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Focused",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>focused",
+        "Alias": "avoid procrastination, avoid distractions and procrastination, concentrating on a task",
+        "FormattedName": "focused",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2016",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Innovation and Development",
+        "Ontology": "Information>Software Developers and Programmers>innovation product development",
+        "Alias": "innovative product-development, innovative product development, product-innovation and development, product innovation and development, innovation-product development, innovation product-development, innovation & product development",
+        "FormattedName": "innovation product development",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2007",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Lifecycle Management",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>product lifecycle management",
+        "Alias": "project life-cycle management, product-lifecycle management, product-lifecycle-management, manage entire life cycle, project lifecycle management, product development life cycle, managed the full life cycle, product life-cycle development, product life-cycle management, engineering product lifecycle, engineering product development life cycle, product lifecycle, product lifecycle mgmt., manage the entire lifecycle, project management cycle, management of the product life cycle, plm, managed the product life, manage full lifecycle, product life cycle, product life cycle management, product life cycle development, product life cycle mgmt, pmlc",
+        "FormattedName": "product lifecycle management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2016",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data-Driven Decision Making",
+        "Ontology": "Information>Data Processing, Hosting, and Related Services>data driven",
+        "Alias": "data-driven approach, data-driven",
+        "FormattedName": "data driven",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer-Centric Design",
+        "Ontology": "Arts, Entertainment, and Recreation>Graphic Designers>user centered design",
+        "Alias": "user-driven development, user-driven-development, user-centered design, user-driven -development, user driven development, customer-centric design, customer-centric- design, customer focused design, customer centric design, designing user centered, user centered designing",
+        "FormattedName": "user centered design",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Stakeholder Engagement",
+        "Ontology": "Arts, Entertainment, and Recreation>Sociologists>stakeholder engagement",
+        "Alias": "stakeholder collaboration, stakeholder collaboration process, engaged with stakeholders, stakeholder-collaboration, engage with external stakeholders, collaboration stakeholder, stakeholder-engagement, stakeholder involvement, collaboration with the stakeholder, stakeholder relations",
+        "FormattedName": "stakeholder engagement",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Satisfaction",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer satisfaction",
+        "Alias": "assessing guest satisfaction, customer-quality, guest satisfaction, manage customer satisfaction, customer quality mgmt, customer quality, customer quality management, customer-satisfaction, satisfied clients, client satisfaction management, client satisfaction, satis?ed customers",
+        "FormattedName": "customer satisfaction",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Acquisition",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer acquisition",
+        "Alias": "customer acquisition analytics, customer acquisition strategy, customer acquisition logistic, customer acquisition strategies, acquisition sales, sales acquisition, product acquisitions, telecom customer acquisition, new customer acquisitions, new account acquisition, client acquisition, customer-acquisition strategy, customer-acquisition- strategy, customer-acquisition, acquire new customers, acquisition retail, new client acquisitions, account acquisition, account acquisitions, develop new customer, strategic account acquisition",
+        "FormattedName": "customer acquisition",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Process Optimization",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>process optimization",
+        "Alias": "process support and optimization, flow path optimization, retail process optimization, system and process optimization, efficiency optimization, process flow optimization, process optimisation, process-optimization, data process optimization, optimized processes, optimization of established processes, optimization of efficiency",
+        "FormattedName": "process optimization",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Development",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>product development",
+        "Alias": "process-product-development, development of products, development of product, production development, enterprise product-development, enterprise product development, product development enterprise, product development process, product development and design, device-development, product building, international product development, develop products, new product development, development of the product, builds the product, process product development, product-process-development, device development, technical product development, production-development, develop new products, product-development, retail product development, developing products, products development, product process development, product offering development, development products, product creation",
+        "FormattedName": "product development",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "31/12/2004",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Integration",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>product integration",
+        "Alias": "brand-integration, product-integration, brand integration, branding integration",
+        "FormattedName": "product integration",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Banking Operations",
+        "Ontology": "Finance and Insurance>Financial Specialists>banking operations management",
+        "Alias": "banking operations, banking operations mgmt., banking-operations-management, bank operations management, operations banking",
+        "FormattedName": "banking operations management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2004",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Management",
+        "Ontology": "Management of Companies and Enterprises>Advertising, Marketing, Promotions, Public Relations, and Sales Managers>product management",
+        "Alias": "products mgmt., product coordination, managed complete product, new product management, managed full product, management of product, mgmt of the products, mgmt of the product, international product management, international project coordination, mgmt product, management full product, manage product, product management skill, product mgmt, products management, product mgmt skill, managed product development, management product, product ops management, product mgmt., managed the product operations, managed the product, managed the product development, global product management, product-management, product and management, managed product",
+        "FormattedName": "product management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2004",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Feedback",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer feedback",
+        "Alias": "customer-feedback, gather feedback, gathering feedback from customers",
+        "FormattedName": "customer feedback",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2010",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Offerings",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>product offerings",
+        "Alias": "product offer, product offering, product offerings",
+        "FormattedName": "product offerings",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2010",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Portfolio",
+        "Ontology": "Finance and Insurance>Portfolio Management>project portfolio management",
+        "Alias": "project and portfolio management, portfolio resource mgmt., portfolio resource management, portfolio and project management, resource portfolio management, portfolio of products, project & portfolio management, project management portfolio, product portfolio management, product portfolio, project-portfolio management, project-portfolio-management, portfolio-resource-management, portfolio-resource management, project portfolio, project portfolio-management, project portfolio mgmt, project portfolios, product offerings management",
+        "FormattedName": "project portfolio management",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Trend Forecasting",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>trend forecasting",
+        "Alias": "trend estimation, trend-forecasting, forecasting trend, trend predict, trend prediction, trend prognosticate, trend speculate",
+        "FormattedName": "trend forecasting",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cross-Functional",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 66
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Loyalty",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer loyalty",
+        "Alias": "customer loyalty management, customer service and loyalty, loyalty customer, client loyalty, customer care and loyalty, customer-loyalty",
+        "FormattedName": "customer loyalty",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Product Rollouts",
+        "Ontology": "Wholesale Trade>Demonstrators and Product Promoters>product launch",
+        "Alias": "product launch operations, brand-launches, new product launches, new product launch, launch of new products, rollout product, rollout strategy, launch the product, launching of new product, launching of new products, campaign launch, launch a product, new product roll - out, new product roll - outs, new product roll-out, brand launch, new products launch, launch process, marketing launch strategies, brand launch process, strategy rollout, new business launches, business launch, global roll out strategies, product launch promotions, product launch process, product roll-out, product launching, launching of product, launches products, new item launches, product rollout strategy, company launch, market-launch, product rollout, production launch, product launches, product-launch, launch products, item launch, product launch development, brand launches, product rollouts, launching new brands, launching new brand, product roll out strategy, product-launching, launch of product, commercial launch, company launches, launch product, commercial-launch",
+        "FormattedName": "product launch",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2007",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Vision",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>strategic vision",
+        "Alias": "strategic visionary, strategic-vision, visionary strategy",
+        "FormattedName": "strategic vision",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Growth",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business growth",
+        "Alias": "business-growth, organization growth, cultivating business, corporate growth, organizational growth, managing company growth, growing a business, business growth impact, business growth management, driving business growth, growing businesses, growing business, cultivating-business",
+        "FormattedName": "business growth",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "31/12/2007",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Managed Product",
+        "Ontology": "Management of Companies and Enterprises>Advertising, Marketing, Promotions, Public Relations, and Sales Managers>product management",
+        "Alias": "products mgmt., product coordination, managed complete product, new product management, managed full product, management of product, mgmt of the products, mgmt of the product, international product management, international project coordination, mgmt product, management full product, manage product, product management skill, product mgmt, products management, product mgmt skill, managed product development, management product, product ops management, product mgmt., managed the product operations, managed the product, managed the product development, global product management, product-management, product and management, managed product",
+        "FormattedName": "product management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2010",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Analysis",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>market analysis",
+        "Alias": "market estimate, sales market analysis, global marketing analytics, market assessment, market assessments, marketing-analysis, advertising analytics, market analyzes, analyze market information, product marketing analytics, marketing campaign analytics, market data analytics, market data analysis, analyzing-marketing, campaign management analytics, web marketing analytics, market research analysis, market research analytics, marketing information analysis, market analysis process, market analysis research, marketing data analysis, marketing data analytics, media and marketing analytics, market valuation, market strategy analytics, market estimation, marketing-audit, analysis of the marketing, analysis of the market, marketing assessment, analysing marketing, analysing market requirements, analyzing marketing information, analyzing marketing, analyzing market strategies, data analysis marketing, market-evaluation, market analyze, analysis market, marketing analytics, marketing analytics integration, marketing analytics strategies, analyzing the market for sales, sales and marketing audit, marketing analysis and research, marketing analysis, gather and analyze market information, market research-analytics, mktg. analytics, market-analysis, marketing performance analysis, market-assessment, market and analysis, evaluations marketing, market needs analysis, market evaluation, market evaluations, manage marketing analytics, retail market analysis, marketing audit, development of market assessments, marketing-analytics",
+        "FormattedName": "market analysis",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "User Experience",
+        "Ontology": "Information>Software Developers and Programmers>user experience",
+        "Alias": "user experience modelling, user experience software, online user experience, user-experience, ux",
+        "FormattedName": "user experience",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2010",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Needs",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer needs",
+        "Alias": "meet customer needs, understanding of customer needs, understanding client needs, customer need",
+        "FormattedName": "customer needs",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2016",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Share",
+        "Ontology": "Wholesale Trade>Securities, Commodities, and Financial Services Sales Agents>market share",
+        "Alias": "market share development, market share management, market-share, market shares, market share estimation, marketing share",
+        "FormattedName": "market share",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 114
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maple",
+        "Ontology": "Information>Mathematical Science Occupations, All Other>maple",
+        "Alias": "soft maple, maple software, maple soft",
+        "FormattedName": "maple",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Product Manager\t,HSBC \r Manchester, UK\t,2019 - Present \r At HSBC, Oliver led the development and launch of innovative financial products, significantly increasing customer acquisition. He collaborated with cross-functional teams to ensure seamless product integration, resulting in a 25% growth in market share. \r Product Manager\t,Barclays Bank \r Manchester, UK\t,2016 - 2019 \r Oliver managed a diverse product portfolio, enhancing customer satisfaction and achieving a 20% growth in revenue. His strategic planning and market analysis were instrumental in driving product success. \r Product Manager\t,Lloyds Bank \r Manchester, UK\t,2013 - 2016 \r At Lloyds Bank, Oliver directed product lifecycle management, resulting in a 15% increase in market share. He focused on aligning product features with customer needs and market trends. \r Product Manager\t,Royal Bank of Scotland \r Manchester, UK\t,2010 - 2013 \r Oliver oversaw product development from concept to launch, ensuring market fit and customer satisfaction. His role involved extensive stakeholder engagement and process optimization. \r Product Manager\t,NatWest Bank \r Manchester, UK\t,2007 - 2010 \r At NatWest, Oliver managed product portfolios, driving innovation and market growth. He utilized customer feedback to refine product offerings and improve user experience. \r Product Manager\t,Halifax Bank \r Manchester, UK\t,2004 - 2007 \r Oliver's role at Halifax involved leading product innovation and development, achieving notable business growth. He worked closely with various departments to ensure successful product rollouts. \r Product Manager\t,Nationwide Building Society \r Manchester, UK\t,2001 - 2004 \r Oliver directed product management initiatives, focusing on customer-centric design and market competitiveness. His strategic vision contributed to a significant increase in customer loyalty. \r Various Roles in Product Management\t,Various UK Banks \r Manchester, UK\t,1994 - 2001 \r Oliver gained comprehensive experience in product management through various roles, building a strong foundation in banking operations and product development.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "HSBC",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Product Manager",
+          "FormattedName": "product manager",
+          "Alias": "manager products, product mngr, manager-product management, manager-product, products manager, corporate product manager, manager of product, manager of product management, head of products and services, product in-charge, product-manager, product specifications manager, manager, product, manager, product management, manager in product mgt., manager in product management, product management professional, mgr product, product division head, sales product manager, manager product mgt., manager product management, product department manager, product services project manager, product team mgr, product team manager, product mgr, manager - product management, manager - product, manager - products, product in charge, product customization manager, commercial product manager, manager product",
+          "RelatedSkills": [
+            {
+              "Skill": "product cost management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product placement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product advertising",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage product testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product control",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "persona analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product led growth",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "objective thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain concentration for long periods",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "consult team on creative project",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "liaise with colleagues",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product knowledge",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product policy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market research",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer enablement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prophix software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "price segmentation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product family engineering",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "moscow method",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2019 - till",
+        "FormattedJobPeriod": "2019 to till",
+        "StartDate": "01/01/2019",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At HSBC, Oliver led the development and launch of innovative financial products, significantly increasing customer acquisition. He collaborated with cross-functional teams to ensure seamless product integration, resulting in a 25% growth in market share.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Barclays Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 8
+        },
+        "JobProfile": {
+          "Title": "Product Manager",
+          "FormattedName": "product manager",
+          "Alias": "manager products, product mngr, manager-product management, manager-product, products manager, corporate product manager, manager of product, manager of product management, head of products and services, product in-charge, product-manager, product specifications manager, manager, product, manager, product management, manager in product mgt., manager in product management, product management professional, mgr product, product division head, sales product manager, manager product mgt., manager product management, product department manager, product services project manager, product team mgr, product team manager, product mgr, manager - product management, manager - product, manager - products, product in charge, product customization manager, commercial product manager, manager product",
+          "RelatedSkills": [
+            {
+              "Skill": "product cost management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product placement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product advertising",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage product testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product control",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "persona analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product led growth",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "objective thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain concentration for long periods",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "consult team on creative project",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "liaise with colleagues",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product knowledge",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product policy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market research",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer enablement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prophix software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "price segmentation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product family engineering",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "moscow method",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 8
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2016 - 2019",
+        "FormattedJobPeriod": "2016 to 2019",
+        "StartDate": "01/01/2016",
+        "EndDate": "31/12/2019",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Lloyds Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Product Manager",
+          "FormattedName": "product manager",
+          "Alias": "manager products, product mngr, manager-product management, manager-product, products manager, corporate product manager, manager of product, manager of product management, head of products and services, product in-charge, product-manager, product specifications manager, manager, product, manager, product management, manager in product mgt., manager in product management, product management professional, mgr product, product division head, sales product manager, manager product mgt., manager product management, product department manager, product services project manager, product team mgr, product team manager, product mgr, manager - product management, manager - product, manager - products, product in charge, product customization manager, commercial product manager, manager product",
+          "RelatedSkills": [
+            {
+              "Skill": "product cost management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product placement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product advertising",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage product testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product control",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "persona analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product led growth",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "objective thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain concentration for long periods",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "consult team on creative project",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "liaise with colleagues",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product knowledge",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product policy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market research",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer enablement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prophix software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "price segmentation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product family engineering",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "moscow method",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2013 - 2016",
+        "FormattedJobPeriod": "2013 to 2016",
+        "StartDate": "01/01/2013",
+        "EndDate": "31/12/2016",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "At Lloyds Bank, Oliver directed product lifecycle management, resulting in a 15% increase in market share. He focused on aligning product features with customer needs and market trends.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Royal Bank of Scotland",
+          "FormattedName": "",
+          "ConfidenceScore": 8
+        },
+        "JobProfile": {
+          "Title": "Product Manager",
+          "FormattedName": "product manager",
+          "Alias": "manager products, product mngr, manager-product management, manager-product, products manager, corporate product manager, manager of product, manager of product management, head of products and services, product in-charge, product-manager, product specifications manager, manager, product, manager, product management, manager in product mgt., manager in product management, product management professional, mgr product, product division head, sales product manager, manager product mgt., manager product management, product department manager, product services project manager, product team mgr, product team manager, product mgr, manager - product management, manager - product, manager - products, product in charge, product customization manager, commercial product manager, manager product",
+          "RelatedSkills": [
+            {
+              "Skill": "product cost management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product placement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product advertising",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage product testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product control",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "persona analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product led growth",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "objective thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain concentration for long periods",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "consult team on creative project",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "liaise with colleagues",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product knowledge",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product policy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market research",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer enablement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prophix software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "price segmentation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product family engineering",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "moscow method",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 8
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2010 - 2013",
+        "FormattedJobPeriod": "2010 to 2013",
+        "StartDate": "01/01/2010",
+        "EndDate": "31/12/2013",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "NatWest Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Product Manager",
+          "FormattedName": "product manager",
+          "Alias": "manager products, product mngr, manager-product management, manager-product, products manager, corporate product manager, manager of product, manager of product management, head of products and services, product in-charge, product-manager, product specifications manager, manager, product, manager, product management, manager in product mgt., manager in product management, product management professional, mgr product, product division head, sales product manager, manager product mgt., manager product management, product department manager, product services project manager, product team mgr, product team manager, product mgr, manager - product management, manager - product, manager - products, product in charge, product customization manager, commercial product manager, manager product",
+          "RelatedSkills": [
+            {
+              "Skill": "product cost management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product placement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product advertising",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage product testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product control",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "persona analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product led growth",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "objective thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain concentration for long periods",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "consult team on creative project",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "liaise with colleagues",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product knowledge",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product policy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market research",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer enablement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prophix software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "price segmentation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product family engineering",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "moscow method",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2007 - 2010",
+        "FormattedJobPeriod": "2007 to 2010",
+        "StartDate": "01/01/2007",
+        "EndDate": "31/12/2010",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "At NatWest, Oliver managed product portfolios, driving innovation and market growth. He utilized customer feedback to refine product offerings and improve user experience.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Halifax Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Product Manager",
+          "FormattedName": "product manager",
+          "Alias": "manager products, product mngr, manager-product management, manager-product, products manager, corporate product manager, manager of product, manager of product management, head of products and services, product in-charge, product-manager, product specifications manager, manager, product, manager, product management, manager in product mgt., manager in product management, product management professional, mgr product, product division head, sales product manager, manager product mgt., manager product management, product department manager, product services project manager, product team mgr, product team manager, product mgr, manager - product management, manager - product, manager - products, product in charge, product customization manager, commercial product manager, manager product",
+          "RelatedSkills": [
+            {
+              "Skill": "product cost management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product placement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product advertising",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage product testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product control",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "persona analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product led growth",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "objective thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain concentration for long periods",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "consult team on creative project",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "liaise with colleagues",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product knowledge",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product policy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market research",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer enablement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prophix software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "price segmentation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product family engineering",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "moscow method",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2004 - 2007",
+        "FormattedJobPeriod": "2004 to 2007",
+        "StartDate": "01/01/2004",
+        "EndDate": "31/12/2007",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Oliver's role at Halifax involved leading product innovation and development, achieving notable business growth. He worked closely with various departments to ensure successful product rollouts.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Nationwide Building Society",
+          "FormattedName": "",
+          "ConfidenceScore": 8
+        },
+        "JobProfile": {
+          "Title": "Product Manager",
+          "FormattedName": "product manager",
+          "Alias": "manager products, product mngr, manager-product management, manager-product, products manager, corporate product manager, manager of product, manager of product management, head of products and services, product in-charge, product-manager, product specifications manager, manager, product, manager, product management, manager in product mgt., manager in product management, product management professional, mgr product, product division head, sales product manager, manager product mgt., manager product management, product department manager, product services project manager, product team mgr, product team manager, product mgr, manager - product management, manager - product, manager - products, product in charge, product customization manager, commercial product manager, manager product",
+          "RelatedSkills": [
+            {
+              "Skill": "product cost management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product placement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product advertising",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "manage product testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product control",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "persona analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product led growth",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "objective thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain concentration for long periods",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "consult team on creative project",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product marketing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "liaise with colleagues",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product knowledge",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "product policy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "market research",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer enablement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prophix software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "price segmentation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product family engineering",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "product analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "moscow method",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 8
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2001 - 2004",
+        "FormattedJobPeriod": "2001 to 2004",
+        "StartDate": "01/01/2001",
+        "EndDate": "31/12/2004",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Various Roles in Product Management\t, Various UK Banks Manchester, UK, 1994 - 2001 Oliver gained comprehensive experience in product management through various roles, building a strong foundation in banking operations and product development.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "HSBC",
+    "JobProfile": "Product Manager",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "283",
+      "TotalExperienceInYear": "23.7",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "40",
+    "LongestStay": "55",
+    "Summary": "Oliver Thompson is an experienced Product Manager with a 30-year career in the UK banking sector. With a strong foundation in mathematics from a Russell Group university, he has successfully led product development initiatives for multiple renowned banks. Oliver is adept at strategic planning, market analysis, and customer relationship management, driving substantial business growth and innovation.",
+    "ExecutiveSummary": "Oliver has an experience in the domain of 'Management of Companies and Enterprises', particularly in the sub-domain of 'Marketing and Sales Managers. The candidate has been working as a Product Manager at HSBC for the last 5.7 years. ",
+    "ManagementSummary": "Currently, Oliver holds a Mid Management Level position, as Product Manager at HSBC. from 01/01/2019 to 05/07/2024. The candidate has a total experience of 5.7 years in this company.\n\nOliver holds a Mid Management Level position, as Product Manager at Barclays Bank. from 01/01/2016 to 31/12/2019. The candidate has a total experience of 4.0 years in this company.\n\nOliver holds a Mid Management Level position, as Product Manager at Lloyds Bank. from 01/01/2013 to 31/12/2016. The candidate has a total experience of 4.0 years in this company.\n\nOliver holds a Mid Management Level position, as Product Manager at Royal Bank of Scotland. from 01/01/2010 to 31/12/2013. The candidate has a total experience of 4.0 years in this company.\n\nOliver holds a Mid Management Level position, as Product Manager at NatWest Bank. from 01/01/2007 to 31/12/2010. The candidate has a total experience of 4.0 years in this company.\n\nOliver holds a Mid Management Level position, as Product Manager at Halifax Bank. from 01/01/2004 to 31/12/2007. The candidate has a total experience of 4.0 years in this company.\n\nOliver holds a Mid Management Level position, as Product Manager at Nationwide Building Society. from 01/01/2001 to 31/12/2004. The candidate has a total experience of 4.0 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 815ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Oliver Thompson\nAddress : 15 Maple Street, Manchester, England\nEmail : oliver.thompson@example.com\nPhone : 07798 123456\n\nPersonal Statement\nOliver Thompson is an experienced Product Manager with a 30-year career in the UK banking sector. With a strong foundation in mathematics from a Russell Group university, he has successfully led product development initiatives for multiple renowned banks. Oliver is adept at strategic planning, market analysis, and customer relationship management, driving substantial business growth and innovation.\n\nKey Skills Summary\nProduct Development and Management\nMarket Analysis and Trend Forecasting\nStrategic Planning and Execution\nCross-functional Team Leadership\nCustomer Relationship Management\nData-driven Decision Making\n\nEducation History\nUniversity of Durham (Russell Group) \nBSc Mathematics\nGraduated : 1994\n\nWork History\nProduct Manager\t,HSBC\nManchester, UK\t,2019 - Present\nAt HSBC, Oliver led the development and launch of innovative financial products, significantly increasing customer acquisition. He collaborated with cross-functional teams to ensure seamless product integration, resulting in a 25% growth in market share.\nProduct Manager\t,Barclays Bank\nManchester, UK\t,2016 - 2019\nOliver managed a diverse product portfolio, enhancing customer satisfaction and achieving a 20% growth in revenue. His strategic planning and market analysis were instrumental in driving product success.\nProduct Manager\t,Lloyds Bank\nManchester, UK\t,2013 - 2016\nAt Lloyds Bank, Oliver directed product lifecycle management, resulting in a 15% increase in market share. He focused on aligning product features with customer needs and market trends.\nProduct Manager\t,Royal Bank of Scotland\nManchester, UK\t,2010 - 2013\nOliver oversaw product development from concept to launch, ensuring market fit and customer satisfaction. His role involved extensive stakeholder engagement and process optimization.\nProduct Manager\t,NatWest Bank\nManchester, UK\t,2007 - 2010\nAt NatWest, Oliver managed product portfolios, driving innovation and market growth. He utilized customer feedback to refine product offerings and improve user experience.\nProduct Manager\t,Halifax Bank\nManchester, UK\t,2004 - 2007\nOliver's role at Halifax involved leading product innovation and development, achieving notable business growth. He worked closely with various departments to ensure successful product rollouts.\nProduct Manager\t,Nationwide Building Society\nManchester, UK\t,2001 - 2004\nOliver directed product management initiatives, focusing on customer-centric design and market competitiveness. His strategic vision contributed to a significant increase in customer loyalty.\nVarious Roles in Product Management\t,Various UK Banks\nManchester, UK\t,1994 - 2001\nOliver gained comprehensive experience in product management through various roles, building a strong foundation in banking operations and product development.\n\nQualifications\nCertified Product Manager (CPM) \nPRINCE2 Practitioner\nAgile Certified Practitioner (PMI-ACP) \nSix Sigma Green Belt\nCertified ScrumMaster (CSM) \n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Oliver Thompson</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Address:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> 15 Maple Street, Manchester, England</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Email:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> oliver.thompson@example.com</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Phone:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> 07798 123456</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Personal Statement</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Oliver Thompson is an experienced Product Manager with a 30-year career in the UK banking sector. With a strong foundation in mathematics from a Russell Group university, he has successfully led product development initiatives for multiple renowned banks. Oliver is adept at strategic planning, market analysis, and customer relationship management, driving substantial business growth and innovation.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Skills Summary</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Product Development and Management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Market Analysis and Trend Forecasting</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Strategic Planning and Execution</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Cross-functional Team Leadership</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Customer Relationship Management</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Data-driven Decision Making</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education History</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Durham (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">BSc Mathematics</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 1994</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Work History</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Product Manager | HSBC</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK | 2019 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">At HSBC, Oliver led the development and launch of innovative financial products, significantly increasing customer acquisition. He collaborated with cross-functional teams to ensure seamless product integration, resulting in a 25% growth in market share.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Product Manager | Barclays Bank</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK | 2016 - 2019</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Oliver managed a diverse product portfolio, enhancing customer satisfaction and achieving a 20% growth in revenue. His strategic planning and market analysis were instrumental in driving product success.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Product Manager | Lloyds Bank</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK | 2013 - 2016</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">At Lloyds Bank, Oliver directed product lifecycle management, resulting in a 15% increase in market share. He focused on aligning product features with customer needs and market trends.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Product Manager | Royal Bank of Scotland</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK | 2010 - 2013</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Oliver oversaw product development from concept to launch, ensuring market fit and customer satisfaction. His role involved extensive stakeholder engagement and process optimization.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Product Manager | NatWest Bank</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK | 2007 - 2010</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">At NatWest, Oliver managed product portfolios, driving innovation and market growth. He utilized customer feedback to refine product offerings and improve user experience.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Product Manager | Halifax Bank</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK | 2004 - 2007</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Oliver's role at Halifax involved leading product innovation and development, achieving notable business growth. He worked closely with various departments to ensure successful product rollouts.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Product Manager | Nationwide Building Society</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK | 2001 - 2004</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Oliver directed product management initiatives, focusing on customer-centric design and market competitiveness. His strategic vision contributed to a significant increase in customer loyalty.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Various Roles in Product Management | Various UK Banks</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK | 1994 - 2001</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Oliver gained comprehensive experience in product management through various roles, building a strong foundation in banking operations and product development.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Qualifications</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Product Manager (CPM) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">PRINCE2 Practitioner</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Agile Certified Practitioner (PMI-ACP) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Six Sigma Green Belt</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified ScrumMaster (CSM) </span></li></ul><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

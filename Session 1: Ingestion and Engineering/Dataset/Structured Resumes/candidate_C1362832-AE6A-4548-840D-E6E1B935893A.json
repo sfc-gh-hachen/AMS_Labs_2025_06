@@ -1,0 +1,603 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Daniel Harris.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:39:06",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Daniel Harris",
+      "TitleName": "",
+      "FirstName": "Daniel",
+      "MiddleName": "",
+      "LastName": "Harris",
+      "FormattedName": "Daniel Harris",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "daniel.harris@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123987654",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 987654",
+        "FormattedNumber": "+44 7123 987654",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "",
+        "Url": ""
+      }
+    ],
+    "Address": [
+      {
+        "Street": "45 Maple Street",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M36HD",
+        "FormattedAddress": "45 Maple Street, Manchester, England, M36HD, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Wholesale Trade",
+    "SubCategory": "Retail Salespersons",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Manchester Community Training Center \r Certificate in Retail Skills \r Completed : 2018",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "Manchester Community Training Center",
+          "Type": "Institute",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 10
+        },
+        "Degree": {
+          "DegreeName": "Certificate in Retail Skills",
+          "NormalizeDegree": "Certificate",
+          "Specialization": [],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2018",
+        "StartDate": "",
+        "EndDate": "31/12/2018",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Certificate in Retail Skills, Manchester Community Training Center \r Basic First Aid Certificate \r Food Safety Level 1 Certificate \r  \r  \r  \r Cycling : Passionate about cycling and often participate in local cycling events. \r Community Volunteering : Actively involved in community volunteering, helping with local events and charities.",
+    "SegregatedCertification": [],
+    "SkillBlock": "Customer Service : Strong ability to provide friendly and efficient service to customers. \r Cash Handling : Proficient in handling cash, credit, and debit transactions accurately. \r Inventory Management : Experienced in managing inventory levels and restocking shelves. \r Store Maintenance : Skilled in maintaining cleanliness and organization of the store.\r\r\rExcellent communication and interpersonal skills. \r Problem Solving : Ability to address and resolve customer inquiries and issues promptly. \r Teamwork : Ability to work collaboratively with colleagues to ensure smooth store operations.",
+    "SkillKeywords": "Hardworking,Passionate,Excellent Interpersonal Skills,Excellent Communication,Interpersonal Skills,Strong Work Ethic,Problem Solving,Commitment,Dedication,Friendly,Teamwork,Maintaining Store Cleanliness,Inventory Management System,Maintain Store Cleanliness,Customer Satisfaction,Inventory Management,Assisting Customers,Inventory Accuracy,Managing Inventory,Restocking Shelves,Cash Transactions,Store Maintenance,Manage Inventory,Stock Management,Store Operations,Cash Handling,Retail Skills,Food Safety,Handle Cash,First Aid,Maple",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Hardworking",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>hard working",
+        "Alias": "hardworker, hard worker, hard working nature, works hard, hard-working, hard work, hardworking, work hard",
+        "FormattedName": "hard working",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Passionate",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>passionate",
+        "Alias": "passionate skill, passionate to work",
+        "FormattedName": "passionate",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Excellent Interpersonal Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>interpersonal skills",
+        "Alias": "strong interpersonal skills, social skill, effective i?nterpersonal skills, people skill, interpersonal leadership skills, interpersonal development, interpersonal skill, social-skills, interpersonal relationships, interpersonal relationship skills, intrapersonal skill, intrapersonal skills, good interpersonal skills, good interpersonal, people skills, ability to socialize, personal skills, interoperation, excellent interpersonal skills, social skills, interpersonal savvy, interpersonal-savvy, interpersonal sensitivity",
+        "FormattedName": "interpersonal skills",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Excellent Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Interpersonal Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>interpersonal skills",
+        "Alias": "strong interpersonal skills, social skill, effective i?nterpersonal skills, people skill, interpersonal leadership skills, interpersonal development, interpersonal skill, social-skills, interpersonal relationships, interpersonal relationship skills, intrapersonal skill, intrapersonal skills, good interpersonal skills, good interpersonal, people skills, ability to socialize, personal skills, interoperation, excellent interpersonal skills, social skills, interpersonal savvy, interpersonal-savvy, interpersonal sensitivity",
+        "FormattedName": "interpersonal skills",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strong Work Ethic",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>work ethic",
+        "Alias": "work ethics, positive work ethic, job ethic, strong work ethic",
+        "FormattedName": "work ethic",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Problem Solving",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>problem solving",
+        "Alias": "solve problems creatively, resolution of problems, find appropriate solutions, resolve issues, collaborative problem solving, resolve problems, solving issues, ability to solve problems, ability to analyze and solve problems, theoretical problem solving, solving problem, problems resolve, solving problems, problem handling, solving complex problems, problem-solving skills, able to resolve issues, able-to-resolve issues, complex problem-solving, complex problem-solving abilities, analytic problem solving, solve highly analytical problems, problem-solving, solves problems, quickly identifying problems, problem resolution, addressing concerns, analytical problem solving, resolving concerns, addressing the issues, problem solving ability, problem solving skills, problem solving abilities, problem solving leadership, general problem solving, team problem solving, problem solver, solve complex problems, problem-solver, solutions to problems, complex problem solving, strategic problem solving, problem solution skills, problem solution, recognizing problems, solve problems, resourceful problem solving, solving skills, investigating problems, solving engineering problems, resolves problems, resolving issues, solve any problem, resolving technical problems, efficient problem solving, resolve a problem",
+        "FormattedName": "problem solving",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Commitment",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>commitment",
+        "Alias": "committed team, commitments, team commitment, commitment to achieving result",
+        "FormattedName": "commitment",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Dedication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>dedication",
+        "Alias": "dedicated towards work, dedication to work, dedicated to work, dedicated worker",
+        "FormattedName": "dedication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Friendly",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>friendliness",
+        "Alias": "friendly personality, friendly demeanor, frank, friendly",
+        "FormattedName": "friendliness",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Teamwork",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>teamwork",
+        "Alias": "able to work in teams, works well in a team, cross-team collaboration, team work, cross team collaboration, work with the client, fostering a collaborative environment, working well with others, crossteam collaboration, able to work well in a team, team-oriented, collaboratively with the members of the team, ability to work with all levels of staff, ability to work effectively in team environment, ability to work with a team, ability to work as a team, ability to work in a team, ability to work in teams, ability to work as part of a team, ability to work well with others, ability to work with teams, team-collaboration, team work oriented, work with the operations teams, team collaboration, work in teams, team-orientation, works well with others, works well with a team, works well with people, team orientation, working with clients, works well in groups, collaborated with other staff members, working with people, team-focused, collaborating with teams, foster collaboration, work with others, working in teams, team work skills, work as a team, cross-team communication, group collaboration, working with others, team working, works effectively with a team, teamworking, teamwork skills, work with people, team spirit, cross - team communication, enjoy working with people, ability of working in team, effective teamwork, cross - team collaboration, collaborate with team members, team oriented, assist other team members, committed to work as a collaborative and positive team member, team-orientated",
+        "FormattedName": "teamwork",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maintaining Store Cleanliness",
+        "Ontology": "Construction>Janitors and Cleaners, Except Maids and Housekeeping Cleaners>maintain store cleanliness",
+        "Alias": "manage store cleanliness, control store cleanliness, sustain store cleanliness, store cleanliness maintenance, maintain a stores' cleanliness, maintain a stores cleanliness, maintaining store cleanliness, preserve store cleanliness",
+        "FormattedName": "maintain store cleanliness",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Inventory Management System",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Procurement Clerks>inventory management software",
+        "Alias": "inventory software, materials management system, materials management software, inventory management soft, inventory management system, inventory management soft., inventory management systems software, inventory management framework, inventory management-framework, inventory management system software, inventory tracking software, retail inventory software, inventory database systems, inventory-program, computerized inventory system, computerized inventory systems, computerized inventory tracking software, materials inventory software, stock control software, inventory sy?em, inventory information software, inventory information systems, inventory information system, inventory mgmt software, inventory-control-system, software inventory, inventory system management, inventory system, inventory program, supply inventory software, inventory control systems, inventory control system software, inventory control software, inventory control programs, inventory control system, stock management system, stock management software",
+        "FormattedName": "inventory management software",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maintain Store Cleanliness",
+        "Ontology": "Construction>Janitors and Cleaners, Except Maids and Housekeeping Cleaners>maintain store cleanliness",
+        "Alias": "manage store cleanliness, control store cleanliness, sustain store cleanliness, store cleanliness maintenance, maintain a stores' cleanliness, maintain a stores cleanliness, maintaining store cleanliness, preserve store cleanliness",
+        "FormattedName": "maintain store cleanliness",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Satisfaction",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer satisfaction",
+        "Alias": "assessing guest satisfaction, customer-quality, guest satisfaction, manage customer satisfaction, customer quality mgmt, customer quality, customer quality management, customer-satisfaction, satisfied clients, client satisfaction management, client satisfaction, satis?ed customers",
+        "FormattedName": "customer satisfaction",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Inventory Management",
+        "Ontology": "Management of Companies and Enterprises>Purchasing Managers>inventory management",
+        "Alias": "managing an inventory, handling inventories, data management inventory, client stock management, stock option management, inventory investment, inventory processing, manage inventories, inventory management operations, inventory mgmt., maintain inventory, stock information management, managing stock, item management, maintaining equipment inventories, manage the items, inventory-management, physical stock management, backstock management, managing inventory, inventory handling, maintaining an inventory, implement stock management, stocks management, field inventory management, field inventory mgmt, inventory data management, managing stock levels, handle inventory, stationery inventory management, stationery inventory mgmt, maintain stock levels, management of stock, it inventory management, stock-management, inventory business management, stock rotation management, manage stock, retail stock management, manage the inventory, inventorying, physical-inventory management, physical-inventory-management, physical inventory mgmt, physical inventory management, inventory stock management, regulate inventory, inventory quality management, operations management inventory, maintaining inventory, inventory order management, inventor management, oversee inventory, managing the stock, management of inventory, processing inventory, stock mgmt., inventory keeping, logistics inventory management, logistics inventory mgmt, management inventory, inventory mgmt, inventory maintenance, online inventory management, production and inventory mgmt, production and inventory management, manage inventory operations, manage inventory, monitoring inventory of supplies, manage an inventory, inventory operations, manage store inventory, stock management, inventory skills, supply chain networking and inventory, product inventory, stock maintenance, ordering inventory, supervise inventory",
+        "FormattedName": "inventory management",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Assisting Customers",
+        "Ontology": "Information>Computer User Support Specialists>software technical support",
+        "Alias": "telephony support, aid customers, computer support, system support, website support services, support-system, support teams, technical assistance, it & technology support, customer assistance, telephone support, hardware-support, cell phone support, customer support services, customer support, assist a customer, assisting customers, website-support, 2nd line support, functional it support, on-going assistance, ongoing support, network support, phone support, telephony-support, answering technical query, support-teams, providing technical support, call support, web-site-support, consumer support, system-support, providing it support, customer service support, customers support, online support, software-tech-support, supportability software, end user customer support, ongoing assistance, software-tech support, support helpdesk, assists the client, technology-assistance, second line-support, ongoing software support, helpdesk support, development support, software tech support, 1st line helpdesk, computer-assistance, computer assistance, functional it-support, customers assistance, assisted consumer, information support, support handling, assisting in developing, client support, software support, software supportability, software support services, support customers, 2nd line technical support, systems support, technical support, technical support and diagnosis, technical support mgmt, technical support management, handling support, enduser customer support, customer-assistance, team support, provide technical support, provide technical floor support, customer-support, technology assistance, supports clients, development-support, end user support, user support, help technical team with code fixes, functional support, it hardware support, technical and procedural assistance, technical-assistance, helpdesk-support, support with customer, general support-system, support the development, computer-support, second line support, support system, hardware support services, hardware support it, hardware support, software-supportability, software-support, systems-support, general support system, ongoing support and maintenance, computer telephony support, supporting the development, facilitate customers, website support, support software",
+        "FormattedName": "software technical support",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Inventory Accuracy",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Procurement Clerks>inventory accuracy",
+        "Alias": "stock status accuracy, inventory-accuracy",
+        "FormattedName": "inventory accuracy",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Managing Inventory",
+        "Ontology": "Management of Companies and Enterprises>Purchasing Managers>inventory management",
+        "Alias": "managing an inventory, handling inventories, data management inventory, client stock management, stock option management, inventory investment, inventory processing, manage inventories, inventory management operations, inventory mgmt., maintain inventory, stock information management, managing stock, item management, maintaining equipment inventories, manage the items, inventory-management, physical stock management, backstock management, managing inventory, inventory handling, maintaining an inventory, implement stock management, stocks management, field inventory management, field inventory mgmt, inventory data management, managing stock levels, handle inventory, stationery inventory management, stationery inventory mgmt, maintain stock levels, management of stock, it inventory management, stock-management, inventory business management, stock rotation management, manage stock, retail stock management, manage the inventory, inventorying, physical-inventory management, physical-inventory-management, physical inventory mgmt, physical inventory management, inventory stock management, regulate inventory, inventory quality management, operations management inventory, maintaining inventory, inventory order management, inventor management, oversee inventory, managing the stock, management of inventory, processing inventory, stock mgmt., inventory keeping, logistics inventory management, logistics inventory mgmt, management inventory, inventory mgmt, inventory maintenance, online inventory management, production and inventory mgmt, production and inventory management, manage inventory operations, manage inventory, monitoring inventory of supplies, manage an inventory, inventory operations, manage store inventory, stock management, inventory skills, supply chain networking and inventory, product inventory, stock maintenance, ordering inventory, supervise inventory",
+        "FormattedName": "inventory management",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Restocking Shelves",
+        "Ontology": "Wholesale Trade>Supervisors of Sales and retail sales Workers>stocking shelves",
+        "Alias": "restocking shelves, fill a shelf, top up shelves, stock a shelf, refill shelves, fill shelves, shelf stocking, stock shelves",
+        "FormattedName": "stocking shelves",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cash Transactions",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial transaction",
+        "Alias": "documents financial transactions, financing transaction, cash-transaction, international financial transactions, documents ?nancial transactions, financial-transactions-mgmt, financial-transactions mgmt, financial transactions, financial transactions mgmt, financial transaction management, cash disbursements, cash disbursement, payment transactions, finance transaction management, cash transaction, cash transactions, managing the financial transactions, managing the financial transaction, cash payment",
+        "FormattedName": "financial transaction",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Store Maintenance",
+        "Ontology": "Wholesale Trade>Retail Salespersons>retail management",
+        "Alias": "shop management, retailing management, retail service management, retail store management, retail business management, merchandise maintenance, managed a store, retailing mgmt, retail mgmt., store maintenance, retail-management, store development, retail site management, retailing processes, retailing process, retail management process, retail distribution, retail product management, managed two stores, retail stores management, convenience store management, convenience store operations, convenience store administration, store management, retail enterprise management, store mgmt., retail-development, managing stores, stores management, stores management operations, retailing-management, retail store operation management, retail execution, store-management",
+        "FormattedName": "retail management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Manage Inventory",
+        "Ontology": "Management of Companies and Enterprises>Purchasing Managers>inventory management",
+        "Alias": "managing an inventory, handling inventories, data management inventory, client stock management, stock option management, inventory investment, inventory processing, manage inventories, inventory management operations, inventory mgmt., maintain inventory, stock information management, managing stock, item management, maintaining equipment inventories, manage the items, inventory-management, physical stock management, backstock management, managing inventory, inventory handling, maintaining an inventory, implement stock management, stocks management, field inventory management, field inventory mgmt, inventory data management, managing stock levels, handle inventory, stationery inventory management, stationery inventory mgmt, maintain stock levels, management of stock, it inventory management, stock-management, inventory business management, stock rotation management, manage stock, retail stock management, manage the inventory, inventorying, physical-inventory management, physical-inventory-management, physical inventory mgmt, physical inventory management, inventory stock management, regulate inventory, inventory quality management, operations management inventory, maintaining inventory, inventory order management, inventor management, oversee inventory, managing the stock, management of inventory, processing inventory, stock mgmt., inventory keeping, logistics inventory management, logistics inventory mgmt, management inventory, inventory mgmt, inventory maintenance, online inventory management, production and inventory mgmt, production and inventory management, manage inventory operations, manage inventory, monitoring inventory of supplies, manage an inventory, inventory operations, manage store inventory, stock management, inventory skills, supply chain networking and inventory, product inventory, stock maintenance, ordering inventory, supervise inventory",
+        "FormattedName": "inventory management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Stock Management",
+        "Ontology": "Management of Companies and Enterprises>Purchasing Managers>inventory management",
+        "Alias": "managing an inventory, handling inventories, data management inventory, client stock management, stock option management, inventory investment, inventory processing, manage inventories, inventory management operations, inventory mgmt., maintain inventory, stock information management, managing stock, item management, maintaining equipment inventories, manage the items, inventory-management, physical stock management, backstock management, managing inventory, inventory handling, maintaining an inventory, implement stock management, stocks management, field inventory management, field inventory mgmt, inventory data management, managing stock levels, handle inventory, stationery inventory management, stationery inventory mgmt, maintain stock levels, management of stock, it inventory management, stock-management, inventory business management, stock rotation management, manage stock, retail stock management, manage the inventory, inventorying, physical-inventory management, physical-inventory-management, physical inventory mgmt, physical inventory management, inventory stock management, regulate inventory, inventory quality management, operations management inventory, maintaining inventory, inventory order management, inventor management, oversee inventory, managing the stock, management of inventory, processing inventory, stock mgmt., inventory keeping, logistics inventory management, logistics inventory mgmt, management inventory, inventory mgmt, inventory maintenance, online inventory management, production and inventory mgmt, production and inventory management, manage inventory operations, manage inventory, monitoring inventory of supplies, manage an inventory, inventory operations, manage store inventory, stock management, inventory skills, supply chain networking and inventory, product inventory, stock maintenance, ordering inventory, supervise inventory",
+        "FormattedName": "inventory management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Store Operations",
+        "Ontology": "Wholesale Trade>Supervisors of Sales and retail sales Workers>retail operations",
+        "Alias": "store operation, store setup operations, merchandising store operations, retail operation, store operations, managed store operations, retail sales operations, retail-operation, operations retail, retail store operation, store opening operations",
+        "FormattedName": "retail operations",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cash Handling",
+        "Ontology": "Wholesale Trade>Cashiers>cash handling",
+        "Alias": "cash-handling, handling of money, handle cash, handling money, control of petty cash, monetary handling, cash - handling, money handling",
+        "FormattedName": "cash handling",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Retail Skills",
+        "Ontology": "Wholesale Trade>Retail Salespersons>retail skills",
+        "Alias": "retail skill",
+        "FormattedName": "retail skills",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Food Safety",
+        "Ontology": "Accommodation and Food Services>Cooks, All Other>food safety",
+        "Alias": "safe food handling, kitchen security, food handling, food-health-and-safety, food health and safety, kitchen safety, food-security, food security, food protection, food-safety, food hygiene, food safety and sanitation, food handling safety",
+        "FormattedName": "food safety",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Handle Cash",
+        "Ontology": "Wholesale Trade>Cashiers>cash handling",
+        "Alias": "cash-handling, handling of money, handle cash, handling money, control of petty cash, monetary handling, cash - handling, money handling",
+        "FormattedName": "cash handling",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "First Aid",
+        "Ontology": "Health Care and Social Assistance>Health Diagnosing and Treating Practitioners>first aid",
+        "Alias": "first aid techniques, first aid-training, emergency assistance, first aid training, first aid treatment",
+        "FormattedName": "first aid",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maple",
+        "Ontology": "Information>Mathematical Science Occupations, All Other>maple",
+        "Alias": "soft maple, maple software, maple soft",
+        "FormattedName": "maple",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Smith's Newsagents \r Newsagent Worker \r Manchester, UK \r 2018 - Present \r At Smith's Newsagents, Daniel is responsible for various tasks, including assisting customers, managing inventory, and maintaining the cleanliness and organization of the store. He handles cash transactions, restocks shelves, and provides friendly and efficient service to ensure a positive shopping experience for all customers. \r Key Responsibilities :  \r Greet and assist customers with their purchases. \r Handle cash, credit, and debit transactions accurately. \r Manage inventory and restock shelves as needed. \r Maintain store cleanliness and organization. \r Assist in the setup of promotional displays. \r Address customer inquiries and resolve any issues promptly. \r Key Achievements :  \r Improved customer satisfaction by consistently providing friendly and efficient service. \r Implemented a new inventory management system that reduced stock discrepancies by 15%. \r Corner Shop \r Retail Assistant \r Manchester, UK \r 2015 - 2018 \r In his role as a Retail Assistant at the Corner Shop, Daniel supported daily operations by assisting customers, handling cash transactions, and maintaining store cleanliness. He also helped with inventory management and restocking shelves. \r Key Responsibilities :  \r Assist customers with their purchases and inquiries. \r Handle cash transactions and provide correct change. \r Restock shelves and manage inventory levels. \r Maintain a clean and organized store environment. \r Assist with the setup of promotional displays. \r Key Achievements :  \r Recognized for excellent customer service and dedication to maintaining store standards. \r Played a key role in improving inventory accuracy through diligent stock management.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Smith's Newsagents",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Newsagent Worker",
+          "FormattedName": "casual worker",
+          "Alias": "casual support worker, service employee, casual employee, employee, workman, casual staff, permanent employee, worker",
+          "RelatedSkills": [],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2018 - till",
+        "FormattedJobPeriod": "2018 to till",
+        "StartDate": "01/01/2018",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At Smith's Newsagents, Daniel is responsible for various tasks, including assisting customers, managing inventory, and maintaining the cleanliness and organization of the store. He handles cash transactions, restocks shelves, and provides friendly and efficient service to ensure a positive shopping experience for all customers. \n Key Responsibilities : \n Greet and assist customers with their purchases. \n Handle cash, credit, and debit transactions accurately. \n Manage inventory and restock shelves as needed. \n Maintain store cleanliness and organization. \n Assist in the setup of promotional displays. \n Address customer inquiries and resolve any issues promptly. \n Key Achievements : \n Improved customer satisfaction by consistently providing friendly and efficient service. \n Implemented a new inventory management system that reduced stock discrepancies by 15%.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Corner Shop",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Retail Assistant",
+          "FormattedName": "retail assistant",
+          "Alias": "retail asst, retail branch associate, retail-associate, retailing assistant, retail - process associate, retail field representative, retail assoc., retails associate, retail services associate, retail associate part-time, retail associate, store sales associate, assistant retail, assistant retail supply, retail shop floor assistant, retail area assistant, customer retail assistant",
+          "RelatedSkills": [
+            {
+              "Skill": "retail account management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "retail business operations",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2015 - 2018",
+        "FormattedJobPeriod": "2015 to 2018",
+        "StartDate": "01/01/2015",
+        "EndDate": "31/12/2018",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "In his role as a Retail Assistant at the Corner Shop, Daniel supported daily operations by assisting customers, handling cash transactions, and maintaining store cleanliness. He also helped with inventory management and restocking shelves. \n Key Responsibilities : \n Assist customers with their purchases and inquiries. \n Handle cash transactions and provide correct change. \n Restock shelves and manage inventory levels. \n Maintain a clean and organized store environment. \n Assist with the setup of promotional displays. \n Key Achievements : \n Recognized for excellent customer service and dedication to maintaining store standards. \n Played a key role in improving inventory accuracy through diligent stock management.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Smith's Newsagents",
+    "JobProfile": "Newsagent Worker",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "115",
+      "TotalExperienceInYear": "9.7",
+      "TotalExperienceRange": "8-10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "57",
+    "LongestStay": "67",
+    "Summary": "Hardworking and reliable Newsagent Worker with over 5 years of experience in the retail sector. Skilled in customer service, cash handling, and inventory management. Known for excellent interpersonal skills, a strong work ethic, and a commitment to providing exceptional service to customers.",
+    "ExecutiveSummary": "Daniel has an experience in the domain of 'Wholesale Trade', particularly in the sub-domain of 'Retail Salespersons. 'The candidate has a total experience of 5 YearsThe candidate has been working as a Newsagent Worker at Smith's Newsagents for the last 6.7 years. ",
+    "ManagementSummary": "Daniel doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "Reading : Enjoy reading newspapers and magazines to stay informed about current events.",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 627ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Daniel Harris\nContact Information : \nAddress : 45 Maple Street, Manchester, M3 6HD, England\nEmail : daniel.harris@email.com\nPhone : +44 7123 987654\n\nProfessional Summary : \nHardworking and reliable Newsagent Worker with over 5 years of experience in the retail sector. Skilled in customer service, cash handling, and inventory management. Known for excellent interpersonal skills, a strong work ethic, and a commitment to providing exceptional service to customers.\n\nEducation : \nManchester Community Training Center\nCertificate in Retail Skills\nCompleted : 2018\n\nProfessional Experience : \nSmith's Newsagents\nNewsagent Worker\nManchester, UK\n2018 - Present\nAt Smith's Newsagents, Daniel is responsible for various tasks, including assisting customers, managing inventory, and maintaining the cleanliness and organization of the store. He handles cash transactions, restocks shelves, and provides friendly and efficient service to ensure a positive shopping experience for all customers.\nKey Responsibilities : \nGreet and assist customers with their purchases.\nHandle cash, credit, and debit transactions accurately.\nManage inventory and restock shelves as needed.\nMaintain store cleanliness and organization.\nAssist in the setup of promotional displays.\nAddress customer inquiries and resolve any issues promptly.\nKey Achievements : \nImproved customer satisfaction by consistently providing friendly and efficient service.\nImplemented a new inventory management system that reduced stock discrepancies by 15%.\nCorner Shop\nRetail Assistant\nManchester, UK\n2015 - 2018\nIn his role as a Retail Assistant at the Corner Shop, Daniel supported daily operations by assisting customers, handling cash transactions, and maintaining store cleanliness. He also helped with inventory management and restocking shelves.\nKey Responsibilities : \nAssist customers with their purchases and inquiries.\nHandle cash transactions and provide correct change.\nRestock shelves and manage inventory levels.\nMaintain a clean and organized store environment.\nAssist with the setup of promotional displays.\nKey Achievements : \nRecognized for excellent customer service and dedication to maintaining store standards.\nPlayed a key role in improving inventory accuracy through diligent stock management.\n\nSkills : \nCustomer Service : Strong ability to provide friendly and efficient service to customers.\nCash Handling : Proficient in handling cash, credit, and debit transactions accurately.\nInventory Management : Experienced in managing inventory levels and restocking shelves.\nStore Maintenance : Skilled in maintaining cleanliness and organization of the store.\nInterpersonal Skills : Excellent communication and interpersonal skills.\nProblem Solving : Ability to address and resolve customer inquiries and issues promptly.\nTeamwork : Ability to work collaboratively with colleagues to ensure smooth store operations.\n\nCertifications : \nCertificate in Retail Skills, Manchester Community Training Center\nBasic First Aid Certificate\nFood Safety Level 1 Certificate\n\nInterests : \nReading : Enjoy reading newspapers and magazines to stay informed about current events.\nCycling : Passionate about cycling and often participate in local cycling events.\nCommunity Volunteering : Actively involved in community volunteering, helping with local events and charities.\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Daniel Harris</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 45 Maple Street, Manchester, M3 6HD, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> daniel.harris@email.com</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 987654</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Hardworking and reliable Newsagent Worker with over 5 years of experience in the retail sector. Skilled in customer service, cash handling, and inventory management. Known for excellent interpersonal skills, a strong work ethic, and a commitment to providing exceptional service to customers.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Manchester Community Training Center</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certificate in Retail Skills</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Completed: 2018</span></li></ul></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Smith's Newsagents</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Newsagent Worker</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2018 - Present</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At Smith's Newsagents, Daniel is responsible for various tasks, including assisting customers, managing inventory, and maintaining the cleanliness and organization of the store. He handles cash transactions, restocks shelves, and provides friendly and efficient service to ensure a positive shopping experience for all customers.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Greet and assist customers with their purchases.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Handle cash, credit, and debit transactions accurately.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Manage inventory and restock shelves as needed.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Maintain store cleanliness and organization.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assist in the setup of promotional displays.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Address customer inquiries and resolve any issues promptly.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Improved customer satisfaction by consistently providing friendly and efficient service.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Implemented a new inventory management system that reduced stock discrepancies by 15%.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Corner Shop</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Retail Assistant</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2015 - 2018</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">In his role as a Retail Assistant at the Corner Shop, Daniel supported daily operations by assisting customers, handling cash transactions, and maintaining store cleanliness. He also helped with inventory management and restocking shelves.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assist customers with their purchases and inquiries.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Handle cash transactions and provide correct change.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Restock shelves and manage inventory levels.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Maintain a clean and organized store environment.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assist with the setup of promotional displays.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Recognized for excellent customer service and dedication to maintaining store standards.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Played a key role in improving inventory accuracy through diligent stock management.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Customer Service:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong ability to provide friendly and efficient service to customers.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Cash Handling:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Proficient in handling cash, credit, and debit transactions accurately.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Inventory Management:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Experienced in managing inventory levels and restocking shelves.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Store Maintenance:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Skilled in maintaining cleanliness and organization of the store.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Interpersonal Skills:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Excellent communication and interpersonal skills.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Problem Solving:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Ability to address and resolve customer inquiries and issues promptly.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Teamwork:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Ability to work collaboratively with colleagues to ensure smooth store operations.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certificate in Retail Skills, Manchester Community Training Center</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Basic First Aid Certificate</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Food Safety Level 1 Certificate</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Interests:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Reading:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Enjoy reading newspapers and magazines to stay informed about current events.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Cycling:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Passionate about cycling and often participate in local cycling events.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Community Volunteering:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Actively involved in community volunteering, helping with local events and charities.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

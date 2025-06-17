@@ -1,0 +1,750 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Charlotte Williams.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:45:51",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Charlotte Williams",
+      "TitleName": "",
+      "FirstName": "Charlotte",
+      "MiddleName": "",
+      "LastName": "Williams",
+      "FormattedName": "Charlotte Williams",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "charlotte.williams@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123123456",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 123456",
+        "FormattedNumber": "+44 7123 123456",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/charlottewilliams"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "34 Pine Crescent",
+        "City": "London",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "W1D4FF",
+        "FormattedAddress": "34 Pine Crescent, London, England, W1D4FF, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Investment Banking and Securities Dealing",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Oxford (Russell Group) \r MBA in Finance, Distinction \r Graduated : 2006 \r University of Edinburgh (Russell Group) \r BSc Economics and Finance, First Class Honours \r Graduated : 2003",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Oxford",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "MBA in Finance Distinction",
+          "NormalizeDegree": "Master of Business Administration",
+          "Specialization": [
+            "Finance"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2006",
+        "StartDate": "",
+        "EndDate": "31/12/2006",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "University of Edinburgh",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc Economics and Finance",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Economics and Finance"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2003",
+        "StartDate": "",
+        "EndDate": "31/12/2003",
+        "Aggregate": {
+          "Value": "1st",
+          "MeasureType": "Class Honours"
+        }
+      }
+    ],
+    "Certification": "Chartered Financial Analyst (CFA) Charterholder \r Financial Risk Manager (FRM) \r Advanced Financial Modelling and Valuation Certification",
+    "SegregatedCertification": [],
+    "SkillBlock": "Mergers and Acquisitions \r Corporate Finance \r Financial Modelling and Analysis \r Strategic Advisory \r Client Relationship Management \r Market Research and Risk Assessment \r Team Leadership and Development \r Negotiation and Communication",
+    "SkillKeywords": "Comprehensive,Assisted,Client Relationship Management,Managing Client Relationships,Proven Track Record,Analytical Skills,Team Performance,Team Leadership,Leading A Team,Communication,Negotiating,Negotiation,Leadership,Analysis,Mergers and Acquisitions,Driving Business Growth,Financial Transactions,Client Presentations,Client Satisfaction,Financial Modelling,Strategic Financial,Financial Analysis,Strategic Advisory,Capital Structure,Corporate Finance,Financial Markets,Financial Models,Strategic Advice,Advised Clients,Business Growth,Market Research,Risk Assessment,Due Diligence",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Comprehensive",
+        "Ontology": "Educational Services>Instructional Coordinators>comprehensive",
+        "Alias": "comprehension, ability to understand",
+        "FormattedName": "comprehensive",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2011",
+        "ExperienceInMonths": 108
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Client Relationship Management",
+        "Ontology": "Arts, Entertainment, and Recreation>Public Relations Specialists>client relationship management",
+        "Alias": "key client relationship management, client relationship, client relationships strengthening, client relations coordination, client relationship mgmt",
+        "FormattedName": "client relationship management",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Managing Client Relationships",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer relationship management",
+        "Alias": "managing client relationships, developing relationships with clients, long term customer relationship, maintain customer relationships, customer-relationship- management, customer-relationship management, manage crm, relationship management, relation management, client-relations, client management relationship, build and maintain customer relationships, crm, build customer relationships, managed the relationship, client relations, client relationship mgt., client relationships, customer care management, crm planning, manage strong customer relationships, client resource management, building relationships with customers, constituent relationship management, constituent relationship mgmt, manage customer relationships, manage customer relationship, customer relationship development, customer relationship mgmt, customer relations, customer relation management, customer relations management, customer relationships, customer relationship mgmt., customer relations development, customer relationship planning, customer relationships management, customer relationship, customers relations, relational management, long term relationship building, long term business relationships, manage the client relationship, long-term customer relationship, relationship mgmt, relationship mgmt., crm management, marketing crm, building the customer relationship, manage client relationships, consumer relationship management, relations management, managed crm, manage relationships, manage relationship, manage the relationship, client relation management, consumer-relationship-management, relationships management, managing relationships, managing relationships with clients",
+        "FormattedName": "customer relationship management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2011",
+        "ExperienceInMonths": 108
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Proven Track Record",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>proven track record",
+        "Alias": "proven leadership skills",
+        "FormattedName": "proven track record",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Analytical Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>analytical skill",
+        "Alias": "logical and analytical skills, analyzing skills, analytical background, analytical abilities, analytical ability, analytic skills, analytical skills, analytical awareness, analytical-and interpretive skills, strong analytical planning, analysing skills, analytical and troubleshooting skill, organizational analytical skills, analytics skills, analytical and interpretive skill, analytical and interpretive skills, analytical and inherent skills, analytical and problem solving skills, analytical and problem-solving, highly analytical",
+        "FormattedName": "analytical skill",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Performance",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team effectiveness",
+        "Alias": "group effectiveness, team performance, team-effectiveness",
+        "FormattedName": "team effectiveness",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Leadership",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leadership",
+        "Alias": "interdisciplinary team leadership, multi-national team leadership, lead the team member, leads group discussions, leads groups, group leadership, multi-cultural team leadership",
+        "FormattedName": "team leadership",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Leading A Team",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leading",
+        "Alias": "leading group, lead a group, team-leading, lead a team, leading a team, leading small teams, leading teams, lead the team to innovation, ability to lead teams, leading large teams",
+        "FormattedName": "team leading",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Negotiating",
+        "Ontology": "Management of Companies and Enterprises>Marketing and Sales Managers>negotiating",
+        "Alias": "negotiation skills, negotiation, commercial negotiation, commercial-negotiation, high level negotiation, negotiating skills, negotiations, negotiations skills, business negotiation, high-level negotiation",
+        "FormattedName": "negotiating",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Negotiation",
+        "Ontology": "Management of Companies and Enterprises>Marketing and Sales Managers>negotiating",
+        "Alias": "negotiation skills, negotiation, commercial negotiation, commercial-negotiation, high level negotiation, negotiating skills, negotiations, negotiations skills, business negotiation, high-level negotiation",
+        "FormattedName": "negotiating",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Leadership",
+        "Ontology": "Management of Companies and Enterprises>Top Executives>leadership",
+        "Alias": "leadership skills, leadership ability, leadership abilities, abilities to lead, leading people, leading skills, leaderships skills, leadership qualities, leadership management, people leadership, strong leadership, provide leadership, established leadership skills, inclusive leadership",
+        "FormattedName": "leadership",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Analysis",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>analysis",
+        "Alias": "examination procedures, examination, examinations, analysing",
+        "FormattedName": "analysis",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2011",
+        "ExperienceInMonths": 108
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Mergers and Acquisitions",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>mergers and acquisition",
+        "Alias": "merger & acquisition, mergers & acquisition, mergers & acquisitions, mergers acquisitions and alliances, acquisition process, acquisition processes, business acquisitions, m&a work, mergers and acquisitions, mergers and acquisition process, transferring ownership or combining companies, transferring ownership or combining businesses, acquisition business process, m&a assessment, m&a modeling, acquisition programs, acquisition program, m&a evaluation, acquisitions and mergers, merger and acquisitions, merger and acquisition, m&a review and analysis",
+        "FormattedName": "mergers and acquisition",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Driving Business Growth",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business growth",
+        "Alias": "business-growth, organization growth, cultivating business, corporate growth, organizational growth, managing company growth, growing a business, business growth impact, business growth management, driving business growth, growing businesses, growing business, cultivating-business",
+        "FormattedName": "business growth",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Transactions",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial transaction",
+        "Alias": "documents financial transactions, financing transaction, cash-transaction, international financial transactions, documents ?nancial transactions, financial-transactions-mgmt, financial-transactions mgmt, financial transactions, financial transactions mgmt, financial transaction management, cash disbursements, cash disbursement, payment transactions, finance transaction management, cash transaction, cash transactions, managing the financial transactions, managing the financial transaction, cash payment",
+        "FormattedName": "financial transaction",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2011",
+        "ExperienceInMonths": 108
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Presentations",
+        "Ontology": "Wholesale Trade>Sales and Related Workers, All Other>client presentation",
+        "Alias": "client representation, client representations, presenting to clients, client presentations, client-presentation, client-representation",
+        "FormattedName": "client presentation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2011",
+        "ExperienceInMonths": 108
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Satisfaction",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer satisfaction",
+        "Alias": "assessing guest satisfaction, customer-quality, guest satisfaction, manage customer satisfaction, customer quality mgmt, customer quality, customer quality management, customer-satisfaction, satisfied clients, client satisfaction management, client satisfaction, satis?ed customers",
+        "FormattedName": "customer satisfaction",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Modelling",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>financial modeling",
+        "Alias": "market risk model development, financial model development, investment modeling, financial-or-business-modeling, risk modelling, creating financial models, finance modelling, business valuation modeling, develop financial models, business finance modelling, financial-modeling, risk models, financial models, financial or business modeling, risk modeling, creation of financial models, financial risk modelling, financial risk modeling, developing financial models, financial-risk-modeling, valuation models, financial data modelling, valuation modeling, financial modelling, finance data models, financial model",
+        "FormattedName": "financial modeling",
+        "Evidence": "ExperienceSection,CertificationSection,SkillSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Financial",
+        "Ontology": "Management of Companies and Enterprises>Financial Managers>strategic financial management",
+        "Alias": "strategic-financial-management, managing strategic financial, strategic finance, strategic financial, strategic financial planning, strategic financial mgmt., strategic finance management, strategic finance mgmt, strategic financial-management, strategic financial-mgmt, financial management strategies, financial management strategy, manage the strategic financial, financial strategic planning",
+        "FormattedName": "strategic financial management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Analysis",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>account analysis",
+        "Alias": "accounts measurably, accounting-measurement, technical accounting research, financial statement analysis, financial statement processing, finance analysis, account analysis process, account-analysis, account research, accounting report interpretation, accounting-analysis, accounting-analyse, examining financial records, finance analytics, financial analytics, analyzing accounting options, analyzing account, analyzing account information, evaluating financial, accounting research, finance data analysis, finance data analytics, financial and business analysis, business finance analytics, bank analysis, financial research, financial service analytics, financial services analytics, financial-statement analysis, finance evaluation, financial examination, accounting-research, analysis of profit and loss statements, finance statement analysis, accounting analysis, accounting measurement, financial analysis and valuation, financial analysis, analyses financial results, analyzed the balance sheet and income statement, financial accounting research, financial-analysis, account measurement, analysis of accounting data, analysis of accounts, analysis of account, analysis of business financial statements, examine financial records, analyzing financial statements, oversee financial analysis, financial evaluations, financial evaluation, analysis of financial results, analysis of financial, analysis of financial documentation, analysis of financial information systems, analysis of financial reporting, analysis of financial statements",
+        "FormattedName": "account analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2011",
+        "ExperienceInMonths": 108
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Advisory",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>strategic advice",
+        "Alias": "strategic counselling, strategic counsel, strategic advising, strategic business advice, strategic advisory",
+        "FormattedName": "strategic advice",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Capital Structure",
+        "Ontology": "Finance and Insurance>Financial Examiners>capital structure",
+        "Alias": "capital-structure, capital structuring, capital structures, financial structure, fund structuring",
+        "FormattedName": "capital structure",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Corporate Finance",
+        "Ontology": "Wholesale Trade>Securities, Commodities, and Financial Services Sales Agents>corporate finance",
+        "Alias": "enterprise finance, enterprise financing, business-finance, corporate-finance, corporate finance management, corporate financing, business finance, business financing, finance business requirements",
+        "FormattedName": "corporate finance",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Markets",
+        "Ontology": "Wholesale Trade>Securities, Commodities, and Financial Services Sales Agents>financial markets",
+        "Alias": "financing marketplace, finance marketplace, finance markets, fiscal markets, financial market, financial markets operations, finance and investment market, finance marketing, marketing finance, finance trading, money markets, financial trading",
+        "FormattedName": "financial markets",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Models",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>financial modeling",
+        "Alias": "market risk model development, financial model development, investment modeling, financial-or-business-modeling, risk modelling, creating financial models, finance modelling, business valuation modeling, develop financial models, business finance modelling, financial-modeling, risk models, financial models, financial or business modeling, risk modeling, creation of financial models, financial risk modelling, financial risk modeling, developing financial models, financial-risk-modeling, valuation models, financial data modelling, valuation modeling, financial modelling, finance data models, financial model",
+        "FormattedName": "financial modeling",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2011",
+        "ExperienceInMonths": 108
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Advice",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>strategic advice",
+        "Alias": "strategic counselling, strategic counsel, strategic advising, strategic business advice, strategic advisory",
+        "FormattedName": "strategic advice",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Advised Clients",
+        "Ontology": "Other Services (except Public Administration) >Counselors, All Other>client counseling",
+        "Alias": "advised-client, client counselling, client advice, client advising, customer advisory, counsel clients, client guidance, advised client, client centred counseling, client centred counselling, client-counseling, client-centred counselling, advised clients, advises clients, client advisory, client counselings, advisory client, client consulting, assist and guide clients",
+        "FormattedName": "client counseling",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Growth",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business growth",
+        "Alias": "business-growth, organization growth, cultivating business, corporate growth, organizational growth, managing company growth, growing a business, business growth impact, business growth management, driving business growth, growing businesses, growing business, cultivating-business",
+        "FormattedName": "business growth",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Research",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>market research",
+        "Alias": "market survey, brand research, product-research, design market research, social-media-market-research, social-media-market research, scanning marketing, market investigation, performing market research, marketing researching, marketing research development, marketing research analysis, marketing research, marketing investigation, marketing investigations, financial market research, marketing internet research, product research, undertake market research, marketing survey, marketing surveys, sales market research, market research data, market research operations, market research management, market research and analysis, market-exploration, product study, marketing information research, market exploration, market surveys, market data research, market-investigation, market information research, setting up market surveys, perform market research, market studies, branding-research, implement market research, research branding, researching market, researching market trends, marketing scanning, market study, interpreting marketing research, research market, marketing-researching, marketing-research, social media market research, retail market research, media market research, marketing original research, social-media market research, researching the markets, researching the market, marketing data research, market scanning, branding research, online market research, designing marketing surveys, market-research",
+        "FormattedName": "market research",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Assessment",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk analysis",
+        "Alias": "performing risk analysis, conduct risk assessment, conduct risk assessments, risk assessment analytics, risk evaluation, risk measure, examining risks, examining risks and potentials, risk assessment, risk-analysis, identification of risks, risk identification, process risk analysis, risk measures, analysis of risk, assessing risk, risk-reviews, risk measurement, performed risk analysis, risks analysis, risk identi?cation, assessing risks, measuring risk, identified audit risks, risk analytics, identify risks, risk reviews, retail risk analytics, risk assessments, perform a risk analysis, business process risk assessments, business process risk assessment, retail risk assessment, risk-assessment, weekly risk analysis",
+        "FormattedName": "risk analysis",
+        "Evidence": "SkillSection,ExperienceSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Due Diligence",
+        "Ontology": "Finance and Insurance>Personal Financial Advisors>due diligence",
+        "Alias": "operational-due-diligence, acquisition due diligence, operational-due diligence, accounting due diligence, operational due diligence, operational due-diligence, due-diligence, m&a due diligence, financial due-diligence, mortgage-due-diligence, financial due diligence, mortgage due diligence",
+        "FormattedName": "due diligence",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      }
+    ],
+    "Experience": "Goldman Sachs Managing Director of Investment Banking \r London, UK \r 2018 - Present \r Leading a team of high-performing analysts and associates, managing major M&A transactions and corporate finance projects. Providing strategic financial advice, overseeing due diligence processes, and negotiating terms to ensure successful deal closures. Contributed to a significant increase in the firm's revenue and client satisfaction.\r\r Key Achievements :  \r Successfully led a �750 million acquisition of a tech company. \r Increased client portfolio value by 45% through strategic advisory. \r Recognized for exceptional leadership and client relationship management. \r Implemented innovative financial strategies, resulting in a 30% increase in business growth. \r JP Morgan Vice President of Investment Banking \r London, UK \r 2011 - 2018 \r Managed a diverse portfolio of business clients, delivering customized financial solutions and strategic advice. Conducted comprehensive financial analyses, market research, and risk assessments. Played a key role in the successful execution of several high-value transactions. \r Key Responsibilities :  \r Conducted detailed financial modelling and valuations for M&A transactions. \r Advised clients on capital structure optimization and strategic financial decisions. \r Negotiated deal terms and facilitated successful transaction closures. \r Mentored junior analysts and associates, enhancing team performance. \r Barclays Capital Investment Banking Analyst \r London, UK \r 2003 - 2011 \r Gained hands-on experience in financial modelling, market research, and transaction execution. Supported senior bankers in managing client relationships and executing complex financial transactions. \r Key Contributions :  \r Assisted in executing several high-profile M&A transactions. \r Conducted market research and financial analysis to support transaction decisions. \r Prepared financial models and valuation reports for client presentations. \r Developed strong analytical and problem-solving skills.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Goldman Sachs",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Managing Director of Investment Banking",
+          "FormattedName": "managing director",
+          "Alias": "field director, head director, director general, management head, general director, branch director, director managing, director of branch operations, general managing director, handling chief, director, managing director - services, managing director md, managing director - division, managing director- service, crew director, chief of corporate management, management director, management leader, division director, director of management, director of managing, corporate head of management",
+          "RelatedSkills": [
+            {
+              "Skill": "operational oversight",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "strategic initiatives",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "management",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "staff management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business development",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "London",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2018 - till",
+        "FormattedJobPeriod": "2018 to till",
+        "StartDate": "01/01/2018",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Leading a team of high-performing analysts and associates, managing major M&A transactions and corporate finance projects. Providing strategic financial advice, overseeing due diligence processes, and negotiating terms to ensure successful deal closures. Contributed to a significant increase in the firm's revenue and client satisfaction. \n \n Key Achievements : \n Successfully led a �750 million acquisition of a tech company. \n Increased client portfolio value by 45% through strategic advisory. \n Recognized for exceptional leadership and client relationship management. \n Implemented innovative financial strategies, resulting in a 30% increase in business growth.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "JP Morgan",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Vice President of Investment Banking",
+          "FormattedName": "investment banking vice president",
+          "Alias": "vice president of private banking, vice president of investment banking, vp in investment banking, investment banking vp, investment banking v.p.",
+          "RelatedSkills": [
+            {
+              "Skill": "investment banking",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "London",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2011 - 2018",
+        "FormattedJobPeriod": "2011 to 2018",
+        "StartDate": "01/01/2011",
+        "EndDate": "31/12/2018",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Managed a diverse portfolio of business clients, delivering customized financial solutions and strategic advice. Conducted comprehensive financial analyses, market research, and risk assessments. Played a key role in the successful execution of several high-value transactions. \n Key Responsibilities : \n Conducted detailed financial modelling and valuations for M&A transactions. \n Advised clients on capital structure optimization and strategic financial decisions. \n Negotiated deal terms and facilitated successful transaction closures.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Barclays Capital Investment Banking",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Analyst",
+          "FormattedName": "analyst",
+          "Alias": "analyst corporate, analysis professional, operations examiner, corporate analyst, analyst of corporate, corporate examiner, analysis specialist, examiner",
+          "RelatedSkills": [
+            {
+              "Skill": "critical analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer service operations",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "typing skill",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "attention to detail",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "process analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "technical competency",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "communication",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "London",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2003 - 2011",
+        "FormattedJobPeriod": "2003 to 2011",
+        "StartDate": "01/01/2003",
+        "EndDate": "31/12/2011",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Gained hands-on experience in financial modelling, market research, and transaction execution. Supported senior bankers in managing client relationships and executing complex financial transactions. \n Key Contributions : \n Assisted in executing several high-profile M&A transactions. \n Conducted market research and financial analysis to support transaction decisions. \n Prepared financial models and valuation reports for client presentations. \n Developed strong analytical and problem-solving skills.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Goldman Sachs",
+    "JobProfile": "Managing Director of Investment Banking",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "259",
+      "TotalExperienceInYear": "21.7",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "86",
+    "LongestStay": "108",
+    "Summary": "Dynamic and results-oriented Investment Banker with 18 years of experience in mergers and acquisitions, corporate finance, and strategic advisory. Known for strong analytical skills, exceptional client relationship management, and a deep understanding of global financial markets. Proven track record of driving business growth and executing high-profile transactions.",
+    "ExecutiveSummary": "Charlotte has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Investment Banking and Securities Dealing. 'The candidate has a total experience of 18 YearsThe candidate has been working as a Managing Director of Investment Banking at Goldman Sachs for the last 6.7 years. ",
+    "ManagementSummary": "Currently, Charlotte holds a High Management Level position, as Managing Director of Investment Banking at Goldman Sachs. from 01/01/2018 to 05/07/2024. The candidate has a total experience of 6.7 years in this company.\n\nCharlotte holds a High Management Level position, as Vice President of Investment Banking at JP Morgan. from 01/01/2011 to 31/12/2018. The candidate has a total experience of 8.0 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 665ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Charlotte Williams\nContact Information : \nAddress : 34 Pine Crescent, London, W1D 4FF, England\nEmail : charlotte.williams@email.com\nPhone : +44 7123 123456\nLinkedIn : linkedin.com/in/charlottewilliams\n\nProfessional Summary : \nDynamic and results-oriented Investment Banker with 18 years of experience in mergers and acquisitions, corporate finance, and strategic advisory. Known for strong analytical skills, exceptional client relationship management, and a deep understanding of global financial markets. Proven track record of driving business growth and executing high-profile transactions.\n\nEducation : \nUniversity of Oxford (Russell Group) \nMBA in Finance, Distinction\nGraduated : 2006\nUniversity of Edinburgh (Russell Group) \nBSc Economics and Finance, First Class Honours\nGraduated : 2003\n\nProfessional Experience : \nGoldman Sachs Managing Director of Investment Banking\nLondon, UK\n2018 - Present\nLeading a team of high-performing analysts and associates, managing major M&A transactions and corporate finance projects. Providing strategic financial advice, overseeing due diligence processes, and negotiating terms to ensure successful deal closures. Contributed to a significant increase in the firm's revenue and client satisfaction.\nKey Achievements : \nSuccessfully led a �750 million acquisition of a tech company.\nIncreased client portfolio value by 45% through strategic advisory.\nRecognized for exceptional leadership and client relationship management.\nImplemented innovative financial strategies, resulting in a 30% increase in business growth.\nJP Morgan Vice President of Investment Banking\nLondon, UK\n2011 - 2018\nManaged a diverse portfolio of business clients, delivering customized financial solutions and strategic advice. Conducted comprehensive financial analyses, market research, and risk assessments. Played a key role in the successful execution of several high-value transactions.\nKey Responsibilities : \nConducted detailed financial modelling and valuations for M&A transactions.\nAdvised clients on capital structure optimization and strategic financial decisions.\nNegotiated deal terms and facilitated successful transaction closures.\nMentored junior analysts and associates, enhancing team performance.\nBarclays Capital Investment Banking Analyst\nLondon, UK\n2003 - 2011\nGained hands-on experience in financial modelling, market research, and transaction execution. Supported senior bankers in managing client relationships and executing complex financial transactions.\nKey Contributions : \nAssisted in executing several high-profile M&A transactions.\nConducted market research and financial analysis to support transaction decisions.\nPrepared financial models and valuation reports for client presentations.\nDeveloped strong analytical and problem-solving skills.\n\nSkills : \nMergers and Acquisitions\nCorporate Finance\nFinancial Modelling and Analysis\nStrategic Advisory\nClient Relationship Management\nMarket Research and Risk Assessment\nTeam Leadership and Development\nNegotiation and Communication\n\nCertifications : \nChartered Financial Analyst (CFA) Charterholder\nFinancial Risk Manager (FRM) \nAdvanced Financial Modelling and Valuation Certification\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Charlotte Williams</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 34 Pine Crescent, London, W1D 4FF, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> charlotte.williams@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 123456</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> linkedin.com/in/charlottewilliams</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Dynamic and results-oriented Investment Banker with 18 years of experience in mergers and acquisitions, corporate finance, and strategic advisory. Known for strong analytical skills, exceptional client relationship management, and a deep understanding of global financial markets. Proven track record of driving business growth and executing high-profile transactions.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Oxford (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">MBA in Finance, Distinction</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2006</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Edinburgh (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">BSc Economics and Finance, First Class Honours</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2003</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Goldman Sachs</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Managing Director of Investment Banking</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">London, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2018 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Leading a team of high-performing analysts and associates, managing major M&A transactions and corporate finance projects. Providing strategic financial advice, overseeing due diligence processes, and negotiating terms to ensure successful deal closures. Contributed to a significant increase in the firm's revenue and client satisfaction.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Achievements:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Successfully led a �750 million acquisition of a tech company.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Increased client portfolio value by 45% through strategic advisory.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Recognized for exceptional leadership and client relationship management.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Implemented innovative financial strategies, resulting in a 30% increase in business growth.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">JP Morgan</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Vice President of Investment Banking</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">London, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2011 - 2018</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Managed a diverse portfolio of business clients, delivering customized financial solutions and strategic advice. Conducted comprehensive financial analyses, market research, and risk assessments. Played a key role in the successful execution of several high-value transactions.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducted detailed financial modelling and valuations for M&A transactions.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Advised clients on capital structure optimization and strategic financial decisions.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Negotiated deal terms and facilitated successful transaction closures.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Mentored junior analysts and associates, enhancing team performance.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Barclays Capital</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Investment Banking Analyst</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">London, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2003 - 2011</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Gained hands-on experience in financial modelling, market research, and transaction execution. Supported senior bankers in managing client relationships and executing complex financial transactions.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Contributions:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted in executing several high-profile M&A transactions.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducted market research and financial analysis to support transaction decisions.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Prepared financial models and valuation reports for client presentations.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed strong analytical and problem-solving skills.</span></li></ul></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Mergers and Acquisitions</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Corporate Finance</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Financial Modelling and Analysis</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strategic Advisory</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Client Relationship Management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Market Research and Risk Assessment</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Team Leadership and Development</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Negotiation and Communication</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Chartered Financial Analyst (CFA) Charterholder</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Financial Risk Manager (FRM) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Advanced Financial Modelling and Valuation Certification</span></li></ul><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

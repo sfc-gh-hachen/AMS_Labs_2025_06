@@ -1,0 +1,795 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Katherine Williams.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 1:04:37",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Katherine Williams",
+      "TitleName": "",
+      "FirstName": "Katherine",
+      "MiddleName": "",
+      "LastName": "Williams",
+      "FormattedName": "Katherine Williams",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "katherine.williams@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123456789",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 456789",
+        "FormattedNumber": "+44 7123 456789",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/katherinewilliams"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "123 Elmwood Avenue",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M36JD",
+        "FormattedAddress": "123 Elmwood Avenue, Manchester, England, M36JD, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Management of Companies and Enterprises",
+    "SubCategory": "Chief Executives",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Manchester (Russell Group) \r MBA in Finance, Distinction \r Graduated : 1998 \r University of Oxford (Russell Group) \r BSc Economics, First Class Honours \r Graduated : 1995",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "MBA in Finance Distinction",
+          "NormalizeDegree": "Master of Business Administration",
+          "Specialization": [
+            "Finance"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "1998",
+        "StartDate": "",
+        "EndDate": "31/12/1998",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "University of Oxford",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc Economics",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Economics"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "1995",
+        "StartDate": "",
+        "EndDate": "31/12/1995",
+        "Aggregate": {
+          "Value": "1st",
+          "MeasureType": "Class Honours"
+        }
+      }
+    ],
+    "Certification": "Chartered Financial Analyst (CFA) \r Certified Financial Planner (CFP) \r Advanced Certificate in Wealth Management \r Executive Leadership Program, Harvard Business School",
+    "SegregatedCertification": [],
+    "SkillBlock": "Wealth Management \r Strategic Investment Planning \r High-Net-Worth Client Advisory \r Financial Analysis \r Risk Management \r Regulatory Compliance \r Leadership and Team Development \r Strategic Vision",
+    "SkillKeywords": "Comprehensive,Client Relationships,Strategic Leadership,Proven Track Record,Strategic Planning,Client Engagement,Team Leadership,Communication,Initiative,Innovative,Leadership,Proactive,Oversee Financial Analysis,Private Banking Operations,Strategic Asset Allocation,Assets Under Management,Digital Transformation,Operational Efficiency,Investment Strategies,Regulatory Compliance,Personalized Service,Regulatory Standards,Strategic Investment,Client Satisfaction,Strategic Direction,Financial Advisory,Financial Analysis,Client Experience,Ensure Compliance,Internal Policies,Manage The Wealth,Wealth Management,Banking Industry,Client Retention,Risk Assessments,Strategic Vision,Team Development,Client Advisory,Financial Goals,Private Banking,Risk Management,Client Service",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Comprehensive",
+        "Ontology": "Educational Services>Instructional Coordinators>comprehensive",
+        "Alias": "comprehension, ability to understand",
+        "FormattedName": "comprehensive",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2005",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Client Relationships",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer relationship management",
+        "Alias": "managing client relationships, developing relationships with clients, long term customer relationship, maintain customer relationships, customer-relationship- management, customer-relationship management, manage crm, relationship management, relation management, client-relations, client management relationship, build and maintain customer relationships, crm, build customer relationships, managed the relationship, client relations, client relationship mgt., client relationships, customer care management, crm planning, manage strong customer relationships, client resource management, building relationships with customers, constituent relationship management, constituent relationship mgmt, manage customer relationships, manage customer relationship, customer relationship development, customer relationship mgmt, customer relations, customer relation management, customer relations management, customer relationships, customer relationship mgmt., customer relations development, customer relationship planning, customer relationships management, customer relationship, customers relations, relational management, long term relationship building, long term business relationships, manage the client relationship, long-term customer relationship, relationship mgmt, relationship mgmt., crm management, marketing crm, building the customer relationship, manage client relationships, consumer relationship management, relations management, managed crm, manage relationships, manage relationship, manage the relationship, client relation management, consumer-relationship-management, relationships management, managing relationships, managing relationships with clients",
+        "FormattedName": "customer relationship management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 246
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strategic Leadership",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>strategic leadership",
+        "Alias": "strategic-leadership, strategy leadership, leadership strategy",
+        "FormattedName": "strategic leadership",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Proven Track Record",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>proven track record",
+        "Alias": "proven leadership skills",
+        "FormattedName": "proven track record",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strategic Planning",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>strategic planning",
+        "Alias": "strategic prognosis planning, strategical planning, strategic plan-development, strategy planning, planning strategy, planning strategically, develop-strategic- plans, develop-strategic plans, strategic plans, development of the strategic plan, strategic development plan, strategic-roadmap, strategic-planning, strategic business plan development, strategic business planning, strategic roadmap, strategic roadmaps, develop strategic plans, develop strategic roadmaps, strategic road map, strategic planning process, strategic planning-management, strategic planning and implementation, strategic planning management, strategic planning for growth, strategic planning mgmt, strategic planning development, strategy and planning, developing a strategic plan, development of a strategic plan",
+        "FormattedName": "strategic planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Client Engagement",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer engagement",
+        "Alias": "client engagement, client engagement mgmt, client engagement management, customer support engagement, customer service engagement, digital engagement operations, digital engagement, customer-engagement, interacting with potential clients, customer engagement-management, customer engagements, customer engagement mgmt, customer engagement management, customer engagement strategy",
+        "FormattedName": "customer engagement",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Leadership",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leadership",
+        "Alias": "interdisciplinary team leadership, multi-national team leadership, lead the team member, leads group discussions, leads groups, group leadership, multi-cultural team leadership",
+        "FormattedName": "team leadership",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2005",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Initiative",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>initiative",
+        "Alias": "initiative skills, self initiative, self initiatives",
+        "FormattedName": "initiative",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Innovative",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>innovation",
+        "Alias": "innovative product idea, innovativeness, innovative, innovation skill, innovator",
+        "FormattedName": "innovation",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Leadership",
+        "Ontology": "Management of Companies and Enterprises>Top Executives>leadership",
+        "Alias": "leadership skills, leadership ability, leadership abilities, abilities to lead, leading people, leading skills, leaderships skills, leadership qualities, leadership management, people leadership, strong leadership, provide leadership, established leadership skills, inclusive leadership",
+        "FormattedName": "leadership",
+        "Evidence": "ExperienceSection,SummarySection,CertificationSection,SkillSection",
+        "LastUsed": "31/12/2005",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Proactive",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>proactive",
+        "Alias": "pro-active, proactivity, proactive behavior, ability to be proactive",
+        "FormattedName": "proactive",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2005",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Oversee Financial Analysis",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>account analysis",
+        "Alias": "accounts measurably, accounting-measurement, technical accounting research, financial statement analysis, financial statement processing, finance analysis, account analysis process, account-analysis, account research, accounting report interpretation, accounting-analysis, accounting-analyse, examining financial records, finance analytics, financial analytics, analyzing accounting options, analyzing account, analyzing account information, evaluating financial, accounting research, finance data analysis, finance data analytics, financial and business analysis, business finance analytics, bank analysis, financial research, financial service analytics, financial services analytics, financial-statement analysis, finance evaluation, financial examination, accounting-research, analysis of profit and loss statements, finance statement analysis, accounting analysis, accounting measurement, financial analysis and valuation, financial analysis, analyses financial results, analyzed the balance sheet and income statement, financial accounting research, financial-analysis, account measurement, analysis of accounting data, analysis of accounts, analysis of account, analysis of business financial statements, examine financial records, analyzing financial statements, oversee financial analysis, financial evaluations, financial evaluation, analysis of financial results, analysis of financial, analysis of financial documentation, analysis of financial information systems, analysis of financial reporting, analysis of financial statements",
+        "FormattedName": "account analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Private Banking Operations",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>private banking",
+        "Alias": "private banking operations, financial services private banking, private-banking",
+        "FormattedName": "private banking",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Asset Allocation",
+        "Ontology": "Finance and Insurance>Investment Advice>tactical asset allocation",
+        "Alias": "strategic-asset allocation, tactical asset allocation strategy, tactical-asset allocation, tactical-asset-allocation, strategic asset allocation",
+        "FormattedName": "tactical asset allocation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Assets Under Management",
+        "Ontology": "Finance and Insurance>Portfolio Management>assets under management",
+        "Alias": "assets under mgmt, funds under mgmt, asset under management, funds under management",
+        "FormattedName": "assets under management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Digital Transformation",
+        "Ontology": "Arts, Entertainment, and Recreation>Media and Communication Workers>digital transformation",
+        "Alias": "digital transformation roadmap, digital transformation management, digital transformation-roadmap, digital transformation planning, digital transformation plan, technology transformation, transformation roadmap, digital-transformation, organization digital transformation, di?gi?tal transformati?on, digital innovation, business transformation sales, digital-innovation, digital implementation, publishing digital transformation",
+        "FormattedName": "digital transformation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Operational Efficiency",
+        "Ontology": "Other Services (except Public Administration) >Business Associations>operational efficiency",
+        "Alias": "operation efficiencies, operation efficiency, operational-efficiency, operating efficiencies, improve operational efficiency, drive operational e?ciencies, drive operational efficiencies, operating ef?ciencies, operation ef?ciencies, increasing operational efficiency, maintain and improve operational efficiency",
+        "FormattedName": "operational efficiency",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Investment Strategies",
+        "Ontology": "Finance and Insurance>Portfolio Management>investment planning",
+        "Alias": "individual investment strategy, investment design, investment designing, it investment strategy, investment plan, investment strategy, investment strategies, investment-planning, strategic investments, strategic investment, investment planning process, local investment planning",
+        "FormattedName": "investment planning",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Personalized Service",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>personalized customer service",
+        "Alias": "customized customer service, personalized service, tailored customer service, personalized customer-service, individualized customer service",
+        "FormattedName": "personalized customer service",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2005",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Standards",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Investment",
+        "Ontology": "Finance and Insurance>Portfolio Management>investment planning",
+        "Alias": "individual investment strategy, investment design, investment designing, it investment strategy, investment plan, investment strategy, investment strategies, investment-planning, strategic investments, strategic investment, investment planning process, local investment planning",
+        "FormattedName": "investment planning",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Satisfaction",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer satisfaction",
+        "Alias": "assessing guest satisfaction, customer-quality, guest satisfaction, manage customer satisfaction, customer quality mgmt, customer quality, customer quality management, customer-satisfaction, satisfied clients, client satisfaction management, client satisfaction, satis?ed customers",
+        "FormattedName": "customer satisfaction",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Direction",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>strategic direction",
+        "Alias": "strategic direction of the company, strategic business direction, setting strategic direction",
+        "FormattedName": "strategic direction",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Advisory",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>financial advisory",
+        "Alias": "advisory corporate finance, independent financial advice, financial advisement, insurance advisory, consulting insurance, financial coaching, bank advice, finance advisement, finance guidance, financial guidance, corporate finance advisory, banking advice, financial-advisory, financial services consulting, financial-advice, insurance advice, finance consulting, economic counseling, bank bill advice, financial advice, insurance consulting, finance services consulting, financial-coaching, financial advising, financial consulting services, financial consulting, financial strategy consulting, economic advice, financial solution recommendation",
+        "FormattedName": "financial advisory",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2005",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Analysis",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>account analysis",
+        "Alias": "accounts measurably, accounting-measurement, technical accounting research, financial statement analysis, financial statement processing, finance analysis, account analysis process, account-analysis, account research, accounting report interpretation, accounting-analysis, accounting-analyse, examining financial records, finance analytics, financial analytics, analyzing accounting options, analyzing account, analyzing account information, evaluating financial, accounting research, finance data analysis, finance data analytics, financial and business analysis, business finance analytics, bank analysis, financial research, financial service analytics, financial services analytics, financial-statement analysis, finance evaluation, financial examination, accounting-research, analysis of profit and loss statements, finance statement analysis, accounting analysis, accounting measurement, financial analysis and valuation, financial analysis, analyses financial results, analyzed the balance sheet and income statement, financial accounting research, financial-analysis, account measurement, analysis of accounting data, analysis of accounts, analysis of account, analysis of business financial statements, examine financial records, analyzing financial statements, oversee financial analysis, financial evaluations, financial evaluation, analysis of financial results, analysis of financial, analysis of financial documentation, analysis of financial information systems, analysis of financial reporting, analysis of financial statements",
+        "FormattedName": "account analysis",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 246
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Experience",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer experience",
+        "Alias": "customer-journey, client experience, cx strategy, customer-experience, customer journeys, customer experience cx",
+        "FormattedName": "customer experience",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensure Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>ensuring compliance",
+        "Alias": "guarantee compliance with policies, compliance assurance, compliance-assurance, assures compliance, make sure policies are compliant, ensure policy compliance, assurance of compliance, certify compliance with policies, ensure compliance, ensure compliance with policies, ensure compliance with legislation, ensure compliance with policy, ensuring compliance with the rules, ensuring compliance with policies",
+        "FormattedName": "ensuring compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Internal Policies",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>company policy",
+        "Alias": "corporate-policy, corporate-policies, business policy, internal policy, maintaining company policies, organization policy, workplace policies, workplace policy, corporate policy, company policy and procedures, corporate policies, company policies and procedures, company policies, organisational policies, company-policy, organizational policies, business policies, internal policies",
+        "FormattedName": "company policy",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Manage The Wealth",
+        "Ontology": "Finance and Insurance>Portfolio Management>investment management",
+        "Alias": "creating a portfolio, corporate portfolio mgmt, corporate portfolio management, investment fund management, manage the wealth, client portfolio management, client portfolio mgmt, enterprise-management-portfolio, wealth-management, investment management operations, portfolio-administration, investment-management, retail wealth management, private portfolio management, manage portfolio, manage portfolios, investment operations, industry investment mgmt, industry investment management, portfolio-management, managed the investment assets, finance funds management, private wealth management, wealth management retail, wealth management services, wealth management, wealth management operations, investment portfolio management, wealth mgmt processes, it investment management, enterprise management portfolio, investor management, creating portfolios, investment governance, portfolio administration and management, portfolio administration, manage a portfolio, managing investment portfolios, manage wealth, investment account management, investment account mgmt, effective portfolio management, customer portfolio managements, investment assets management, investment mgmt, enterprise portfolio management, enterprise portfolio mgmt, management portfolio, budget portfolio management, budget portfolio-management, management of wealth, operating portfolio, wealth mgmt., managing portfolios, managing portfolio, business portfolio management, business portfolio mgmt, portfolio mgmt, global investment management, portfolio management framework, portfolio management, portfolio management budget, professional portfolio management, manage the portfolio, administration of portfolio, administration of a portfolio, investment funds management",
+        "FormattedName": "investment management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Wealth Management",
+        "Ontology": "Finance and Insurance>Portfolio Management>investment management",
+        "Alias": "creating a portfolio, corporate portfolio mgmt, corporate portfolio management, investment fund management, manage the wealth, client portfolio management, client portfolio mgmt, enterprise-management-portfolio, wealth-management, investment management operations, portfolio-administration, investment-management, retail wealth management, private portfolio management, manage portfolio, manage portfolios, investment operations, industry investment mgmt, industry investment management, portfolio-management, managed the investment assets, finance funds management, private wealth management, wealth management retail, wealth management services, wealth management, wealth management operations, investment portfolio management, wealth mgmt processes, it investment management, enterprise management portfolio, investor management, creating portfolios, investment governance, portfolio administration and management, portfolio administration, manage a portfolio, managing investment portfolios, manage wealth, investment account management, investment account mgmt, effective portfolio management, customer portfolio managements, investment assets management, investment mgmt, enterprise portfolio management, enterprise portfolio mgmt, management portfolio, budget portfolio management, budget portfolio-management, management of wealth, operating portfolio, wealth mgmt., managing portfolios, managing portfolio, business portfolio management, business portfolio mgmt, portfolio mgmt, global investment management, portfolio management framework, portfolio management, portfolio management budget, professional portfolio management, manage the portfolio, administration of portfolio, administration of a portfolio, investment funds management",
+        "FormattedName": "investment management",
+        "Evidence": "ExperienceSection,SummarySection,CertificationSection,SkillSection",
+        "LastUsed": "31/12/2012",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Banking Industry",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & finance, banking & financial services, finance related services, finance service, financing operations, banking-services, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, credit services, banking services, banking and financial services, banking and finance, banking and-finance, financial svcs, finance service provision, finance services, credit-services, financial industry, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Retention",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer retention",
+        "Alias": "maintaining customer, retention programs, client-retention, retain customers, account retention, business retention, increase customer retention, client retention programs, client retention, customer-retention, sales retention, customer retentions, customer retention marketing, customer retention strategies, retaining customers",
+        "FormattedName": "customer retention",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2005",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Assessments",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk analysis",
+        "Alias": "performing risk analysis, conduct risk assessment, conduct risk assessments, risk assessment analytics, risk evaluation, risk measure, examining risks, examining risks and potentials, risk assessment, risk-analysis, identification of risks, risk identification, process risk analysis, risk measures, analysis of risk, assessing risk, risk-reviews, risk measurement, performed risk analysis, risks analysis, risk identi?cation, assessing risks, measuring risk, identified audit risks, risk analytics, identify risks, risk reviews, retail risk analytics, risk assessments, perform a risk analysis, business process risk assessments, business process risk assessment, retail risk assessment, risk-assessment, weekly risk analysis",
+        "FormattedName": "risk analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2005",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Vision",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>strategic vision",
+        "Alias": "strategic visionary, strategic-vision, visionary strategy",
+        "FormattedName": "strategic vision",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Team Development",
+        "Ontology": "Management of Companies and Enterprises>General and Operations Managers>team development",
+        "Alias": "design team, internal team design, develop team, team formation, develop the team, team development skills, development of teams, design teams, team design, team-formation, develop a team, formation of team, develop team skills, designing an effective team, development team, development teams, developing high performing teams",
+        "FormattedName": "team development",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Advisory",
+        "Ontology": "Other Services (except Public Administration) >Counselors, All Other>client counseling",
+        "Alias": "advised-client, client counselling, client advice, client advising, customer advisory, counsel clients, client guidance, advised client, client centred counseling, client centred counselling, client-counseling, client-centred counselling, advised clients, advises clients, client advisory, client counselings, advisory client, client consulting, assist and guide clients",
+        "FormattedName": "client counseling",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Goals",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>financial goals",
+        "Alias": "individual financial goals, meet financial objectives, financial objectives, personal finance goals, set financial goals",
+        "FormattedName": "financial goals",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2005",
+        "ExperienceInMonths": 96
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Private Banking",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>private banking",
+        "Alias": "private banking operations, financial services private banking, private-banking",
+        "FormattedName": "private banking",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Risk Management",
+        "Ontology": "Finance and Insurance>Financial Specialists>risk management",
+        "Alias": "risk-mgmt, market risk management, protection planning, risks mgmt., manage the risks, retail risk management, management of risk, management of risk practitioner, management of risks, risk-management, managing risk, managing risks, risk mgmt, manage complex risk, departmental risk management, manage risks, risk management support, risk management processes, risk management process, manage the risk, management risk, risk process",
+        "FormattedName": "risk management",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 150
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Service",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer service",
+        "Alias": "client care, client servicing, web customer service, client-services, it customer service, customer-friendly, telephone-customer-service, telephone customer service, customer care-services, customer care skills, customer-care services, servicing corporate clients, assistance to customers, friendly approach to clients, client-friendly, customer dealing, client-servicing, customer-care- services, customer service processes, customer service skills, customer services, computer-customer-service, it-customer-service, customer care, customer advice, client friendly, clients servicing, general-customer-service, retail-customer service, client-care, client service, giving our customers the best service, customer servicing, customer friendly, retail customer service, general-computer-customer-service, client care-services, customer-service, help customers, customer solutions, consumer services, service client general, online customer service, client services, advise clients, client service skills, general customer service, customer care services, general computer customer service, on line support to customers, computer customer service",
+        "FormattedName": "customer service",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 246
+      }
+    ],
+    "Experience": "HSBC Private Bank \r Global Head of Private Banking \r Manchester, UK \r 2012 - Present \r Katherine leads a global team of private banking professionals, managing the wealth of ultra-high-net-worth clients. She is responsible for strategic direction, developing innovative investment solutions, and ensuring the highest standards of client service. Katherine's role involves overseeing financial analysis, risk management, and compliance to deliver exceptional financial outcomes. \r Key Responsibilities :  \r Provide strategic leadership and direction to the global private banking division. \r Manage the wealth portfolios of ultra-high-net-worth clients. \r Develop and implement innovative investment strategies. \r Oversee financial analysis, risk management, and regulatory compliance. \r Foster strong client relationships and ensure exceptional client service. \r Key Achievements :  \r Increased client portfolio value by 50% through strategic asset allocation and innovative investment solutions. \r Developed a global client advisory program that enhanced client engagement and retention. \r Led a digital transformation initiative that improved client experience and operational efficiency. \r NatWest Private Banking \r Head of Private Banking, UK & Europe \r Manchester, UK \r 2005 - 2012 \r At NatWest, Katherine managed private banking operations across the UK & Europe, providing bespoke wealth management services to high-net-worth clients. She was responsible for strategic planning, client advisory, and team leadership. Katherine successfully implemented investment strategies that significantly enhanced client portfolio performance. \r Key Responsibilities :  \r Oversee private banking operations across the UK & Europe. \r Provide bespoke wealth management services to high-net-worth clients. \r Develop and implement strategic investment plans. \r Lead and mentor a high-performing team of private banking professionals. \r Ensure compliance with regulatory standards and internal policies. \r Key Achievements :  \r Increased client assets under management by 40% through tailored investment strategies. \r Implemented a client-centric approach that improved client satisfaction scores by 30%. \r Successfully navigated the division through the financial crisis, maintaining client trust and portfolio stability. \r Santander Private Banking \r Senior Private Banking Executive \r Manchester, UK \r 1998 - 2005 \r Katherine began her career at Santander, where she managed high-net-worth client portfolios, provided financial advisory, and developed customized investment plans. She worked closely with clients to understand their financial goals and delivered solutions that met their needs. \r Key Responsibilities :  \r Manage high-net-worth client portfolios. \r Provide financial advisory and develop customized investment plans. \r Conduct financial analysis and risk assessments. \r Collaborate with internal teams to deliver comprehensive financial solutions. \r Maintain strong client relationships through regular communication and personalized service. \r Key Achievements :  \r Developed a robust investment framework that improved portfolio performance by 25%. \r Increased client retention rates by 20% through personalized service and proactive communication. \r Recognized for exceptional client service and leadership in wealth management.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "HSBC Private Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Global Head of Private Banking",
+          "FormattedName": "global manager",
+          "Alias": "world leader, global mgr, global sector leader, global field operations manager, global mngr, global head of business management, global team manager, manager-global operations planning, manager-global operation planning, global sales operations manager, global general manager, global-manager, global lead, global leadership team team mgr, global leadership team mgr, global leadership team team manager, global leadership team mngr, global leadership team manager, international general manager, manager, global operations planning, manager global operations, global corporate strategy lead, international mgr, manager of global leadership team, manager of global operations, manager of global, manager of global operations planning, global head, manager in global operations, global team mgr, global operations manager, international area manager, manager global, manager - global operations, manager - global operation planning, manager - global, manager global leadership team",
+          "RelatedSkills": [
+            {
+              "Skill": "global account management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "international business development",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "decision analysis",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2012 - till",
+        "FormattedJobPeriod": "2012 to till",
+        "StartDate": "01/01/2012",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Katherine leads a global team of private banking professionals, managing the wealth of ultra-high-net-worth clients. She is responsible for strategic direction, developing innovative investment solutions, and ensuring the highest standards of client service. Katherine's role involves overseeing financial analysis, risk management, and compliance to deliver exceptional financial outcomes. \n Key Responsibilities : \n Provide strategic leadership and direction to the global private banking division. \n Manage the wealth portfolios of ultra-high-net-worth clients. \n Develop and implement innovative investment strategies. \n Oversee financial analysis, risk management, and regulatory compliance. \n Foster strong client relationships and ensure exceptional client service. \n Key Achievements : \n Increased client portfolio value by 50% through strategic asset allocation and innovative investment solutions. \n Developed a global client advisory program that enhanced client engagement and retention. \n Led a digital transformation initiative that improved client experience and operational efficiency.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "NatWest Private Banking",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Head of Private Banking",
+          "FormattedName": "bank director",
+          "Alias": "private banking director, director, corporate, commercial  and  institutional banking, director bank, director banking, bank-director, banking director, head of private banking, banking finance director, director private banking, director of bank",
+          "RelatedSkills": [
+            {
+              "Skill": "banking software",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "",
+          "CountryCode": {
+            "IsoAlpha2": "",
+            "IsoAlpha3": "",
+            "UNCode": ""
+          }
+        },
+        "JobPeriod": "2005 - 2012",
+        "FormattedJobPeriod": "2005 to 2012",
+        "StartDate": "01/01/2005",
+        "EndDate": "31/12/2012",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "At NatWest, Katherine managed private banking operations across the UK & Europe, providing bespoke wealth management services to high-net-worth clients. She was responsible for strategic planning, client advisory, and team leadership. Katherine successfully implemented investment strategies that significantly enhanced client portfolio performance. \n Key Responsibilities : \n Oversee private banking operations across the UK & Europe. \n Provide bespoke wealth management services to high-net-worth clients. \n Develop and implement strategic investment plans. \n Lead and mentor a high-performing team of private banking professionals. \n Ensure compliance with regulatory standards and internal policies. \n Key Achievements : \n Increased client assets under management by 40% through tailored investment strategies. \n Implemented a client-centric approach that improved client satisfaction scores by 30%. \n Successfully navigated the division through the financial crisis, maintaining client trust and portfolio stability.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Santander Private Banking",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Senior Private Banking Executive",
+          "FormattedName": "banking executive",
+          "Alias": "bank executive officer, executive banking, executive of banking, bank executive",
+          "RelatedSkills": [],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "1998 - 2005",
+        "FormattedJobPeriod": "1998 to 2005",
+        "StartDate": "01/01/1998",
+        "EndDate": "31/12/2005",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Katherine began her career at Santander, where she managed high-net-worth client portfolios, provided financial advisory, and developed customized investment plans. She worked closely with clients to understand their financial goals and delivered solutions that met their needs. \n Key Responsibilities : \n Manage high-net-worth client portfolios. \n Provide financial advisory and develop customized investment plans. \n Conduct financial analysis and risk assessments. \n Collaborate with internal teams to deliver comprehensive financial solutions. \n Maintain strong client relationships through regular communication and personalized service. \n Key Achievements : \n Developed a robust investment framework that improved portfolio performance by 25%. \n Increased client retention rates by 20% through personalized service and proactive communication. \n Recognized for exceptional client service and leadership in wealth management.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "HSBC Private Bank",
+    "JobProfile": "Global Head of Private Banking",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "319",
+      "TotalExperienceInYear": "26.7",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "106",
+    "LongestStay": "139",
+    "Summary": "Distinguished Private Banking Executive with over 25 years of experience in the banking industry. Expertise in wealth management, bespoke investment strategies, and high-net-worth client advisory. Proven track record of delivering innovative financial solutions that drive client satisfaction and portfolio growth. Known for strategic vision, client-centric approach, and leadership in developing high-performing teams.",
+    "ExecutiveSummary": "Katherine has an experience in the domain of 'Management of Companies and Enterprises', particularly in the sub-domain of 'Chief Executives. 'The candidate has a total experience of 25 YearsThe candidate has been working as a Global Head of Private Banking at HSBC Private Bank for the last 12.7 years. ",
+    "ManagementSummary": "Currently, Katherine holds a High Management Level position, as Global Head of Private Banking at HSBC Private Bank. from 01/01/2012 to 05/07/2024. The candidate has a total experience of 12.7 years in this company.\n\nKatherine holds a High Management Level position, as Head of Private Banking at NatWest Private Banking. from 01/01/2005 to 31/12/2012. The candidate has a total experience of 8.0 years in this company.\n\nKatherine holds a Low Management Level position, as Senior Private Banking Executive at Santander Private Banking. from 01/01/1998 to 31/12/2005. The candidate has a total experience of 8.0 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 831ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Katherine Williams\nContact Information : \nAddress : 123 Elmwood Avenue, Manchester, M3 6JD, England\nEmail : katherine.williams@email.com\nPhone : +44 7123 456789\nLinkedIn : linkedin.com/in/katherinewilliams\n\nProfessional Summary : \nDistinguished Private Banking Executive with over 25 years of experience in the banking industry. Expertise in wealth management, bespoke investment strategies, and high-net-worth client advisory. Proven track record of delivering innovative financial solutions that drive client satisfaction and portfolio growth. Known for strategic vision, client-centric approach, and leadership in developing high-performing teams.\n\nEducation : \nUniversity of Manchester (Russell Group) \nMBA in Finance, Distinction\nGraduated : 1998\nUniversity of Oxford (Russell Group) \nBSc Economics, First Class Honours\nGraduated : 1995\n\nProfessional Experience : \nHSBC Private Bank\nGlobal Head of Private Banking\nManchester, UK\n2012 - Present\nKatherine leads a global team of private banking professionals, managing the wealth of ultra-high-net-worth clients. She is responsible for strategic direction, developing innovative investment solutions, and ensuring the highest standards of client service. Katherine's role involves overseeing financial analysis, risk management, and compliance to deliver exceptional financial outcomes.\nKey Responsibilities : \nProvide strategic leadership and direction to the global private banking division.\nManage the wealth portfolios of ultra-high-net-worth clients.\nDevelop and implement innovative investment strategies.\nOversee financial analysis, risk management, and regulatory compliance.\nFoster strong client relationships and ensure exceptional client service.\nKey Achievements : \nIncreased client portfolio value by 50% through strategic asset allocation and innovative investment solutions.\nDeveloped a global client advisory program that enhanced client engagement and retention.\nLed a digital transformation initiative that improved client experience and operational efficiency.\nNatWest Private Banking\nHead of Private Banking, UK & Europe\nManchester, UK\n2005 - 2012\nAt NatWest, Katherine managed private banking operations across the UK and Europe, providing bespoke wealth management services to high-net-worth clients. She was responsible for strategic planning, client advisory, and team leadership. Katherine successfully implemented investment strategies that significantly enhanced client portfolio performance.\nKey Responsibilities : \nOversee private banking operations across the UK and Europe.\nProvide bespoke wealth management services to high-net-worth clients.\nDevelop and implement strategic investment plans.\nLead and mentor a high-performing team of private banking professionals.\nEnsure compliance with regulatory standards and internal policies.\nKey Achievements : \nIncreased client assets under management by 40% through tailored investment strategies.\nImplemented a client-centric approach that improved client satisfaction scores by 30%.\nSuccessfully navigated the division through the financial crisis, maintaining client trust and portfolio stability.\nSantander Private Banking\nSenior Private Banking Executive\nManchester, UK\n1998 - 2005\nKatherine began her career at Santander, where she managed high-net-worth client portfolios, provided financial advisory, and developed customized investment plans. She worked closely with clients to understand their financial goals and delivered solutions that met their needs.\nKey Responsibilities : \nManage high-net-worth client portfolios.\nProvide financial advisory and develop customized investment plans.\nConduct financial analysis and risk assessments.\nCollaborate with internal teams to deliver comprehensive financial solutions.\nMaintain strong client relationships through regular communication and personalized service.\nKey Achievements : \nDeveloped a robust investment framework that improved portfolio performance by 25%.\nIncreased client retention rates by 20% through personalized service and proactive communication.\nRecognized for exceptional client service and leadership in wealth management.\n\nSkills : \nWealth Management\nStrategic Investment Planning\nHigh-Net-Worth Client Advisory\nFinancial Analysis\nRisk Management\nRegulatory Compliance\nLeadership and Team Development\nStrategic Vision\n\nCertifications : \nChartered Financial Analyst (CFA) \nCertified Financial Planner (CFP) \nAdvanced Certificate in Wealth Management\nExecutive Leadership Program, Harvard Business School\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Katherine Williams</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 123 Elmwood Avenue, Manchester, M3 6JD, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> katherine.williams@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 456789</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> linkedin.com/in/katherinewilliams</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Distinguished Private Banking Executive with over 25 years of experience in the banking industry. Expertise in wealth management, bespoke investment strategies, and high-net-worth client advisory. Proven track record of delivering innovative financial solutions that drive client satisfaction and portfolio growth. Known for strategic vision, client-centric approach, and leadership in developing high-performing teams.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Manchester (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">MBA in Finance, Distinction</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 1998</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Oxford (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">BSc Economics, First Class Honours</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 1995</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC Private Bank</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Global Head of Private Banking</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2012 - Present</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Katherine leads a global team of private banking professionals, managing the wealth of ultra-high-net-worth clients. She is responsible for strategic direction, developing innovative investment solutions, and ensuring the highest standards of client service. Katherine's role involves overseeing financial analysis, risk management, and compliance to deliver exceptional financial outcomes.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Provide strategic leadership and direction to the global private banking division.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Manage the wealth portfolios of ultra-high-net-worth clients.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Develop and implement innovative investment strategies.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Oversee financial analysis, risk management, and regulatory compliance.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Foster strong client relationships and ensure exceptional client service.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Increased client portfolio value by 50% through strategic asset allocation and innovative investment solutions.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed a global client advisory program that enhanced client engagement and retention.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Led a digital transformation initiative that improved client experience and operational efficiency.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">NatWest Private Banking</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Head of Private Banking, UK & Europe</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2005 - 2012</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At NatWest, Katherine managed private banking operations across the UK and Europe, providing bespoke wealth management services to high-net-worth clients. She was responsible for strategic planning, client advisory, and team leadership. Katherine successfully implemented investment strategies that significantly enhanced client portfolio performance.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Oversee private banking operations across the UK and Europe.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Provide bespoke wealth management services to high-net-worth clients.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Develop and implement strategic investment plans.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Lead and mentor a high-performing team of private banking professionals.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ensure compliance with regulatory standards and internal policies.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Increased client assets under management by 40% through tailored investment strategies.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Implemented a client-centric approach that improved client satisfaction scores by 30%.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Successfully navigated the division through the financial crisis, maintaining client trust and portfolio stability.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Santander Private Banking</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Senior Private Banking Executive</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">1998 - 2005</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Katherine began her career at Santander, where she managed high-net-worth client portfolios, provided financial advisory, and developed customized investment plans. She worked closely with clients to understand their financial goals and delivered solutions that met their needs.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Manage high-net-worth client portfolios.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Provide financial advisory and develop customized investment plans.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conduct financial analysis and risk assessments.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborate with internal teams to deliver comprehensive financial solutions.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Maintain strong client relationships through regular communication and personalized service.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed a robust investment framework that improved portfolio performance by 25%.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Increased client retention rates by 20% through personalized service and proactive communication.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Recognized for exceptional client service and leadership in wealth management.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Wealth Management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strategic Investment Planning</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">High-Net-Worth Client Advisory</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Financial Analysis</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Risk Management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Regulatory Compliance</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Leadership and Team Development</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strategic Vision</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Chartered Financial Analyst (CFA) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Financial Planner (CFP) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Advanced Certificate in Wealth Management</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Executive Leadership Program, Harvard Business School</span></li></ul><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>4</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

@@ -1,0 +1,638 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Priya Patel - CV.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "07/03/2025 1:23:40",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Priya Patel",
+      "TitleName": "",
+      "FirstName": "Priya",
+      "MiddleName": "",
+      "LastName": "Patel",
+      "FormattedName": "Priya Patel",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "priya.patel@example.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+441234567890",
+        "ISDCode": "+44",
+        "OriginalNumber": "1234 567890",
+        "FormattedNumber": "+44 1234 567890",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "",
+        "Url": ""
+      }
+    ],
+    "Address": [
+      {
+        "Street": "456 Elm Street",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "456 Elm Street, Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Information",
+    "SubCategory": "Software Developers and Programmers",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "BSc in Computer Science University of Manchester, Manchester, UK \r September 2013 - June 2016",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "Manchester",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "UK",
+            "CountryCode": {
+              "IsoAlpha2": "GB",
+              "IsoAlpha3": "GBR",
+              "UNCode": "826"
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc in Computer Science",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Computer Science"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "09/2013 to 06/2016",
+        "StartDate": "01/09/2013",
+        "EndDate": "30/06/2016",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "",
+    "SegregatedCertification": [],
+    "SkillBlock": "C++, Java \r Databases : Oracle, SQL \r Methodologies : Agile, Scrum \r Tools : JIRA, Git",
+    "SkillKeywords": "Compliance With Regulatory Requirements,Professional Development,Financial Applications,Performed Unit Testing,Programming Languages,Agile Methodologies,Database Management,Financial Services,Agile Development,Banking Industry,Banking Software,Cross-Functional,Software Quality,Sprint Planning,Code Reviews,Agile,Scrum,JIRA,Java,C++,Elm,Git,SQL",
+    "SegregatedSkill": [
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Compliance With Regulatory Requirements",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "observing regulations, commercial compliance, commercial compliance process, comply with legal laws, comply with legal legislation, comply with legal statutes, comply with legal regulations, comply with legal rules, compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulation, compliance regulations, regulatory submissions, regulatory submission, regulatory knowledge, internal compliance, internal compliance system, regulatory standards, regulatory standard, handling statutory matters, safety compliance, regulatory guidelines, comply with a legal regulation, global regulatory compliance, adhere to an departmental guidelines, regulatory adherence, regulatory-requirements, legal regulation compliance, corporate compliance, following construction and government standards, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, operations regulatory, adhering to departmental guidelines, regulatory rules, legal compliance, statutory compliance, statutory compliances, governmental compliance, international regulatory compliance, observes regulations, government compliance, standard compliance, meet compliance requirements, complying with legal regulations, external compliance, manage regulatory compliance, business compliance, complying with regulations, investment-compliance, compliance technical, compliance investment, internal-compliance, regulatory conformance, investment compliance, regulatory remediation, ensuring compliance with regulations, regulating rules, compliance in business, managed regulatory compliance, operational regulations, ensures statutory procedures, operational-regulations, compliance with the requirements, compliance with the rules, compliance with current legislation, compliance with the regulations, compliance with safety standards, compliance with statutory requirements, compliance with safety regulations, compliance with statutory, compliance with regulatory requirements, compliance with regulations, compliance with legislation, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 69
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Professional Development",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>career development",
+        "Alias": "internal career development, training and career development, professional-learning, employee career-development, career advancement, role development, workforce progression, career path planning, professional learning, career progression plan, career progression, career progression planning, career management plan, career management planning, professional development assistance, professional development, professional development process, professional-development, career preparation and development, career preparation, career-pathing, personal career development, professional-training, career-progression-plan, career pathing, career-preparation, career growth, career-advancement, employee career development, growth opportunities, career-development, career development training, career development theories, career development-programs, career development process, career development program, career development programs, career development planning, career development trainings, career development theory, career development plan, responsibilities development, professional-growth, professional training, professional growth strategies, professional growth, professional growth and development, career site development",
+        "FormattedName": "career development",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Applications",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial management software",
+        "Alias": "treasury banking app, financial platform, treasury management soft, treasury management software, treasury management system, finance management software, finance department software, banking operations software, cash application, cash applications, financial data reporting software, financial information-system, financial information system, financial information systems, financial statement software, finance reporting tools, finance reporting tool, financial application, financial application system, financial applications, financial applications management, accounting reporting software, treasury systems, financial record software, banking software suite, banking software, finance information system, banking management software, managing finance management system, banking system software, corporate finance software, wealth management software, financial reporting soft., financial reporting software, financial report generation software, financial and business management system, cash management system, cash management soft, cash management software, cash management tool, cash management systems, financial services soft, financial services tool, financial services software, financial service management system, financial software information systems, financial software management, financial software, financial software products, banking automation software, banking soft., finance business systems, finance platform, cash flow management software, finance software, money management software, financial management tool, financial management system, financial management soft., financial tracking software, financial system, financial systems, financial systems management, financial system software, financial department software, financial-reporting-software, financial processing management system, banking applications, banking application, banking application software, banking systems, banking solutions software, finance application, finance applications, financial app, banking technology platform, banking system, finance it system",
+        "FormattedName": "financial management software",
+        "Evidence": "SummarySection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 98
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Performed Unit Testing",
+        "Ontology": "Information>Software Quality Assurance Analysts and Testers>software testing>unit testing",
+        "Alias": "business unit testing, unit tests, performed unit testing, system unit testing, unit test, live unit tests, unit testing software, automated unit test, automated unit testing, live unit analysis, live unit testing, unit-testing, bu testing, unit test plans, unit systems test, testing live unit, live unit test, unit testing and preparing, unit testing and preparation, application unit test, application unit testing, business units testing, automated testing unit, application testing unit",
+        "FormattedName": "unit testing",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2019",
+        "ExperienceInMonths": 29
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Programming Languages",
+        "Ontology": "Information>Software Developers and Programmers>programming language",
+        "Alias": "software & programming languages, computer lang., computer programming lang., computer programming, computer programming language, software programming, software programming language, computer science programming, development languages, programming lang., programming languages, coding languages, programming-language, code programming, advanced programming, application development language, operations programming, its programming, programming concepts, software coding, computer languages, computer language, programming skills",
+        "FormattedName": "programming language",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Agile Methodologies",
+        "Ontology": "Information>Software Developers and Programmers>agile software development",
+        "Alias": "agile app development, agile design, agile techniques, agile software application development, agile framework, development agile software, agile team practices, agile team practice, agile-methodology, agile it systems, agile product engineering, agile system development, agile engineering, agile process improvement method, agile process improvement, agile-sdlc-methodology, agile platform, agile implementation frameworks, agile implementation, agile implementation methodology, agile implementation of projects, agile test life cycle management, agile sdlc, agile methodology, agile methodological, agile methodology framework, agile methodologies, agile methodologies engineering, agile methodology sdlc, agile program management, agile software development framework, agile software development life cycle, agile software design, agile software development lifecycle, agile software delivery, agile model driven development, application development agile, agile approach, agile fdd, agile model development, agile process framework, agile product approach, agile process-improvement, agile application development, agile applications development, agile application software development, agile solution development, agile technical development, agile-soft development life-cycle, agile platforms, governance agile development, software development methodologies agile, software development agile process, agile lifecycle development, agile software engineering practices, agile software engineering, agile devops, agile web-development, implementation agile, agile method sdlc, agile processes, agile best practices, agile delivery process, agile product creation, agile programming, agile-software-development, agile-product development life cycle, agile web design and development, agile methods, agile process, agile practices, agile sdlc methodology, agile sdlc methodologies, agile team development, agile project development, agile website development, agile processes development, agile web development, agile frame work, agile lean implementation, agile software implementation, agile software lifecycle, agile development project, agile development process, agile development methodologies, agile development governance, agile development sdlc, agile development framework, agile development practice, agile development, agile development environment, agile development methodology, agile web technologies, agile product development lifecycle, agile product development, agile product development life cycle, develop the new features, develop the new functionality, agile software process, agile software processes, agile it development, agile practice, agile project lifecycle management, agile project life cycle mythology, agile project life cycle, agile soft development life cycle, agile sw development, agile method, agile software framework, agile-process-improvement, agile-framework, lightweight methodology, lightweight-methodology, agile",
+        "FormattedName": "agile software development",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 69
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Database Management",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>database management",
+        "Alias": "managed databases, managed database, management databases, management database, maintenance information databases, manage database administration, management-database, db mgmt, creating and maintaining databases, db management, databases management, managing a database, managed data base, managed data bases, managed-database, basic database management, management of database, database mgmt, manage the database, database-maintenance, manage database, maintaining databases, data base mgmt, maintain databases, maintain database, maintain database of local information, database maintenance, database knowledge, data base maintenance, database mgmt., managing development databases, managing database, managing database operation, managing database operations, managing databases, managing database software products, database-management, create and maintain databases, plans and maintains database structures, creation and maintenance of databases, maintained database, data base management",
+        "FormattedName": "database management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2019",
+        "ExperienceInMonths": 29
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Services",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & financial services, finance related services, finance service, investment-services, banking activity, financing operations, banking-services, investor�servicing, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, investment services, credit services, banking activities, banking-activities, banking services, investment related services, banking and financial services, banking and finance, banking and-finance, investor servicing, financial svcs, finance service provision, finance services, credit-services, financial industry, investor service�, investor services, investor service, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Agile Development",
+        "Ontology": "Information>Software Developers and Programmers>agile software development",
+        "Alias": "agile app development, agile design, agile techniques, agile software application development, agile framework, development agile software, agile team practices, agile team practice, agile-methodology, agile it systems, agile product engineering, agile system development, agile engineering, agile process improvement method, agile process improvement, agile-sdlc-methodology, agile platform, agile implementation frameworks, agile implementation, agile implementation methodology, agile implementation of projects, agile test life cycle management, agile sdlc, agile methodology, agile methodological, agile methodology framework, agile methodologies, agile methodologies engineering, agile methodology sdlc, agile program management, agile software development framework, agile software development life cycle, agile software design, agile software development lifecycle, agile software delivery, agile model driven development, application development agile, agile approach, agile fdd, agile model development, agile process framework, agile product approach, agile process-improvement, agile application development, agile applications development, agile application software development, agile solution development, agile technical development, agile-soft development life-cycle, agile platforms, governance agile development, software development methodologies agile, software development agile process, agile lifecycle development, agile software engineering practices, agile software engineering, agile devops, agile web-development, implementation agile, agile method sdlc, agile processes, agile best practices, agile delivery process, agile product creation, agile programming, agile-software-development, agile-product development life cycle, agile web design and development, agile methods, agile process, agile practices, agile sdlc methodology, agile sdlc methodologies, agile team development, agile project development, agile website development, agile processes development, agile web development, agile frame work, agile lean implementation, agile software implementation, agile software lifecycle, agile development project, agile development process, agile development methodologies, agile development governance, agile development sdlc, agile development framework, agile development practice, agile development, agile development environment, agile development methodology, agile web technologies, agile product development lifecycle, agile product development, agile product development life cycle, develop the new features, develop the new functionality, agile software process, agile software processes, agile it development, agile practice, agile project lifecycle management, agile project life cycle mythology, agile project life cycle, agile soft development life cycle, agile sw development, agile method, agile software framework, agile-process-improvement, agile-framework, lightweight methodology, lightweight-methodology, agile",
+        "FormattedName": "agile software development",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2019",
+        "ExperienceInMonths": 29
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Banking Industry",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & financial services, finance related services, finance service, investment-services, banking activity, financing operations, banking-services, investor�servicing, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, investment services, credit services, banking activities, banking-activities, banking services, investment related services, banking and financial services, banking and finance, banking and-finance, investor servicing, financial svcs, finance service provision, finance services, credit-services, financial industry, investor service�, investor services, investor service, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 69
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Banking Software",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial management software",
+        "Alias": "treasury banking app, financial platform, treasury management soft, treasury management software, treasury management system, finance management software, finance department software, banking operations software, cash application, cash applications, financial data reporting software, financial information-system, financial information system, financial information systems, financial statement software, finance reporting tools, finance reporting tool, financial application, financial application system, financial applications, financial applications management, accounting reporting software, treasury systems, financial record software, banking software suite, banking software, finance information system, banking management software, managing finance management system, banking system software, corporate finance software, wealth management software, financial reporting soft., financial reporting software, financial report generation software, financial and business management system, cash management system, cash management soft, cash management software, cash management tool, cash management systems, financial services soft, financial services tool, financial services software, financial service management system, financial software information systems, financial software management, financial software, financial software products, banking automation software, banking soft., finance business systems, finance platform, cash flow management software, finance software, money management software, financial management tool, financial management system, financial management soft., financial tracking software, financial system, financial systems, financial systems management, financial system software, financial department software, financial-reporting-software, financial processing management system, banking applications, banking application, banking application software, banking systems, banking solutions software, finance application, finance applications, financial app, banking technology platform, banking system, finance it system",
+        "FormattedName": "financial management software",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 98
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cross-Functional",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>cross functional skills",
+        "Alias": "manage cross functional project teams, cross - functional team management, leading cross-functional teams, leading cross-functional teams effectively, management of multi-disciplinary teams, build effective cross functional teams, leading cross functional teams, worked within multi-discipline team, working across cross-functional teams, functional teams management, cross functional mgmt, cross functional-management, cross functional team management, cross functional relationship-building, cross functional relationship building, cross functional team facilitation, cross functional team-leadership, cross functional team building, cross functional communications, cross functional team leadership, cross functional assistance, cross functional management, cross-functional team-building, cross-functional- management, cross-functional team management, cross-functional skills, cross-functional relationship building, cross-functional- team management, cross-functional problem solving, cross-functional team leadership, cross-functional- relationship building, cross-functional management, cross-functional relationship management, cross-functional- skills, cross-functional, crossfunctional communication, crossfunctional problem solving, crossfunctional team leadership, global cross-functional team leadership, manage multidisciplinary teams, building a cross-functional team",
+        "FormattedName": "cross functional skills",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 69
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Software Quality",
+        "Ontology": "Information>Software Quality Assurance Analysts and Testers>software quality assurance",
+        "Alias": "software assurance, programme assurance, quality product, testing-qa, product quality, quality-management-framework, quality-management framework, assurance technical, software-quality, software-quality control, software-quality assurance, software-quality management, software-quality-assurance, software-quality framework, software-quality-control, software-quality-management, software-quality-framework, software control, software quality, software quality control, software quality analysis, software quality process implementation, software quality management, software quality assurance testing, software quality mgmt, software quality monitoring, software quality testing, software quality framework, software quality operations, quality-assurance review, quality-assurance-framework, quality-assurance-testing, quality-assurance-reviews, quality-assurance-review, quality-assurance methodologies, quality-assurance framework, quality-assurance reviews, quality-assurance-methodologies, qa testing, software qa methodologies, assurance software, testing-quality-assurance, soft quality control, control software, tech. assurance, program assurance, systems assurance, technology assurance, qa server, software qa, infrastructure quality-assurance, infrastructure quality assurance, quality management frame work, quality management-framework, quality management framework, test assurance, soft. quality assurance, technological  assurance, system-assurance, perform quality assurance tests, technical assurance, quality assurance methodology, quality assurance review, quality assurance-testing, quality assurance server, quality assurance infrastructure, quality assurance test, quality assurance methodologies, quality assurance plans, quality assurance framework, quality assurance arrangements, quality assurance approaches, quality assurance reviews, assurance program, software-assurance, infra quality assurance, testing qa, testing quality assurance, soft quality mgmt, soft quality management, web qa, software qa management, quality and testing, qa software, assurance-testing, quality control framework, quality control testing, program-quality, qa review, program quality, assurance testing, quality software development, system assurance, software-control, technical quality control, technical quality assurance, product-quality",
+        "FormattedName": "software quality assurance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2019",
+        "ExperienceInMonths": 29
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Sprint Planning",
+        "Ontology": "Information>Software Developers and Programmers>agile project management>sprint planning",
+        "Alias": "creating sprint stories, sprint test planning, sprint test plans, sprint-plan, sprint-planning, scrum sprint planning, sprint plan, scrum project planning, preparing sprint planning, sprint task planning, sprint planification",
+        "FormattedName": "sprint planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2019",
+        "ExperienceInMonths": 29
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Code Reviews",
+        "Ontology": "Information>Software Quality Assurance Analysts and Testers>code review",
+        "Alias": "peer code review, technical reviews, technical review, front end code review, front end code reviews, review automated code, scienti?c review, automated code review, automated code reviews, review peer, peer reviews, scientific reviews, technical-reviews, technical-review, code reviews, code inspection, building code review, review scientific, code research, grant reviewing, scientific-review, research code, code reviewing, peer review, peer review process",
+        "FormattedName": "code review",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "07/03/2025",
+        "ExperienceInMonths": 69
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Agile",
+        "Ontology": "Information>Software Developers and Programmers>agile software development",
+        "Alias": "agile app development, agile design, agile techniques, agile software application development, agile framework, development agile software, agile team practices, agile team practice, agile-methodology, agile it systems, agile product engineering, agile system development, agile engineering, agile process improvement method, agile process improvement, agile-sdlc-methodology, agile platform, agile implementation frameworks, agile implementation, agile implementation methodology, agile implementation of projects, agile test life cycle management, agile sdlc, agile methodology, agile methodological, agile methodology framework, agile methodologies, agile methodologies engineering, agile methodology sdlc, agile program management, agile software development framework, agile software development life cycle, agile software design, agile software development lifecycle, agile software delivery, agile model driven development, application development agile, agile approach, agile fdd, agile model development, agile process framework, agile product approach, agile process-improvement, agile application development, agile applications development, agile application software development, agile solution development, agile technical development, agile-soft development life-cycle, agile platforms, governance agile development, software development methodologies agile, software development agile process, agile lifecycle development, agile software engineering practices, agile software engineering, agile devops, agile web-development, implementation agile, agile method sdlc, agile processes, agile best practices, agile delivery process, agile product creation, agile programming, agile-software-development, agile-product development life cycle, agile web design and development, agile methods, agile process, agile practices, agile sdlc methodology, agile sdlc methodologies, agile team development, agile project development, agile website development, agile processes development, agile web development, agile frame work, agile lean implementation, agile software implementation, agile software lifecycle, agile development project, agile development process, agile development methodologies, agile development governance, agile development sdlc, agile development framework, agile development practice, agile development, agile development environment, agile development methodology, agile web technologies, agile product development lifecycle, agile product development, agile product development life cycle, develop the new features, develop the new functionality, agile software process, agile software processes, agile it development, agile practice, agile project lifecycle management, agile project life cycle mythology, agile project life cycle, agile soft development life cycle, agile sw development, agile method, agile software framework, agile-process-improvement, agile-framework, lightweight methodology, lightweight-methodology, agile",
+        "FormattedName": "agile software development",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Scrum",
+        "Ontology": "Information>Software Developers and Programmers>scrum methodology",
+        "Alias": "scrum software, scrum-framework, agile methodology scrum framework, agile methodology scrum, agile scrum software, agile scrum-framework, agile scrum, scrum, scrum framework, scrum frame work, agile scrum development, scrum-best-practices, scrum development process, scrum development, agile programming scrum, scrum agile methodology, scrum agile methodologies, scrum agile methods, scrum agile method, scrum methodologies, scrum-methodology, agile scrum framework, agile development scrum, agile scrum methodologies, agile scrum methodology, scrum best practices",
+        "FormattedName": "scrum methodology",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "JIRA",
+        "Ontology": "Information>Software Developers, Applications>jira",
+        "Alias": "jira server 8.4.3, jira server 8.4.2, jira server 8.4.1, jira server 8.4.0, jira server 7.6.9, jira server 7.6.13, jira server 7.6.1, jira server 7.6.12, jira server 7.6.0, jira server 7.6.14, jira server 7.6.10, jira server 7.6.15, jira server 7.6.7, jira server 7.6.2, jira server 7.6.4, jira server 7.6.8, jira server 7.6.11, jira server 7.6.16, jira server 7.6.3, jira server 7.6.17, jira server 7.6.6, jira software 8.9, jira software 8.13, jira software 8.1, jira software 8.19., jira software 8.12, jira software 8.0, jira software 8.14, jira software 8.10, jira software 8.15, jira software 8.7, jira software 8.20., jira software 8.2, jira software 8.4, jira software 8.8, jira software 8.11, jira software 8.16, jira software 8.3, jira software 8.6, jira server 7.5.1, jira server 7.5.0, jira server 7.5.2, jira server 7.5.4, jira server 7.5.3, jira tool, jira server 7.1.9, jira server 7.1.1, jira server 7.1.0, jira server 7.1.10, jira server 7.1.7, jira server 7.1.2, jira server 7.1.4, jira server 7.1.6, jira server 7.0.9, jira server 7.0.5, jira server 7.0.0, jira server 7.0.10, jira server 7.0.2, jira server 7.0.4, jira server 7.0.11, defect tracking tool jira, jira server 7.10.0, jira server 7.10.1, jira server 7.10.2, jira server 8.22.0, jira server 8.22.1, jira server 8.22.2, jira bug tracker, jira server 7.7.1, jira server 7.7.0, jira server 7.7.2, jira server 7.7.4, jira software 7.10, jira software 7.7, jira software 7.8, jira software 7.11, jira software 7.9, jira software 7.13, jira software 7.12, jira testing, jira server 8.8.1, jira server 8.8.0, jira server 8.9.1, jira server 8.9.0, jira server 8.13.11, jira server 8.13.1, jira server 8.13.2, jira server 8.13.4, jira server 8.13.21, jira server 8.13.10, jira server 8.13.18, jira server 8.13.5, jira server 8.13.6, jira server 8.13.19, jira server 8.13.13, jira server 8.13.14, jira server 8.13.3, jira server 8.13.8, jira server 8.13.17, jira server 8.13.15, jira server 8.13.12, jira server 8.13.16, jira server 8.13.0, jira server 8.13.20, jira server 8.13.7, jira server 8.13.9, jira framework, jira server 8.2.4, jira server 8.2.3, jira server 8.2.6, jira server 8.2.1, jira server 8.2.5, jira server 8.2.0, jira server 8.2.2, jira cloud software, jira server 7.4.4, jira server 7.4.3, jira server 7.4.6, jira server 7.4.1, jira server 7.4.5, jira server 7.4.0, jira server 7.4.2, jira server 8.19.0, jira server 8.19.1, jira server 7.9.0, jira server 7.9.2, jira server 7.11.0, jira server 7.11.1, jira server 7.11.2, jira server 8.12.3, jira server 8.12.0, jira server 8.12.1, jira server 8.12.2, jira software, jira ticketing system framework, jira ticketing system, jira ticketing software, jira server 7.3.9, jira server 7.3.1, jira server 7.3.5, jira server 7.3.0, jira server 7.3.7, jira server 7.3.2, jira server 7.3.4, jira server 7.3.8, jira server 7.3.3, jira server 7.3.6, jira tracking tool, jira server 8.0.0, jira server 8.0.2, jira server 8.0.3, jira soft., jira agile, jira server 7.8.1, jira server 7.8.0, jira server 7.8.2, jira server 7.8.4, jira server 8.17.1, jira server 8.17.0, jira server 8.5.3, jira server 8.5.17, jira server 8.5.6, jira server 8.5.10, jira server 8.5.15, jira server 8.5.7, jira server 8.5.2, jira server 8.5.4, jira server 8.5.8, jira server 8.5.18, jira server 8.5.11, jira server 8.5.16, jira server 8.5.9, jira server 8.5.13, jira server 8.5.1, jira server 8.5.5, jira server 8.5.19, jira server 8.5.12, jira server 8.5.0, jira server 8.5.14, jira server 8.16.0, jira server 8.16.1, jira server 8.16.2, jira platform, jira 8.13, jira cloud, jira server 8.1.1, jira server 8.1.0, jira server 8.1.2, jira server 8.1.3, jira server, jira server 7.12.3, jira server 7.12.0, jira server 7.12.1, jira server 7.12.2, jira server 7.2.4, jira server 7.2.8, jira server 7.2.11, jira server 7.2.3, jira server 7.2.6, jira server 7.2.9, jira server 7.2.13, jira server 7.2.1, jira server 7.2.12, jira server 7.2.0, jira server 7.2.14, jira server 7.2.10, jira server 7.2.15, jira server 7.2.7, jira server 7.2.2, jira server 8.14.1, jira server 8.14.0, jira bug tracking system, jira bug tracking, jira bug tracking tool, jira server 8.20.1, jira server 8.20.2, jira server 8.20.4, jira server 8.20.5, jira server 8.20.6, jira server 8.20.3, jira server 8.20.8, jira server 8.20.0, jira server 8.20.7, jira server 8.20.9, jira server 8.3.3, jira server 8.3.2, jira server 8.3.4, jira server 8.3.1, jira server 8.3.5, jira server 8.3.0, jira cloud tool, atlassian jira, jira 8.5, jira server 8.6.1, jira server 8.6.0, jira server 8.11.0, jira server 8.11.1, jira server 8.15.1, jira server 8.15.0, jira server 8.10.1, jira server 8.10.0, jira tracking, jira server 8.21.0, jira server 8.21.1, jira cloud soft, jira server 8.18.1, jira server 8.18.2, jira server 8.18.0, jira server 8.7.1, jira server 8.7.0, jira server 7.13.5, jira server 7.13.6, jira server 7.13.15, jira server 7.13.12, jira server 7.13.16, jira server 7.13.0, jira server 7.13.9, jira server 7.13.11, jira server 7.13.1, jira server 7.13.2, jira server 7.13.4, jira server 7.13.18, jira server 7.13.13, jira server 7.13.14, jira server 7.13.3, jira server 7.13.8, jira server 7.13.17",
+        "FormattedName": "jira",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Java",
+        "Ontology": "Information>Software Developers and Programmers>programming language>java",
+        "Alias": "core java, java 5, java dev language, java 4, java 3, java application, corejava, personaljava software, programming language java, java1.3, oracle java, personaljava, java 7, advance java programming, java platform, java basic programming, java programming, java programming language, programming core java, programming corejava, java 11, ms java technologies, java 2 advanced programming, java 2, java 5.0, java 8 programming, personaljava technology, java 1, pjava, java 6, sun java, java 1.5, java technologies, java1, core java programming, java technology, embedded java, java platform language, java5, java 17, java 2.0, java8, java 1.4, java tech., advance java, java development, java development language, java development lang., core-java, java 1.2, java coding, java 2 programming, java 10, java 8, java 18, java1.4, java 9, microsoft java technologies",
+        "FormattedName": "java",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "C++",
+        "Ontology": "Information>Software Developers and Programmers>programming language>c++",
+        "Alias": "c++ - programming language, computer programming c++, c + +, basic c++ coding, c++ programming language, c++ programming lang., programming language c++, basic c++, c++ scripting language, ec++, c++98, c++ computer programming, ansi c++, c++14, c++11, c ++ programming, c ++, programming c++, embedded c++ programming, c++03, c++ language, c++20, c++/cli, embedded c++ language, c++ coding, c++ programming, ec++ programming, embedded c++, c++ computer language, c++ language programming, c++17, computer language c++, c++ software programming, ansi-c++",
+        "FormattedName": "c++",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Elm",
+        "Ontology": "Information>Software Developers and Programmers>programming language>elm",
+        "Alias": "elm framework, elm programming language, elm 0.19.1",
+        "FormattedName": "elm",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Git",
+        "Ontology": "Information>Software Developers, Applications>git",
+        "Alias": "git source control, git source control management, git versioning, software git, git server, git open source, git tool management, git management, git soft., git system soft., git system software, git operations, git version control, git version control tools, git version control software, git version control management, git software, git version management, git source code control, git source code management, git versioning control system, git versioning control systems, git scm",
+        "FormattedName": "git",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "SQL",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>programming language>sql",
+        "Alias": "sql 2008, structured query language, sql 2003, oracle sql2005, sql-2003, advanced sql, programming language sql, oracle sql programming, sql 2005, sql/400, sql programming, sql coding, database definition language, database sql, ibm sql/400, sql language, oracle sql, databases sql, sql development, sqldb, coding sql, sql databases, sql computer language, sql 2000, ibm sql400, sql database, data definition language, sql400, data dictionary language, programming sql, sql oracle, oql, sql database query language, advanced sql programming, sql programming language, ansi sql, sql queries, data description lang, data description language, object query language, sql2005, microsoft sql programming, structured-query-language",
+        "FormattedName": "sql",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Software Engineer ABC Bank, Manchester, UK \r June 2019 - Present \r Developed and maintained financial applications using C++ and Oracle. \r Implemented Agile methodologies to improve project efficiency and collaboration. \r Collaborated with cross-functional teams to design and develop banking software solutions. \r Conducted code reviews and provided mentorship to junior developers. \r Ensured compliance with regulatory requirements in the banking industry. \r Junior Software Engineer XYZ Financial Services, Manchester, UK \r January 2017 - May 2019 \r Assisted in the development of banking software systems using C++ and Oracle. \r Participated in Agile development sprints and contributed to sprint planning. \r Performed unit testing and debugging to ensure software quality. \r Worked closely with senior engineers to implement new features and enhancements. \r Gained experience in financial applications and database management.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "ABC Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Software Engineer",
+          "FormattedName": "software developer",
+          "Alias": "computer support programmer, system-application-engineer, application engr, computer programmer, solutions developer, leader applications developer, technology software developer, technology software engineer, lead developer-applications, software programmer, engineer-application, technical programmer, tech programmer, software integration developer, application lead developer, software - engineer, technical solution engineer, technical solutions engineer, computer applications engineer, computer application engineer, computer application developer, computer applications developer, it solutions engineer, computer software engineer, computer software professional, computer software engr, computer software developer, programmer, developer of software, developer, applications-engineer, certified programmer, software-developer, solution development engineer, solution developer, solutions dev, soft. development engineer, developer application, developer applications, soft developer, solutions engineer expert, solutions engineer, solutions engineering intern, programmer engineering, software system designer, lead applications developer, lead applications programmer, lead application developer, application engineering expert, application engineer, engineer - software, applications web developer, application developer it, application developer, developer lead applications, lead solutions engineer, enterprise solutions engineer, solutions programmer, system applications engineer, system application engineer, computer coder, engineer of solution, application-engineer, lead app developer, application programmer, application programmer lead, applications lead developer, software design and development engineer, software design engineer, computer systems programmer, computer systems software engineer, software application engineer, applications programmer, s/w development engr, developer solutions, developer lead of applications, soft. dev. engineer, it developer, engr software, intermediate software engineer, product solutions engineer, product solution engineer, application support developer, it software engineer, technical - software engineer, software developer applications, software developer engineering, software development engr, software development engineer, software development specialist, software designer, information technology application developer, technical soft developer, application technology developer, application technology engineer, application technology engineering expert, application technology engineering specialist, applications developer, windows application developer, developer-software, it applications programmer lead, software dev. engineer, engineer application development, software engineering engineer, software engineer - development, software engineer, software engineer - information technology, software engineer developer, software engineer web services, developer software, sys application engineer, app software developer, technology programmer, technology solution engineer, development software engineer, developer of solutions, app developer, applications engineer, in charge of programming, application - developer, software solutions developer, solution engineer, engineering programmer, product application engineer, lead web application developer, app development engineer, computer language coder, software- designer, application software development engineer, application software engineer, application software developer, developer it, engr, apps dev, software dev engr, software dev engineer, enterprise software engineer, lead-applications developer, desktop application developer, independent software developer, developer - application, specialist software, engineer of system application, engineer software, engineer software development",
+          "RelatedSkills": [
+            {
+              "Skill": "programming language",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data structure",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "operating system",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "web development",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "software testing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "software engineering",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "software debugging",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "computer science",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "openness to criticism",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "parallel design",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "technical aspects",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "database management",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "version control",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "precision development",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "borland software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "redundancy elimination",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "code duplication detection",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "github copilot",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "custom snippet generation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "software development",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "June 2019 - till",
+        "FormattedJobPeriod": "06/2019 to till",
+        "StartDate": "01/06/2019",
+        "EndDate": "07/03/2025",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Developed and maintained financial applications using C and Oracle. \n Implemented Agile methodologies to improve project efficiency and collaboration. \n Collaborated with cross-functional teams to design and develop banking software solutions. \n Conducted code reviews and provided mentorship to junior developers. \n Ensured compliance with regulatory requirements in the banking industry.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "XYZ Financial Services",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Junior Software Engineer",
+          "FormattedName": "junior software developer",
+          "Alias": "junior software- developer, junior engineering software specialist, junior engineering specialist, junior dev engineer, jr. software engr, jr. software engineer, software programmer junior, programmer jr., junior it developer, entry level programmer, junior soft engineer, junior-software engineer, junior s/w developer, jr. engr., junior analyst application development, jr. software support engineer, jr. applications engineer, jr. applications developer, jr. applications support engineer, software junior engr, software junior engineer, it junior developer, junior engineer-development, jr. it application developer, application engineer junior, developer junior software, developer junior application, jr coder, application development junior software engineer, jr engr, jr. engineer - software, junior app developer, junior development engineer, jr. design application engineer, junior technology developer, jnr .software engineer, jr. developer, junior services developer, application programmer junior, junior apps programmer, jr programmer, entry level software engineer, software application junior engineer, jr applications developer, jr. software expert, jr. sw engineer, jr . developer, jr. sw engr, jr. team developer, junior engineer - software, junior engineer of software solutions, junior engineer of applications, junior engineer software solutions, junior engineer software, junior engineer of application, junior engineer applications, junior engineer application, software development junior specialist, software developer junior, junior enterprise application developer, junior programming staff, jr. apps developer, junior coder, jr. software application engineer, junior level programmer, jr soft engineer, jr application developer, jr application development analyst, jr application engineer, junior level developer, junior it solutions developer, junior support team developer, junior analyst of application development, software engineer junior, junior computer engineer, junior computer programmer, entry-level computer programmer, jr. lead programmer, developer software junior, junior software engr, junior software design engineer, junior software applications programmer, junior software lead developer, junior software lead, junior software support engineer, junior software solutions engineer, junior software engineer, junior software engineer engineering, junior software development engineer, junior software applications engineer, junior software dev, junior software programmer, junior software development engr, jr. application programmer, jr. application developer, jr. application engineer, jr. application development analyst, application junior engineer, junior soft engr, junior it applications developer, junior developer software, junior developer - technology, junior developer of  software, junior developer, junior developer engineering, junior developer of software, jr. software professional, jr. software programmer, jr software developer, jr. computer programmer, software jr. developer, junior design applications engineer, junior level applications engineer, junior level application development analyst, junior level application engineer, jr software engr, software dev junior advisor, jr software support engineer, jr. developer - technology, jr software engineer, jr. it developer, jr developer lead, junior applications engr, junior application programmer, junior applications developer, junior applications engineer, junior application engr, junior applications programmer, junior application development specialist, junior application development systems analyst, junior application development analyst, junior application support engineer, junior application developer, junior application systems developer, jr. software design engineer, jr software solutions engineer, jr. solutions developer, jr. programming developer, jr developer, junior system builder, jr. software developer, jr. software dev engineer, jr. software developer., jr. software development engineer, jr software specialist, junior programmer, jr. s/w engr, jr  software engineer, jr. programmer, entry-level software developer, jr. app developer, jr. software test engineer, junior it programmer, junior soft. engineer, junior system developer, junior level software developer, jr application support engineer, jr application software engineer",
+          "RelatedSkills": [
+            {
+              "Skill": "programming language",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data structure",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "operating system",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "web development",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "software testing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "software engineering",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "software debugging",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "computer science",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "database management",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "version control",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "January 2017 - May 2019",
+        "FormattedJobPeriod": "2025 to till",
+        "StartDate": "01/01/2017",
+        "EndDate": "31/05/2019",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Assisted in the development of banking software systems using C and Oracle. \n Participated in Agile development sprints and contributed to sprint planning. \n Performed unit testing and debugging to ensure software quality. \n Worked closely with senior engineers to implement new features and enhancements. \n Gained experience in financial applications and database management.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "ABC Bank",
+    "JobProfile": "Software Engineer",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "99",
+      "TotalExperienceInYear": "8.3",
+      "TotalExperienceRange": "8-10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "49",
+    "LongestStay": "70",
+    "Summary": "Priya is a dedicated software engineer with six years of experience in the banking sector. She has a solid foundation in C++ and Oracle, and she is adept at working with financial applications. Priya is passionate about continuous learning and staying updated with the latest industry trends.",
+    "ExecutiveSummary": "Priya has an experience in the domain of 'Information', particularly in the sub-domain of 'Software Developers and Programmers'. The candidate has been working as a Software Engineer at ABC Bank for the last 5.10 years. ",
+    "ManagementSummary": "Priya doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "Available upon request.",
+    "CustomFields": "Parsing Time : 453ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Priya Patel\nContact Information : \nEmail : priya.patel@example.com\nPhone : +44 1234 567890\nAddress : 456 Elm Street, Manchester, UK\n\nProfessional Summary : Priya is a dedicated software engineer with six years of experience in the banking sector. She has a solid foundation in C++ and Oracle, and she is adept at working with financial applications. Priya is passionate about continuous learning and staying updated with the latest industry trends.\n\nWork Experience : \nSoftware Engineer ABC Bank, Manchester, UK\nJune 2019 - Present\nDeveloped and maintained financial applications using C++ and Oracle.\nImplemented Agile methodologies to improve project efficiency and collaboration.\nCollaborated with cross-functional teams to design and develop banking software solutions.\nConducted code reviews and provided mentorship to junior developers.\nEnsured compliance with regulatory requirements in the banking industry.\nJunior Software Engineer XYZ Financial Services, Manchester, UK\nJanuary 2017 - May 2019\nAssisted in the development of banking software systems using C++ and Oracle.\nParticipated in Agile development sprints and contributed to sprint planning.\nPerformed unit testing and debugging to ensure software quality.\nWorked closely with senior engineers to implement new features and enhancements.\nGained experience in financial applications and database management.\n\nEducation : \nBSc in Computer Science University of Manchester, Manchester, UK\nSeptember 2013 - June 2016\n\nSkills : \nProgramming Languages : C++, Java\nDatabases : Oracle, SQL\nMethodologies : Agile, Scrum\nTools : JIRA, Git\nOther : Financial applications, Regulatory compliance\n\nProfessional Development : \nCompleted online courses on advanced C++ programming and cloud computing (Azure) .\nAttended various workshops and conferences on software development and financial technology.\n\nReferences : Available upon request.\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.7.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Priya Patel</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt; font-weight:bold\">Email:</span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\"> </span><a href=\"mailto:priya.patel@example.com\" target=\"_blank\" style=\"text-decoration:none\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt; text-decoration:underline; color:#47a8a2\">priya.patel@example.com</span></a></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\"> </span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">+44 1234 567890</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt; font-weight:bold\">Address:</span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\"> </span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">456 Elm Street, Manchester, UK</span></li></ul><div align=\"center\"><hr size=\"2\" align=\"center\" noshade=\"\" style=\"width:100%; color:#242424; background-color:#242424\" /></div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Professional Summary:</span><span style=\"color:#2d1946\"> </span><span style=\"color:#2d1946\">Priya is a dedicated software engineer with six years of experience in the banking sector. She has a solid foundation in C++ and Oracle, and she is adept at working with financial applications. Priya is passionate about continuous learning and staying updated with the latest industry trends.</span></p><div align=\"center\"><hr size=\"2\" align=\"center\" noshade=\"\" style=\"width:100%; color:#242424; background-color:#242424\" /></div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Work Experience:</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Software Engineer</span><span style=\"color:#2d1946\"> </span><span style=\"font-style:italic; color:#2d1946\">ABC Bank, Manchester, UK</span><br /><span style=\"font-style:italic; color:#2d1946\">June 2019 - Present</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Developed and maintained financial applications using C++ and Oracle.</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Implemented Agile methodologies to improve project efficiency and collaboration.</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Collaborated with cross-functional teams to design and develop banking software solutions.</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Conducted code reviews and provided mentorship to junior developers.</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Ensured compliance with regulatory requirements in the banking industry.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Junior Software Engineer</span><span style=\"color:#2d1946\"> </span><span style=\"font-style:italic; color:#2d1946\">XYZ Financial Services, Manchester, UK</span><br /><span style=\"font-style:italic; color:#2d1946\">January 2017 - May 2019</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Assisted in the development of banking software systems using C++ and Oracle.</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Participated in Agile development sprints and contributed to sprint planning.</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Performed unit testing and debugging to ensure software quality.</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Worked closely with senior engineers to implement new features and enhancements.</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Gained experience in financial applications and database management.</span></li></ul><div align=\"center\"><hr size=\"2\" align=\"center\" noshade=\"\" style=\"width:100%; color:#242424; background-color:#242424\" /></div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Education:</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">BSc in Computer Science</span><span style=\"color:#2d1946\"> </span><span style=\"font-style:italic; color:#2d1946\">University of Manchester, Manchester, UK</span><br /><span style=\"font-style:italic; color:#2d1946\">September 2013 - June 2016</span></p><div align=\"center\"><hr size=\"2\" align=\"center\" noshade=\"\" style=\"width:100%; color:#242424; background-color:#242424\" /></div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt; font-weight:bold\">Programming Languages:</span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\"> </span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">C++, Java</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt; font-weight:bold\">Databases:</span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\"> </span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Oracle, SQL</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt; font-weight:bold\">Methodologies:</span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\"> </span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Agile, Scrum</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt; font-weight:bold\">Tools:</span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\"> </span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">JIRA, Git</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt; font-weight:bold\">Other:</span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\"> </span><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Financial applications, Regulatory compliance</span></li></ul><div align=\"center\"><hr size=\"2\" align=\"center\" noshade=\"\" style=\"width:100%; color:#242424; background-color:#242424\" /></div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">Professional Development:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Completed online courses on advanced C++ programming and cloud computing (Azure) .</span></li><li style=\"margin-left:27.6pt; margin-bottom:10pt; line-height:130%; padding-left:8.4pt; font-family:serif; font-size:10pt; color:#2d1946; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"line-height:130%; font-family:Calibri; font-size:12pt\">Attended various workshops and conferences on software development and financial technology.</span></li></ul><div align=\"center\"><hr size=\"2\" align=\"center\" noshade=\"\" style=\"width:100%; color:#242424; background-color:#242424\" /></div><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"font-weight:bold; color:#2d1946\">References:</span><span style=\"color:#2d1946\"> </span><span style=\"color:#2d1946\">Available upon request.</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\"> </span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span style=\"height:0pt; text-align:left; display:block; position:absolute; z-index:-65534\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAxkAAAArCAYAAAAUuUXEAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAILElEQVR4nO3dbYwdVR3H8W1VVFTkoe3OzN1ihQot987dlvWpirCyd87sFitGskZf4AsR8ClGY4waJa5iolHUaAKRmGhiNNFEbSKB+EJFMeLDoqJofMBEhQoUQYwFNUWo/9+ZM3fnzs69tNulG5LvJ5ns3PMwc87sm/O/55y5Y2MAAAAAAAAAAAAAAAAAAAAAAAAAADxBzI/NP+msiXxrd9w9o57Xbs8ft3NzlqjMsPqqpzL19Klkz/GdOHt+u5XtGFX/CK1LE7ctjd3UmRte+axVumZfGueftGvfkUbuV9Nj009Ok7zXTWbPbCqr+1vZ2zpxb/tqt2NZu0a0Y1nZ2O1N4+zyx7tNAAAAwFA2KL3MjkNpkn2tnteJ88/7vNh9v6nu1pPnTrC8e4v6+YX9a0bZvKX9w479dhywY19TIHIkOuPuFXadv9rxiB0HdXQSd/XRXLOqHeUvt2s+bEHT+db+88YU0BR9u7ap/FQyvUH97o73XrxabZhszZyhdtTTR7WjoewtdnxgtdoEAAAAHDELJH5og9JFO/4zdVLv2dW8buS+auk/12B6MuntXF7XvT2N819Y/n+7iXut0rZsmX6aff635b1PnzWLobz2xt3RStuoQb9d8392fEqBzdjYwvrJKH+htf3but9Kr9vQlz9U0xQYtTdOP7Op/OMRZNhzWlCQUE8f1Y46ggwAAACsqR3R7BbNDLSjubPs74OdxF1SzVeQEQKNH9jxuXp9S/tdmAnpBxlaeuVnNorZgFWRJu7HaZz9bGRfJrLnaXCtJU/qx9TY1FP6/Uiy1ylfgYm162Npkr+tOmjvxvmstf86q3+3nb9DsxllPS3N6pezdCv3CUt7Z3h2y4IMK9OxNnzY2vBxLXMayBvRDs3UKGjSci3fBitbrVe2Iz31gpPs8xvtuEqBnK438KwIMgAAALCWikG5+1E4/4oN5G+s5pdBhg1+L7b8f1UH5hpAl2nVIMPvZYjdXX52ZLx32tG2sT2Rn6zBvLXhTUP7keQXWpmHbND99W7sPtONs78oKNm6de6poW+3qG+W/0ctsUoj9zdLu6lfP8reavV+acHMPy39y1bmDUv1igG77q/lVHpOnch9y/7+uR5kWP1XhWt8Ok2yD9nf+zpR/q7K8x7aDgUWVvfX9vl+tcGOKwfrFe1QYGf9+0a4/vWagbLA5rlNZQEAAIBjzgajv9e36Tq3wfAF9vlRG/xuLvPLIGPXxK6nW94DaZxfWqm71wbL14TzfpDh6427F/kN1No7EWVfqF7zSHWT/Gy/XCvu5U35CiT8YN0G3WVaZ9PMuIIOBQ+hfRp4L5abxSeT3jk+cNk0d3q/P4l7r6X9pvZ8/IBdG+C1L0LLmfp5du1qkBGCqzsHnpGCjtgdGAx2hrdj2HKpauCgoGspZ2G9v2foZ70sAAAAcEy1o9kXaJ+DBuT6rEFyJ87/rsF2WaYMMnTuv3m3AXI43+zrTsx29bkeZIgCk2Kfg7tbm8C1jGhZG1r5ZJhN8Ud96U+lnYc6ceaa+qE2+CCkNXNGNd3SbujG2ZfC+cDAO2xY1z6Tc/rlRwQZerOTLx/l7TKvvidD9w/LxK7QrIeObuzeX7S9eAPVY7XjcIIM32f7n2mDeDfOL/KzIpH74LCyAAAAwDGTRu6z2qCdRvl3+kfs7kvj7LdlmWqQoVfR+kF1kp9tA9uPWP2b+9dqCDJKYTB+p5YZ1fPaSfZS7fXoH+O9dFmZjbsjf9/Ivbnp+t1WNlMM9t2mgfRiL8k3Q/sGBt5hc/qhTjQ73e/DqCDDAglfvjIjUw8yLO8lafEmrmu1X6I87PNHy5mLx2rH4QQZ4TW79+ptYOG57R+YYSHIAAAAwFoIS3v2a7mTgoPy0EbitPImqWqQIaneNJXkX7S/93Sj/PWV9KFBRsjfa4P47660vVb/Nt27Ka+cQajOSoQ6t2pzdTg/qiBje7z7OfXy9Y3f3dbchA8yWrO7RvRjZDs0I9HUz7KeZlJ8+TCDFPJ+QpABAACANWeD7902EH1k+4Y8Hszxa/zv0rfl+lQPMjSbEL6tv7/66thqkNGJ8tfY5yv1lik/iC7u9VC592Ml7Np7tF9EG571A3+TE+e3tN9Bm7XDxvBFvYpX/dH+ibBM66DaENp3VEFGOL9Vb3/Sa35D0LHo21Td+B27mzQjtK01c4o+++VQ1v+m6zW1w57vW7S0TH0qr1GtV84m2XGuT4/cnJ0/SJABAACANednI2ww3JgXfvW6ONcbp5aWOWmAXQxqs6sG6/hN1vPFtd224pWz7tEwID5Q3ZS9Up149tU2qL49XFPHPuvHe5TnX5sbuZtD+sN+I7gNwJfqup+Wv9shYSO3BS35y8o0G+C/W7/0PXjPpXph78e+tPgxwAcUVGk2SHtGyvKa3bD075VlUr35KewLOZx27IzmNtqz+1N4dotN9cISqYN+/0yc3ehfvRtlVwy7BwAAAHBM6Dck9CN5zbkL68tZCpWpl9PA2P6sa0gbsGPL9IntpHeqrrdqDTf6hl/7IZrytH9Dswz1e4bfzBhoc/nGp4p11d/WaKqnZWYKJMrn09RvXy/Zc7xeK1u/x+G1Y2G9ll5V0+v19Gw1m1O2qdrfpnsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADA+z/xYuEFoH6aawAAAABJRU5ErkJggg==\" width=\"793\" height=\"43\" alt=\"AMS - Confidential\" style=\"margin-top:5.23pt; margin-left:-57.05pt; -aw-left-pos:0pt; -aw-rel-hpos:page; -aw-rel-vpos:page; -aw-top-pos:0pt; -aw-wrap-type:none; position:absolute\" /></span><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputData": "",
+      "TemplateOutputFileName": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2024.10.24"
+    }
+  }
+}

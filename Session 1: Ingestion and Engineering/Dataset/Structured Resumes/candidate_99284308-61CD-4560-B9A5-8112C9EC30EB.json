@@ -1,0 +1,601 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Juan Martinez Manchester.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:15:35",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "Phone",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Juan Martinez Manchester",
+      "TitleName": "",
+      "FirstName": "Juan",
+      "MiddleName": "Martinez",
+      "LastName": "Manchester",
+      "FormattedName": "Juan Martinez Manchester",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "juan.martinez@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+441234654321",
+        "ISDCode": "+44",
+        "OriginalNumber": "1234 654321",
+        "FormattedNumber": "+44 1234 654321",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/juanmartinez"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "",
+        "City": "",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "",
+        "CountryCode": {
+          "IsoAlpha2": "",
+          "IsoAlpha3": "",
+          "UNCode": ""
+        },
+        "ZipCode": "",
+        "FormattedAddress": "",
+        "Type": "",
+        "ConfidenceScore": 0
+      }
+    ],
+    "Category": "Accommodation and Food Services",
+    "SubCategory": "Chefs and Head Cooks",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Diploma in Culinary Arts \r Le Cordon Bleu London \r Graduated : 2008",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "Le Cordon Bleu London",
+          "Type": "Institute",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 10
+        },
+        "Degree": {
+          "DegreeName": "Diploma in Culinary Arts",
+          "NormalizeDegree": "Diploma",
+          "Specialization": [
+            "Culinary Arts"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2008",
+        "StartDate": "",
+        "EndDate": "31/12/2008",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "ServSafe Food Protection Manager Certification \r HACCP Certification",
+    "SegregatedCertification": [],
+    "SkillBlock": "Menu development \r Team management \r High-volume kitchen operations \r Ingredient sourcing \r Food safety and hygiene \r Creative problem-solving",
+    "SkillKeywords": "High Standards,Assisted,Proven Track Record,Team Management,Innovative,Creative,Kitchen Management,Safety Procedures,Menu Development,Event Catering,Culinary Arts,Menu Planning,Food Quality,Food Safety,Cooking",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "High Standards",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 102
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 94
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Proven Track Record",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>proven track record",
+        "Alias": "proven leadership skills",
+        "FormattedName": "proven track record",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Management",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team management",
+        "Alias": "manage internal teams, managing multiple teams, team mgmt., manage team members, management of multiple teams, groups management, managed groups, manage teams, manage multiple teams, team administration, manage groups, managed the group, managing small teams, group management, team mgmt, team-management, team processes, teams management, manage small team, managing a team, management team, managed engineering teams, manage the team, managed a successful team, managed a project team, managing high performance teams, manage team processes, group administration, team management process, managed the project team, managing groups, ability to manage a team, managed an interdisciplinary team, managed an international team, managed a small team, managed a group",
+        "FormattedName": "team management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Innovative",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>innovation",
+        "Alias": "innovative product idea, innovativeness, innovative, innovation skill, innovator",
+        "FormattedName": "innovation",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 102
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Creative",
+        "Ontology": "Arts, Entertainment, and Recreation>Graphic Designers>creativity",
+        "Alias": "creating new solutions, creativity skills, creative skills, creative, inventive skills, creating new procedures, creatively, creative thinker, inventive",
+        "FormattedName": "creativity",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Kitchen Management",
+        "Ontology": "Accommodation and Food Services>Cooks and Food Preparation Workers>kitchen management",
+        "Alias": "manage daily kitchen operations, restaurant kitchen mgmt, restaurant kitchen management, manage restaurant kitchen",
+        "FormattedName": "kitchen management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 67
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Safety Procedures",
+        "Ontology": "Construction>Health and Safety Engineers, Except Mining Safety Engineers and Inspectors>safety procedure",
+        "Alias": "workplace safety procedures, safety procedures and regulations, safety procedures, safety procedure and regulation",
+        "FormattedName": "safety procedure",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2010",
+        "ExperienceInMonths": 27
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Menu Development",
+        "Ontology": "Accommodation and Food Services>Chefs and Head Cooks>menu development",
+        "Alias": "menu creation, restaurant menu development, development of menu",
+        "FormattedName": "menu development",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 67
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Event Catering",
+        "Ontology": "Accommodation and Food Services>Caterers>catering services",
+        "Alias": "event catering, office catering, corporate catering, assist catering staff, arranging catering services, social event catering, catering work, wedding catering, arranging-catering services, arranging-catering-services, service catering, catering arrangements, catering arrangement",
+        "FormattedName": "catering services",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2010",
+        "ExperienceInMonths": 27
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Culinary Arts",
+        "Ontology": "Accommodation and Food Services>Cooks and Food Preparation Workers>culinary arts",
+        "Alias": "culinary skills",
+        "FormattedName": "culinary arts",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Menu Planning",
+        "Ontology": "Accommodation and Food Services>Chefs and Head Cooks>plan menus",
+        "Alias": "menu management, provide advice on menu compilation, plan a menu, assist in planning menus, menu planning",
+        "FormattedName": "plan menus",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2010",
+        "ExperienceInMonths": 27
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Food Quality",
+        "Ontology": "Manufacturing>Food Processing Workers, All Other>food quality",
+        "Alias": "ingredient selection, food product quality, food product quality and safety, food quality management",
+        "FormattedName": "food quality",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 102
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Food Safety",
+        "Ontology": "Accommodation and Food Services>Cooks, All Other>food safety",
+        "Alias": "safe food handling, kitchen security, food handling, food-health-and-safety, food health and safety, kitchen safety, food-security, food security, food protection, food-safety, food hygiene, food safety and sanitation, food handling safety",
+        "FormattedName": "food safety",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 67
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cooking",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2010",
+        "ExperienceInMonths": 27
+      }
+    ],
+    "Experience": "The Ritz-Carlton, Manchester \r Executive Chef \r January 2016 - Present \r Manchester, UK \r Developed and executed a diverse menu, focusing on high-quality ingredients and innovative dishes. \r Managed a team of 20+ kitchen staff, ensuring smooth operations and high standards of food quality. \r Collaborated with suppliers to source the finest ingredients. \r Implemented kitchen processes that improved efficiency and reduced waste. \r Received multiple awards for culinary excellence. \r Hilton Manchester Deansgate \r Sous Chef \r June 2010 - December 2015 \r Manchester, UK \r Assisted the Executive Chef in menu development and kitchen management. \r Supervised kitchen staff and ensured adherence to food safety standards. \r Prepared high-quality dishes in a fast-paced environment. \r Managed inventory and ordered supplies as needed. \r Contributed to the restaurant receiving a Michelin star. \r La Petite Maison \r Chef de Partie \r March 2008 - May 2010 \r Manchester, UK \r Prepared and cooked dishes according to the restaurant's standards. \r Assisted in menu planning and special event catering. \r Ensured kitchen cleanliness and organization. \r Trained new kitchen staff in cooking techniques and safety procedures.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "The Ritz-Carlton",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Executive Chef",
+          "FormattedName": "executive chef",
+          "Alias": "chef-executive, exec chef, executive, chef, executive-chef, executive chef of operations",
+          "RelatedSkills": [
+            {
+              "Skill": "food pairing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "food processing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "chef skills",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "creativity",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "blend food ingredients",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "passionate",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "culinary arts",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "food industry",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "meal planning",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "ensure food quality",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "meal preparation",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "January 2016 - till",
+        "FormattedJobPeriod": "01/2016 to till",
+        "StartDate": "01/01/2016",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Developed and executed a diverse menu, focusing on high-quality ingredients and innovative dishes. \n Managed a team of 20 kitchen staff, ensuring smooth operations and high standards of food quality. \n Collaborated with suppliers to source the finest ingredients. \n Implemented kitchen processes that improved efficiency and reduced waste. \n Received multiple awards for culinary excellence.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Hilton",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Sous Chef",
+          "FormattedName": "sous chef",
+          "Alias": "head of sous chef, sous-chef, artisan sous chef, sub-chef, event sous chef, sous cook, second chef, catering sous chef, kitchen souschef, kitchen sous chef",
+          "RelatedSkills": [
+            {
+              "Skill": "food processing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "chef skills",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "creativity",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "blend food ingredients",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "passionate",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "food safety management system",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "culinary arts",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "food industry",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "ensure food quality",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "food presentation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "meal preparation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "food quality",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "June 2010 - December 2015",
+        "FormattedJobPeriod": "06/2010 to 12/2015",
+        "StartDate": "01/06/2010",
+        "EndDate": "31/12/2015",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Assisted the Executive Chef in menu development and kitchen management. \n Supervised kitchen staff and ensured adherence to food safety standards. \n Prepared high-quality dishes in a fast-paced environment. \n Managed inventory and ordered supplies as needed. \n Contributed to the restaurant receiving a Michelin star. \n La Petite Maison",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Partie",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Chef",
+          "FormattedName": "chef",
+          "Alias": "kitchen master, restaurant chef, chef restaurant, chef, contract",
+          "RelatedSkills": [
+            {
+              "Skill": "food processing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "food and beverage management",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "chef skills",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "creativity",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "handover the food preparation area",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "compile cooking recipes",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "food waste management",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "ingredient measurement",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "March 2008 - May 2010",
+        "FormattedJobPeriod": "03/2008 to 05/2010",
+        "StartDate": "01/03/2008",
+        "EndDate": "31/05/2010",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Prepared and cooked dishes according to the restaurant's standards. \n Assisted in menu planning and special event catering. \n Ensured kitchen cleanliness and organization. \n Trained new kitchen staff in cooking techniques and safety procedures.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "The Ritz-Carlton",
+    "JobProfile": "Executive Chef",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "197",
+      "TotalExperienceInYear": "16.5",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "65",
+    "LongestStay": "103",
+    "Summary": "Accomplished Chef with over 12 years of experience in culinary arts, specializing in international cuisine. Proven track record of managing high-volume kitchens, developing innovative menus, and ensuring exceptional dining experiences.",
+    "ExecutiveSummary": "Juan has an experience in the domain of 'Accommodation and Food Services', particularly in the sub-domain of 'Chefs and Head Cooks. 'The candidate has a total experience of 12 YearsThe candidate has been working as a Executive Chef at The Ritz-Carlton for the last 8.7 years. ",
+    "ManagementSummary": "Currently, Juan holds a Low Management Level position, as Executive Chef at The Ritz-Carlton. from 01/01/2016 to 15/07/2024. The candidate has a total experience of 8.7 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "References available upon request",
+    "CustomFields": "Parsing Time : 539ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Juan Martinez Manchester, UK\njuan.martinez@email.com\n+44 1234 654321\nLinkedIn : linkedin.com/in/juanmartinez\n\nProfessional Summary : \nAccomplished Chef with over 12 years of experience in culinary arts, specializing in international cuisine. Proven track record of managing high-volume kitchens, developing innovative menus, and ensuring exceptional dining experiences.\n\nExperience : \nThe Ritz-Carlton, Manchester\nExecutive Chef\nJanuary 2016 - Present\nManchester, UK\nDeveloped and executed a diverse menu, focusing on high-quality ingredients and innovative dishes.\nManaged a team of 20+ kitchen staff, ensuring smooth operations and high standards of food quality.\nCollaborated with suppliers to source the finest ingredients.\nImplemented kitchen processes that improved efficiency and reduced waste.\nReceived multiple awards for culinary excellence.\nHilton Manchester Deansgate\nSous Chef\nJune 2010 - December 2015\nManchester, UK\nAssisted the Executive Chef in menu development and kitchen management.\nSupervised kitchen staff and ensured adherence to food safety standards.\nPrepared high-quality dishes in a fast-paced environment.\nManaged inventory and ordered supplies as needed.\nContributed to the restaurant receiving a Michelin star.\nLa Petite Maison\nChef de Partie\nMarch 2008 - May 2010\nManchester, UK\nPrepared and cooked dishes according to the restaurant's standards.\nAssisted in menu planning and special event catering.\nEnsured kitchen cleanliness and organization.\nTrained new kitchen staff in cooking techniques and safety procedures.\n\nEducation : \nDiploma in Culinary Arts\nLe Cordon Bleu London\nGraduated : 2008\n\nSkills : \nMenu development\nTeam management\nHigh-volume kitchen operations\nIngredient sourcing\nFood safety and hygiene\nCreative problem-solving\n\nCertifications : \nServSafe Food Protection Manager Certification\nHACCP Certification\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Juan Martinez</span><span style=\"font-family:'Times New Roman'; color:#000000\"> Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">juan.martinez@email.com</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">+44 1234 654321</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">LinkedIn: linkedin.com/in/juanmartinez</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Accomplished Chef with over 12 years of experience in culinary arts, specializing in international cuisine. Proven track record of managing high-volume kitchens, developing innovative menus, and ensuring exceptional dining experiences.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">The Ritz-Carlton, Manchester</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Executive Chef</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">January 2016 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed and executed a diverse menu, focusing on high-quality ingredients and innovative dishes.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Managed a team of 20+ kitchen staff, ensuring smooth operations and high standards of food quality.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborated with suppliers to source the finest ingredients.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Implemented kitchen processes that improved efficiency and reduced waste.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Received multiple awards for culinary excellence.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Hilton Manchester Deansgate</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Sous Chef</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">June 2010 - December 2015</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted the Executive Chef in menu development and kitchen management.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Supervised kitchen staff and ensured adherence to food safety standards.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Prepared high-quality dishes in a fast-paced environment.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Managed inventory and ordered supplies as needed.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Contributed to the restaurant receiving a Michelin star.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">La Petite Maison</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Chef de Partie</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">March 2008 - May 2010</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Prepared and cooked dishes according to the restaurant's standards.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted in menu planning and special event catering.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ensured kitchen cleanliness and organization.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Trained new kitchen staff in cooking techniques and safety procedures.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Diploma in Culinary Arts</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">Le Cordon Bleu London</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2008</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Menu development</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Team management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">High-volume kitchen operations</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ingredient sourcing</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Food safety and hygiene</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Creative problem-solving</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">ServSafe Food Protection Manager Certification</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">HACCP Certification</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">References available upon request</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

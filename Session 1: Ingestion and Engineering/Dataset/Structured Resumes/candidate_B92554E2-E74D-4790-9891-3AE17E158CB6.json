@@ -1,0 +1,814 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "John Taylor.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:15:31",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "John Taylor",
+      "TitleName": "",
+      "FirstName": "John",
+      "MiddleName": "",
+      "LastName": "Taylor",
+      "FormattedName": "John Taylor",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "john.taylor@example.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+449876543210",
+        "ISDCode": "+44",
+        "OriginalNumber": "987 654 3210",
+        "FormattedNumber": "+44 987 654 3210",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/johntaylor"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "28 Maple Avenue",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "28 Maple Avenue, Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Business Operations Specialists",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "BSc in Economics \r University of Manchester, Manchester, UK \r 2008 - 2012",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "Manchester",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "UK",
+            "CountryCode": {
+              "IsoAlpha2": "GB",
+              "IsoAlpha3": "GBR",
+              "UNCode": "826"
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc in Economics",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Economics"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2008 to 2012",
+        "StartDate": "01/01/2008",
+        "EndDate": "31/12/2012",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Certified Business Analysis Professional (CBAP)",
+    "SegregatedCertification": [],
+    "SkillBlock": "Analytical & Problem-Solving : Strong skills in analyzing data and identifying solutions. \r Data Analysis Tools : Proficient in Excel and SQL. \r Project Management : Knowledgeable in Agile and Waterfall methodologies. \r Communication : Excellent written and verbal communication skills. \r Organizational : Ability to manage multiple tasks and meet deadlines.",
+    "SkillKeywords": "Comprehensive,Assisted,Excellent Written and Verbal Communication Skills,Proven Track Record,Business Analysis,Leading Projects,Meet Deadlines,Organizational,Communication,Knowledgeable,Presentations,Facilitated Communication,Stakeholder Communication,Operational Performance,Requirements Gathering,Business Requirements,Identifying Solutions,Manage Multiple Tasks,Strategic Initiatives,Business Strategies,Communicate Project,Data Analysis Tools,Process Improvement,Financial Services,Project Management,Project Objectives,Strategic Business,Managing Projects,Quality Standards,Report Generation,Timely Delivery,Analyzing Data,Business Goals,Business Needs,Data Analysis,Agile,Excel,Maple,SQL",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Comprehensive",
+        "Ontology": "Educational Services>Instructional Coordinators>comprehensive",
+        "Alias": "comprehension, ability to understand",
+        "FormattedName": "comprehensive",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/03/2016",
+        "ExperienceInMonths": 43
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Excellent Written and Verbal Communication Skills",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Administrative Services>microsoft excel",
+        "Alias": "excel 4, windows excel, platform excel, excel 2000, advanced ms excel, microsoft technology ms excel, excel 2002, microsoft excel 2016, microsoft excel 2004 for mac, microsoft excel 2010, microsoft excel 2007, microsoft excel 2013, microsoft excel spreadsheet software, microsoft excel 2001 for mac, microsoft excel xp, microsoft excel 97 for windows, microsoft excel 2003, microsoft excel 2019, microsoft excel v2.0, microsoft excel 2000, microsoft excel soft., microsoft excel v5.0, microsoft excel software, microsoft excel 2002, ms excel 2004 for mac, ms excel 2003, microsoft software excel, pc software microsoft excel, ms excel 97 for windows, software excel, microsoft .excel, excel 95, excel 2004 for mac, advanced microsoft excel, advanced excel, ms excel 2000, microsoft products ms excel, excel platform, ms excel 2001 for mac, excel xp, ms-excel, excel 3, microsoft office excel, excel, excel 2010, ms excel 2010, ms excel, ms excel 2002, microsoft suite excel, excel skills, excel 2, excel 5, excel 2001 for mac, ms. excel, excel 97, excel software, excel 97 for windows, excel 2003, internet microsoft excel, excel 2016",
+        "FormattedName": "microsoft excel",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Proven Track Record",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>proven track record",
+        "Alias": "proven leadership skills",
+        "FormattedName": "proven track record",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Business Analysis",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business analysis",
+        "Alias": "business analyze, business area analysis, business analysis operations, business analysis consulting, business analysis implementation, business analysis managing, business analysis research, business analysis management, business analysis process, enterprise analysis, business analyses, business solutions, managing business analysis, manage business analytics, business-analysis, analysis of businesses, analysis of business, business-analyze",
+        "FormattedName": "business analysis",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Leading Projects",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project leadership",
+        "Alias": "project leading, leading projects, technical project leadership, it project leadership",
+        "FormattedName": "project leadership",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Meet Deadlines",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>meets deadlines",
+        "Alias": "meeting strict deadlines, meet deadlines, meet the deadline, meet deadline, able to meet deadlines, meet strict deadlines, meeting deadlines, perform effectively in a deadline environment, meet tight deadlines, meeting established deadlin, work under tight deadlines, working within strict deadlines, working to strict deadlines, consistently meeting deadlines, work to tight deadlines, ability to meet deadlines, meeting tight deadlines, meeting a deadline, meet a deadline",
+        "FormattedName": "meets deadlines",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Organizational",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business goals",
+        "Alias": "business goals and objectives, profitability objectives, business-goals, organizational objectives, business objectives, business objective, business profitability objectives",
+        "FormattedName": "business goals",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Knowledgeable",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>knowledgeable",
+        "Alias": "knowledgeable skills",
+        "FormattedName": "knowledgeable",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Presentations",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>presentation",
+        "Alias": "presentation capabilities, presentation skills, presenting skills, presentations skills, presentations",
+        "FormattedName": "presentation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Facilitated Communication",
+        "Ontology": "Educational Services>Instructional Coordinators>facilitated communication",
+        "Alias": "communication facilitation, facilitation communication, facilitate communication, supported typing",
+        "FormattedName": "facilitated communication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Stakeholder Communication",
+        "Ontology": "Arts, Entertainment, and Recreation>Public Relations Specialists>stakeholder communication",
+        "Alias": "stakeholder communications, stakeholder communication skills",
+        "FormattedName": "stakeholder communication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Operational Performance",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>operational performance",
+        "Alias": "operations performance, operational-performance",
+        "FormattedName": "operational performance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/03/2016",
+        "ExperienceInMonths": 43
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Requirements Gathering",
+        "Ontology": "Information>Software Developers and Programmers>requirements elicitation",
+        "Alias": "gathering project requirement, capture requirements, business requirements solicitation, business requirements discovery, requirements gathering design, requirements gathering, requirement gathering design, requirement gathering architecture, requirement gathering, requirement gathering automation, gathering business requirements, gathering business, gather requirements, requirements discovery, requirements discovery process, user requirements gathering, user requirements capture, gathering user requirements, user-requirements capture, user-requirements-capture, gather business requirements, gathering requirements, requirements capture, elicit requirements, eliciting and specifying project requirements, technical requirements gathering, it requirements gathering, collect requirements",
+        "FormattedName": "requirements elicitation",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Requirements",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business requirement",
+        "Alias": "stakeholder requirements specifications, documenting business requirements, key business requirements, business requirements, business requirements documentation, business requirements design, business requirements management, business requirements document review, business requirements document, business requirements specifications, business requirements loading, business requirements engineering, business requirements templates, business requirement implementation, business requirements development, business needs, business need, develop the business requirements, business-requirement, address business requirements, translate business requirements",
+        "FormattedName": "business requirement",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/03/2016",
+        "ExperienceInMonths": 43
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Identifying Solutions",
+        "Ontology": "Information>Computer and Information Analysts>identifying solutions",
+        "Alias": "identifying solution, identifying and expressing solutions, identify solutions, solution identification",
+        "FormattedName": "identifying solutions",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Manage Multiple Tasks",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>task management",
+        "Alias": "task handling, implementation of work, manage daily task, tasks development, manage work, monitoring tasks, task mgmt., workers management, manage multiple tasks, managing work, job management, task administration, task planning, work managing, work management, task tracking, work processing, tasks management, task planning and monitoring, task monitoring, task-management, work execution, flexible in handling task, manage tasks, tasks monitoring, work-management, handle task management, manage incoming tasks, work mgmt.",
+        "FormattedName": "task management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Initiatives",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>strategic initiatives",
+        "Alias": "strategic business initiatives",
+        "FormattedName": "strategic initiatives",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Strategies",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business planning",
+        "Alias": "business-development-planning, planned business process, formulation business plan, business-strategy-concepts, business-strategy, develop plans for business, business plan formulation, business plans management, corporate strategy, corporate strategic planning, business development prospects, business development plans, business development planning, business-blueprinting, business-blueprint, building new business development strategy, business requirements scenario, create business plans, business plan-formulation, drafting business plans, company strategy, business blueprinting, business blueprint, business blueprinting process, business blueprint process, business planning process, business planning & development, business planning operations, business planning and development, formulation of business plan, business scenario, strategic business, business plans, generate business plans, prepare the business plan, business-scenario, develop business plans, develop business plan, develop-business- plans, develop-business plans, corporate planning and analysis, corporate planning, produce business plans, creating business plans, corporate-strategy, execution of business plans, draw up the business plan, developing business plans, develop the business plan, business plan, business-planning, companys strategy, business strategy, business strategy design, business strategy concepts, business strategizing, business strategies, business strategy-concepts, business-plan-formulation, preparing business plan, business process blueprinting, business processes planned, implemented business plan, corporate-planning",
+        "FormattedName": "business planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/03/2016",
+        "ExperienceInMonths": 43
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Communicate Project",
+        "Ontology": "Information>Computer Network Architects>project communication management",
+        "Alias": "communicate project, project communication mgmt, project communication, project communications, communications project, project-communication-management, project-communication management, management project communication",
+        "FormattedName": "project communication management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis Tools",
+        "Ontology": "Information>Data Processing, Hosting, and Related Services>data analysis software",
+        "Alias": "data analysis tool, data analysis tools, analysis tools, big data analysis tool, data-analysis- software, data-analysis software, data analysis management software, data analysis soft., data analytics apps",
+        "FormattedName": "data analysis software",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Process Improvement",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>process improvement",
+        "Alias": "improve processes, manage process improvement, improvement of work processes, develop process improvements, develop process improvement, system improvement, system improvement process, system improvements, work process improvement, process operations improvement, system-improvement, improvement of the process, systems improvement, identifying process improvements, improvement analysis, process-improvement, operations process improvement, refining business units, refining business processes, process refinement, operational process improvement, business process refinement, business process improvement, process improvement methodology, process improvement initiation, process improvement implementation, process improvement framework, process improvement workflows, process improvement operations, process improvements, process improvement initiative, process enhancement",
+        "FormattedName": "process improvement",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 142
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Services",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & finance, banking & financial services, finance related services, finance service, financing operations, banking-services, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, credit services, banking services, banking and financial services, banking and finance, banking and-finance, financial svcs, finance service provision, finance services, credit-services, financial industry, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Management",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project management",
+        "Alias": "project managed development, managing multiple projects, project mgmt., project-management, manage complex projects, project mgmt, manage a project, project-coordination, manage multiple project tasks, manage multiple projects, managing large scale projects, project co - ordination, project co-ordination, managing complex projects, project manage, managed smaller projects, management of project, operations project management, projects coordination, proj management, managed special projects, overseeing projects, manage the incoming project, project-handling, project management and coordination, project management processes, project management process, managing of projects, projects managing, project handling, coordination of international projects, coordination of projects, project description management, managed projects, project processing, manage a multiphase project, project-manage, manage small projects, managed phases, managed project, managed project operations, proj mgmt, handling of project, new project management, manage projects, managed long term projects, organizational project management, projects management, manage the project, project methods, projects handled, project coordination, project coordination and implementation, project coordinating, managing projects, managing project, manage the complex projects, project work management, management projects, managing the project planning, multiple projects management, project creation, handle multiple projects, manage several projects, project managing, coordinating projects",
+        "FormattedName": "project management",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Objectives",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>project objective",
+        "Alias": "project management objectives, project goals, project objectives, project objective statements, project-objective",
+        "FormattedName": "project objective",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Business",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business planning",
+        "Alias": "business-development-planning, planned business process, formulation business plan, business-strategy-concepts, business-strategy, develop plans for business, business plan formulation, business plans management, corporate strategy, corporate strategic planning, business development prospects, business development plans, business development planning, business-blueprinting, business-blueprint, building new business development strategy, business requirements scenario, create business plans, business plan-formulation, drafting business plans, company strategy, business blueprinting, business blueprint, business blueprinting process, business blueprint process, business planning process, business planning & development, business planning operations, business planning and development, formulation of business plan, business scenario, strategic business, business plans, generate business plans, prepare the business plan, business-scenario, develop business plans, develop business plan, develop-business- plans, develop-business plans, corporate planning and analysis, corporate planning, produce business plans, creating business plans, corporate-strategy, execution of business plans, draw up the business plan, developing business plans, develop the business plan, business plan, business-planning, companys strategy, business strategy, business strategy design, business strategy concepts, business strategizing, business strategies, business strategy-concepts, business-plan-formulation, preparing business plan, business process blueprinting, business processes planned, implemented business plan, corporate-planning",
+        "FormattedName": "business planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Managing Projects",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project management",
+        "Alias": "project managed development, managing multiple projects, project mgmt., project-management, manage complex projects, project mgmt, manage a project, project-coordination, manage multiple project tasks, manage multiple projects, managing large scale projects, project co - ordination, project co-ordination, managing complex projects, project manage, managed smaller projects, management of project, operations project management, projects coordination, proj management, managed special projects, overseeing projects, manage the incoming project, project-handling, project management and coordination, project management processes, project management process, managing of projects, projects managing, project handling, coordination of international projects, coordination of projects, project description management, managed projects, project processing, manage a multiphase project, project-manage, manage small projects, managed phases, managed project, managed project operations, proj mgmt, handling of project, new project management, manage projects, managed long term projects, organizational project management, projects management, manage the project, project methods, projects handled, project coordination, project coordination and implementation, project coordinating, managing projects, managing project, manage the complex projects, project work management, management projects, managing the project planning, multiple projects management, project creation, handle multiple projects, manage several projects, project managing, coordinating projects",
+        "FormattedName": "project management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/03/2016",
+        "ExperienceInMonths": 43
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Quality Standards",
+        "Ontology": "Information>Software Quality Assurance Analysts and Testers>quality standards",
+        "Alias": "maintaining quality control standards, quality-assurance-standards, quality management standards, operations quality standards, quality assurance standards, quality standard",
+        "FormattedName": "quality standards",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/03/2016",
+        "ExperienceInMonths": 43
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Report Generation",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Clerks, General>report generation",
+        "Alias": "generate report, development of reports, reports development, reports preparation, preparation of reports, report creation, develop custom reports, report development, preparing the reports, preparing the report, develop nightly reports, creating reports, preparing reports, develop a report, develop reports, produce reports, prepare reports, creation of new reports, developing reports, generating training reports, generating reports, generate reports, prepare report, creating new reports, report preparation, generated reports, report-generation",
+        "FormattedName": "report generation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Timely Delivery",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Procurement Clerks>timely delivery",
+        "Alias": "timely-delivery",
+        "FormattedName": "timely delivery",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Analyzing Data",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Goals",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business goals",
+        "Alias": "business goals and objectives, profitability objectives, business-goals, organizational objectives, business objectives, business objective, business profitability objectives",
+        "FormattedName": "business goals",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Needs",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business requirement",
+        "Alias": "stakeholder requirements specifications, documenting business requirements, key business requirements, business requirements, business requirements documentation, business requirements design, business requirements management, business requirements document review, business requirements document, business requirements specifications, business requirements loading, business requirements engineering, business requirements templates, business requirement implementation, business requirements development, business needs, business need, develop the business requirements, business-requirement, address business requirements, translate business requirements",
+        "FormattedName": "business requirement",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/03/2016",
+        "ExperienceInMonths": 43
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 142
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Agile",
+        "Ontology": "Information>Software Developers and Programmers>agile software development",
+        "Alias": "agile app development, agile techniques, agile software application development, development agile software, agile team practices, agile team practice, agile-methodology, agile it systems, agile product engineering, agile system development, agile engineering, agile process improvement method, agile process improvement, agile-sdlc-methodology, agile implementation, agile implementation methodology, agile implementation of projects, agile test life cycle management, agile sdlc, agile methodology, agile methodological, agile methodologies, agile methodologies engineering, agile methodology sdlc, agile program management, agile software development life cycle, agile software design, agile software development lifecycle, agile model driven development, application development agile, feature driven, agile fdd, agile model development, agile process-improvement, agile application development, agile applications development, agile application software development, agile solution development, feature driven development methodology, feature driven development method, feature driven development, agile technical development, agile-soft development life-cycle, feature-driven development, development features, software development methodologies agile, software development agile process, agile lifecycle development, agile software engineering practices, agile software engineering, agile devops, agile web-development, implementation agile, agile method sdlc, agile processes, agile best practices, agile product creation, agile programming, agile-software-development, agile-product development life cycle, agile methods, agile process, agile sdlc methodology, agile sdlc methodologies, agile team development, agile project development, agile website development, agile processes development, agile web development, agile lean implementation, agile software implementation, agile software lifecycle, agile development project, agile development methodologies, agile development sdlc, agile development practice, agile development, agile development methodology, agile web technologies, agile product development lifecycle, agile product development, agile product development life cycle, agile software processes, agile it development, agile practice, agile project lifecycle management, agile project life cycle mythology, agile project life cycle, feature development, agile soft development life cycle, agile sw development, agile method, agile-process-improvement, lightweight methodology, lightweight-methodology, agile",
+        "FormattedName": "agile software development",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Excel",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Administrative Services>microsoft excel",
+        "Alias": "excel 4, windows excel, platform excel, excel 2000, advanced ms excel, microsoft technology ms excel, excel 2002, microsoft excel 2016, microsoft excel 2004 for mac, microsoft excel 2010, microsoft excel 2007, microsoft excel 2013, microsoft excel spreadsheet software, microsoft excel 2001 for mac, microsoft excel xp, microsoft excel 97 for windows, microsoft excel 2003, microsoft excel 2019, microsoft excel v2.0, microsoft excel 2000, microsoft excel soft., microsoft excel v5.0, microsoft excel software, microsoft excel 2002, ms excel 2004 for mac, ms excel 2003, microsoft software excel, pc software microsoft excel, ms excel 97 for windows, software excel, microsoft .excel, excel 95, excel 2004 for mac, advanced microsoft excel, advanced excel, ms excel 2000, microsoft products ms excel, excel platform, ms excel 2001 for mac, excel xp, ms-excel, excel 3, microsoft office excel, excel, excel 2010, ms excel 2010, ms excel, ms excel 2002, microsoft suite excel, excel skills, excel 2, excel 5, excel 2001 for mac, ms. excel, excel 97, excel software, excel 97 for windows, excel 2003, internet microsoft excel, excel 2016",
+        "FormattedName": "microsoft excel",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maple",
+        "Ontology": "Information>Mathematical Science Occupations, All Other>maple",
+        "Alias": "soft maple, maple software, maple soft",
+        "FormattedName": "maple",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "SQL",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>sql",
+        "Alias": "sql 2008, structured query language, sql 2003, oracle sql2005, sql-2003, advanced sql, programming language sql, oracle sql programming, sql 2005, sql/400, sql programming, sql coding, database definition language, database sql, ibm sql/400, sql language, oracle sql, databases sql, sql development, sqldb, coding sql, sql databases, sql computer language, sql 2000, ibm sql400, sql database, data definition language, sql400, data dictionary language, programming sql, sql oracle, oql, sql database query language, advanced sql programming, sql programming language, ansi sql, sql queries, data description lang, data description language, object query language, sql2005, microsoft sql programming, structured-query-language",
+        "FormattedName": "sql",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 99
+      }
+    ],
+    "Experience": "Business Analyst \r NatWest, Manchester, UK \r April 2016 - Present \r Requirements Gathering : Collaborated with business units to gather and document requirements, ensuring project alignment with business goals. \r Process Improvement : Analyzed existing processes and implemented improvements, leading to a 15% increase in efficiency. \r Data Analysis : Utilized Excel and SQL to perform detailed data analysis, supporting strategic business decisions. \r Project Management : Led small to medium-sized projects, ensuring timely delivery and adherence to budget. \r Stakeholder Communication : Facilitated communication between stakeholders and project teams to ensure clear understanding of project objectives. \r Report Generation : Created comprehensive reports and presentations to communicate project progress and outcomes. \r Junior Business Analyst \r Royal Bank of Scotland (RBS) , Manchester, UK \r September 2012 - March 2016 \r Assisted in gathering and analyzing business requirements for various projects. \r Supported process improvement initiatives, contributing to enhanced operational performance. \r Conducted data analysis to inform business strategies and decisions. \r Assisted in managing projects, ensuring deadlines and quality standards were met. \r Communicated with stakeholders to ensure project alignment with business needs.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "NatWest",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Business Analyst",
+          "FormattedName": "business analyst",
+          "Alias": "business  -analyst, business connectivity analyst, analyst of business, business -analyst, industrial business analyst, analyst - business, analyst - business analytics, analyst, business analysis, business services analyst, analyst  business analytics , business analyst - services, business analyst ba, business analysts, business analyst - ba, business analyst ba , analyst business, analyst business analysis, business efficiency analyst, business analytics analyst, business analytics-analyst, business-analyst",
+          "RelatedSkills": [
+            {
+              "Skill": "business analysis communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis reporting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "presentation skills coaching",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "verbal communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "function point analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis framework",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "objectstudio",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "active listening",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "advise on communication strategies",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "advise on personnel management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "commercial awareness",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "pv wave",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "quality customer service",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "use case diagram",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "use case",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "decision making",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "business ecosystem",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "integration definition for information modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "recursive partitioning",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "ansoff matrix",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "subscription business model",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "strategy dynamics",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "phase implementation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "predictive modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "business analytics",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "April 2016 - till",
+        "FormattedJobPeriod": "04/2016 to till",
+        "StartDate": "01/04/2016",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Requirements Gathering : Collaborated with business units to gather and document requirements, ensuring project alignment with business goals. \n Process Improvement : Analyzed existing processes and implemented improvements, leading to a 15% increase in efficiency. \n Data Analysis : Utilized Excel and SQL to perform detailed data analysis, supporting strategic business decisions. \n Project Management : Led small to medium-sized projects, ensuring timely delivery and adherence to budget. \n Stakeholder Communication : Facilitated communication between stakeholders and project teams to ensure clear understanding of project objectives. \n Report Generation : Created comprehensive reports and presentations to communicate project progress and outcomes.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Royal Bank of Scotland RBS",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Junior Business Analyst",
+          "FormattedName": "junior business analyst",
+          "Alias": "jr functional analyst, jnr business analyst, junior business support analyst, junior business agent, junior business consultant, jr. functional analyst, new business analyst jr, jr. business analyst, business jr. analyst, jnr functional analyst, jr business agent, junior analyst of business, junior functional analyst, jr business analysis, junior level business analyst, business junior analyst, junior analyst business",
+          "RelatedSkills": [
+            {
+              "Skill": "analyse business objectives",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "development management",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "business plan analysis",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "September 2012 - March 2016",
+        "FormattedJobPeriod": "09/2012 to 03/2016",
+        "StartDate": "01/09/2012",
+        "EndDate": "31/03/2016",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Assisted in gathering and analyzing business requirements for various projects. \n Supported process improvement initiatives, contributing to enhanced operational performance. \n Conducted data analysis to inform business strategies and decisions. \n Assisted in managing projects, ensuring deadlines and quality standards were met. \n Communicated with stakeholders to ensure project alignment with business needs.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "NatWest",
+    "JobProfile": "Business Analyst",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "143",
+      "TotalExperienceInYear": "11.11",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "71",
+    "LongestStay": "100",
+    "Summary": "Dynamic Business Analyst with 8 years of experience in financial services, skilled in data analysis, requirements gathering, and process improvement. Proven track record of leading projects to successful completion. Seeking to bring analytical expertise and project management skills to Barclays to drive strategic initiatives.",
+    "ExecutiveSummary": "John has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Business Operations Specialists. 'The candidate has a total experience of 8 YearsThe candidate has been working as a Business Analyst at NatWest for the last 8.4 years. ",
+    "ManagementSummary": "John doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 537ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "John Taylor\nAddress : 28 Maple Avenue, Manchester, UK\nPhone : +44 9876 543210\nEmail : john.taylor@example.com\nLinkedIn : linkedin.com/in/johntaylor\n\nProfessional Summary\nDynamic Business Analyst with 8 years of experience in financial services, skilled in data analysis, requirements gathering, and process improvement. Proven track record of leading projects to successful completion. Seeking to bring analytical expertise and project management skills to Barclays to drive strategic initiatives.\n\nProfessional Experience\nBusiness Analyst\nNatWest, Manchester, UK\nApril 2016 - Present\nRequirements Gathering : Collaborated with business units to gather and document requirements, ensuring project alignment with business goals.\nProcess Improvement : Analyzed existing processes and implemented improvements, leading to a 15% increase in efficiency.\nData Analysis : Utilized Excel and SQL to perform detailed data analysis, supporting strategic business decisions.\nProject Management : Led small to medium-sized projects, ensuring timely delivery and adherence to budget.\nStakeholder Communication : Facilitated communication between stakeholders and project teams to ensure clear understanding of project objectives.\nReport Generation : Created comprehensive reports and presentations to communicate project progress and outcomes.\nJunior Business Analyst\nRoyal Bank of Scotland (RBS) , Manchester, UK\nSeptember 2012 - March 2016\nAssisted in gathering and analyzing business requirements for various projects.\nSupported process improvement initiatives, contributing to enhanced operational performance.\nConducted data analysis to inform business strategies and decisions.\nAssisted in managing projects, ensuring deadlines and quality standards were met.\nCommunicated with stakeholders to ensure project alignment with business needs.\n\nEducation\nBSc in Economics\nUniversity of Manchester, Manchester, UK\n2008 - 2012\n\nSkills\nAnalytical & Problem-Solving : Strong skills in analyzing data and identifying solutions.\nData Analysis Tools : Proficient in Excel and SQL.\nProject Management : Knowledgeable in Agile and Waterfall methodologies.\nCommunication : Excellent written and verbal communication skills.\nOrganizational : Ability to manage multiple tasks and meet deadlines.\n\nCertifications\nCertified Business Analysis Professional (CBAP) \n\nPersonal Attributes\nAnalytical Mindset : Strong critical thinking and problem-solving skills.\nCollaborative Nature : Effective team player with strong interpersonal skills.\nProactive Approach : Highly motivated with a proactive attitude.\nCustomer Focus : Dedicated to understanding and meeting client needs.\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">John Taylor</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Address:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> 28 Maple Avenue, Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Phone:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> +44 9876 543210</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Email:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> john.taylor@example.com</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; color:#000000\"> linkedin.com/in/johntaylor</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Dynamic Business Analyst with 8 years of experience in financial services, skilled in data analysis, requirements gathering, and process improvement. Proven track record of leading projects to successful completion. Seeking to bring analytical expertise and project management skills to Barclays to drive strategic initiatives.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Business Analyst</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">NatWest, Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">April 2016 - Present</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Requirements Gathering:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Collaborated with business units to gather and document requirements, ensuring project alignment with business goals.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Process Improvement:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Analyzed existing processes and implemented improvements, leading to a 15% increase in efficiency.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Data Analysis:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Utilized Excel and SQL to perform detailed data analysis, supporting strategic business decisions.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Project Management:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Led small to medium-sized projects, ensuring timely delivery and adherence to budget.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Stakeholder Communication:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Facilitated communication between stakeholders and project teams to ensure clear understanding of project objectives.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Report Generation:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Created comprehensive reports and presentations to communicate project progress and outcomes.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Junior Business Analyst</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Royal Bank of Scotland (RBS) , Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">September 2012 - March 2016</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted in gathering and analyzing business requirements for various projects.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Supported process improvement initiatives, contributing to enhanced operational performance.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducted data analysis to inform business strategies and decisions.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted in managing projects, ensuring deadlines and quality standards were met.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Communicated with stakeholders to ensure project alignment with business needs.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">BSc in Economics</span><br /><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Manchester, Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2008 - 2012</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Analytical & Problem-Solving:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong skills in analyzing data and identifying solutions.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Data Analysis Tools:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Proficient in Excel and SQL.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Project Management:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Knowledgeable in Agile and Waterfall methodologies.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Communication:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Excellent written and verbal communication skills.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Organizational:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Ability to manage multiple tasks and meet deadlines.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Business Analysis Professional (CBAP) </span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Personal Attributes</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Analytical Mindset:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong critical thinking and problem-solving skills.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Collaborative Nature:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Effective team player with strong interpersonal skills.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Proactive Approach:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Highly motivated with a proactive attitude.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Customer Focus:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Dedicated to understanding and meeting client needs.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

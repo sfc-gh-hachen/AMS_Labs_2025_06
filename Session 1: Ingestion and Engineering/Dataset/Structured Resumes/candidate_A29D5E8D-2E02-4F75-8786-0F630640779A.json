@@ -1,0 +1,652 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Sophia Nguyen Manchester.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:18:40",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "Phone",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Sophia Nguyen Manchester",
+      "TitleName": "",
+      "FirstName": "Sophia",
+      "MiddleName": "Nguyen",
+      "LastName": "Manchester",
+      "FormattedName": "Sophia Nguyen Manchester",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "sophia.nguyen@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+441234567890",
+        "ISDCode": "+44",
+        "OriginalNumber": "1234 567890",
+        "FormattedNumber": "+44 1234 567890",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/sophianguyen"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "",
+        "City": "",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "",
+        "CountryCode": {
+          "IsoAlpha2": "",
+          "IsoAlpha3": "",
+          "UNCode": ""
+        },
+        "ZipCode": "",
+        "FormattedAddress": "",
+        "Type": "",
+        "ConfidenceScore": 0
+      }
+    ],
+    "Category": "Arts, Entertainment, and Recreation",
+    "SubCategory": "Graphic Designers",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "BA in Graphic Design \r University of Leeds \r Graduated : 2010",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Leeds",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BA in Graphic Design",
+          "NormalizeDegree": "Bachelor of Arts",
+          "Specialization": [
+            "Graphic Design"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2010",
+        "StartDate": "",
+        "EndDate": "31/12/2010",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Adobe Certified Expert (ACE)",
+    "SegregatedCertification": [],
+    "SkillBlock": "Graphic design (Adobe Creative Suite) \r Branding and visual identity \r Digital content creation \r User experience design \r Strong communication skills \r Creative problem-solving",
+    "SkillKeywords": "Assisted,Communication Skills,Communication,Presentation,Creative,Digital Content Creation,User Experience Design,Adobe Creative Suite,Client Satisfaction,Creative Strategies,Marketing Campaigns,Marketing Materials,Design Solutions,Design Software,Digital Content,Market Research,User Experience,Visual Identity,Brand Identity,Digital Design,Graphic Design,Managed Design,Social Media,Branding",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2014",
+        "ExperienceInMonths": 46
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Presentation",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>presentation",
+        "Alias": "presentation capabilities, presentation skills, presenting skills, presentations skills, presentations",
+        "FormattedName": "presentation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2014",
+        "ExperienceInMonths": 46
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Creative",
+        "Ontology": "Arts, Entertainment, and Recreation>Graphic Designers>creativity",
+        "Alias": "creating new solutions, creativity skills, creative skills, creative, inventive skills, creating new procedures, creatively, creative thinker, inventive",
+        "FormattedName": "creativity",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 160
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Digital Content Creation",
+        "Ontology": "Arts, Entertainment, and Recreation>Media and Communication Workers, All Other>develop digital content",
+        "Alias": "digital content development, digital content creation",
+        "FormattedName": "develop digital content",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "User Experience Design",
+        "Ontology": "Arts, Entertainment, and Recreation>Graphic Designers>user experience design",
+        "Alias": "experience-design, design user experience, mobile experience design, ux design, mobile device designing, mobile device design, mobile user experience design, design user, user experience redesign, user design, design mobile, mobile interaction design, mobile ux design, mobile-user experience-design, experience design, learning experience design, mobile design, mobile-first design, user-experience-design",
+        "FormattedName": "user experience design",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Adobe Creative Suite",
+        "Ontology": "Arts, Entertainment, and Recreation>Graphic Designers>adobe creative suite",
+        "Alias": "adobe creative suite soft., adobe creative suite design, adobe creative suites, adobe creative suite cs5, adobe creative suite 6, adobe creative suite software, adobe creative suite 2, adobe creative suite cs3, adobe creative suite cs5.5, adobe creative suite cs6, cs5.5, adobe graphic suite, adobe cs, adobe systems adobe creative software suite, adobe systems adobe creative suite software, adobe suite, adobe suite cs6, creative suite, adobe suite cs3, suite adobe, cs4",
+        "FormattedName": "adobe creative suite",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 114
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Satisfaction",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer satisfaction",
+        "Alias": "assessing guest satisfaction, customer-quality, guest satisfaction, manage customer satisfaction, customer quality mgmt, customer quality, customer quality management, customer-satisfaction, satisfied clients, client satisfaction management, client satisfaction, satis?ed customers",
+        "FormattedName": "customer satisfaction",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 114
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Creative Strategies",
+        "Ontology": "Arts, Entertainment, and Recreation>Multimedia Artists and Animators>creative planning",
+        "Alias": "creative-planning, strategic creative development, creative strategies, creative strategy, creative-strategy, creative plan",
+        "FormattedName": "creative planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2014",
+        "ExperienceInMonths": 46
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Marketing Campaigns",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>marketing campaigns",
+        "Alias": "email campaign, digital campaign marketing, digital campaign design, digital campaign, digital campaign management framework, digital campaign management, campaign advertising, marketing campaigns templates, marketing campaign, marketing campaign tactics, marketing campaign process, marketing campaigns promotions, marketing campaign promotions, managed digital advertising campaigns, sales campaigns, email marketing campaign, develop advertising campaign, digital media marketing campaigns, advertising campaign-design, advertising campaign, advertising campaigns, advertising campaigns management, advertising campaign design, launch campaign, email-campaign, develop digital marketing campaigns, campaign design, electronic campaigns, manage email campaign, manage digital marketing campaigns, advertising-campaign-design, advertising-campaigns, email-campaigning, branding campaign, branding campaigns, email campaigns, brand campaign, digital marketing campaign, design advertising campaign, campaign-design, promotional campaign, promotional campaigns, sales campaign strategy, sales campaign strategies, campaign process, digital-marketing- campaign, digital-marketing campaign, sales campaign, designing marketing campaigns, sales-campaigns, create email campaign, promotional-campaign, development of advertising campaigns, development of marketing campaigns",
+        "FormattedName": "marketing campaigns",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 114
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Marketing Materials",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>marketing collateral",
+        "Alias": "marketing collateral integration, marketing collateral design, marketing collateral development, marketing collateral templates, collateral production, development of promotional materials, collateral material development, procuring marketing collateral, collateral writing, design marketing materials, design marketing collateral, marketing material development, marketing material design, marketing materials, marketing material creation, mktg literature, marketing literature, print-collateral, marketing-collateral, design mktg materials, develop marketing material, promotional materials development, promotional material design, promotional material, collateral generation, print marketing collateral, marketing-literature, collateral development, develop effective market collateral, advertising collateral, print collateral, designing marketing collateral, promotional-material, development of advertising materials, development of marketing materials",
+        "FormattedName": "marketing collateral",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2014",
+        "ExperienceInMonths": 46
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Design Solutions",
+        "Ontology": "Arts, Entertainment, and Recreation>Designers, All Other>design methodology",
+        "Alias": "design and implement solutions, design-methodology, design methodologies, methodologies design, technique design, design methods, design techniques, design solutions, design-methods",
+        "FormattedName": "design methodology",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 114
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Design Software",
+        "Ontology": "Information>Software Developers and Programmers>software design",
+        "Alias": "code design, development programs, development program, designing software, business software design, program design and development, program-design, design program, design software, software design & solutions, software design and solutions, software application design, programs design, create software design, design of software, design of software design, design programs, program design process, create application design, software designing, program design, create-software- design, software-design, programme design, create-software design",
+        "FormattedName": "software design",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 114
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Digital Content",
+        "Ontology": "Professional, Scientific, and Technical Services>Media Representatives>digital media",
+        "Alias": "digital content, digital entertainment programming, digital entertainment, digital-media",
+        "FormattedName": "digital media",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 114
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Research",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>market research",
+        "Alias": "market survey, brand research, product-research, design market research, social-media-market-research, social-media-market research, scanning marketing, market investigation, performing market research, marketing researching, marketing research development, marketing research analysis, marketing research, marketing investigation, marketing investigations, financial market research, marketing internet research, product research, undertake market research, marketing survey, marketing surveys, sales market research, market research data, market research operations, market research management, market research and analysis, market-exploration, product study, marketing information research, market exploration, market surveys, market data research, market-investigation, market information research, setting up market surveys, perform market research, market studies, branding-research, implement market research, research branding, researching market, researching market trends, marketing scanning, market study, interpreting marketing research, research market, marketing-researching, marketing-research, social media market research, retail market research, media market research, marketing original research, social-media market research, researching the markets, researching the market, marketing data research, market scanning, branding research, online market research, designing marketing surveys, market-research",
+        "FormattedName": "market research",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2014",
+        "ExperienceInMonths": 46
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "User Experience",
+        "Ontology": "Information>Software Developers and Programmers>user experience",
+        "Alias": "user experience modelling, user experience software, online user experience, user-experience, ux",
+        "FormattedName": "user experience",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Visual Identity",
+        "Ontology": "Arts, Entertainment, and Recreation>Graphic Designers>brand identity",
+        "Alias": "brand identity management, visual brand identity, visual brand�identity, brand identity-development, brand-identity-development, business identity development, brand identity development process, brand identity development, visual identity, brand-identity, identifying brands, identity design, corporate-identity, corporate identity",
+        "FormattedName": "brand identity",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2014",
+        "ExperienceInMonths": 46
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Brand Identity",
+        "Ontology": "Arts, Entertainment, and Recreation>Graphic Designers>brand identity",
+        "Alias": "brand identity management, visual brand identity, visual brand�identity, brand identity-development, brand-identity-development, business identity development, brand identity development process, brand identity development, visual identity, brand-identity, identifying brands, identity design, corporate-identity, corporate identity",
+        "FormattedName": "brand identity",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 114
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Digital Design",
+        "Ontology": "Arts, Entertainment, and Recreation>Graphic Designers>digital design",
+        "Alias": "digital-design",
+        "FormattedName": "digital design",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Graphic Design",
+        "Ontology": "Arts, Entertainment, and Recreation>Graphic Designers>graphic design",
+        "Alias": "graphics design, graphic development, designs logo, visual design and development, logos designing, graphics layout, poster design, graphics creation, graphic design development, logo development and designing, logo development, graphic production, preparing graphic layout, visual design production, design graphics, graphics development, creative graphic, logo designing, graphical design, design logos, graphics production, artistic-design, design poster, computer graphics design, develop logos, design visual, logos design, image design, visual design, logo design, creating graphics, graphics designing, logo designs, graphic layout, graphic-design, graphically design, graphic creation, manage graphic production, logo creation, graphic-designing, graphic-layout, aesthetic design, creating logos, graphic designing, artistic design, designing a poster",
+        "FormattedName": "graphic design",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Managed Design",
+        "Ontology": "Management of Companies and Enterprises>Architectural and Engineering Managers>design management",
+        "Alias": "conduct design, managed the design and development, managed the design, engineering design mgmt, engineering design management, engineering design-management, design-management, management design, design assistance, design-administration, management application design, managed multiple design, managing design, handling design, design mgmt., design administration, responsible for designing, managed design, manage design, process design management, design and management",
+        "FormattedName": "design management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 114
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Social Media",
+        "Ontology": "Arts, Entertainment, and Recreation>Media and Communication Workers, All Other>social media",
+        "Alias": "social media operations, email and social media programs, internet and social-media, internet and social media, social media skills, based media web, internet media, web based media, social-media, social channels, internet-and-social-media",
+        "FormattedName": "social media",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 160
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Branding",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>branding process",
+        "Alias": "branding programs, branding program, branding skill, branding, brand programs",
+        "FormattedName": "branding process",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Freelance Graphic Designer \r Self-employed \r January 2015 - Present \r Manchester, UK \r Developed visual concepts for clients across diverse industries, enhancing brand identity. \r Managed design projects from conception to completion, ensuring client satisfaction. \r Created digital content for websites, social media, and marketing campaigns. \r Collaborated with clients to understand their vision and deliver customized design solutions. \r Utilized design software such as Adobe Creative Suite to produce high-quality visuals. \r MediaCom \r Graphic Designer \r March 2011 - December 2014 \r Manchester, UK \r Designed marketing materials, including brochures, advertisements, and social media graphics. \r Worked closely with the marketing team to develop creative strategies. \r Conducted market research to understand design trends and audience preferences. \r Assisted in the rebranding of the company's visual identity. \r Created presentation materials for client pitches and internal meetings.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Self-employed",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Freelance Graphic Designer",
+          "FormattedName": "freelance graphic designer",
+          "Alias": "graphic designer - freelance, free-lance graphic designer, design frelancer, freelance-graphic- designer, freelance graphics designer, freelance graphic artist, freelancer design",
+          "RelatedSkills": [
+            {
+              "Skill": "creative content",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "January 2015 - till",
+        "FormattedJobPeriod": "01/2015 to till",
+        "StartDate": "01/01/2015",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Developed visual concepts for clients across diverse industries, enhancing brand identity. \n Managed design projects from conception to completion, ensuring client satisfaction. \n Created digital content for websites, social media, and marketing campaigns. \n Collaborated with clients to understand their vision and deliver customized design solutions. \n Utilized design software such as Adobe Creative Suite to produce high-quality visuals.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "MediaCom",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Graphic Designer",
+          "FormattedName": "graphic designer",
+          "Alias": "editorial graphic artist, graphic user interface designer, graphical designer, computer graphic designer, computer graphics generalist, graphics designer, graphic expert, graphic art designer, designer-graphics, graphics- designer, technical graphic designer, graphic developer, graphic design finisher, creative services designer, creative designer, graphic artist, creative-designer, graphic design agent",
+          "RelatedSkills": [
+            {
+              "Skill": "graphic design support",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "graphic facilitation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "graphic representation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "adobe creative suite",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "innovation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "creativity",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "graphical model",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "xara designer pro+",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "photopea",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "crello software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "powervr sdk",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "typography",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "photomatix",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "graphic communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "develop animations",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "3d coat",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "3d studio viz",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "graphic arts",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "adobe photoshop",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "attention to detail",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "adobe substance",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "computer graphics software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "rich ui",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "graphic design",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "commercial art",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "clip art",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "parallel projection",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "graphics display resolution",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "March 2011 - December 2014",
+        "FormattedJobPeriod": "03/2011 to 12/2014",
+        "StartDate": "01/03/2011",
+        "EndDate": "31/12/2014",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Designed marketing materials, including brochures, advertisements, and social media graphics. \n Worked closely with the marketing team to develop creative strategies. \n Conducted market research to understand design trends and audience preferences. \n Assisted in the rebranding of the company's visual identity. \n Created presentation materials for client pitches and internal meetings.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Self-employed",
+    "JobProfile": "Freelance Graphic Designer",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "161",
+      "TotalExperienceInYear": "13.5",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "80",
+    "LongestStay": "115",
+    "Summary": "Creative Graphic Designer with over 10 years of experience in visual communication, branding, and digital design. Expertise in creating compelling visual content for various platforms, with a strong focus on user experience and innovative design solutions.",
+    "ExecutiveSummary": "Sophia has an experience in the domain of 'Arts, Entertainment, and Recreation', particularly in the sub-domain of 'Graphic Designers. 'The candidate has a total experience of 10 YearsThe candidate has been working as a Freelance Graphic Designer at Self-employed for the last 9.7 years. ",
+    "ManagementSummary": "Sophia doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "References available upon request",
+    "CustomFields": "Parsing Time : 467ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Sophia Nguyen Manchester, UK\nsophia.nguyen@email.com\n+44 1234 567890\nLinkedIn : linkedin.com/in/sophianguyen\n\nProfessional Summary : \nCreative Graphic Designer with over 10 years of experience in visual communication, branding, and digital design. Expertise in creating compelling visual content for various platforms, with a strong focus on user experience and innovative design solutions.\n\nExperience : \nFreelance Graphic Designer\nSelf-employed\nJanuary 2015 - Present\nManchester, UK\nDeveloped visual concepts for clients across diverse industries, enhancing brand identity.\nManaged design projects from conception to completion, ensuring client satisfaction.\nCreated digital content for websites, social media, and marketing campaigns.\nCollaborated with clients to understand their vision and deliver customized design solutions.\nUtilized design software such as Adobe Creative Suite to produce high-quality visuals.\nMediaCom\nGraphic Designer\nMarch 2011 - December 2014\nManchester, UK\nDesigned marketing materials, including brochures, advertisements, and social media graphics.\nWorked closely with the marketing team to develop creative strategies.\nConducted market research to understand design trends and audience preferences.\nAssisted in the rebranding of the company's visual identity.\nCreated presentation materials for client pitches and internal meetings.\nEducation : \nBA in Graphic Design\nUniversity of Leeds\nGraduated : 2010\n\nSkills : \nGraphic design (Adobe Creative Suite) \nBranding and visual identity\nDigital content creation\nUser experience design\nStrong communication skills\nCreative problem-solving\n\nCertifications : \nAdobe Certified Expert (ACE) \n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Sophia Nguyen</span><span style=\"font-family:'Times New Roman'; color:#000000\"> Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">sophia.nguyen@email.com</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">+44 1234 567890</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">LinkedIn: linkedin.com/in/sophianguyen</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Creative Graphic Designer with over 10 years of experience in visual communication, branding, and digital design. Expertise in creating compelling visual content for various platforms, with a strong focus on user experience and innovative design solutions.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Freelance Graphic Designer</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Self-employed</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">January 2015 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed visual concepts for clients across diverse industries, enhancing brand identity.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Managed design projects from conception to completion, ensuring client satisfaction.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Created digital content for websites, social media, and marketing campaigns.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborated with clients to understand their vision and deliver customized design solutions.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Utilized design software such as Adobe Creative Suite to produce high-quality visuals.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">MediaCom</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Graphic Designer</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">March 2011 - December 2014</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Designed marketing materials, including brochures, advertisements, and social media graphics.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Worked closely with the marketing team to develop creative strategies.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducted market research to understand design trends and audience preferences.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted in the rebranding of the company's visual identity.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Created presentation materials for client pitches and internal meetings.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">BA in Graphic Design</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">University of Leeds</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2010</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graphic design (Adobe Creative Suite) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Branding and visual identity</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Digital content creation</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">User experience design</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strong communication skills</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Creative problem-solving</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Adobe Certified Expert (ACE) </span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">References available upon request</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

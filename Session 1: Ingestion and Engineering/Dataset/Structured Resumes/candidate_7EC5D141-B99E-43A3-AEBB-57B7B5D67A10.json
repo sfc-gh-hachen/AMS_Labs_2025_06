@@ -1,0 +1,660 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "James Wong.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:15:40",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "James Wong",
+      "TitleName": "",
+      "FirstName": "James",
+      "MiddleName": "",
+      "LastName": "Wong",
+      "FormattedName": "James Wong",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "james.wong@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+441234876543",
+        "ISDCode": "+44",
+        "OriginalNumber": "1234 876543",
+        "FormattedNumber": "+44 1234 876543",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/jameswong"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 7
+      }
+    ],
+    "Category": "Management of Companies and Enterprises",
+    "SubCategory": "Managers, All Other",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Bachelor of Business Administration \r University of Leeds \r Graduated : 2015",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Leeds",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "Bachelor of Business Administration",
+          "NormalizeDegree": "Bachelor of Business Administration",
+          "Specialization": [],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2015",
+        "StartDate": "",
+        "EndDate": "31/12/2015",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Project Management Professional (PMP) \r Certified ScrumMaster (CSM)",
+    "SegregatedCertification": [],
+    "SkillBlock": "Project management (Agile, Waterfall) \r Requirements gathering \r Process improvement \r Stakeholder communication \r Data analysis \r Strong organizational skills",
+    "SkillKeywords": "Organizational Skills,Clear Communication,Effectiveness,Project Management Process,Stakeholder Communication,Conduct Risk Assessments,Planning and Execution,Requirements Gathering,Project Documentation,Strategic Initiatives,Project Requirements,Business Operations,Process Improvement,Scheduling Meetings,Financial Services,Project Management,Quality Standards,Cross-Functional,Data Analysis,Project Plans,Agile",
+    "SegregatedSkill": [
+      {
+        "Type": "SoftSkill",
+        "Skill": "Organizational Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>organizational skills",
+        "Alias": "skills organization, organisational skills, excellent organisational ability, ability to organize, organizational tasks, organizing skills, ability to follow organizational, organizational-skills, organisation skill, organisation skills, organising skills, organizational abilities, organizational ability, organisational ability, organization skills, able to organize",
+        "FormattedName": "organizational skills",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Clear Communication",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>clear communication",
+        "Alias": "clear verbal communication, clear verbal language, clear-communication",
+        "FormattedName": "clear communication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Effectiveness",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>effectiveness",
+        "Alias": "work effectively with other members",
+        "FormattedName": "effectiveness",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Management Process",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project management",
+        "Alias": "project managed development, managing multiple projects, project mgmt., project-management, manage complex projects, project mgmt, manage a project, project-coordination, manage multiple project tasks, manage multiple projects, managing large scale projects, project co - ordination, project co-ordination, managing complex projects, project manage, managed smaller projects, management of project, operations project management, projects coordination, proj management, managed special projects, overseeing projects, manage the incoming project, project-handling, project management and coordination, project management processes, project management process, managing of projects, projects managing, project handling, coordination of international projects, coordination of projects, project description management, managed projects, project processing, manage a multiphase project, project-manage, manage small projects, managed phases, managed project, managed project operations, proj mgmt, handling of project, new project management, manage projects, managed long term projects, organizational project management, projects management, manage the project, project methods, projects handled, project coordination, project coordination and implementation, project coordinating, managing projects, managing project, manage the complex projects, project work management, management projects, managing the project planning, multiple projects management, project creation, handle multiple projects, manage several projects, project managing, coordinating projects",
+        "FormattedName": "project management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/08/2017",
+        "ExperienceInMonths": 26
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Stakeholder Communication",
+        "Ontology": "Arts, Entertainment, and Recreation>Public Relations Specialists>stakeholder communication",
+        "Alias": "stakeholder communications, stakeholder communication skills",
+        "FormattedName": "stakeholder communication",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Conduct Risk Assessments",
+        "Ontology": "Finance and Insurance>Financial Analysts and Advisors>risk analysis",
+        "Alias": "performing risk analysis, conduct risk assessment, conduct risk assessments, risk assessment analytics, risk evaluation, risk measure, examining risks, examining risks and potentials, risk assessment, risk-analysis, identification of risks, risk identification, process risk analysis, risk measures, analysis of risk, assessing risk, risk-reviews, risk measurement, performed risk analysis, risks analysis, risk identi?cation, assessing risks, measuring risk, identified audit risks, risk analytics, identify risks, risk reviews, retail risk analytics, risk assessments, perform a risk analysis, business process risk assessments, business process risk assessment, retail risk assessment, risk-assessment, weekly risk analysis",
+        "FormattedName": "risk analysis",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Planning and Execution",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>execution plan",
+        "Alias": "execution of the plans, executing-planning, plan execution, executing planning, plans execution, planning and execution, execution planning, execution of plans, executing plans",
+        "FormattedName": "execution plan",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Requirements Gathering",
+        "Ontology": "Information>Software Developers and Programmers>requirements elicitation",
+        "Alias": "gathering project requirement, capture requirements, business requirements solicitation, business requirements discovery, requirements gathering design, requirements gathering, requirement gathering design, requirement gathering architecture, requirement gathering, requirement gathering automation, gathering business requirements, gathering business, gather requirements, requirements discovery, requirements discovery process, user requirements gathering, user requirements capture, gathering user requirements, user-requirements capture, user-requirements-capture, gather business requirements, gathering requirements, requirements capture, elicit requirements, eliciting and specifying project requirements, technical requirements gathering, it requirements gathering, collect requirements",
+        "FormattedName": "requirements elicitation",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Documentation",
+        "Ontology": "Information>All Other Information Services>project documentation",
+        "Alias": "documentation projects, project management documentation, project-documentation, documenting projects, documenting project activities",
+        "FormattedName": "project documentation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/08/2017",
+        "ExperienceInMonths": 26
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Initiatives",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>strategic initiatives",
+        "Alias": "strategic business initiatives",
+        "FormattedName": "strategic initiatives",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Requirements",
+        "Ontology": "Construction>Civil Engineers>project requirements",
+        "Alias": "project specific requirements, project specific requirement, project requirement",
+        "FormattedName": "project requirements",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 108
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Operations",
+        "Ontology": "Wholesale Trade>Retail Salespersons>retail business operations",
+        "Alias": "retail business operation, retail business processes, retail business process, business broadband, business operations, business to business operations",
+        "FormattedName": "retail business operations",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Process Improvement",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>process improvement",
+        "Alias": "improve processes, manage process improvement, improvement of work processes, develop process improvements, develop process improvement, system improvement, system improvement process, system improvements, work process improvement, process operations improvement, system-improvement, improvement of the process, systems improvement, identifying process improvements, improvement analysis, process-improvement, operations process improvement, refining business units, refining business processes, process refinement, operational process improvement, business process refinement, business process improvement, process improvement methodology, process improvement initiation, process improvement implementation, process improvement framework, process improvement workflows, process improvement operations, process improvements, process improvement initiative, process enhancement",
+        "FormattedName": "process improvement",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 108
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Scheduling Meetings",
+        "Ontology": "Finance and Insurance>Meeting, Convention, and Event Planners>scheduled meetings",
+        "Alias": "meeting scheduling, scheduling meetings, meeting schedule, scheduling the meeting, meet the schedules, fix meetings, scheduling of meetings, schedule a meeting, scheduling internal and external meetings",
+        "FormattedName": "scheduled meetings",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/08/2017",
+        "ExperienceInMonths": 26
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Services",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & finance, banking & financial services, finance related services, finance service, financing operations, banking-services, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, credit services, banking services, banking and financial services, banking and finance, banking and-finance, financial svcs, finance service provision, finance services, credit-services, financial industry, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Management",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project management",
+        "Alias": "project managed development, managing multiple projects, project mgmt., project-management, manage complex projects, project mgmt, manage a project, project-coordination, manage multiple project tasks, manage multiple projects, managing large scale projects, project co - ordination, project co-ordination, managing complex projects, project manage, managed smaller projects, management of project, operations project management, projects coordination, proj management, managed special projects, overseeing projects, manage the incoming project, project-handling, project management and coordination, project management processes, project management process, managing of projects, projects managing, project handling, coordination of international projects, coordination of projects, project description management, managed projects, project processing, manage a multiphase project, project-manage, manage small projects, managed phases, managed project, managed project operations, proj mgmt, handling of project, new project management, manage projects, managed long term projects, organizational project management, projects management, manage the project, project methods, projects handled, project coordination, project coordination and implementation, project coordinating, managing projects, managing project, manage the complex projects, project work management, management projects, managing the project planning, multiple projects management, project creation, handle multiple projects, manage several projects, project managing, coordinating projects",
+        "FormattedName": "project management",
+        "Evidence": "SummarySection,CertificationSection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Quality Standards",
+        "Ontology": "Information>Software Quality Assurance Analysts and Testers>quality standards",
+        "Alias": "maintaining quality control standards, quality-assurance-standards, quality management standards, operations quality standards, quality assurance standards, quality standard",
+        "FormattedName": "quality standards",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cross-Functional",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 82
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Plans",
+        "Ontology": "Management of Companies and Enterprises>Computer and Information Systems Managers>project planning",
+        "Alias": "planning a project, project plan documentation, project roadmapping, soft project plan, project plan, project-plan-template, planning projects, project road map, project road mapping, project-plan template, project plans development, software project plan, software project planning, project work plan, software-planning, project road-map, software-project-plan, software-project plan, project-planning, software planning process, software planning, project plan templates, project plan template, software development project plan, software development project plans, project management planning, project management plan, project description planning, project-execution-plan, planning of software, project execution plan, project planning operations, project planning and coordination, project planning and development, project planning management, project plans, project workplan, project roadmap, project strategy, project roadmaps, project plan execution, project plan-template, software strategy",
+        "FormattedName": "project planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/08/2017",
+        "ExperienceInMonths": 26
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Agile",
+        "Ontology": "Information>Software Developers and Programmers>agile software development",
+        "Alias": "agile app development, agile techniques, agile software application development, development agile software, agile team practices, agile team practice, agile-methodology, agile it systems, agile product engineering, agile system development, agile engineering, agile process improvement method, agile process improvement, agile-sdlc-methodology, agile implementation, agile implementation methodology, agile implementation of projects, agile test life cycle management, agile sdlc, agile methodology, agile methodological, agile methodologies, agile methodologies engineering, agile methodology sdlc, agile program management, agile software development life cycle, agile software design, agile software development lifecycle, agile model driven development, application development agile, feature driven, agile fdd, agile model development, agile process-improvement, agile application development, agile applications development, agile application software development, agile solution development, feature driven development methodology, feature driven development method, feature driven development, agile technical development, agile-soft development life-cycle, feature-driven development, development features, software development methodologies agile, software development agile process, agile lifecycle development, agile software engineering practices, agile software engineering, agile devops, agile web-development, implementation agile, agile method sdlc, agile processes, agile best practices, agile product creation, agile programming, agile-software-development, agile-product development life cycle, agile methods, agile process, agile sdlc methodology, agile sdlc methodologies, agile team development, agile project development, agile website development, agile processes development, agile web development, agile lean implementation, agile software implementation, agile software lifecycle, agile development project, agile development methodologies, agile development sdlc, agile development practice, agile development, agile development methodology, agile web technologies, agile product development lifecycle, agile product development, agile product development life cycle, agile software processes, agile it development, agile practice, agile project lifecycle management, agile project life cycle mythology, agile project life cycle, feature development, agile soft development life cycle, agile sw development, agile method, agile-process-improvement, lightweight methodology, lightweight-methodology, agile",
+        "FormattedName": "agile software development",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Lloyds Banking Group \r Project Manager \r September 2017 - Present \r Manchester, UK \r As a Project Manager at Lloyds, I oversee the planning and execution of various projects, ensuring they are delivered on time, within budget, and to high-quality standards. I collaborate with stakeholders to gather and document project requirements, manage project timelines, and conduct risk assessments. My role involves coordinating cross-functional teams and maintaining clear communication with all parties involved. I also lead process improvement initiatives, resulting in increased project efficiency and effectiveness. \r Barclays UK \r Project Coordinator \r July 2015 - August 2017 \r Manchester, UK \r At Barclays, I supported project managers in coordinating and executing projects. My responsibilities included scheduling meetings, preparing project documentation, and assisting in the development of project plans. I worked closely with stakeholders to ensure project requirements were clearly understood and met. I also contributed to process improvement efforts, enhancing the overall project management process.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Lloyds Banking Group",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Project Manager",
+          "FormattedName": "project manager",
+          "Alias": "head of project unit, head of project management dept, head of project management service, project reporting manager, project monitoring head, project holder, leader projects management, project leader of a team, project leader, projects manager, project head, head project, corporate projects head, corporate projects office leader, corporate project manager, manager, projects, manager, project service, manager, project, manager project, project-services manager, manager project team, manager project management, manager-projects, project control management professional, lead of project, project team mgr, manager - project planning, manager - project, manager - projects, projects service lead, project management team manager, project management head, project management mgr, project management leader, project management manager, project general manager, project-manager, leader of the projects, head project management, manager of project, manager of project management, manager of projects, project services manager, project lead, projects mgr, project incharge, project mgr, leader projects, manager-project services, project completions manager, manager projects, project mngr, project - manager",
+          "RelatedSkills": [
+            {
+              "Skill": "project management activities",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "meeting facilitation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "project leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "project prioritization",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "project management dashboard",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "post implementation review",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "shared feedback",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "virtual team management",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "time awareness",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "ambiguity management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "innovation project management",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "responsible project management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "directing operational activities",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "adaptability",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "project reporting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "project analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "weekly progress report",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "project innovation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "collaboration",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "project sustainability",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "project management software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "risk management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "trapeze software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "goal tracking system",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "scope creep management",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "resource breakdown structure",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "precedence diagram method",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "critical thinking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "practical implementation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "spiral model",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "phase implementation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "project management",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "dmedi approach",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "process decision program chart",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "project planning",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "moscow method",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "project matrix",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "office building construction",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "September 2017 - till",
+        "FormattedJobPeriod": "09/2017 to till",
+        "StartDate": "01/09/2017",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "As a Project Manager at Lloyds, I oversee the planning and execution of various projects, ensuring they are delivered on time, within budget, and to high-quality standards. I collaborate with stakeholders to gather and document project requirements, manage project timelines, and conduct risk assessments. My role involves coordinating cross-functional teams and maintaining clear communication with all parties involved. I also lead process improvement initiatives, resulting in increased project efficiency and effectiveness.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Barclays UK",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Project Coordinator",
+          "FormattedName": "project coordinator",
+          "Alias": "head of project co-ordination department, client project coordinator, project site coordinator, project-coordinator, coordinator - project management office, coordinator - project management, project co-ordinator, project - coordinator, coordinator of projects, coordinator of project, industrial project coordinator, coordinator project, coordinator projects, co-ordination engineer, office project coordinator, project team coordinator, projects coordinator, former project coordinator, project management coordinator, project management co-ordinator, coordinator of the project, project development coordinator, project program coordinator, project co coordinator, manager of project coordination team, coordination engineer, project coordination manager, project coordinator field, project coordinating manager, project administration coordinator, project collaborator",
+          "RelatedSkills": [
+            {
+              "Skill": "microsoft planner",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "microsoft project",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "project management software",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "July 2015 - August 2017",
+        "FormattedJobPeriod": "07/2015 to 08/2017",
+        "StartDate": "01/07/2015",
+        "EndDate": "31/08/2017",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "At Barclays, I supported project managers in coordinating and executing projects. My responsibilities included scheduling meetings, preparing project documentation, and assisting in the development of project plans. I worked closely with stakeholders to ensure project requirements were clearly understood and met. I also contributed to process improvement efforts, enhancing the overall project management process.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Lloyds Banking Group",
+    "JobProfile": "Project Manager",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "109",
+      "TotalExperienceInYear": "9.1",
+      "TotalExperienceRange": "8-10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "54",
+    "LongestStay": "83",
+    "Summary": "Project Manager with over 6 years of experience in the financial services industry. Proven expertise in project management, stakeholder communication, and process improvement. Eager to transition into a Business Analyst role to further enhance business operations and strategic initiatives.",
+    "ExecutiveSummary": "James has an experience in the domain of 'Management of Companies and Enterprises', particularly in the sub-domain of 'Managers, All Other. 'The candidate has a total experience of 6 YearsThe candidate has been working as a Project Manager at Lloyds Banking Group for the last 6.11 years. ",
+    "ManagementSummary": "Currently, James holds a Mid Management Level position, as Project Manager at Lloyds Banking Group. from 01/09/2017 to 15/07/2024. The candidate has a total experience of 6.11 years in this company.\n\nJames holds a Low Management Level position, as Project Coordinator at Barclays UK. from 01/07/2015 to 31/08/2017. The candidate has a total experience of 2.2 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "References available upon request",
+    "CustomFields": "Parsing Time : 564ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "James Wong\nManchester, UK\njames.wong@email.com\n+44 1234 876543\nLinkedIn : linkedin.com/in/jameswong\n\nProfessional Summary : \nProject Manager with over 6 years of experience in the financial services industry. Proven expertise in project management, stakeholder communication, and process improvement. Eager to transition into a Business Analyst role to further enhance business operations and strategic initiatives.\n\nProfessional Experience : \nLloyds Banking Group\nProject Manager\nSeptember 2017 - Present\nManchester, UK\nAs a Project Manager at Lloyds, I oversee the planning and execution of various projects, ensuring they are delivered on time, within budget, and to high-quality standards. I collaborate with stakeholders to gather and document project requirements, manage project timelines, and conduct risk assessments. My role involves coordinating cross-functional teams and maintaining clear communication with all parties involved. I also lead process improvement initiatives, resulting in increased project efficiency and effectiveness.\nBarclays UK\nProject Coordinator\nJuly 2015 - August 2017\nManchester, UK\nAt Barclays, I supported project managers in coordinating and executing projects. My responsibilities included scheduling meetings, preparing project documentation, and assisting in the development of project plans. I worked closely with stakeholders to ensure project requirements were clearly understood and met. I also contributed to process improvement efforts, enhancing the overall project management process.\n\nEducation : \nBachelor of Business Administration\nUniversity of Leeds\nGraduated : 2015\n\nSkills : \nProject management (Agile, Waterfall) \nRequirements gathering\nProcess improvement\nStakeholder communication\nData analysis\nStrong organizational skills\n\nCertifications : \nProject Management Professional (PMP) \nCertified ScrumMaster (CSM) \n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">James Wong</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">james.wong@email.com</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">+44 1234 876543</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">LinkedIn: linkedin.com/in/jameswong</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Project Manager with over 6 years of experience in the financial services industry. Proven expertise in project management, stakeholder communication, and process improvement. Eager to transition into a Business Analyst role to further enhance business operations and strategic initiatives.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lloyds Banking Group</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Project Manager</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">September 2017 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">As a Project Manager at Lloyds, I oversee the planning and execution of various projects, ensuring they are delivered on time, within budget, and to high-quality standards. I collaborate with stakeholders to gather and document project requirements, manage project timelines, and conduct risk assessments. My role involves coordinating cross-functional teams and maintaining clear communication with all parties involved. I also lead process improvement initiatives, resulting in increased project efficiency and effectiveness.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Barclays UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Project Coordinator</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">July 2015 - August 2017</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At Barclays, I supported project managers in coordinating and executing projects. My responsibilities included scheduling meetings, preparing project documentation, and assisting in the development of project plans. I worked closely with stakeholders to ensure project requirements were clearly understood and met. I also contributed to process improvement efforts, enhancing the overall project management process.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Bachelor of Business Administration</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">University of Leeds</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2015</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Project management (Agile, Waterfall) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Requirements gathering</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Process improvement</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Stakeholder communication</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data analysis</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strong organizational skills</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Project Management Professional (PMP) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified ScrumMaster (CSM) </span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">References available upon request</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

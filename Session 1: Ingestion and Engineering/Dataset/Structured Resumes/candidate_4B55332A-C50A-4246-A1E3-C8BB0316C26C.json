@@ -1,0 +1,634 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Lucy Taylor.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:28:11",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Lucy Taylor",
+      "TitleName": "",
+      "FirstName": "Lucy",
+      "MiddleName": "",
+      "LastName": "Taylor",
+      "FormattedName": "Lucy Taylor",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "lucy.taylor@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123456789",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 456789",
+        "FormattedNumber": "+44 7123 456789",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "",
+        "Url": ""
+      }
+    ],
+    "Address": [
+      {
+        "Street": "22 Willow Lane",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M34ED",
+        "FormattedAddress": "22 Willow Lane, Manchester, England, M34ED, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Health Care and Social Assistance",
+    "SubCategory": "Pediatricians, General",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Manchester High School \r GCSEs : English (C) , Mathematics (D) \r Completed : 2018 \r NVQ Level 3 in Childcare and Education \r Completed : 2020",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "",
+          "Type": "",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 0
+        },
+        "Degree": {
+          "DegreeName": "NVQ Level 3 in Childcare and Education",
+          "NormalizeDegree": "",
+          "Specialization": [
+            "Level 3 Childcare"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2020",
+        "StartDate": "",
+        "EndDate": "31/12/2020",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "Manchester High School",
+          "Type": "School",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 8
+        },
+        "Degree": {
+          "DegreeName": "GCSEs : English C Mathematics",
+          "NormalizeDegree": "",
+          "Specialization": [
+            "English",
+            "Mathematics"
+          ],
+          "ConfidenceScore": 7
+        },
+        "FormattedDegreePeriod": "2018",
+        "StartDate": "",
+        "EndDate": "31/12/2018",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Paediatric First Aid Certificate \r Safeguarding Children Certificate \r Food Hygiene Certificate \r  \r  \r  \r Outdoor Activities : Loves organizing outdoor play and nature walks to encourage physical activity and exploration. \r Arts and Crafts : Passionate about creating fun and educational craft activities for children.",
+    "SegregatedCertification": [],
+    "SkillBlock": "Childcare : Strong ability to provide nurturing care and support to young children. \r Activity Planning : Skilled in planning and implementing age-appropriate educational and recreational activities. \r Communication : Excellent communication skills, with the ability to effectively engage with children, parents, and colleagues. \r Safety Awareness : Vigilant in ensuring the safety and well-being of children in all activities. \r Teamwork : Proven ability to work collaboratively with nursery staff to deliver high-quality childcare. \r Personal Care : Experienced in assisting with personal care routines, including diaper changes and toilet training.",
+    "SkillKeywords": "Passionate,Attentive,Awareness,Dedicated,Inclusive,Assisted,Caring,Excellent Communication Skills,Communicate Effectively,Communication,Storytelling,Encourage,Planning,Teamwork,Emotional and Social Development,Early Childhood Education,Individualized Learning,Organizing Activities,Safeguarding Children,Ensuring The Safety,Activity Planning,High-Quality Care,Proven Ability,Personal Care,Food Hygiene,Childcare",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Passionate",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>passionate",
+        "Alias": "passionate skill, passionate to work",
+        "FormattedName": "passionate",
+        "Evidence": "SummarySection,CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Attentive",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>attentiveness",
+        "Alias": "attentive",
+        "FormattedName": "attentiveness",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Awareness",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Dedicated",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Inclusive",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>inclusive",
+        "Alias": "inclusiveness",
+        "FormattedName": "inclusive",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Caring",
+        "Ontology": "Health Care and Social Assistance>Personal Care Aides>caring",
+        "Alias": "caring skills",
+        "FormattedName": "caring",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Excellent Communication Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communicate Effectively",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Storytelling",
+        "Ontology": "Arts, Entertainment, and Recreation>Media and Communication Workers>storytelling",
+        "Alias": "story telling",
+        "FormattedName": "storytelling",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Encourage",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>encourage",
+        "Alias": "encouragement, encouraging teamwork, encouraging, encouraged",
+        "FormattedName": "encourage",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Planning",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>planning process",
+        "Alias": "ability to plan, planning, planning ability, planning-process, planning skills, ability to create plans",
+        "FormattedName": "planning process",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Teamwork",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>teamwork",
+        "Alias": "able to work in teams, works well in a team, cross-team collaboration, team work, cross team collaboration, work with the client, fostering a collaborative environment, working well with others, crossteam collaboration, able to work well in a team, team-oriented, collaboratively with the members of the team, ability to work with all levels of staff, ability to work effectively in team environment, ability to work with a team, ability to work as a team, ability to work in a team, ability to work in teams, ability to work as part of a team, ability to work well with others, ability to work with teams, team-collaboration, team work oriented, work with the operations teams, team collaboration, work in teams, team-orientation, works well with others, works well with a team, works well with people, team orientation, working with clients, works well in groups, collaborated with other staff members, working with people, team-focused, collaborating with teams, foster collaboration, work with others, working in teams, team work skills, work as a team, cross-team communication, group collaboration, working with others, team working, works effectively with a team, teamworking, teamwork skills, work with people, team spirit, cross - team communication, enjoy working with people, ability of working in team, effective teamwork, cross - team collaboration, collaborate with team members, team oriented, assist other team members, committed to work as a collaborative and positive team member, team-orientated",
+        "FormattedName": "teamwork",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Emotional and Social Development",
+        "Ontology": "Health Care and Social Assistance>Mental Health Counselors>social emotional development",
+        "Alias": "emotional and social development, social emotional-development, social and emotional development, mental and social development",
+        "FormattedName": "social emotional development",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Early Childhood Education",
+        "Ontology": "Educational Services>Preschool and Kindergarten Teachers>early childhood education",
+        "Alias": "early childhood literacy, early childhood development",
+        "FormattedName": "early childhood education",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Individualized Learning",
+        "Ontology": "Educational Services>Instructional Coordinators>individual learning",
+        "Alias": "individual training, individualized-learning, individualized learning",
+        "FormattedName": "individual learning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Organizing Activities",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>activity management",
+        "Alias": "plans activities, manage all activities, managed following activities, designing activity, activity sequencing, managed activities, manage activities, managing activities, arranges activities, manage the activities, coordination activities, manage the daily activities, coordination of activities, activity maintenance, activity review, activity development, manage  the activities, organizing activities, manage improvement activities, managing all activities, manage daily activity",
+        "FormattedName": "activity management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Safeguarding Children",
+        "Ontology": "Educational Services>Adult Basic and Secondary Education and Literacy Teachers and Instructors>safeguarding adults",
+        "Alias": "adult safeguarding, adult-safeguarding, safeguarding children",
+        "FormattedName": "safeguarding adults",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensuring The Safety",
+        "Ontology": "Construction>Health and Safety Engineers, Except Mining Safety Engineers and Inspectors>safety inspection",
+        "Alias": "conducting safety inspections, safety-auditing, safety evaluation, safety checks, safety audit, safety surveying, safety-check, examining safety, observation safety, safety-inspection, safety survey, safety investigation, safety auditing, ensuring the safety, safety examination, surveying safety, safety examine, investigating safety, safety checking, checking safety, safety check, safety audits",
+        "FormattedName": "safety inspection",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 54
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Activity Planning",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>activity planning",
+        "Alias": "activity-planning, activities planification, activity program development, activity plans, planning activity",
+        "FormattedName": "activity planning",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "High-Quality Care",
+        "Ontology": "Health Care and Social Assistance>Health Diagnosing and Treating Practitioners, All Other>health care quality",
+        "Alias": "quality in healthcare, maintain a high level of quality care, analyse the care quality, analyse care quality, high quality healthcare, analyze care quality, analyze the care quality, quality service to the patients, quality of care, high-quality care, analyse quality of care, health quality, analyse-the-care-quality, quality patient care, quality care for patients, healthcare quality, high-quality healthcare, high-quality health care, analyze the quality of care, maintain quality care, high - quality care, high quality care",
+        "FormattedName": "health care quality",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Proven Ability",
+        "Ontology": "Information>Mathematicians>proven ability",
+        "Alias": "proven ability to work well",
+        "FormattedName": "proven ability",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Personal Care",
+        "Ontology": "Other Services (except Public Administration) >Personal Care and Service Occupations>personal care",
+        "Alias": "providing general personal care, personal-care services, home & personal care, home personal care services, personal care-services, providing-general personal care, personal care assistance, personal grooming assistance, home and personal care, personal care to patients, personal care service, providing personal care, personal-care-services, personal-care",
+        "FormattedName": "personal care",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Food Hygiene",
+        "Ontology": "Accommodation and Food Services>Cooks, All Other>food safety",
+        "Alias": "safe food handling, kitchen security, food handling, food-health-and-safety, food health and safety, kitchen safety, food-security, food security, food protection, food-safety, food hygiene, food safety and sanitation, food handling safety",
+        "FormattedName": "food safety",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Childcare",
+        "Ontology": "Other Services (except Public Administration) >Childcare Workers>childcare",
+        "Alias": "children care, child care, child-care, child care practices, childcare fundamentals",
+        "FormattedName": "childcare",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2020",
+        "ExperienceInMonths": 36
+      }
+    ],
+    "Experience": "Bright Beginnings Nursery \r Nursery Nurse \r Manchester, UK \r 2020 - Present \r At Bright Beginnings Nursery, Lucy has been responsible for providing exceptional care to children aged 0-5 years. Her duties include planning and implementing age-appropriate activities, ensuring the safety and well-being of the children, and working closely with parents and colleagues to support each child's individual needs. Lucy has created engaging learning environments and fostered a nurturing atmosphere where children feel safe and valued. \r Key Responsibilities :  \r Plan and implement a variety of educational and recreational activities. \r Monitor and ensure the safety and well-being of children. \r Assist in the development of individualized learning plans. \r Communicate effectively with parents regarding their child's progress and needs. \r Maintain a clean, safe, and organized nursery environment. \r Support children in their personal, social, and emotional development. \r Key Achievements :  \r Developed a successful weekly storytelling hour that enhanced children's love for reading. \r Implemented a new outdoor play schedule, increasing children's physical activity by 25%. \r Little Explorers Daycare \r Nursery Assistant \r Manchester, UK \r 2018 - 2020 \r As a Nursery Assistant at Little Explorers Daycare, Lucy supported senior nursery staff in delivering high-quality childcare. She assisted in preparing meals, organizing activities, and maintaining a safe and clean environment for the children. Lucy's role also included helping with personal care routines and supporting the emotional and social development of the children. \r Key Responsibilities :  \r Assist in planning and organizing daily activities. \r Prepare and serve nutritious meals and snacks. \r Support children with personal care routines, including diaper changes and toilet training. \r Monitor and ensure children's safety during indoor and outdoor activities. \r Help create a welcoming and inclusive environment for all children. \r Key Achievements :  \r Successfully supported the integration of a new daily routine, improving overall nursery operations. \r Received positive feedback from parents for her caring and attentive nature.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Bright Beginnings Nursery",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Nursery Nurse",
+          "FormattedName": "pediatric nurse",
+          "Alias": "staff nurse pediatrics, pediatric registered nurse, newborn nurse, pediatric office nurse, pediatric field nurse, prenatal nurse, pediatric hematology oncology rn, certified pediatric nurse, neonatal intensive care unit nurse, nursery nurse, baby nurse, baby-nurse, baby child nurse, neonatal-nurse, prn, neonatal registered nurse, pediatric-nurse, per diem pediatric care nurse, neonatal nurse practitioner, acute care pediatric nurse, childrens nurse, pediatric staff nurse, pediatrics nurse, nicu staff nurse, staff pediatric rn, nursery child care worker, nicu nurse, neonatal nurse, pediatric nurse unit, nursery-nurse",
+          "RelatedSkills": [
+            {
+              "Skill": "pediatric nursing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "procedure management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "evaluate nursing care",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "medication monitoring",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "basic life support",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "nursing process",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "health planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "professionalism",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "observational skills",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "child protection",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "child development",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2020 - till",
+        "FormattedJobPeriod": "2020 to till",
+        "StartDate": "01/01/2020",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At Bright Beginnings Nursery, Lucy has been responsible for providing exceptional care to children aged 0- . Her duties include planning and implementing age-appropriate activities, ensuring the safety and well-being of the children, and working closely with parents and colleagues to support each child's individual needs. Lucy has created engaging learning environments and fostered a nurturing atmosphere where children feel safe and valued. \n Key Responsibilities : \n Plan and implement a variety of educational and recreational activities. \n Monitor and ensure the safety and well-being of children. \n Assist in the development of individualized learning plans. \n Communicate effectively with parents regarding their child's progress and needs. \n Maintain a clean, safe, and organized nursery environment. \n Support children in their personal, social, and emotional development. \n Key Achievements : \n Developed a successful weekly storytelling hour that enhanced children's love for reading. \n Implemented a new outdoor play schedule, increasing children's physical activity by 25%.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Little Explorers Daycare",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Nursery Assistant",
+          "FormattedName": "nursery assistant",
+          "Alias": "substitute nursery aide, nursery school assistant, assistant of nursery, nursery-assistant, nursery room assistant, private nursery assistant, nursery assistant trainee, licensed nursery assistant, nursery attendant, nursery childcare assistant, nursery asst, asst of nursery, independent nursery assistant, nursery helper, nursery teaching assistant, nursery teaching aide",
+          "RelatedSkills": [
+            {
+              "Skill": "child support",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "minimum data set charting",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2018 - 2020",
+        "FormattedJobPeriod": "2018 to 2020",
+        "StartDate": "01/01/2018",
+        "EndDate": "31/12/2020",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "As a Nursery Assistant at Little Explorers Daycare, Lucy supported senior nursery staff in delivering high-quality childcare. She assisted in preparing meals, organizing activities, and maintaining a safe and clean environment for the children. Lucy's role also included helping with personal care routines and supporting the emotional and social development of the children. \n Key Responsibilities : \n Assist in planning and organizing daily activities. \n Prepare and serve nutritious meals and snacks. \n Support children with personal care routines, including diaper changes and toilet training. \n Monitor and ensure children's safety during indoor and outdoor activities. \n Help create a welcoming and inclusive environment for all children. \n Key Achievements : \n Successfully supported the integration of a new daily routine, improving overall nursery operations. \n Received positive feedback from parents for her caring and attentive nature.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Bright Beginnings Nursery",
+    "JobProfile": "Nursery Nurse",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "79",
+      "TotalExperienceInYear": "6.7",
+      "TotalExperienceRange": "5-8 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "39",
+    "LongestStay": "43",
+    "Summary": "Dedicated and compassionate Nursery Nurse with 3 years of experience working in early childhood education. Passionate about providing high-quality care and educational support to young children. Adept at creating a safe, nurturing, and stimulating environment that fosters children's growth and development.",
+    "ExecutiveSummary": "Lucy has an experience in the domain of 'Health Care and Social Assistance', particularly in the sub-domain of 'Pediatricians, General. 'The candidate has a total experience of 3 YearsThe candidate has been working as a Nursery Nurse at Bright Beginnings Nursery for the last 4.7 years. ",
+    "ManagementSummary": "Lucy doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "Reading : Enjoys reading children's books and discovering new stories to share with the children at the nursery.",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 638ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Lucy Taylor\nContact Information : \nAddress : 22 Willow Lane, Manchester, M3 4ED, England\nEmail : lucy.taylor@email.com\nPhone : +44 7123 456789\n\nProfessional Summary : \nDedicated and compassionate Nursery Nurse with 3 years of experience working in early childhood education. Passionate about providing high-quality care and educational support to young children. Adept at creating a safe, nurturing, and stimulating environment that fosters children's growth and development.\n\nEducation : \nManchester High School\nGCSEs : English (C) , Mathematics (D) \nCompleted : 2018\nNVQ Level 3 in Childcare and Education\nCompleted : 2020\n\nProfessional Experience : \nBright Beginnings Nursery\nNursery Nurse\nManchester, UK\n2020 - Present\nAt Bright Beginnings Nursery, Lucy has been responsible for providing exceptional care to children aged 0-5 years. Her duties include planning and implementing age-appropriate activities, ensuring the safety and well-being of the children, and working closely with parents and colleagues to support each child's individual needs. Lucy has created engaging learning environments and fostered a nurturing atmosphere where children feel safe and valued.\nKey Responsibilities : \nPlan and implement a variety of educational and recreational activities.\nMonitor and ensure the safety and well-being of children.\nAssist in the development of individualized learning plans.\nCommunicate effectively with parents regarding their child's progress and needs.\nMaintain a clean, safe, and organized nursery environment.\nSupport children in their personal, social, and emotional development.\nKey Achievements : \nDeveloped a successful weekly storytelling hour that enhanced children's love for reading.\nImplemented a new outdoor play schedule, increasing children's physical activity by 25%.\nLittle Explorers Daycare\nNursery Assistant\nManchester, UK\n2018 - 2020\nAs a Nursery Assistant at Little Explorers Daycare, Lucy supported senior nursery staff in delivering high-quality childcare. She assisted in preparing meals, organizing activities, and maintaining a safe and clean environment for the children. Lucy's role also included helping with personal care routines and supporting the emotional and social development of the children.\nKey Responsibilities : \nAssist in planning and organizing daily activities.\nPrepare and serve nutritious meals and snacks.\nSupport children with personal care routines, including diaper changes and toilet training.\nMonitor and ensure children's safety during indoor and outdoor activities.\nHelp create a welcoming and inclusive environment for all children.\nKey Achievements : \nSuccessfully supported the integration of a new daily routine, improving overall nursery operations.\nReceived positive feedback from parents for her caring and attentive nature.\nSkills : \nChildcare : Strong ability to provide nurturing care and support to young children.\nActivity Planning : Skilled in planning and implementing age-appropriate educational and recreational activities.\nCommunication : Excellent communication skills, with the ability to effectively engage with children, parents, and colleagues.\nSafety Awareness : Vigilant in ensuring the safety and well-being of children in all activities.\nTeamwork : Proven ability to work collaboratively with nursery staff to deliver high-quality childcare.\nPersonal Care : Experienced in assisting with personal care routines, including diaper changes and toilet training.\n\nCertifications : \nPaediatric First Aid Certificate\nSafeguarding Children Certificate\nFood Hygiene Certificate\n\nInterests : \nReading : Enjoys reading children's books and discovering new stories to share with the children at the nursery.\nOutdoor Activities : Loves organizing outdoor play and nature walks to encourage physical activity and exploration.\nArts and Crafts : Passionate about creating fun and educational craft activities for children.\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lucy Taylor</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 22 Willow Lane, Manchester, M3 4ED, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> lucy.taylor@email.com</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 456789</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Dedicated and compassionate Nursery Nurse with 3 years of experience working in early childhood education. Passionate about providing high-quality care and educational support to young children. Adept at creating a safe, nurturing, and stimulating environment that fosters children's growth and development.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Manchester High School</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">GCSEs: English (C) , Mathematics (D) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Completed: 2018</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">NVQ Level 3 in Childcare and Education</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Completed: 2020</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Bright Beginnings Nursery</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Nursery Nurse</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2020 - Present</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At Bright Beginnings Nursery, Lucy has been responsible for providing exceptional care to children aged 0-5 years. Her duties include planning and implementing age-appropriate activities, ensuring the safety and well-being of the children, and working closely with parents and colleagues to support each child's individual needs. Lucy has created engaging learning environments and fostered a nurturing atmosphere where children feel safe and valued.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Plan and implement a variety of educational and recreational activities.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Monitor and ensure the safety and well-being of children.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assist in the development of individualized learning plans.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Communicate effectively with parents regarding their child's progress and needs.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Maintain a clean, safe, and organized nursery environment.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Support children in their personal, social, and emotional development.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed a successful weekly storytelling hour that enhanced children's love for reading.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Implemented a new outdoor play schedule, increasing children's physical activity by 25%.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Little Explorers Daycare</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Nursery Assistant</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2018 - 2020</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">As a Nursery Assistant at Little Explorers Daycare, Lucy supported senior nursery staff in delivering high-quality childcare. She assisted in preparing meals, organizing activities, and maintaining a safe and clean environment for the children. Lucy's role also included helping with personal care routines and supporting the emotional and social development of the children.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assist in planning and organizing daily activities.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Prepare and serve nutritious meals and snacks.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Support children with personal care routines, including diaper changes and toilet training.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Monitor and ensure children's safety during indoor and outdoor activities.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Help create a welcoming and inclusive environment for all children.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Successfully supported the integration of a new daily routine, improving overall nursery operations.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Received positive feedback from parents for her caring and attentive nature.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Childcare:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong ability to provide nurturing care and support to young children.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Activity Planning:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Skilled in planning and implementing age-appropriate educational and recreational activities.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Communication:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Excellent communication skills, with the ability to effectively engage with children, parents, and colleagues.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Safety Awareness:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Vigilant in ensuring the safety and well-being of children in all activities.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Teamwork:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Proven ability to work collaboratively with nursery staff to deliver high-quality childcare.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Personal Care:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Experienced in assisting with personal care routines, including diaper changes and toilet training.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Paediatric First Aid Certificate</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Safeguarding Children Certificate</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Food Hygiene Certificate</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Interests:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Reading:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Enjoys reading children's books and discovering new stories to share with the children at the nursery.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Outdoor Activities:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Loves organizing outdoor play and nature walks to encourage physical activity and exploration.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Arts and Crafts:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Passionate about creating fun and educational craft activities for children.</span></li></ul><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

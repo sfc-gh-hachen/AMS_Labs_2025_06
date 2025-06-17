@@ -1,0 +1,496 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Ayesha Rahman.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:04:56",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Ayesha Rahman",
+      "TitleName": "",
+      "FirstName": "Ayesha",
+      "MiddleName": "",
+      "LastName": "Rahman",
+      "FormattedName": "Ayesha Rahman",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "ayesha.rahman@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+441234567890",
+        "ISDCode": "+44",
+        "OriginalNumber": "1234 567890",
+        "FormattedNumber": "+44 1234 567890",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/ayesharahman"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 7
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Human Resources Specialists",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Bachelor of Science in Business Analytics \r University of Manchester \r Graduated : 2016",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "Bachelor of Science in Business",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Business"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2016",
+        "StartDate": "",
+        "EndDate": "31/12/2016",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Certified Performance Analyst (CPA)",
+    "SegregatedCertification": [],
+    "SkillBlock": "Data analysis (Excel, SQL) \r Performance measurement \r Process improvement \r Strong analytical and problem-solving skills \r Effective communication and presentation \r Stakeholder management",
+    "SkillKeywords": "Improvement,Identifying Opportunities,Effective Communication,Develop Strategies,Collaborating,Presentation,Increasing Operational Efficiency,Performance Improvement Plans,Performance Measurement,Stakeholder Management,Performance Reporting,Business Efficiency,Performance Metrics,Process Improvement,Financial Services,Strategic Business,Senior Management,Data Analysis,Excel,SQL",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Improvement",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>process improvement",
+        "Alias": "improve processes, manage process improvement, improvement of work processes, develop process improvements, develop process improvement, system improvement, system improvement process, system improvements, work process improvement, process operations improvement, system-improvement, improvement of the process, systems improvement, identifying process improvements, improvement analysis, process-improvement, operations process improvement, refining business units, refining business processes, process refinement, operational process improvement, business process refinement, business process improvement, process improvement methodology, process improvement initiation, process improvement implementation, process improvement framework, process improvement workflows, process improvement operations, process improvements, process improvement initiative, process enhancement",
+        "FormattedName": "process improvement",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Identifying Opportunities",
+        "Ontology": "Finance and Insurance>Compliance Officers>identifying opportunities",
+        "Alias": "identifying new opportunities, identify opportunities, opportunity identification",
+        "FormattedName": "identifying opportunities",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Effective Communication",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>effective communication",
+        "Alias": "able to convey information, able to convey information clearly, clear & concise communication, excellent communicator, communicated effectively, clear and concise communication, develop strong communication, effective-communication, developing effective communication, great communicators, effective communication is paramount, effective communicator, effective communication skills, communicating with supervisors, communicated regularly, able to communicate effectively, develop effective communication skills",
+        "FormattedName": "effective communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Develop Strategies",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Statistical Assistants>strategy development",
+        "Alias": "developing strategies, strategic development, strategy-development, develop strategies, developed strategies",
+        "FormattedName": "strategy development",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaborating",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Presentation",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>presentation",
+        "Alias": "presentation capabilities, presentation skills, presenting skills, presentations skills, presentations",
+        "FormattedName": "presentation",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Increasing Operational Efficiency",
+        "Ontology": "Other Services (except Public Administration) >Business Associations>operational efficiency",
+        "Alias": "operation efficiencies, operation efficiency, operational-efficiency, operating efficiencies, improve operational efficiency, drive operational e?ciencies, drive operational efficiencies, operating ef?ciencies, operation ef?ciencies, increasing operational efficiency, maintain and improve operational efficiency",
+        "FormattedName": "operational efficiency",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/06/2018",
+        "ExperienceInMonths": 25
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Performance Improvement Plans",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>performance improvement plan",
+        "Alias": "performance improvement plans, program improvement, performance-improvement-plan, performance-improvement plan, performance action plan, performance action planning, employee performance improvement plan, employee performance improvement planning, plan performance action, improvement plan",
+        "FormattedName": "performance improvement plan",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/06/2018",
+        "ExperienceInMonths": 25
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Performance Measurement",
+        "Ontology": "Finance and Insurance>Business and Financial Operations Occupations>performance measurement",
+        "Alias": "performance-measurement, performance metric, performance measurement analysis, performance measuring, performance measurements",
+        "FormattedName": "performance measurement",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Stakeholder Management",
+        "Ontology": "Management of Companies and Enterprises>Transportation, Storage, and Distribution Managers>stakeholder management",
+        "Alias": "stakeholder mgmt., stakeholder managing, managing stakeholder, manage client stakeholders, multiple stakeholder management, manage client-stakeholder, manage stakeholder expectations, manage stakeholder, consistent stakeholder management, stakeholders affairs management, created stakeholder management, stakeholder-management, management stakeholder",
+        "FormattedName": "stakeholder management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Performance Reporting",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Statistical Assistants>performance report",
+        "Alias": "work performance report, performance reports, project performance report",
+        "FormattedName": "performance report",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "30/06/2018",
+        "ExperienceInMonths": 25
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Efficiency",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business efficiency",
+        "Alias": "efficiency in business, business-efficiency",
+        "FormattedName": "business efficiency",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Performance Metrics",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>key performance indicator",
+        "Alias": "kpi dashboard, sales-metric, kpi development, performance management metrics, dashboard kpi, staff kpi, kpi, business-metric, marketing campaign metrics, execution metrics, sales metric, financial kpi, manage metrics, performance-metric, business metric, monitoring kpi, finance kpi, knowledge management-metrics, knowledge management metrics, km metrics, understanding data and metrics, track metrics, kpis monitoring, key performance indicators, financial key performance indicator, metric-management, development of key performance indicators, management metrics, performance metrics management, performance metrics, business metrics monitoring, business metrics visualization, business metrics, digital marketing metrics, digital marketing matrices, key success indicator, sales metrics, kpi monitoring, marketing business metrics, key-performance-indicator, metrics management, kpi performance analysis, kpi performance management, marketing key performance indicators, marketing key performance indicator, performance indicator, marketing kpi, marketing metrics, kpi implementation, business-process-kpi, digital-marketing metrics, digital-marketing- metrics, business process-kpi, business process kpi, develop kpis, metric management, logistics kpi, maintain metrics",
+        "FormattedName": "key performance indicator",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Process Improvement",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>process improvement",
+        "Alias": "improve processes, manage process improvement, improvement of work processes, develop process improvements, develop process improvement, system improvement, system improvement process, system improvements, work process improvement, process operations improvement, system-improvement, improvement of the process, systems improvement, identifying process improvements, improvement analysis, process-improvement, operations process improvement, refining business units, refining business processes, process refinement, operational process improvement, business process refinement, business process improvement, process improvement methodology, process improvement initiation, process improvement implementation, process improvement framework, process improvement workflows, process improvement operations, process improvements, process improvement initiative, process enhancement",
+        "FormattedName": "process improvement",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Services",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & finance, banking & financial services, finance related services, finance service, financing operations, banking-services, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, credit services, banking services, banking and financial services, banking and finance, banking and-finance, financial svcs, finance service provision, finance services, credit-services, financial industry, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Business",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business planning",
+        "Alias": "business-development-planning, planned business process, formulation business plan, business-strategy-concepts, business-strategy, develop plans for business, business plan formulation, business plans management, corporate strategy, corporate strategic planning, business development prospects, business development plans, business development planning, business-blueprinting, business-blueprint, building new business development strategy, business requirements scenario, create business plans, business plan-formulation, drafting business plans, company strategy, business blueprinting, business blueprint, business blueprinting process, business blueprint process, business planning process, business planning & development, business planning operations, business planning and development, formulation of business plan, business scenario, strategic business, business plans, generate business plans, prepare the business plan, business-scenario, develop business plans, develop business plan, develop-business- plans, develop-business plans, corporate planning and analysis, corporate planning, produce business plans, creating business plans, corporate-strategy, execution of business plans, draw up the business plan, developing business plans, develop the business plan, business plan, business-planning, companys strategy, business strategy, business strategy design, business strategy concepts, business strategizing, business strategies, business strategy-concepts, business-plan-formulation, preparing business plan, business process blueprinting, business processes planned, implemented business plan, corporate-planning",
+        "FormattedName": "business planning",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Senior Management",
+        "Ontology": "Finance and Insurance>Management Analysts>senior management",
+        "Alias": "top-management, front line mgmt, top level management, senior and executive level management, front line management, senior mgmt, senior it management, frontline-management, executive level management, executive management, senior management functions, senior management function, upper management, frontline mgmt, top management system, top mgmt, sr management, exec mgmt, it executive management, top management, senior-management, frontline management",
+        "FormattedName": "senior management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Excel",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Administrative Services>microsoft excel",
+        "Alias": "excel 4, windows excel, platform excel, excel 2000, advanced ms excel, microsoft technology ms excel, excel 2002, microsoft excel 2016, microsoft excel 2004 for mac, microsoft excel 2010, microsoft excel 2007, microsoft excel 2013, microsoft excel spreadsheet software, microsoft excel 2001 for mac, microsoft excel xp, microsoft excel 97 for windows, microsoft excel 2003, microsoft excel 2019, microsoft excel v2.0, microsoft excel 2000, microsoft excel soft., microsoft excel v5.0, microsoft excel software, microsoft excel 2002, ms excel 2004 for mac, ms excel 2003, microsoft software excel, pc software microsoft excel, ms excel 97 for windows, software excel, microsoft .excel, excel 95, excel 2004 for mac, advanced microsoft excel, advanced excel, ms excel 2000, microsoft products ms excel, excel platform, ms excel 2001 for mac, excel xp, ms-excel, excel 3, microsoft office excel, excel, excel 2010, ms excel 2010, ms excel, ms excel 2002, microsoft suite excel, excel skills, excel 2, excel 5, excel 2001 for mac, ms. excel, excel 97, excel software, excel 97 for windows, excel 2003, internet microsoft excel, excel 2016",
+        "FormattedName": "microsoft excel",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "SQL",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>sql",
+        "Alias": "sql 2008, structured query language, sql 2003, oracle sql2005, sql-2003, advanced sql, programming language sql, oracle sql programming, sql 2005, sql/400, sql programming, sql coding, database definition language, database sql, ibm sql/400, sql language, oracle sql, databases sql, sql development, sqldb, coding sql, sql databases, sql computer language, sql 2000, ibm sql400, sql database, data definition language, sql400, data dictionary language, programming sql, sql oracle, oql, sql database query language, advanced sql programming, sql programming language, ansi sql, sql queries, data description lang, data description language, object query language, sql2005, microsoft sql programming, structured-query-language",
+        "FormattedName": "sql",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 72
+      }
+    ],
+    "Experience": "HSBC UK \r Performance Analyst \r July 2018 - Present \r Manchester, UK \r At HSBC, I am responsible for analyzing business performance and identifying opportunities for improvement. I conduct detailed data analysis using tools like Excel and SQL, and create performance reports for senior management. My role involves collaborating with various departments to gather performance metrics and develop strategies to enhance business efficiency. I also lead process improvement initiatives, resulting in significant operational improvements. \r NatWest Group \r Junior Performance Analyst \r June 2016 - June 2018 \r Manchester, UK \r At NatWest, I supported senior analysts in monitoring and analyzing business performance. My responsibilities included preparing performance reports, conducting variance analyses, and assisting in the development of performance improvement plans. I worked closely with stakeholders to ensure accurate and timely performance reporting. Additionally, I contributed to process improvement initiatives aimed at increasing operational efficiency.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "HSBC UK",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Performance Analyst",
+          "FormattedName": "performance analyst",
+          "Alias": "human performance analyst, corporate performance analyst, service performance analyst, performance reviewer, analyst performance, business performance analyst, analyst, operational performance analytics, analyst of performance, engine performance analyst, manager of performance analysis, efficiency analyst, facilities performance analyst",
+          "RelatedSkills": [
+            {
+              "Skill": "focal point review",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "July 2018 - till",
+        "FormattedJobPeriod": "07/2018 to till",
+        "StartDate": "01/07/2018",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At HSBC, I am responsible for analyzing business performance and identifying opportunities for improvement. I conduct detailed data analysis using tools like Excel and SQL, and create performance reports for senior management. My role involves collaborating with various departments to gather performance metrics and develop strategies to enhance business efficiency. I also lead process improvement initiatives, resulting in significant operational improvements.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "NatWest Group",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Junior Performance Analyst",
+          "FormattedName": "performance analyst",
+          "Alias": "human performance analyst, corporate performance analyst, service performance analyst, performance reviewer, analyst performance, business performance analyst, analyst, operational performance analytics, analyst of performance, engine performance analyst, manager of performance analysis, efficiency analyst, facilities performance analyst",
+          "RelatedSkills": [
+            {
+              "Skill": "focal point review",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "June 2016 - June 2018",
+        "FormattedJobPeriod": "06/2016 to 06/2018",
+        "StartDate": "01/06/2016",
+        "EndDate": "30/06/2018",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "At NatWest, I supported senior analysts in monitoring and analyzing business performance. My responsibilities included preparing performance reports, conducting variance analyses, and assisting in the development of performance improvement plans. I worked closely with stakeholders to ensure accurate and timely performance reporting. Additionally, I contributed to process improvement initiatives aimed at increasing operational efficiency.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "HSBC UK",
+    "JobProfile": "Performance Analyst",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "98",
+      "TotalExperienceInYear": "8.2",
+      "TotalExperienceRange": "8-10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "49",
+    "LongestStay": "73",
+    "Summary": "Performance Analyst with over 5 years of experience in financial services. Skilled in data analysis, performance measurement, and process improvement. Seeking to transition into a Business Analyst role to leverage my analytical expertise and drive strategic business enhancements.",
+    "ExecutiveSummary": "Ayesha has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Human Resources Specialists. 'The candidate has a total experience of 5 YearsThe candidate has been working as a Performance Analyst at HSBC UK for the last 6.1 years. ",
+    "ManagementSummary": "Ayesha doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "References available upon request",
+    "CustomFields": "Parsing Time : 479ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Ayesha Rahman\nManchester, UK\nayesha.rahman@email.com\n+44 1234 567890\nLinkedIn : linkedin.com/in/ayesharahman\n\nProfessional Summary : \nPerformance Analyst with over 5 years of experience in financial services. Skilled in data analysis, performance measurement, and process improvement. Seeking to transition into a Business Analyst role to leverage my analytical expertise and drive strategic business enhancements.\n\nProfessional Experience : \nHSBC UK\nPerformance Analyst\nJuly 2018 - Present\nManchester, UK\nAt HSBC, I am responsible for analyzing business performance and identifying opportunities for improvement. I conduct detailed data analysis using tools like Excel and SQL, and create performance reports for senior management. My role involves collaborating with various departments to gather performance metrics and develop strategies to enhance business efficiency. I also lead process improvement initiatives, resulting in significant operational improvements.\nNatWest Group\nJunior Performance Analyst\nJune 2016 - June 2018\nManchester, UK\nAt NatWest, I supported senior analysts in monitoring and analyzing business performance. My responsibilities included preparing performance reports, conducting variance analyses, and assisting in the development of performance improvement plans. I worked closely with stakeholders to ensure accurate and timely performance reporting. Additionally, I contributed to process improvement initiatives aimed at increasing operational efficiency.\n\nEducation : \nBachelor of Science in Business Analytics\nUniversity of Manchester\nGraduated : 2016\n\nSkills : \nData analysis (Excel, SQL) \nPerformance measurement\nProcess improvement\nStrong analytical and problem-solving skills\nEffective communication and presentation\nStakeholder management\n\nCertifications : \nCertified Performance Analyst (CPA) \n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Ayesha Rahman</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">ayesha.rahman@email.com</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">+44 1234 567890</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">LinkedIn: linkedin.com/in/ayesharahman</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Performance Analyst with over 5 years of experience in financial services. Skilled in data analysis, performance measurement, and process improvement. Seeking to transition into a Business Analyst role to leverage my analytical expertise and drive strategic business enhancements.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Performance Analyst</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">July 2018 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At HSBC, I am responsible for analyzing business performance and identifying opportunities for improvement. I conduct detailed data analysis using tools like Excel and SQL, and create performance reports for senior management. My role involves collaborating with various departments to gather performance metrics and develop strategies to enhance business efficiency. I also lead process improvement initiatives, resulting in significant operational improvements.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">NatWest Group</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Junior Performance Analyst</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">June 2016 - June 2018</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At NatWest, I supported senior analysts in monitoring and analyzing business performance. My responsibilities included preparing performance reports, conducting variance analyses, and assisting in the development of performance improvement plans. I worked closely with stakeholders to ensure accurate and timely performance reporting. Additionally, I contributed to process improvement initiatives aimed at increasing operational efficiency.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Bachelor of Science in Business Analytics</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">University of Manchester</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2016</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data analysis (Excel, SQL) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Performance measurement</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Process improvement</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strong analytical and problem-solving skills</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Effective communication and presentation</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Stakeholder management</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Performance Analyst (CPA) </span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">References available upon request</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

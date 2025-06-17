@@ -1,0 +1,928 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Rachel White.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:39:01",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Rachel White",
+      "TitleName": "",
+      "FirstName": "Rachel",
+      "MiddleName": "",
+      "LastName": "White",
+      "FormattedName": "Rachel White",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "rachel.white@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123456789",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 456789",
+        "FormattedNumber": "+44 7123 456789",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/rachelwhite"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "23 Pine Street",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M35HG",
+        "FormattedAddress": "23 Pine Street, Manchester, England, M35HG, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Information",
+    "SubCategory": "Data Processing, Hosting, and Related Services",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Manchester (Russell Group) \r MSc Data Science and Analytics, Distinction \r Graduated : 2015 \r University of Liverpool (Russell Group) \r BSc Mathematics, Upper Second Class Honours \r Graduated : 2013",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "MSc Data Science and Analytics",
+          "NormalizeDegree": "Master of Science",
+          "Specialization": [
+            "Data Science and Analytics"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2015",
+        "StartDate": "",
+        "EndDate": "31/12/2015",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "University of Liverpool",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "BSc Mathematics",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Mathematics"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2013",
+        "StartDate": "",
+        "EndDate": "31/12/2013",
+        "Aggregate": {
+          "Value": "2nd",
+          "MeasureType": "Class Honours"
+        }
+      }
+    ],
+    "Certification": "Certified Data Scientist (CDS) \r Professional Certificate in Machine Learning \r Certified Specialist in Predictive Analytics (CSPA)",
+    "SegregatedCertification": [],
+    "SkillBlock": "Machine Learning \r Statistical Analysis \r Data Visualization \r Data Analysis \r Python, R \r SQL \r Data Quality Assurance \r Collaborative Teamwork",
+    "SkillKeywords": "Collaborative,Teamwork,Credit Risk Assessment,Data Quality Assurance,Operational Efficiency,Predictive Maintenance,Communicate Insights,Predictive Analytics,Statistical Analysis,Statistical Modeling,Business Processes,Data Visualization,Business Insights,Customer Insights,Banking Industry,Cross-Functional,Machine Learning,Data Analytics,Data Pipelines,Data Analysis,Maintain Data,Data Quality,Track Record,Data-Driven,Python,SQL",
+    "SegregatedSkill": [
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaborative",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Teamwork",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>teamwork",
+        "Alias": "able to work in teams, works well in a team, cross-team collaboration, team work, cross team collaboration, work with the client, fostering a collaborative environment, working well with others, crossteam collaboration, able to work well in a team, team-oriented, collaboratively with the members of the team, ability to work with all levels of staff, ability to work effectively in team environment, ability to work with a team, ability to work as a team, ability to work in a team, ability to work in teams, ability to work as part of a team, ability to work well with others, ability to work with teams, team-collaboration, team work oriented, work with the operations teams, team collaboration, work in teams, team-orientation, works well with others, works well with a team, works well with people, team orientation, working with clients, works well in groups, collaborated with other staff members, working with people, team-focused, collaborating with teams, foster collaboration, work with others, working in teams, team work skills, work as a team, cross-team communication, group collaboration, working with others, team working, works effectively with a team, teamworking, teamwork skills, work with people, team spirit, cross - team communication, enjoy working with people, ability of working in team, effective teamwork, cross - team collaboration, collaborate with team members, team oriented, assist other team members, committed to work as a collaborative and positive team member, team-orientated",
+        "FormattedName": "teamwork",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Credit Risk Assessment",
+        "Ontology": "Finance and Insurance>Credit Analysts>credit risk assessment",
+        "Alias": "credit risk analysis, credit risk analytics, risk credit analysis, credit risk valuation, credit risk computation, credit-risk assessment, credit risk-assessment, assess credit risk, assess loan risk, credits risks analysis, credit risk evaluation, credit risk estimate, credit risk estimation",
+        "FormattedName": "credit risk assessment",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Quality Assurance",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>data quality",
+        "Alias": "data quality-control, info assurance, assurance of information, data-quality control, statistical data quality, information-quality, data quality criteria, information quality, data qa, data assurance, data quality assurance, information-assurance, data-quality, information assurance, data quality operations, data-quality- control",
+        "FormattedName": "data quality",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Operational Efficiency",
+        "Ontology": "Other Services (except Public Administration) >Business Associations>operational efficiency",
+        "Alias": "operation efficiencies, operation efficiency, operational-efficiency, operating efficiencies, improve operational efficiency, drive operational e?ciencies, drive operational efficiencies, operating ef?ciencies, operation ef?ciencies, increasing operational efficiency, maintain and improve operational efficiency",
+        "FormattedName": "operational efficiency",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Predictive Maintenance",
+        "Ontology": "Installation, Maintenance, and Repair Occupations>Maintenance Workers, Machinery>predictive maintenance",
+        "Alias": "predictive-maintenance, managed predictive maintenance, machine monitoring, predictive maintenance techniques",
+        "FormattedName": "predictive maintenance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Communicate Insights",
+        "Ontology": "Arts, Entertainment, and Recreation>Public Relations Specialists>insight communication",
+        "Alias": "communicate insights, insight-communication",
+        "FormattedName": "insight communication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Predictive Analytics",
+        "Ontology": "Information>Statisticians>predictive modeling",
+        "Alias": "metrics and predictive analytics, projection modeling, predictive learning, prediction models, predictive models, predictive modeling techniques, predictive modeling and analysis, predictive modeling and analytics, predictive modelling, predictive modelling techniques, predictive modeling infrastructure, predictive-learning, predictive-analytics, predictive analytics, predictive analytics framework, predictive analytics strategy, predictive analysis, predictive analytic framework, forecasting analytics, predictive-modelling, predictive-modeling",
+        "FormattedName": "predictive modeling",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Statistical Analysis",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Statistical Assistants>statistical analysis",
+        "Alias": "statistical analytics, statistical analytic techniques, statistical analyses of scientific research data, statistical analysis of data, statistical analytical techniques, analysis of statistical data, statistical data analysis, statistical data analytics, statistical data analyses, statistics analysis, statistical consulting, evaluate statistics, statistical-analysis, statistic data analysis, statistic analytics, statistical evaluation, statistical evaluation of data, statistical evaluations, statistical business analysis, statistical business analytics, analyze statistics and reports, analyze statistical data, statistical-data-analyses, statistical advice, statistical-consulting",
+        "FormattedName": "statistical analysis",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Statistical Modeling",
+        "Ontology": "Information>Statisticians>statistical modeling",
+        "Alias": "statistical data models, statistical data modelling, statistical data modeling, statistical models, statistical modeling framework, statistical model, statistical modelling, modelling statistical, statistical-modeling, statistical process modelling",
+        "FormattedName": "statistical modeling",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Processes",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business process",
+        "Alias": "business procedures, enterprise business process, corporate-processing, company processing, enterprise-wide business processes, company process, processing business, business-process, corporate processing, corporate processes, corporate process, commercial operations, business processing, business processes, business processes operations, business process operation",
+        "FormattedName": "business process",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Visualization",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>data visualization",
+        "Alias": "data-visualization, visualization information, data-visual analysis, visualization-reporting, graphical visualization of data, statistical data visualization, graph data visualization, report visualization, data-analysis visual, visualization report, visualization reporting, data visualization process, big data visualization, information-visualization, data visualisation, data analysis visual, big-data-visualization, report-visualisation, graph visualization, info visualization, visualizing information, visualizing data, data analytics visualization, report visualisation, visualization of  data, visualization of information, visualization data, report-visualization, advanced data visualizations, advanced data visualisation, advanced data visualization, data-visual-analysis, information visualization, information visualisation, bigdata visualization, data visual analysis, visual data presentation, prepare visual data",
+        "FormattedName": "data visualization",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Insights",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business insights",
+        "Alias": "business value insight, business insight, business-insights, business service insight, business service-insight, business-service-insight, insight business information, insight business knowledge, develop insights of business",
+        "FormattedName": "business insights",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Insights",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer insight",
+        "Alias": "client-insight-marketing, customer and market insight, managed customer insight, consumer insight analysis, consumer insights, consumer insight testing, consumer insight generation, consumer insight, client insight analysis, generation consumer insight, client insight, customer insight analysis, customer insights, customer insight marketing, insights to customers, customer-insight",
+        "FormattedName": "customer insight",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Banking Industry",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & finance, banking & financial services, finance related services, finance service, financing operations, banking-services, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, credit services, banking services, banking and financial services, banking and finance, banking and-finance, financial svcs, finance service provision, finance services, credit-services, financial industry, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cross-Functional",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Machine Learning",
+        "Ontology": "Information>Statisticians>machine learning",
+        "Alias": "algorithm in data mining, intelligent retrieval, ml, machine learning methods, machine learning analytics, machine learning workflow, machine learning algorithms, machine learning operations, analytics machine learning, data mining-algorithm, data mining algorithm, machine technology, mlops, machine-learning, feature learning",
+        "FormattedName": "machine learning",
+        "Evidence": "ExperienceSection,SummarySection,CertificationSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analytics",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Pipelines",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>data pipelines",
+        "Alias": "pipeline data, data analysis pipelines, analytics pipeline management, bigdata pipelines, building-data pipelines, building data pipelines, data-pipelines, data acquisition pipelines, big data pipelines, big data pipeline design, big-data-pipelines, pipeline-data",
+        "FormattedName": "data pipelines",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maintain Data",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>data management",
+        "Alias": "data management services, data management skills, data management process, engineering information management, manage data collection systems, manage data collection system, manage the information, management data services, raw data management, manage unstructured data, data organization, data process management, systems data maintenance, information sources management, information sources mgmt, managing information sources, managing data, maintain-data, manage all the information, management business information, manage the data, data organisation, managed the data, managed information, data-management, organisation of data, information mgmt., maintain data, data implementation, data mgmt., manages the data, organizing raw data, management data, information-management, corporate data management, organization of data, data coordination, information management, organizing data, manage information, manage information sources, business information mgmt, business information management, info management",
+        "FormattedName": "data management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Quality",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>data quality",
+        "Alias": "data quality-control, info assurance, assurance of information, data-quality control, statistical data quality, information-quality, data quality criteria, information quality, data qa, data assurance, data quality assurance, information-assurance, data-quality, information assurance, data quality operations, data-quality- control",
+        "FormattedName": "data quality",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Track Record",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Administrative Services>record management",
+        "Alias": "records tracking, records management, maintain accurate records, maintaining office records, storage record, prepare and maintain the daily work record, records-management, record-keeping, track record, maintenance records, record keeping, maintained office records, recordskeeping, records correction, maintaining o?ce records, government record management, government records management, maintained records, records and information management, maintaining proper records in data base, store record, record mgmt., manage records, correction records, record maintenance, maintain records, record tracking, recordkeeping, records information management, records information mgmt, keeping management, record storage, personal records management, record-management, maintaining records, customer records management",
+        "FormattedName": "record management",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data-Driven",
+        "Ontology": "Information>Data Processing, Hosting, and Related Services>data driven",
+        "Alias": "data-driven approach, data-driven",
+        "FormattedName": "data driven",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Python",
+        "Ontology": "Information>Software Developers and Programmers>python",
+        "Alias": "python 2.5.3, python 2.1.1, python 1.1, python 3.4.2, python 3.6, python 2.3.5, python 3.3.2, python 2.7.5, python 2.6.4, coding python, python 2.7.11, python 1.0.3, python 3.6.1, python 3.3.3, python 3.3.0, python 2.7.3, python 2.4, python 2.7.9, python 3.2.2, python 3.3.5, python 2.7.15, python 2.1.3, python 0.9.2, python 3.5.8, programming language python, python 3.2.3, python 2.5.2, python 2.3.1, python 3.7.0, python 3.8, python 3.7.5, python 3.7.6, python 3.4, python 2.7.17, python 3.5.6, python 2.6.9, python basic programming, python 3.4.8, python 3.1.5, python 2.3.4, python 2.2.1, python 2.7.16, python 3.6.9, jython, python 3.4.7, python 3.6.2, python 2.7.0, python 3.4.4, python 3.5.0, python 1.0.2, python 3.9, python 2.5.4, python 1.0.0, python 2.7, python 2.5, python 0.9.6, python 2.7.10, jython programming language, python 2.7.8, python 3.6.10, python 3.5.2, c python, python 2.7.6, python 1.1.1, python 3.7.3, python 3.5.7, python 3.1, python 3.6.7, python 3.5.5, python 3.3.4, python computer language, python 3.1.4, python 3.5.3, python 0.9.1, python 0.9.4, python 3.3.1, python 3.1.3, python 3.1.2, python 2.6.1, python 3.6.3, python 2.4.3, python 2.2.2, python 3.0.1, python 1.2, python 3.2.4, python 1.0.4, python 2.3, python 3.4.6, python application programming, python 3.5.1, python 2.2.3, python 2.6.5, python 3.4.10, python 3.3.7, python 2.4.4, python 3.7.7, python 3.3.6, python programming, python programming language, python programming lang., python 1.6, python code programming, python 2.4.2, python 2.6.8, python 2.5.1, python 3.4.9, programming python, python 2.7.1, python 3.2.6, python 0.9.9, python 2.7.4, python 2.7.12, python 2.1, python 1.4, python 2.2, python 2.3.2, python 3.4.1, python 1.5, python 3.2.5, python 3.8.0, python 3.6.0, python 3.5.4, python 3.3, cpython, python 2.7.13, python 3.8.2, python 3.1.1, python 2.1.2, python 3.8.1, python 2.6.6, python 3.6.5, python 3.4.5, python 2.7.7, python 2.2p1, python 3.5, python 3.2, python 3.6.8, python 3.0, python development programming, python 2.4.1, python 0.9.8, python 1.3, python 2.7.14, python 3.6.6, jython language, python 2.6.7, python 2.0, python 2.6.2, python 3.4.3, python 3.2.1, python 1.5.2, python 2.7.2, python 3.7.1, python 2.0.1, python 3.6.4, python 3.7.4, python 3.4.0, python 2.3.3, python 3.7.2, python 2.6, python 1.0, python 2.6.3, python 0.9.0",
+        "FormattedName": "python",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "SQL",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>sql",
+        "Alias": "sql 2008, structured query language, sql 2003, oracle sql2005, sql-2003, advanced sql, programming language sql, oracle sql programming, sql 2005, sql/400, sql programming, sql coding, database definition language, database sql, ibm sql/400, sql language, oracle sql, databases sql, sql development, sqldb, coding sql, sql databases, sql computer language, sql 2000, ibm sql400, sql database, data definition language, sql400, data dictionary language, programming sql, sql oracle, oql, sql database query language, advanced sql programming, sql programming language, ansi sql, sql queries, data description lang, data description language, object query language, sql2005, microsoft sql programming, structured-query-language",
+        "FormattedName": "sql",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "HSBC Bank \r Lead Data Scientist \r Manchester, UK \r 2018 - Present \r Rachel leads data-driven projects to enhance business processes and customer experiences. She develops and implements machine learning models, performs statistical analysis, and collaborates with various teams to understand data needs. Her work has resulted in significant improvements in operational efficiency and customer insights. \r Key Responsibilities :  \r Develop and implement machine learning models. \r Perform statistical analysis on large datasets. \r Collaborate with cross-functional teams to identify data needs. \r Create data visualization dashboards to present findings. \r Ensure data quality and integrity. \r Key Achievements :  \r Improved operational efficiency by 20% through predictive maintenance models. \r Enhanced customer insights by developing advanced segmentation models. \r Santander UK \r Data Scientist \r Manchester, UK \r 2015 - 2018 \r At Santander, Rachel was responsible for data analysis, building machine learning models, and developing data pipelines. She worked closely with business units to provide data-driven insights and support strategic decision-making. \r Key Responsibilities :  \r Conduct data analysis to extract actionable insights. \r Build and deploy machine learning models. \r Develop and maintain data pipelines. \r Collaborate with business units to support data-driven decisions. \r Create data visualization tools to communicate insights. \r Key Achievements :  \r Developed a predictive model for credit risk assessment, improving accuracy by 25%. \r Implemented data pipelines that reduced processing time by 30%.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "HSBC Bank",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Lead Data Scientist",
+          "FormattedName": "lead data scientist",
+          "Alias": "lead engineer - data science, team lead-datascience, data science lead, head data science and analytics, leader data scientist, team leader data scientist, lead of data science, team lead data scientist, lead data sciences, lead data science, lead data science analytics, lead, data science, data science tech lead, module lead data science, head of data science, project lead analytics, team lead-data science, tech lead - data science",
+          "RelatedSkills": [],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2018 - till",
+        "FormattedJobPeriod": "2018 to till",
+        "StartDate": "01/01/2018",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Rachel leads data-driven projects to enhance business processes and customer experiences. She develops and implements machine learning models, performs statistical analysis, and collaborates with various teams to understand data needs. Her work has resulted in significant improvements in operational efficiency and customer insights. \n Key Responsibilities : \n Develop and implement machine learning models. \n Perform statistical analysis on large datasets. \n Collaborate with cross-functional teams to identify data needs. \n Create data visualization dashboards to present findings. \n Ensure data quality and integrity. \n Key Achievements : \n Improved operational efficiency by 20% through predictive maintenance models. \n Enhanced customer insights by developing advanced segmentation models.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Santander UK",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Data Scientist",
+          "FormattedName": "data scientist",
+          "Alias": "data -scientist, data scientist - data and analytics, specialist data scientist, network data scientist, digital-data-scientist, digital data scientist, data science researcher, specialist - data science, it works data scientist, data analytics scientist, data mining scientist, trainee data scientist, enterprise data scientist, research data scientist, data science specialist, data research scientist, data science developer, strategic data scientist, data-scientist, applied data scientist",
+          "RelatedSkills": [
+            {
+              "Skill": "analyse business objectives",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "establish data processes",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "forecasting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data science",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data availability",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "edge analytics",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "bigquery",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "markov chain",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "real-time computing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "analytical modeling",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data intuition",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data governance",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "deep learning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data smoothing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "seq2seq",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "amazon sagemaker",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "multidimensional scaling",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data mining",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "km programming language",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "word embedding",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "random sample consensus",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data sharing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "cross language information retrieval",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "recursive partitioning",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "decision tree learning",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "activity based intelligence",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "reasoning system",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "text extraction",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "cognitive modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "part of speech tagging",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "word2vec models",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "parallel language integrated query",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "cosine similarity",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "nonlinear regression procedure",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "matrix methodology",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "bayes estimator",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "knowledge graph",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "pose estimation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "greedy algorithm",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "contextual image classification",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "directed acyclic graph",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "approximate string matching",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "resilient distributed dataset",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "cross industry standard process for data mining",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "deconvolution",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "subsampling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "econometrics",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "linear search",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "autoregressive integrated moving average",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data transposition",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "cyberinfrastructure",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "weibull distribution",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "fuzzy control system",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "experiment tracking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "kernel methods",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "numerical differentiation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "reservoir sampling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "empirical process",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "elias gamma coding",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "activity recognition",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "nearest neighbour algorithm",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "hyperparameter optimization",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data compliance",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "conic optimization",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "agile data science",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "pattern recognition",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "algorithmic management",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "self organizing map",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data architecture",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "data enrichment",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "semantic search",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "rdf schema",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "residual neural network",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "boosting algorithm",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "linear regression",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "collective intelligence",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "predictive modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "principal component analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "causal analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data driven decision management",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "model selection",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "classification analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "computational intelligence",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "applied machine learning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data replication",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "develop data processing applications",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "tikhonov regularization",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2015 - 2018",
+        "FormattedJobPeriod": "2015 to 2018",
+        "StartDate": "01/01/2015",
+        "EndDate": "31/12/2018",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "At Santander, Rachel was responsible for data analysis, building machine learning models, and developing data pipelines. She worked closely with business units to provide data-driven insights and support strategic decision-making. \n Key Responsibilities : \n Conduct data analysis to extract actionable insights. \n Build and deploy machine learning models. \n Develop and maintain data pipelines. \n Collaborate with business units to support data-driven decisions. \n Create data visualization tools to communicate insights. \n Key Achievements : \n Developed a predictive model for credit risk assessment, improving accuracy by 25%. \n Implemented data pipelines that reduced processing time by 30%.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "HSBC Bank",
+    "JobProfile": "Lead Data Scientist",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "115",
+      "TotalExperienceInYear": "9.7",
+      "TotalExperienceRange": "8-10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "57",
+    "LongestStay": "67",
+    "Summary": "Experienced Data Scientist with 7 years of experience in the banking industry. Specialized in data analytics, machine learning, and statistical modeling. Known for leveraging data to drive business insights and enhance decision-making. Strong background in programming and data visualization with a track record of implementing data-driven solutions.",
+    "ExecutiveSummary": "Rachel has an experience in the domain of 'Information', particularly in the sub-domain of 'Data Processing, Hosting, and Related Services. 'The candidate has a total experience of 7 YearsThe candidate has been working as a Lead Data Scientist at HSBC Bank for the last 6.7 years. ",
+    "ManagementSummary": "Currently, Rachel holds a Low Management Level position, as Lead Data Scientist at HSBC Bank. from 01/01/2018 to 05/07/2024. The candidate has a total experience of 6.7 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 610ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Rachel White\nContact Information : \nAddress : 23 Pine Street, Manchester, M3 5HG, England\nEmail : rachel.white@email.com\nPhone : +44 7123 456789\nLinkedIn : linkedin.com/in/rachelwhite\n\nProfessional Summary : \nExperienced Data Scientist with 7 years of experience in the banking industry. Specialized in data analytics, machine learning, and statistical modeling. Known for leveraging data to drive business insights and enhance decision-making. Strong background in programming and data visualization with a track record of implementing data-driven solutions.\n\nEducation : \nUniversity of Manchester (Russell Group) \nMSc Data Science and Analytics, Distinction\nGraduated : 2015\nUniversity of Liverpool (Russell Group) \nBSc Mathematics, Upper Second Class Honours\nGraduated : 2013\n\nProfessional Experience : \nHSBC Bank\nLead Data Scientist\nManchester, UK\n2018 - Present\nRachel leads data-driven projects to enhance business processes and customer experiences. She develops and implements machine learning models, performs statistical analysis, and collaborates with various teams to understand data needs. Her work has resulted in significant improvements in operational efficiency and customer insights.\nKey Responsibilities : \nDevelop and implement machine learning models.\nPerform statistical analysis on large datasets.\nCollaborate with cross-functional teams to identify data needs.\nCreate data visualization dashboards to present findings.\nEnsure data quality and integrity.\nKey Achievements : \nImproved operational efficiency by 20% through predictive maintenance models.\nEnhanced customer insights by developing advanced segmentation models.\nSantander UK\nData Scientist\nManchester, UK\n2015 - 2018\nAt Santander, Rachel was responsible for data analysis, building machine learning models, and developing data pipelines. She worked closely with business units to provide data-driven insights and support strategic decision-making.\nKey Responsibilities : \nConduct data analysis to extract actionable insights.\nBuild and deploy machine learning models.\nDevelop and maintain data pipelines.\nCollaborate with business units to support data-driven decisions.\nCreate data visualization tools to communicate insights.\nKey Achievements : \nDeveloped a predictive model for credit risk assessment, improving accuracy by 25%.\nImplemented data pipelines that reduced processing time by 30%.\nInternship : Lloyds Banking Group\nData Analyst Intern\nManchester, UK\nSummer 2014\nDuring her internship at Lloyds Banking Group, Rachel assisted in data collection and analysis, developed data visualization tools, and supported senior analysts in various projects.\nKey Responsibilities : \nAssist in data collection and analysis.\nDevelop data visualization tools.\nSupport senior analysts in data-driven projects.\nEnsure data accuracy and consistency.\nKey Achievements : \nCreated a dashboard that improved data reporting efficiency.\nContributed to a project that enhanced customer behavior analysis.\n\nSkills : \nMachine Learning\nStatistical Analysis\nData Visualization\nData Analysis\nPython, R\nSQL\nData Quality Assurance\nCollaborative Teamwork\n\nCertifications : \nCertified Data Scientist (CDS) \nProfessional Certificate in Machine Learning\nCertified Specialist in Predictive Analytics (CSPA) \n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Rachel White</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 23 Pine Street, Manchester, M3 5HG, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> rachel.white@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 456789</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> linkedin.com/in/rachelwhite</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Experienced Data Scientist with 7 years of experience in the banking industry. Specialized in data analytics, machine learning, and statistical modeling. Known for leveraging data to drive business insights and enhance decision-making. Strong background in programming and data visualization with a track record of implementing data-driven solutions.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Manchester (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">MSc Data Science and Analytics, Distinction</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2015</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Liverpool (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">BSc Mathematics, Upper Second Class Honours</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2013</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC Bank</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lead Data Scientist</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2018 - Present</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Rachel leads data-driven projects to enhance business processes and customer experiences. She develops and implements machine learning models, performs statistical analysis, and collaborates with various teams to understand data needs. Her work has resulted in significant improvements in operational efficiency and customer insights.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Develop and implement machine learning models.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Perform statistical analysis on large datasets.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborate with cross-functional teams to identify data needs.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Create data visualization dashboards to present findings.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ensure data quality and integrity.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Improved operational efficiency by 20% through predictive maintenance models.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Enhanced customer insights by developing advanced segmentation models.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Santander UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Data Scientist</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2015 - 2018</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At Santander, Rachel was responsible for data analysis, building machine learning models, and developing data pipelines. She worked closely with business units to provide data-driven insights and support strategic decision-making.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conduct data analysis to extract actionable insights.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Build and deploy machine learning models.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Develop and maintain data pipelines.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborate with business units to support data-driven decisions.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Create data visualization tools to communicate insights.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed a predictive model for credit risk assessment, improving accuracy by 25%.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Implemented data pipelines that reduced processing time by 30%.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Internship: Lloyds Banking Group</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Data Analyst Intern</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Summer 2014</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">During her internship at Lloyds Banking Group, Rachel assisted in data collection and analysis, developed data visualization tools, and supported senior analysts in various projects.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assist in data collection and analysis.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Develop data visualization tools.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Support senior analysts in data-driven projects.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Ensure data accuracy and consistency.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Created a dashboard that improved data reporting efficiency.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Contributed to a project that enhanced customer behavior analysis.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Machine Learning</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Statistical Analysis</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data Visualization</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data Analysis</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Python, R</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">SQL</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data Quality Assurance</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborative Teamwork</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Data Scientist (CDS) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Professional Certificate in Machine Learning</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Specialist in Predictive Analytics (CSPA) </span></li></ul><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

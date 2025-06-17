@@ -1,0 +1,744 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Anthony Williams.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:04:54",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Anthony Williams",
+      "TitleName": "",
+      "FirstName": "Anthony",
+      "MiddleName": "",
+      "LastName": "Williams",
+      "FormattedName": "Anthony Williams",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "anthony.williams@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+449632587411",
+        "ISDCode": "+44",
+        "OriginalNumber": "9632587411",
+        "FormattedNumber": "+44 9632587411",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/anthonywilliams"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 7
+      }
+    ],
+    "Category": "Management of Companies and Enterprises",
+    "SubCategory": "Marketing and Sales Managers",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Bachelor of Arts in Marketing \r University of Leeds, Leeds, UK \r Graduated : 2011",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Leeds",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "Leeds",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "UK",
+            "CountryCode": {
+              "IsoAlpha2": "GB",
+              "IsoAlpha3": "GBR",
+              "UNCode": "826"
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "Bachelor of Arts in Marketing",
+          "NormalizeDegree": "Bachelor of Arts",
+          "Specialization": [
+            "Marketing"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2011",
+        "StartDate": "",
+        "EndDate": "31/12/2011",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Certified Sales Professional (CSP) \r Advanced Sales Strategies Certification",
+    "SegregatedCertification": [],
+    "SkillBlock": "Strategic Sales Planning \r Client Relationship Management \r Team Leadership and Development \r Market Analysis and Research \r Negotiation and Contract Management \r Sales Performance Tracking",
+    "SkillKeywords": "Client Relationship Management,Client Relationships,Proven Track Record,Team Leadership,Collaborative,Negotiation,Proactive,Planning,Research,Identifying New Business Opportunities,Identifying Client Needs,Driving Business Growth,Negotiating Contracts,Strategic Sales Plans,Business Objectives,Contract Management,Sales Performance,Client Retention,Sales Strategies,Market Analysis,Strategic Sales,Revenue Growth,Sales Targets,Market Share,Sales Growth,B2B Sales",
+    "SegregatedSkill": [
+      {
+        "Type": "SoftSkill",
+        "Skill": "Client Relationship Management",
+        "Ontology": "Arts, Entertainment, and Recreation>Public Relations Specialists>client relationship management",
+        "Alias": "key client relationship management, client relationship, client relationships strengthening, client relations coordination, client relationship mgmt",
+        "FormattedName": "client relationship management",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Client Relationships",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer relationship management",
+        "Alias": "managing client relationships, developing relationships with clients, long term customer relationship, maintain customer relationships, customer-relationship- management, customer-relationship management, manage crm, relationship management, relation management, client-relations, client management relationship, build and maintain customer relationships, crm, build customer relationships, managed the relationship, client relations, client relationship mgt., client relationships, customer care management, crm planning, manage strong customer relationships, client resource management, building relationships with customers, constituent relationship management, constituent relationship mgmt, manage customer relationships, manage customer relationship, customer relationship development, customer relationship mgmt, customer relations, customer relation management, customer relations management, customer relationships, customer relationship mgmt., customer relations development, customer relationship planning, customer relationships management, customer relationship, customers relations, relational management, long term relationship building, long term business relationships, manage the client relationship, long-term customer relationship, relationship mgmt, relationship mgmt., crm management, marketing crm, building the customer relationship, manage client relationships, consumer relationship management, relations management, managed crm, manage relationships, manage relationship, manage the relationship, client relation management, consumer-relationship-management, relationships management, managing relationships, managing relationships with clients",
+        "FormattedName": "customer relationship management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 107
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Proven Track Record",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>proven track record",
+        "Alias": "proven leadership skills",
+        "FormattedName": "proven track record",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Leadership",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leadership",
+        "Alias": "interdisciplinary team leadership, multi-national team leadership, lead the team member, leads group discussions, leads groups, group leadership, multi-cultural team leadership",
+        "FormattedName": "team leadership",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaborative",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 107
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Negotiation",
+        "Ontology": "Management of Companies and Enterprises>Marketing and Sales Managers>negotiating",
+        "Alias": "negotiation skills, negotiation, commercial negotiation, commercial-negotiation, high level negotiation, negotiating skills, negotiations, negotiations skills, business negotiation, high-level negotiation",
+        "FormattedName": "negotiating",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Proactive",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>proactive",
+        "Alias": "pro-active, proactivity, proactive behavior, ability to be proactive",
+        "FormattedName": "proactive",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2015",
+        "ExperienceInMonths": 50
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Planning",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>planning process",
+        "Alias": "ability to plan, planning, planning ability, planning-process, planning skills, ability to create plans",
+        "FormattedName": "planning process",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Research",
+        "Ontology": "Information>Computer and Information Research Scientists>research",
+        "Alias": "researching",
+        "FormattedName": "research",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Identifying New Business Opportunities",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>identify new business opportunities",
+        "Alias": "business opportunity evaluation, identifying new business opportunities, diagnose new business opportunities, analyse new business opportunities, exploring new business opportunities, identifying a new business opportunity, classify new business opportunities, identify a new business opportunity, determine new business opportunities",
+        "FormattedName": "identify new business opportunities",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 107
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Identifying Client Needs",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>determine customer needs",
+        "Alias": "identi?cation of needs, identification of customer needs, identifying customers needs, determine-customer needs, determine-customer- needs, identifying the customers needs, customer needs identification, identifying client needs, identify customer needs",
+        "FormattedName": "determine customer needs",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2015",
+        "ExperienceInMonths": 50
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Driving Business Growth",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business growth",
+        "Alias": "business-growth, organization growth, cultivating business, corporate growth, organizational growth, managing company growth, growing a business, business growth impact, business growth management, driving business growth, growing businesses, growing business, cultivating-business",
+        "FormattedName": "business growth",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Negotiating Contracts",
+        "Ontology": "Finance and Insurance>Labor Relations Specialists>contract negotiation",
+        "Alias": "negotiating contracts, negotiating contract, negotiation of costs and contracts, negotiate contracts, negotiating agreements, contract negotations, negotiation proposal, contract-negotiation, global contract negotiation, legal contract negotiation, it contract negotiation, supply contract negotiation, hotel contract negotiation, contract negotiation skills, contract negotiating, contract negotiations, proposal negotiation, negotiate-contracts, negotiating it contracts",
+        "FormattedName": "contract negotiation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2015",
+        "ExperienceInMonths": 50
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Sales Plans",
+        "Ontology": "Management of Companies and Enterprises>Marketing and Sales Managers>sales planning",
+        "Alias": "sales-strategy plan, implement the sales strategy, sales plan development, implementing sales, client specific sales, sales planning process, strategic plans for sales, client-specific sales, sales plan, sales-capacity-planning, sales-proposals, implemented sales strategies, sales management-strategy, sales management plan, sales management planning, sales management strategies, sales management strategy, sales-strategies, sales proposals, sales capability planning, handling the effective execution of sales strategies, sales-tactics, sales-scenario, sale proposal, sales strategy execution, sales capacity planning, sales-strategy-plan, sales capacity-planning, preparation of sales plans, planned sales goals, sales-proposal, planned sales target, planned sales targets, sales plans, sales process planning, sales proposal, sales scenario, planned sales, developing sales plans, sales business plans, implement-sales strategies, implement sales strategies, implement sales strategy, sales tactics, sales-plans, strategic sales business plans, strategic sales plans, strategic sales process planning, strategic sales plan, sales planning management, strategic planning sales, sales-management strategy, sales-management-strategy, sales strategies, sales strategy plan, project sales scenario, sales-planning, sales business strategy, sales strategy, sales-capacity planning, develop sales strategies, sales strategy and execution",
+        "FormattedName": "sales planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 107
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Objectives",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business goals",
+        "Alias": "business goals and objectives, profitability objectives, business-goals, organizational objectives, business objectives, business objective, business profitability objectives",
+        "FormattedName": "business goals",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 107
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Contract Management",
+        "Ontology": "Construction>Civil Engineers>contract management",
+        "Alias": "agreement management, construction contract management, contract mgmt., contract processing, contract administration, contractor-management, contract law management, contract-administration, contract management scenario, government contract control, government contract operation, government contract management, government contract governance, government contracts management, government contract mgmt., government contract administration, manage pricing contracts, contract implementation, contract mgmt, assist the contracts department, contract planning, government-contract-administration, government-contract-management, management contracting, management contracts, management contractors, management contract, contracting management, contractor safety, preparation of direct contract, operational contract management, service contract management, contract handling, contract development, contract-management, control government contract, construction-contract-management, contractor management, managed the contract, contracts administration, contract oversight, manage government contract, manage contracts, contractors handling, administer contract management, contract-compliance, contracts owner management, contract compliance and execution, contract compliance execution, managing government contract, management of employment contracts, contract preparation, management of contracts, management of contract, contractor mgmt, contracts management, management-contracting",
+        "FormattedName": "contract management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Sales Performance",
+        "Ontology": "Wholesale Trade>Sales and Related Occupations>sales performance",
+        "Alias": "sales-performance, driving sales performance, performed sales, sale performance",
+        "FormattedName": "sales performance",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Retention",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>customer retention",
+        "Alias": "maintaining customer, retention programs, client-retention, retain customers, account retention, business retention, increase customer retention, client retention programs, client retention, customer-retention, sales retention, customer retentions, customer retention marketing, customer retention strategies, retaining customers",
+        "FormattedName": "customer retention",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2015",
+        "ExperienceInMonths": 50
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Sales Strategies",
+        "Ontology": "Management of Companies and Enterprises>Marketing and Sales Managers>sales planning",
+        "Alias": "sales-strategy plan, implement the sales strategy, sales plan development, implementing sales, client specific sales, sales planning process, strategic plans for sales, client-specific sales, sales plan, sales-capacity-planning, sales-proposals, implemented sales strategies, sales management-strategy, sales management plan, sales management planning, sales management strategies, sales management strategy, sales-strategies, sales proposals, sales capability planning, handling the effective execution of sales strategies, sales-tactics, sales-scenario, sale proposal, sales strategy execution, sales capacity planning, sales-strategy-plan, sales capacity-planning, preparation of sales plans, planned sales goals, sales-proposal, planned sales target, planned sales targets, sales plans, sales process planning, sales proposal, sales scenario, planned sales, developing sales plans, sales business plans, implement-sales strategies, implement sales strategies, implement sales strategy, sales tactics, sales-plans, strategic sales business plans, strategic sales plans, strategic sales process planning, strategic sales plan, sales planning management, strategic planning sales, sales-management strategy, sales-management-strategy, sales strategies, sales strategy plan, project sales scenario, sales-planning, sales business strategy, sales strategy, sales-capacity planning, develop sales strategies, sales strategy and execution",
+        "FormattedName": "sales planning",
+        "Evidence": "ExperienceSection,CertificationSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 107
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Analysis",
+        "Ontology": "Finance and Insurance>Market Research Analysts and Marketing Specialists>market analysis",
+        "Alias": "market estimate, sales market analysis, global marketing analytics, market assessment, market assessments, marketing-analysis, advertising analytics, market analyzes, analyze market information, product marketing analytics, marketing campaign analytics, market data analytics, market data analysis, analyzing-marketing, campaign management analytics, web marketing analytics, market research analysis, market research analytics, marketing information analysis, market analysis process, market analysis research, marketing data analysis, marketing data analytics, media and marketing analytics, market valuation, market strategy analytics, market estimation, marketing-audit, analysis of the marketing, analysis of the market, marketing assessment, analysing marketing, analysing market requirements, analyzing marketing information, analyzing marketing, analyzing market strategies, data analysis marketing, market-evaluation, market analyze, analysis market, marketing analytics, marketing analytics integration, marketing analytics strategies, analyzing the market for sales, sales and marketing audit, marketing analysis and research, marketing analysis, gather and analyze market information, market research-analytics, mktg. analytics, market-analysis, marketing performance analysis, market-assessment, market and analysis, evaluations marketing, market needs analysis, market evaluation, market evaluations, manage marketing analytics, retail market analysis, marketing audit, development of market assessments, marketing-analytics",
+        "FormattedName": "market analysis",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Sales",
+        "Ontology": "Wholesale Trade>Sales and Related Occupations>strategic selling",
+        "Alias": "strategic sales, strategic selling skills, strategic-selling, strategic-sales",
+        "FormattedName": "strategic selling",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Revenue Growth",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>revenue growth",
+        "Alias": "revenue & profit growth, profit growth, growing revenue, increased profitability, revenue business growth, increasing revenue, global revenue growth, increase profitability, revenue-growth, increasing profitability, increase in profitability, revenues increased, profitable growth, improving revenue, increase revenue, sales revenue growth, revenue development",
+        "FormattedName": "revenue growth",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 107
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Sales Targets",
+        "Ontology": "Wholesale Trade>Sales and Related Occupations>sales targets",
+        "Alias": "profit-based sales targets, sales target management, financial sales goals, profit based sales targets, set sales goals, setting a sales gols, setting sales gols, sales-target management, management sales target, settle sales goals, sales goals, managing sales target, manage the sales target, fix sales goals, establish sales goals, sales-targets, sales objectives, sale target management, set a sales gols, sales target mgmt, sales target-management, sales-target-management, sales-objectives",
+        "FormattedName": "sales targets",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 157
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Market Share",
+        "Ontology": "Wholesale Trade>Securities, Commodities, and Financial Services Sales Agents>market share",
+        "Alias": "market share development, market share management, market-share, market shares, market share estimation, marketing share",
+        "FormattedName": "market share",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 107
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Sales Growth",
+        "Ontology": "Wholesale Trade>Sales and Related Occupations>sales growth",
+        "Alias": "sales increase, sales and growth strategy, sales increased, sales-increased, sales-increase, sales-growth, growing sales",
+        "FormattedName": "sales growth",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2015",
+        "ExperienceInMonths": 50
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "B2B Sales",
+        "Ontology": "Wholesale Trade>Sales Engineers>business to business sales",
+        "Alias": "b2b sales, business sales, business-to-business sales, business-to-business-sales, b2b selling, business sale, business to business sales services, business to business corporate sales, business to business sales and marketing",
+        "FormattedName": "business to business sales",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Sales Manager \r Microsoft, London, UK \r August 2015 - Present \r At Microsoft, I lead a high-performing sales team to achieve and exceed sales targets. My role involves developing and implementing strategic sales plans, managing key client relationships, and identifying new business opportunities. I work closely with marketing and product teams to align sales strategies with business objectives. My efforts have resulted in significant revenue growth and increased market share. Additionally, I mentor and coach team members, fostering a collaborative and results-driven environment. \r Sales Executive \r IBM, London, UK \r June 2011 - July 2015 \r During my tenure at IBM, I was responsible for managing a portfolio of high-value clients and achieving sales targets. My role involved identifying client needs, presenting tailored solutions, and negotiating contracts. I collaborated with internal teams to ensure the successful delivery of products and services. My proactive approach and strong relationship-building skills contributed to a 20% increase in client retention and overall sales growth.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Microsoft",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Sales Manager",
+          "FormattedName": "sales manager",
+          "Alias": "sales service manager, sales manager service, sales section head, team manager sales, sales office manager, sales team manager, sales department manager, sales mgr, selling sales manager, sales management lead, sales management manager, head in sales, sales - manager, sales unit manager, sales mngr, manager- sales, division sales manager, manager of sales, customer sales service manager, manager-sales, selling manager, sales center manager, manager sales, head of sales support, sales and service manager, manager -sales, manager - sales services, sales activity manager, sale manager, services sales manager, head sales, sales head, manager, sales  and  services, sales-manager, head of sales, manager - sales, sales services manager, manager in sales, manager sale, sales team mgr, department sales manager, manager, service sales, sales manager department, sales manager dept",
+          "RelatedSkills": [
+            {
+              "Skill": "sales leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales growth",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "a good salesman",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "evaluate marketing content",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales aptitude",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "sales culture",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "identify potential markets for companies",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales decision process",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "motivate staff to reach sales targets",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "motivation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "analyse customer service surveys",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "growth mindset",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "sales supervision",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales optimization",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales coaching",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales and operations planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "relationship marketing strategy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "time management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "collaboration",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "problem solving",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "budget planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "truffle pos",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "sales planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "quota achievement",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "goal tracking system",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "price segmentation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "pareto chart",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "target achievement",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "partner determination",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "consignment sales",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "proposal presentation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "customer relationship management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "relationship building",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "communication",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "London",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "August 2015 - till",
+        "FormattedJobPeriod": "08/2015 to till",
+        "StartDate": "01/08/2015",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At Microsoft, I lead a high-performing sales team to achieve and exceed sales targets. My role involves developing and implementing strategic sales plans, managing key client relationships, and identifying new business opportunities. I work closely with marketing and product teams to align sales strategies with business objectives. My efforts have resulted in significant revenue growth and increased market share. Additionally, I mentor and coach team members, fostering a collaborative and results-driven environment.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "IBM",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Sales Executive",
+          "FormattedName": "sales executive",
+          "Alias": "corporate sales executive, executive in sales, executive- sales, sales executor, executive services sales, sales and commercial operation executive, executive of sales, sales service executive, executive sales, executive-service sales, online sales business executive, sales - executive, executive - sales, sales executive - services, sales executive service, new sales executive, executive-sales, sales-executive, sales and solution executive",
+          "RelatedSkills": [
+            {
+              "Skill": "sales operations",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales leadership",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales growth",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "a good salesman",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "client facing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "infusionsoft by keap",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales inventory and operations planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales mapping software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales data",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "sales communication",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales presentation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales cycle management",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "London",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "June 2011 - July 2015",
+        "FormattedJobPeriod": "06/2011 to 07/2015",
+        "StartDate": "01/06/2011",
+        "EndDate": "31/07/2015",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "During my tenure at IBM, I was responsible for managing a portfolio of high-value clients and achieving sales targets. My role involved identifying client needs, presenting tailored solutions, and negotiating contracts. I collaborated with internal teams to ensure the successful delivery of products and services. My proactive approach and strong relationship-building skills contributed to a 20% increase in client retention and overall sales growth.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Microsoft",
+    "JobProfile": "Sales Manager",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "158",
+      "TotalExperienceInYear": "13.2",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "79",
+    "LongestStay": "108",
+    "Summary": "Experienced Sales Manager with over 9 years in the sales industry, specializing in B2B sales, client relationship management, and team leadership. Proven track record in achieving sales targets, driving business growth, and developing strategic sales initiatives.",
+    "ExecutiveSummary": "Anthony has an experience in the domain of 'Management of Companies and Enterprises', particularly in the sub-domain of 'Marketing and Sales Managers. The candidate has been working as a Sales Manager at Microsoft for the last 9.0 years. ",
+    "ManagementSummary": "Currently, Anthony holds a Mid Management Level position, as Sales Manager at Microsoft. from 01/08/2015 to 15/07/2024. The candidate has a total experience of 9.0 years in this company.\n\nAnthony holds a Low Management Level position, as Sales Executive at IBM. from 01/06/2011 to 31/07/2015. The candidate has a total experience of 4.2 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "Available upon request",
+    "CustomFields": "Parsing Time : 535ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Anthony Williams\nManchester, UK\nanthony.williams@email.com\t,+44 963 258 7411\t,LinkedIn : linkedin.com/in/anthonywilliams\n\nProfessional Summary\nExperienced Sales Manager with over 9 years in the sales industry, specializing in B2B sales, client relationship management, and team leadership. Proven track record in achieving sales targets, driving business growth, and developing strategic sales initiatives.\n\nProfessional Experience\nSales Manager\nMicrosoft, London, UK\nAugust 2015 - Present\nAt Microsoft, I lead a high-performing sales team to achieve and exceed sales targets. My role involves developing and implementing strategic sales plans, managing key client relationships, and identifying new business opportunities. I work closely with marketing and product teams to align sales strategies with business objectives. My efforts have resulted in significant revenue growth and increased market share. Additionally, I mentor and coach team members, fostering a collaborative and results-driven environment.\nSales Executive\nIBM, London, UK\nJune 2011 - July 2015\nDuring my tenure at IBM, I was responsible for managing a portfolio of high-value clients and achieving sales targets. My role involved identifying client needs, presenting tailored solutions, and negotiating contracts. I collaborated with internal teams to ensure the successful delivery of products and services. My proactive approach and strong relationship-building skills contributed to a 20% increase in client retention and overall sales growth.\n\nEducation\nBachelor of Arts in Marketing\nUniversity of Leeds, Leeds, UK\nGraduated : 2011\n\nCertifications\nCertified Sales Professional (CSP) \nAdvanced Sales Strategies Certification\n\nSkills\nStrategic Sales Planning\nClient Relationship Management\nTeam Leadership and Development\nMarket Analysis and Research\nNegotiation and Contract Management\nSales Performance Tracking\n\nPersonal Attributes\nResults-Driven\nStrong Communicator\nAnalytical Thinker\nTeam Leader\n\nReferences\nAvailable upon request\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Anthony Williams</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">anthony.williams@email.com | +44 963 258 7411 | LinkedIn: linkedin.com/in/anthonywilliams</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Experienced Sales Manager with over 9 years in the sales industry, specializing in B2B sales, client relationship management, and team leadership. Proven track record in achieving sales targets, driving business growth, and developing strategic sales initiatives.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Sales Manager</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Microsoft, London, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">August 2015 - Present</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At Microsoft, I lead a high-performing sales team to achieve and exceed sales targets. My role involves developing and implementing strategic sales plans, managing key client relationships, and identifying new business opportunities. I work closely with marketing and product teams to align sales strategies with business objectives. My efforts have resulted in significant revenue growth and increased market share. Additionally, I mentor and coach team members, fostering a collaborative and results-driven environment.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Sales Executive</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">IBM, London, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">June 2011 - July 2015</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">During my tenure at IBM, I was responsible for managing a portfolio of high-value clients and achieving sales targets. My role involved identifying client needs, presenting tailored solutions, and negotiating contracts. I collaborated with internal teams to ensure the successful delivery of products and services. My proactive approach and strong relationship-building skills contributed to a 20% increase in client retention and overall sales growth.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Bachelor of Arts in Marketing</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">University of Leeds, Leeds, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Graduated: 2011</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Sales Professional (CSP) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Advanced Sales Strategies Certification</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strategic Sales Planning</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Client Relationship Management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Team Leadership and Development</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Market Analysis and Research</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Negotiation and Contract Management</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Sales Performance Tracking</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Personal Attributes</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Results-Driven</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strong Communicator</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Analytical Thinker</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Team Leader</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">References</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Available upon request</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

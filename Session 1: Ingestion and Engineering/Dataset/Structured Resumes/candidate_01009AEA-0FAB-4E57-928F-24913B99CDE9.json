@@ -1,0 +1,522 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Laura Brown.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:15:32",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Laura Brown",
+      "TitleName": "",
+      "FirstName": "Laura",
+      "MiddleName": "",
+      "LastName": "Brown",
+      "FormattedName": "Laura Brown",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "laura.brown@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+441234876543",
+        "ISDCode": "+44",
+        "OriginalNumber": "1234 876543",
+        "FormattedNumber": "+44 1234 876543",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/laurabrown"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 7
+      }
+    ],
+    "Category": "Management of Companies and Enterprises",
+    "SubCategory": "Managers, All Other",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Bachelor of Business Administration \r University of Manchester \r Graduated : 2012",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "Bachelor of Business Administration",
+          "NormalizeDegree": "Bachelor of Business Administration",
+          "Specialization": [],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2012",
+        "StartDate": "",
+        "EndDate": "31/12/2012",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Lean Six Sigma Green Belt \r Project Management Professional (PMP)",
+    "SegregatedCertification": [],
+    "SkillBlock": "Data analysis (Excel, SQL) \r Operations management \r Process improvement \r Project management \r Strong analytical and problem-solving skills \r Effective communication",
+    "SkillKeywords": "Improvement,Develop Strategic Plans,Effective Communication,Productivity,Strategic Business Initiatives,Operational Enhancements,Manage Daily Operations,Operational Efficiency,Project Implementation,Operations Management,Regulatory Standards,Business Operations,Ensuring Compliance,Operational Reports,Process Improvement,Project Management,Internal Policies,Lean Six Sigma,Data Analysis,Cost Savings,Excel,SQL",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Improvement",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>operational improvement",
+        "Alias": "operations improvement, operational-improvement, operational enhancement, operational enhancements",
+        "FormattedName": "operational improvement",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Develop Strategic Plans",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>strategic planning",
+        "Alias": "strategic prognosis planning, strategical planning, strategic plan-development, strategy planning, planning strategy, planning strategically, develop-strategic- plans, develop-strategic plans, strategic plans, development of the strategic plan, strategic development plan, strategic-roadmap, strategic-planning, strategic business plan development, strategic business planning, strategic roadmap, strategic roadmaps, develop strategic plans, develop strategic roadmaps, strategic road map, strategic planning process, strategic planning-management, strategic planning and implementation, strategic planning management, strategic planning for growth, strategic planning mgmt, strategic planning development, strategy and planning, developing a strategic plan, development of a strategic plan",
+        "FormattedName": "strategic planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Effective Communication",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>effective communication",
+        "Alias": "able to convey information, able to convey information clearly, clear & concise communication, excellent communicator, communicated effectively, clear and concise communication, develop strong communication, effective-communication, developing effective communication, great communicators, effective communication is paramount, effective communicator, effective communication skills, communicating with supervisors, communicated regularly, able to communicate effectively, develop effective communication skills",
+        "FormattedName": "effective communication",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Productivity",
+        "Ontology": "Manufacturing>Team Assemblers>productivity",
+        "Alias": "productive",
+        "FormattedName": "productivity",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Business Initiatives",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>strategic initiatives",
+        "Alias": "strategic business initiatives",
+        "FormattedName": "strategic initiatives",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Operational Enhancements",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>operational improvement",
+        "Alias": "operations improvement, operational-improvement, operational enhancement, operational enhancements",
+        "FormattedName": "operational improvement",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Manage Daily Operations",
+        "Ontology": "Management of Companies and Enterprises>General and Operations Managers>operations management",
+        "Alias": "manage operations, operations techniques, operations mgmt, managed business operations, operation management, operations corporate management, operations-management, office operational management, operational functions, manages operations, operational administration, managed operations, manage central operations, daily operational management, operations and management, business operations mgmt, business operations management, executive operations management, labor operations management, oversee daily operations, manage the overall operations, manage the daily operations, operative management, manage business operations, managing daily operations, organizational operations, operations managing, operations management consulting, managed the operations, operations processes, manage ongoing operations, operations coordination, management operations, operations administration, operational processes, operational management, system operation management, managed all current operations, manage daily operations, generel operational management, operations execution, effective operations management",
+        "FormattedName": "operations management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Operational Efficiency",
+        "Ontology": "Other Services (except Public Administration) >Business Associations>operational efficiency",
+        "Alias": "operation efficiencies, operation efficiency, operational-efficiency, operating efficiencies, improve operational efficiency, drive operational e?ciencies, drive operational efficiencies, operating ef?ciencies, operation ef?ciencies, increasing operational efficiency, maintain and improve operational efficiency",
+        "FormattedName": "operational efficiency",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2016",
+        "ExperienceInMonths": 41
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Implementation",
+        "Ontology": "Construction>Civil Engineers>project execution",
+        "Alias": "project managed implementation, implementation of projects, implementation of the project, projects implementation, executing the project, project implementation, implementation project, executing project, project goal implementation, development and execution of projects, implemented project, project management implementation, implement projects, project-execution, project development and implementation, project execution and implementation, office project implementation",
+        "FormattedName": "project execution",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Operations Management",
+        "Ontology": "Management of Companies and Enterprises>General and Operations Managers>operations management",
+        "Alias": "manage operations, operations techniques, operations mgmt, managed business operations, operation management, operations corporate management, operations-management, office operational management, operational functions, manages operations, operational administration, managed operations, manage central operations, daily operational management, operations and management, business operations mgmt, business operations management, executive operations management, labor operations management, oversee daily operations, manage the overall operations, manage the daily operations, operative management, manage business operations, managing daily operations, organizational operations, operations managing, operations management consulting, managed the operations, operations processes, manage ongoing operations, operations coordination, management operations, operations administration, operational processes, operational management, system operation management, managed all current operations, manage daily operations, generel operational management, operations execution, effective operations management",
+        "FormattedName": "operations management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Regulatory Standards",
+        "Ontology": "Finance and Insurance>Compliance Officers>regulatory compliance",
+        "Alias": "compliance requirement, compliance requirements, regulatory compliance management, regulatory compliance optimization, regulatory compliance standards, regulatory compliance mgmt, regulatory compliance adherence, regulatory compliance design, compliance regulations, regulatory submissions, regulatory submission, regulatory standards, regulatory standard, safety compliance, regulatory guidelines, global regulatory compliance, regulatory-requirements, technical-compliance, technical compliance, regulatory requirements, regulatory-compliance management, regulatory-compliance, regulatory-compliance-management, regulatory-standards, regulatory rules, legal compliance, governmental compliance, international regulatory compliance, government compliance, standard compliance, meet compliance requirements, external compliance, manage regulatory compliance, complying with regulations, compliance technical, regulatory remediation, ensuring compliance with regulations, regulating rules, managed regulatory compliance, compliance with the requirements, compliance with the rules, compliance with safety standards, compliance standard, compliance standards",
+        "FormattedName": "regulatory compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Operations",
+        "Ontology": "Wholesale Trade>Retail Salespersons>retail business operations",
+        "Alias": "retail business operation, retail business processes, retail business process, business broadband, business operations, business to business operations",
+        "FormattedName": "retail business operations",
+        "Evidence": "ExperienceSection,SummarySection",
+        "LastUsed": "31/05/2016",
+        "ExperienceInMonths": 41
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensuring Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>ensuring compliance",
+        "Alias": "guarantee compliance with policies, compliance assurance, compliance-assurance, assures compliance, make sure policies are compliant, ensure policy compliance, assurance of compliance, certify compliance with policies, ensure compliance, ensure compliance with policies, ensure compliance with legislation, ensure compliance with policy, ensuring compliance with the rules, ensuring compliance with policies",
+        "FormattedName": "ensuring compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Operational Reports",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Receptionists and Information Clerks>operational reporting",
+        "Alias": "operational-reporting, operations management reporting, operational reports",
+        "FormattedName": "operational reporting",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2016",
+        "ExperienceInMonths": 41
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Process Improvement",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>process improvement",
+        "Alias": "improve processes, manage process improvement, improvement of work processes, develop process improvements, develop process improvement, system improvement, system improvement process, system improvements, work process improvement, process operations improvement, system-improvement, improvement of the process, systems improvement, identifying process improvements, improvement analysis, process-improvement, operations process improvement, refining business units, refining business processes, process refinement, operational process improvement, business process refinement, business process improvement, process improvement methodology, process improvement initiation, process improvement implementation, process improvement framework, process improvement workflows, process improvement operations, process improvements, process improvement initiative, process enhancement",
+        "FormattedName": "process improvement",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Management",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project management",
+        "Alias": "project managed development, managing multiple projects, project mgmt., project-management, manage complex projects, project mgmt, manage a project, project-coordination, manage multiple project tasks, manage multiple projects, managing large scale projects, project co - ordination, project co-ordination, managing complex projects, project manage, managed smaller projects, management of project, operations project management, projects coordination, proj management, managed special projects, overseeing projects, manage the incoming project, project-handling, project management and coordination, project management processes, project management process, managing of projects, projects managing, project handling, coordination of international projects, coordination of projects, project description management, managed projects, project processing, manage a multiphase project, project-manage, manage small projects, managed phases, managed project, managed project operations, proj mgmt, handling of project, new project management, manage projects, managed long term projects, organizational project management, projects management, manage the project, project methods, projects handled, project coordination, project coordination and implementation, project coordinating, managing projects, managing project, manage the complex projects, project work management, management projects, managing the project planning, multiple projects management, project creation, handle multiple projects, manage several projects, project managing, coordinating projects",
+        "FormattedName": "project management",
+        "Evidence": "ExperienceSection,SummarySection,CertificationSection,SkillSection",
+        "LastUsed": "31/05/2016",
+        "ExperienceInMonths": 41
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Internal Policies",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>company policy",
+        "Alias": "corporate-policy, corporate-policies, business policy, internal policy, maintaining company policies, organization policy, workplace policies, workplace policy, corporate policy, company policy and procedures, corporate policies, company policies and procedures, company policies, organisational policies, company-policy, organizational policies, business policies, internal policies",
+        "FormattedName": "company policy",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2016",
+        "ExperienceInMonths": 41
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Lean Six Sigma",
+        "Ontology": "Information>All Other Information Services>lean six sigma",
+        "Alias": "lean six-sigma, six sigma lean methodology, six sigma lean methodologies, lean six sigma execution",
+        "FormattedName": "lean six sigma",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "31/05/2016",
+        "ExperienceInMonths": 41
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cost Savings",
+        "Ontology": "Finance and Insurance>Cost Estimators>cost reduction",
+        "Alias": "finance cost savings, cutting expenses, total cost reduction, cost saving, cost savings, cost-savings, labor cost reduction, reduction of operational costs, cost reduction strategies, reduced costs, reduce costs, cost-cutting, manufacturing-cost-reduction, operations cost reduction, reducing operating costs, cost-reduction, labor-cost-reduction, cost cutting, cost reduction process, cost reduction program, cost reduction programs, cost reduction planning, general cost reduction, cost savings strategies, cost reduction management, cost reduction mgmt, reduction of cost, reduction of costs, reduced total cost, expense reduction, manufacturing cost reduction, cost improvements, cost improvement, cost reduction implementation, reducing costs",
+        "FormattedName": "cost reduction",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Excel",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Administrative Services>microsoft excel",
+        "Alias": "excel 4, windows excel, platform excel, excel 2000, advanced ms excel, microsoft technology ms excel, excel 2002, microsoft excel 2016, microsoft excel 2004 for mac, microsoft excel 2010, microsoft excel 2007, microsoft excel 2013, microsoft excel spreadsheet software, microsoft excel 2001 for mac, microsoft excel xp, microsoft excel 97 for windows, microsoft excel 2003, microsoft excel 2019, microsoft excel v2.0, microsoft excel 2000, microsoft excel soft., microsoft excel v5.0, microsoft excel software, microsoft excel 2002, ms excel 2004 for mac, ms excel 2003, microsoft software excel, pc software microsoft excel, ms excel 97 for windows, software excel, microsoft .excel, excel 95, excel 2004 for mac, advanced microsoft excel, advanced excel, ms excel 2000, microsoft products ms excel, excel platform, ms excel 2001 for mac, excel xp, ms-excel, excel 3, microsoft office excel, excel, excel 2010, ms excel 2010, ms excel, ms excel 2002, microsoft suite excel, excel skills, excel 2, excel 5, excel 2001 for mac, ms. excel, excel 97, excel software, excel 97 for windows, excel 2003, internet microsoft excel, excel 2016",
+        "FormattedName": "microsoft excel",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "SQL",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>sql",
+        "Alias": "sql 2008, structured query language, sql 2003, oracle sql2005, sql-2003, advanced sql, programming language sql, oracle sql programming, sql 2005, sql/400, sql programming, sql coding, database definition language, database sql, ibm sql/400, sql language, oracle sql, databases sql, sql development, sqldb, coding sql, sql databases, sql computer language, sql 2000, ibm sql400, sql database, data definition language, sql400, data dictionary language, programming sql, sql oracle, oql, sql database query language, advanced sql programming, sql programming language, ansi sql, sql queries, data description lang, data description language, object query language, sql2005, microsoft sql programming, structured-query-language",
+        "FormattedName": "sql",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 97
+      }
+    ],
+    "Experience": "HSBC UK \r Operations Manager \r June 2016 - Present \r Manchester, UK \r In my role at HSBC, I manage daily operations and lead process improvement initiatives to enhance efficiency and productivity. I analyze operational data using tools like Excel and SQL to identify areas for improvement and develop strategic plans. My responsibilities include overseeing project implementation, ensuring compliance with regulatory standards, and maintaining effective communication with stakeholders. I have successfully led multiple projects that resulted in significant cost savings and operational enhancements. \r NatWest Group \r Assistant Operations Manager \r January 2013 - May 2016 \r Manchester, UK \r At NatWest, I supported the Operations Manager in overseeing business operations and implementing process improvements. My role involved conducting data analysis to identify inefficiencies, preparing operational reports, and assisting in project management. I collaborated with various departments to ensure smooth operations and compliance with internal policies. My efforts contributed to a 15% increase in operational efficiency.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "HSBC UK",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Operations Manager",
+          "FormattedName": "assistant operations manager",
+          "Alias": "manager assistant operations, asst. operation manager, assistant to operations manager, manager, operations assistant, asst mgr operations, assistant in operation department, asst. operations manager, asst manager - operations, asst manager - operation, asst. manager operations, asst. manager ops, assistant operations head, assistant operations team manager, assistant operations mgr, assistant operation manager, assistant operational manager, assistant operations team mgr, operation assistant manager, asst manager operations, operations manager assistant, asst operation manager, assistant ops. manager, assistant manager of  operations, assistant manager operation, assistant manager opeations, assistant manager-operations, assistant manager - operations, assistant manager of operation, assistant manager operations, operations assistant manager, operations assistant  manager",
+          "RelatedSkills": [
+            {
+              "Skill": "operational planning",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "operational monitoring",
+              "ProficiencyLevel": "Moderate"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "June 2016 - till",
+        "FormattedJobPeriod": "06/2016 to till",
+        "StartDate": "01/06/2016",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "In my role at HSBC, I manage daily operations and lead process improvement initiatives to enhance efficiency and productivity. I analyze operational data using tools like Excel and SQL to identify areas for improvement and develop strategic plans. My responsibilities include overseeing project implementation, ensuring compliance with regulatory standards, and maintaining effective communication with stakeholders. I have successfully led multiple projects that resulted in significant cost savings and operational enhancements.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "NatWest Group",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Assistant Operations Manager",
+          "FormattedName": "assistant operations manager",
+          "Alias": "manager assistant operations, asst. operation manager, assistant to operations manager, manager, operations assistant, asst mgr operations, assistant in operation department, asst. operations manager, asst manager - operations, asst manager - operation, asst. manager operations, asst. manager ops, assistant operations head, assistant operations team manager, assistant operations mgr, assistant operation manager, assistant operational manager, assistant operations team mgr, operation assistant manager, asst manager operations, operations manager assistant, asst operation manager, assistant ops. manager, assistant manager of  operations, assistant manager operation, assistant manager opeations, assistant manager-operations, assistant manager - operations, assistant manager of operation, assistant manager operations, operations assistant manager, operations assistant  manager",
+          "RelatedSkills": [
+            {
+              "Skill": "operational planning",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "operational monitoring",
+              "ProficiencyLevel": "Moderate"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "January 2013 - May 2016",
+        "FormattedJobPeriod": "01/2013 to 05/2016",
+        "StartDate": "01/01/2013",
+        "EndDate": "31/05/2016",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "At NatWest, I supported the Operations Manager in overseeing business operations and implementing process improvements. My role involved conducting data analysis to identify inefficiencies, preparing operational reports, and assisting in project management. I collaborated with various departments to ensure smooth operations and compliance with internal policies. My efforts contributed to a 15% increase in operational efficiency.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "HSBC UK",
+    "JobProfile": "Operations Manager",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "139",
+      "TotalExperienceInYear": "11.7",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "69",
+    "LongestStay": "98",
+    "Summary": "Operations Manager with over 8 years of experience in managing and optimizing business operations. Skilled in data analysis, process improvement, and project management. Seeking to transition into a Business Analyst role to leverage my operational expertise and drive strategic business initiatives.",
+    "ExecutiveSummary": "Laura has an experience in the domain of 'Management of Companies and Enterprises', particularly in the sub-domain of 'Managers, All Other. 'The candidate has a total experience of 8 YearsThe candidate has been working as a Operations Manager at HSBC UK for the last 8.2 years. ",
+    "ManagementSummary": "Currently, Laura holds a Mid Management Level position, as Operations Manager at HSBC UK. from 01/06/2016 to 15/07/2024. The candidate has a total experience of 8.2 years in this company.\n\nLaura holds a Mid Management Level position, as Assistant Operations Manager at NatWest Group. from 01/01/2013 to 31/05/2016. The candidate has a total experience of 3.5 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "References available upon request",
+    "CustomFields": "Parsing Time : 496ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Laura Brown\nManchester, UK\nlaura.brown@email.com\n+44 1234 876543\nLinkedIn : linkedin.com/in/laurabrown\n\nProfessional Summary : \nOperations Manager with over 8 years of experience in managing and optimizing business operations. Skilled in data analysis, process improvement, and project management. Seeking to transition into a Business Analyst role to leverage my operational expertise and drive strategic business initiatives.\n\nProfessional Experience : \nHSBC UK\nOperations Manager\nJune 2016 - Present\nManchester, UK\nIn my role at HSBC, I manage daily operations and lead process improvement initiatives to enhance efficiency and productivity. I analyze operational data using tools like Excel and SQL to identify areas for improvement and develop strategic plans. My responsibilities include overseeing project implementation, ensuring compliance with regulatory standards, and maintaining effective communication with stakeholders. I have successfully led multiple projects that resulted in significant cost savings and operational enhancements.\nNatWest Group\nAssistant Operations Manager\nJanuary 2013 - May 2016\nManchester, UK\nAt NatWest, I supported the Operations Manager in overseeing business operations and implementing process improvements. My role involved conducting data analysis to identify inefficiencies, preparing operational reports, and assisting in project management. I collaborated with various departments to ensure smooth operations and compliance with internal policies. My efforts contributed to a 15% increase in operational efficiency.\n\nEducation : \nBachelor of Business Administration\nUniversity of Manchester\nGraduated : 2012\n\nSkills : \nData analysis (Excel, SQL) \nOperations management\nProcess improvement\nProject management\nStrong analytical and problem-solving skills\nEffective communication\n\nCertifications : \nLean Six Sigma Green Belt\nProject Management Professional (PMP) \n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Laura Brown</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">laura.brown@email.com</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">+44 1234 876543</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">LinkedIn: linkedin.com/in/laurabrown</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Operations Manager with over 8 years of experience in managing and optimizing business operations. Skilled in data analysis, process improvement, and project management. Seeking to transition into a Business Analyst role to leverage my operational expertise and drive strategic business initiatives.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Operations Manager</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">June 2016 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">In my role at HSBC, I manage daily operations and lead process improvement initiatives to enhance efficiency and productivity. I analyze operational data using tools like Excel and SQL to identify areas for improvement and develop strategic plans. My responsibilities include overseeing project implementation, ensuring compliance with regulatory standards, and maintaining effective communication with stakeholders. I have successfully led multiple projects that resulted in significant cost savings and operational enhancements.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">NatWest Group</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Assistant Operations Manager</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">January 2013 - May 2016</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At NatWest, I supported the Operations Manager in overseeing business operations and implementing process improvements. My role involved conducting data analysis to identify inefficiencies, preparing operational reports, and assisting in project management. I collaborated with various departments to ensure smooth operations and compliance with internal policies. My efforts contributed to a 15% increase in operational efficiency.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Bachelor of Business Administration</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">University of Manchester</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2012</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data analysis (Excel, SQL) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Operations management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Process improvement</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Project management</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strong analytical and problem-solving skills</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Effective communication</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Lean Six Sigma Green Belt</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Project Management Professional (PMP) </span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">References available upon request</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

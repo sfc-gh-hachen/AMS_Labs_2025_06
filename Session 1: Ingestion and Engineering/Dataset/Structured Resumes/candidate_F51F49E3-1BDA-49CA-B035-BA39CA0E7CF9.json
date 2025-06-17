@@ -1,0 +1,641 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Lisa Thompson.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 1:04:32",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Lisa Thompson",
+      "TitleName": "",
+      "FirstName": "Lisa",
+      "MiddleName": "",
+      "LastName": "Thompson",
+      "FormattedName": "Lisa Thompson",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "lisa.thompson@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123456789",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 456789",
+        "FormattedNumber": "+44 7123 456789",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/lisathompson"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "12 Cedar Lane",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M32JD",
+        "FormattedAddress": "12 Cedar Lane, Manchester, England, M32JD, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Health Care and Social Assistance",
+    "SubCategory": "Veterinary Technologists and Technicians",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "University of Manchester (Russell Group) \r Diploma in Veterinary Nursing \r Graduated : 2018 \r Manchester High School \r GCSEs : Biology (B) , Chemistry (B) , English (C) , Mathematics (C) \r Completed : 2015\r\r\r\r\rCommitted to staying updated with the latest advancements in veterinary medicine through continuous learning and professional development. \r Outdoor Activities : Enjoys hiking and exploring nature with a keen interest in wildlife conservation.",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Manchester",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "Diploma in Veterinary Nursing",
+          "NormalizeDegree": "Diploma",
+          "Specialization": [
+            "Veterinary",
+            "Nursing"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2018",
+        "StartDate": "",
+        "EndDate": "31/12/2018",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "Manchester High School",
+          "Type": "School",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 10
+        },
+        "Degree": {
+          "DegreeName": "GCSEs : Biology B Chemistry B English C Mathematics",
+          "NormalizeDegree": "",
+          "Specialization": [
+            "Biology",
+            "Chemistry",
+            "English",
+            "Mathematics"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2015",
+        "StartDate": "",
+        "EndDate": "31/12/2015",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Registered Veterinary Nurse (RVN) \r Certificate in Animal First Aid \r Certificate in Advanced Anesthesia and Analgesia",
+    "SegregatedCertification": [],
+    "SkillBlock": "Animal Care : Proficient in providing comprehensive care to animals, including monitoring health and administering treatments. \r Surgical Assistance : Experienced in assisting with surgical procedures and providing post-operative care. \r Client Education : Skilled in educating clients on proper animal care, nutrition, and health maintenance. \r Medical Record Keeping : Capable of maintaining accurate and detailed medical records.\r\r\rExcellent communication and interpersonal skills, enabling effective interaction with clients and team members. \r Attention to Detail : Strong attention to detail, ensuring high standards of care and accuracy in medical procedures.",
+    "SkillKeywords": "High Standards,Awareness,Dedicated,Assisted,Strong Interpersonal Skills,Excellent Communication,Interpersonal Skills,Attention To Detail,Dedication,Teamwork,Maintaining Medical Records,Administering Medications,Monitoring Animal Health,Administer Medications,Surgical Preparation,Emergency Surgeries,Post-Operative Care,Streamlined Process,Surgical Procedures,Health Maintenance,Medical Procedures,Educating Clients,High-Quality Care,Client Education,Preventive Care,Animal Welfare,Medical Record,First Aid",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "High Standards",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Awareness",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Dedicated",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>dedication",
+        "Alias": "dedicated towards work, dedication to work, dedicated to work, dedicated worker",
+        "FormattedName": "dedication",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strong Interpersonal Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>interpersonal skills",
+        "Alias": "strong interpersonal skills, social skill, effective i?nterpersonal skills, people skill, interpersonal leadership skills, interpersonal development, interpersonal skill, social-skills, interpersonal relationships, interpersonal relationship skills, intrapersonal skill, intrapersonal skills, good interpersonal skills, good interpersonal, people skills, ability to socialize, personal skills, interoperation, excellent interpersonal skills, social skills, interpersonal savvy, interpersonal-savvy, interpersonal sensitivity",
+        "FormattedName": "interpersonal skills",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Excellent Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Interpersonal Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>interpersonal skills",
+        "Alias": "strong interpersonal skills, social skill, effective i?nterpersonal skills, people skill, interpersonal leadership skills, interpersonal development, interpersonal skill, social-skills, interpersonal relationships, interpersonal relationship skills, intrapersonal skill, intrapersonal skills, good interpersonal skills, good interpersonal, people skills, ability to socialize, personal skills, interoperation, excellent interpersonal skills, social skills, interpersonal savvy, interpersonal-savvy, interpersonal sensitivity",
+        "FormattedName": "interpersonal skills",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Attention To Detail",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>attention to detail",
+        "Alias": "detail-oriented tasks, attention to details, attention for details, detail-minded, attention to-detail, detail oriented, meticulous, attending to details, detail-orientated, highly detail oriented, eye for details, pay attention to detail, highly detail-oriented, detail focused, paying close attention to detail, detailed-oriented, attention-to-detail, pays attention to detail, pays attention to details, detail minded, acute attention to detail, detail orientated, attention to the details, detail-orientation, detail driven, attentive to details, attentive to detail, a good eye for detail and high level of accuracy, detailed oriented, attend to detail, attend to details, detail orientation, detail-oriented, high attention to detail, attentiveness to details, attentiveness to detail, organized and detail oriented, eye for detail",
+        "FormattedName": "attention to detail",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Dedication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>dedication",
+        "Alias": "dedicated towards work, dedication to work, dedicated to work, dedicated worker",
+        "FormattedName": "dedication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Teamwork",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>teamwork",
+        "Alias": "able to work in teams, works well in a team, cross-team collaboration, team work, cross team collaboration, work with the client, fostering a collaborative environment, working well with others, crossteam collaboration, able to work well in a team, team-oriented, collaboratively with the members of the team, ability to work with all levels of staff, ability to work effectively in team environment, ability to work with a team, ability to work as a team, ability to work in a team, ability to work in teams, ability to work as part of a team, ability to work well with others, ability to work with teams, team-collaboration, team work oriented, work with the operations teams, team collaboration, work in teams, team-orientation, works well with others, works well with a team, works well with people, team orientation, working with clients, works well in groups, collaborated with other staff members, working with people, team-focused, collaborating with teams, foster collaboration, work with others, working in teams, team work skills, work as a team, cross-team communication, group collaboration, working with others, team working, works effectively with a team, teamworking, teamwork skills, work with people, team spirit, cross - team communication, enjoy working with people, ability of working in team, effective teamwork, cross - team collaboration, collaborate with team members, team oriented, assist other team members, committed to work as a collaborative and positive team member, team-orientated",
+        "FormattedName": "teamwork",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maintaining Medical Records",
+        "Ontology": "Health Care and Social Assistance>Medical Records and Health Information Technicians>patient records management",
+        "Alias": "health record mgmt, patient records mgmt., medical chart mgmt, patient-records-management, medical chart management, maintaining patient records, health records management, health records mgmt, health record management, handling of medical records, medical record management system, medical record management, medical record mgmt, medical-records control, maintaining medical records, patient-records management, maintaining health record, maintaining health records, maintaining health- records, medical records management system, medical records control, medical records management, medical records maintenance",
+        "FormattedName": "patient records management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Administering Medications",
+        "Ontology": "Health Care and Social Assistance>Pharmacists>medication management",
+        "Alias": "medication-management, medicine use review, administering the proper medications, administering medications, administering medication, administered medication, administered medications, medication therapy mgmt, medication therapy management, administer medication, administer medications, managing medications, drug therapy management, prescription management, medication-administration, safe administration, safe administration of medication, drug management, managed prescription, administers prescribed medications, medication administration system, medication administration systems, medication administration, medication mgmt., medication management process, medication management strategy, administration of medication, administration of medications, administration of prescribed medication",
+        "FormattedName": "medication management",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Monitoring Animal Health",
+        "Ontology": "Other Services (except Public Administration) >Nonfarm Animal Caretakers>monitoring animal health",
+        "Alias": "monitoring animal health and preventing animal disease",
+        "FormattedName": "monitoring animal health",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Administer Medications",
+        "Ontology": "Health Care and Social Assistance>Pharmacists>medication management",
+        "Alias": "medication-management, medicine use review, administering the proper medications, administering medications, administering medication, administered medication, administered medications, medication therapy mgmt, medication therapy management, administer medication, administer medications, managing medications, drug therapy management, prescription management, medication-administration, safe administration, safe administration of medication, drug management, managed prescription, administers prescribed medications, medication administration system, medication administration systems, medication administration, medication mgmt., medication management process, medication management strategy, administration of medication, administration of medications, administration of prescribed medication",
+        "FormattedName": "medication management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Surgical Preparation",
+        "Ontology": "Health Care and Social Assistance>Surgeons>surgical management",
+        "Alias": "surgery mgmt, surgical preparation, surgery patient management, surgery patient mgmt, surgical care, surgery management, surgical assisting, manage surgery",
+        "FormattedName": "surgical management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Emergency Surgeries",
+        "Ontology": "Health Care and Social Assistance>Surgeons>emergency surgery",
+        "Alias": "surgical intervention in an emergency, emergency surgical intervention, medical emergency surgery, surgical emergency, emergency surgeries",
+        "FormattedName": "emergency surgery",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Post-Operative Care",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Streamlined Process",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>streamlining process",
+        "Alias": "operational streamlining, streamlined operations, system streamlining, processes streamline, streamlining of processes, streamline processes, streamline operations, streamlining operations, streamlining operational processes, streamlining processes, streamlined process, manage streamlined processes, management streamline, streamlining work processes, streamlining the processes, streamlining the process, streamlined management system, streamlined management",
+        "FormattedName": "streamlining process",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Surgical Procedures",
+        "Ontology": "Health Care and Social Assistance>Surgeons>surgical procedures",
+        "Alias": "surgical services, surgical procedure",
+        "FormattedName": "surgical procedures",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Health Maintenance",
+        "Ontology": "Health Care and Social Assistance>Health Diagnosing and Treating Practitioners, All Other>preventive healthcare",
+        "Alias": "preventative medicine, preventive care, health maintenance, medical-maintenance, medical disease prevention, prophylactic therapy, health-maintenance, preventive medicine, preventive health-care, preventive health care, preventive health services, preventive health-care measures, healthcare preventive, illness prevention, preventive-healthcare, prophylaxis, medical prophylactic therapy, maintenance of health, prophylactic treatment, disease control, measures for disease prevention, disease-prevention, medical maintenance, disease prevention in medicine, disease prevention",
+        "FormattedName": "preventive healthcare",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Medical Procedures",
+        "Ontology": "Health Care and Social Assistance>Medical Records and Health Information Technicians>medical procedures",
+        "Alias": "clinical procedure, clinical procedures, explaining treatment procedures to patients, explain treatment procedures, healthcare procedure, medical office procedures, medical practices and procedures, health care procedure, treatment procedures, treatment procedure",
+        "FormattedName": "medical procedures",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Educating Clients",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer education",
+        "Alias": "client training, educating clients, educate customers, educating customers, customer training, customer-education, customer education strategy, customer education program, educate the customer, customer-training",
+        "FormattedName": "customer education",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "High-Quality Care",
+        "Ontology": "Health Care and Social Assistance>Health Diagnosing and Treating Practitioners, All Other>health care quality",
+        "Alias": "quality in healthcare, maintain a high level of quality care, analyse the care quality, analyse care quality, high quality healthcare, analyze care quality, analyze the care quality, quality service to the patients, quality of care, high-quality care, analyse quality of care, health quality, analyse-the-care-quality, quality patient care, quality care for patients, healthcare quality, high-quality healthcare, high-quality health care, analyze the quality of care, maintain quality care, high - quality care, high quality care",
+        "FormattedName": "health care quality",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Client Education",
+        "Ontology": "Other Services (except Public Administration) >Health Educators>patient education",
+        "Alias": "educating members on disease, patient and staff teaching, patient-education, client education, educating patients regarding medication instructions, educating patients about breathing exercises, educating patients, educating patients about preventative care, educating patients about preventative practices, educated patient, educated patients, patient center education, education provided to patient, educate patient, education to patients, educate on chronic diseases, teaching patients, teaching to patients, provide teaching to patients",
+        "FormattedName": "patient education",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Preventive Care",
+        "Ontology": "Health Care and Social Assistance>Health Diagnosing and Treating Practitioners, All Other>preventive healthcare",
+        "Alias": "preventative medicine, preventive care, health maintenance, medical-maintenance, medical disease prevention, prophylactic therapy, health-maintenance, preventive medicine, preventive health-care, preventive health care, preventive health services, preventive health-care measures, healthcare preventive, illness prevention, preventive-healthcare, prophylaxis, medical prophylactic therapy, maintenance of health, prophylactic treatment, disease control, measures for disease prevention, disease-prevention, medical maintenance, disease prevention in medicine, disease prevention",
+        "FormattedName": "preventive healthcare",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Animal Welfare",
+        "Ontology": "Other Services (except Public Administration) >Animal Care and Service Workers>animal welfare",
+        "Alias": "wildlife control, animal control, dog care, animal protection, animal-welfare, animal care, small animal care, large animal care",
+        "FormattedName": "animal welfare",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Medical Record",
+        "Ontology": "Health Care and Social Assistance>Medical Records and Health Information Technicians>medical record",
+        "Alias": "medical history documentation, enter medical records, medical-history, collecting patient histories, dental records, clinical record, medical chart, document clinical information, patient charting, medical history, interpreting medical records, entering all patient medical records, recording patient notes, maintaining patient charts, patient\\u2019s history, patient charts, medical information, history of medicine, medical histories, patient history, medical records, inpatient treatment records, records patients data",
+        "FormattedName": "medical record",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "First Aid",
+        "Ontology": "Health Care and Social Assistance>Health Diagnosing and Treating Practitioners>first aid",
+        "Alias": "first aid techniques, first aid-training, emergency assistance, first aid training, first aid treatment",
+        "FormattedName": "first aid",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Greenfield Veterinary Clinic \r Veterinary Nurse \r Manchester, UK \r 2018 - Present \r Lisa assists veterinarians with surgical procedures, provides post-operative care, and administers medications. She is responsible for monitoring animal health, maintaining medical records, and educating clients on proper animal care. \r Key Responsibilities :  \r Assist with surgical procedures and provide post-operative care. \r Administer medications and treatments as prescribed by veterinarians. \r Monitor the health and behavior of animals. \r Maintain accurate medical records. \r Educate clients on proper animal care, nutrition, and health maintenance. \r Key Achievements :  \r Improved recovery rates by implementing enhanced post-operative care protocols. \r Developed a client education program that increased awareness of preventive care. \r PetCare Animal Hospital \r Veterinary Nurse Intern \r Manchester, UK \r 2017 - 2018 \r During her internship at PetCare Animal Hospital, Lisa gained hands-on experience in assisting with surgeries, providing routine care, and supporting the veterinary team in various clinical tasks. \r Key Responsibilities :  \r Assist with routine and emergency surgeries. \r Provide routine care such as vaccinations and health checks. \r Support the veterinary team with clinical tasks and procedures. \r Maintain a clean and organized clinic environment. \r Assist in educating clients on pet health and care. \r Key Achievements :  \r Recognized for exceptional teamwork and dedication to animal care. \r Assisted in the development of a streamlined process for surgical preparation.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Greenfield Veterinary Clinic",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Veterinary Nurse",
+          "FormattedName": "veterinary technician",
+          "Alias": "licensed veterinary tech, licensed veterinary technician, animal nurse, veterinary lab technician, veterinary lab tech, veterinary surgery technician, veterinary surgery technologist, technician laboratory animal, emergency  and  critical care vet tech, animal nursing specialist, emergency vet tech, vet technician, vet lab tech, vet nurse, technician of emergency veterinary, veterinary technologist, registered nurse-veterinary, technician of internal medicine veterinary, lvt, veterinary nurse, technician internal medicine veterinary, technician of laboratory animal, research animal attendant, animal laboratory attendant, animal laboratory- attendant, animal laboratory technician, technician of veterinary, technician of veterinary laboratory, horse and pony technician, veterinary lab aide, companion animal vet tech, technician emergency veterinary, veterinary nursing specialist, vet tech, veterinarian technician, registered veterinary technician, registered veterinary nurse, laboratory animal tech, laboratory animal technician, laboratory animal caretaker, laboratory animal attendant, laboratory animal technologist, laboratory animal aide, surgery veterinary technician, emergency veterinary tech, emergency veterinary technician, technician veterinary laboratory, technician veterinary, equine technician, vet practice technician, veterinary tech, technician of licensed veterinary, internal medicine registered veterinary technician, internal medicine veterinary technician, internal medicine veterinary tech, internal medicine vet tech, lab animal aide, certified veterinary technician, veterinary practice technician, technician licensed veterinary, lab animal technician, latg, rvt, animals laboratory attendant, lab animal caretaker, veterinary laboratory tech, veterinary laboratory technician, veterinary laboratory diagnostician",
+          "RelatedSkills": [
+            {
+              "Skill": "anatomy of animals",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "prepare environment for veterinary surgery",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "assist in the administration of fluids to animals",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "animal management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain stocks of veterinary materials",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "monitor condition of hospitalised animals",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "veterinary medicine",
+              "ProficiencyLevel": "Moderate"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2018 - till",
+        "FormattedJobPeriod": "2018 to till",
+        "StartDate": "01/01/2018",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Lisa assists veterinarians with surgical procedures, provides post-operative care, and administers medications. She is responsible for monitoring animal health, maintaining medical records, and educating clients on proper animal care. \n Key Responsibilities : \n Assist with surgical procedures and provide post-operative care. \n Administer medications and treatments as prescribed by veterinarians. \n Monitor the health and behavior of animals. \n Maintain accurate medical records. \n Educate clients on proper animal care, nutrition, and health maintenance. \n Key Achievements : \n Improved recovery rates by implementing enhanced post-operative care protocols. \n Developed a client education program that increased awareness of preventive care.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "PetCare Animal Hospital",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Veterinary Nurse Intern",
+          "FormattedName": "intern",
+          "Alias": "trainee, summer-intern, interim trainee, experience intern, intern - employee, department intern, general intern, college intern, intern - department, intern - assistant, intern - candidate, assistant intern, attendant intern, intern - corporate, sector intern, internship fellow, summer intern, intern / trainee, intern assistant, internships student intern, professional trainee, student intern, internship trainee",
+          "RelatedSkills": [
+            {
+              "Skill": "research",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data capture",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2017 - 2018",
+        "FormattedJobPeriod": "2017 to 2018",
+        "StartDate": "01/01/2017",
+        "EndDate": "31/12/2018",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "During her internship at PetCare Animal Hospital, Lisa gained hands-on experience in assisting with surgeries, providing routine care, and supporting the veterinary team in various clinical tasks. \n Key Responsibilities : \n Assist with routine and emergency surgeries. \n Provide routine care such as vaccinations and health checks. \n Support the veterinary team with clinical tasks and procedures. \n Maintain a clean and organized clinic environment. \n Assist in educating clients on pet health and care. \n Key Achievements : \n Recognized for exceptional teamwork and dedication to animal care. \n Assisted in the development of a streamlined process for surgical preparation.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Greenfield Veterinary Clinic",
+    "JobProfile": "Veterinary Nurse",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "91",
+      "TotalExperienceInYear": "7.7",
+      "TotalExperienceRange": "5-8 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "45",
+    "LongestStay": "67",
+    "Summary": "Dedicated and compassionate Veterinary Nurse with 5 years of experience in providing high-quality care to animals. Skilled in assisting with surgical procedures, administering medications, and providing client education. Known for strong interpersonal skills, attention to detail, and a passion for animal welfare.",
+    "ExecutiveSummary": "Lisa has an experience in the domain of 'Health Care and Social Assistance', particularly in the sub-domain of 'Veterinary Technologists and Technicians. 'The candidate has a total experience of 5 YearsThe candidate has been working as a Veterinary Nurse at Greenfield Veterinary Clinic for the last 6.7 years. ",
+    "ManagementSummary": "Lisa doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "Animal Welfare : Passionate about volunteering at local animal shelters and participating in animal welfare campaigns.",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 621ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Lisa Thompson\nContact Information : \nAddress : 12 Cedar Lane, Manchester, M3 2JD, England\nEmail : lisa.thompson@email.com\nPhone : +44 7123 456789\nLinkedIn : linkedin.com/in/lisathompson\n\nProfessional Summary : \nDedicated and compassionate Veterinary Nurse with 5 years of experience in providing high-quality care to animals. Skilled in assisting with surgical procedures, administering medications, and providing client education. Known for strong interpersonal skills, attention to detail, and a passion for animal welfare.\n\nEducation : \nUniversity of Manchester (Russell Group) \nDiploma in Veterinary Nursing\nGraduated : 2018\nManchester High School\nGCSEs : Biology (B) , Chemistry (B) , English (C) , Mathematics (C) \nCompleted : 2015\n\nProfessional Experience : \nGreenfield Veterinary Clinic\nVeterinary Nurse\nManchester, UK\n2018 - Present\nLisa assists veterinarians with surgical procedures, provides post-operative care, and administers medications. She is responsible for monitoring animal health, maintaining medical records, and educating clients on proper animal care.\nKey Responsibilities : \nAssist with surgical procedures and provide post-operative care.\nAdminister medications and treatments as prescribed by veterinarians.\nMonitor the health and behavior of animals.\nMaintain accurate medical records.\nEducate clients on proper animal care, nutrition, and health maintenance.\nKey Achievements : \nImproved recovery rates by implementing enhanced post-operative care protocols.\nDeveloped a client education program that increased awareness of preventive care.\nPetCare Animal Hospital\nVeterinary Nurse Intern\nManchester, UK\n2017 - 2018\nDuring her internship at PetCare Animal Hospital, Lisa gained hands-on experience in assisting with surgeries, providing routine care, and supporting the veterinary team in various clinical tasks.\nKey Responsibilities : \nAssist with routine and emergency surgeries.\nProvide routine care such as vaccinations and health checks.\nSupport the veterinary team with clinical tasks and procedures.\nMaintain a clean and organized clinic environment.\nAssist in educating clients on pet health and care.\nKey Achievements : \nRecognized for exceptional teamwork and dedication to animal care.\nAssisted in the development of a streamlined process for surgical preparation.\n\nSkills : \nAnimal Care : Proficient in providing comprehensive care to animals, including monitoring health and administering treatments.\nSurgical Assistance : Experienced in assisting with surgical procedures and providing post-operative care.\nClient Education : Skilled in educating clients on proper animal care, nutrition, and health maintenance.\nMedical Record Keeping : Capable of maintaining accurate and detailed medical records.\nInterpersonal Skills : Excellent communication and interpersonal skills, enabling effective interaction with clients and team members.\nAttention to Detail : Strong attention to detail, ensuring high standards of care and accuracy in medical procedures.\n\nCertifications : \nRegistered Veterinary Nurse (RVN) \nCertificate in Animal First Aid\nCertificate in Advanced Anesthesia and Analgesia\n\nInterests : \nAnimal Welfare : Passionate about volunteering at local animal shelters and participating in animal welfare campaigns.\nContinuing Education : Committed to staying updated with the latest advancements in veterinary medicine through continuous learning and professional development.\nOutdoor Activities : Enjoys hiking and exploring nature with a keen interest in wildlife conservation.\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Lisa Thompson</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 12 Cedar Lane, Manchester, M3 2JD, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> lisa.thompson@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 456789</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> linkedin.com/in/lisathompson</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Dedicated and compassionate Veterinary Nurse with 5 years of experience in providing high-quality care to animals. Skilled in assisting with surgical procedures, administering medications, and providing client education. Known for strong interpersonal skills, attention to detail, and a passion for animal welfare.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">University of Manchester (Russell Group) </span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Diploma in Veterinary Nursing</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2018</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Manchester High School</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">GCSEs: Biology (B) , Chemistry (B) , English (C) , Mathematics (C) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Completed: 2015</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Greenfield Veterinary Clinic</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Veterinary Nurse</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2018 - Present</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Lisa assists veterinarians with surgical procedures, provides post-operative care, and administers medications. She is responsible for monitoring animal health, maintaining medical records, and educating clients on proper animal care.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assist with surgical procedures and provide post-operative care.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Administer medications and treatments as prescribed by veterinarians.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Monitor the health and behavior of animals.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Maintain accurate medical records.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Educate clients on proper animal care, nutrition, and health maintenance.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Improved recovery rates by implementing enhanced post-operative care protocols.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed a client education program that increased awareness of preventive care.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">PetCare Animal Hospital</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Veterinary Nurse Intern</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2017 - 2018</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">During her internship at PetCare Animal Hospital, Lisa gained hands-on experience in assisting with surgeries, providing routine care, and supporting the veterinary team in various clinical tasks.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assist with routine and emergency surgeries.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Provide routine care such as vaccinations and health checks.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Support the veterinary team with clinical tasks and procedures.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Maintain a clean and organized clinic environment.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assist in educating clients on pet health and care.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Recognized for exceptional teamwork and dedication to animal care.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted in the development of a streamlined process for surgical preparation.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Animal Care:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Proficient in providing comprehensive care to animals, including monitoring health and administering treatments.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Surgical Assistance:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Experienced in assisting with surgical procedures and providing post-operative care.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Client Education:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Skilled in educating clients on proper animal care, nutrition, and health maintenance.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Medical Record Keeping:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Capable of maintaining accurate and detailed medical records.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Interpersonal Skills:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Excellent communication and interpersonal skills, enabling effective interaction with clients and team members.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Attention to Detail:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong attention to detail, ensuring high standards of care and accuracy in medical procedures.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Registered Veterinary Nurse (RVN) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certificate in Animal First Aid</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certificate in Advanced Anesthesia and Analgesia</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Interests:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Animal Welfare:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Passionate about volunteering at local animal shelters and participating in animal welfare campaigns.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Continuing Education:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Committed to staying updated with the latest advancements in veterinary medicine through continuous learning and professional development.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Outdoor Activities:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Enjoys hiking and exploring nature with a keen interest in wildlife conservation.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

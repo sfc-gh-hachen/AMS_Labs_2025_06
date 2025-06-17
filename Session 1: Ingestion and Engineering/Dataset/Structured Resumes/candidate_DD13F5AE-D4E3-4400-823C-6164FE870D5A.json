@@ -1,0 +1,664 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Charlotte Edwards.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:05:06",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Charlotte Edwards",
+      "TitleName": "",
+      "FirstName": "Charlotte",
+      "MiddleName": "",
+      "LastName": "Edwards",
+      "FormattedName": "Charlotte Edwards",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "charlotte.edwards@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+449632587410",
+        "ISDCode": "+44",
+        "OriginalNumber": "9632587410",
+        "FormattedNumber": "+44 9632587410",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/charlotteedwards"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 7
+      }
+    ],
+    "Category": "Finance and Insurance",
+    "SubCategory": "Human Resources Specialists",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Bachelor of Arts in Human Resource Management \r University of Leeds, Leeds, UK \r Graduated : 2014",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Leeds",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "Leeds",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "UK",
+            "CountryCode": {
+              "IsoAlpha2": "GB",
+              "IsoAlpha3": "GBR",
+              "UNCode": "826"
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "Bachelor of Arts in Human Resource Management",
+          "NormalizeDegree": "Bachelor of Arts",
+          "Specialization": [
+            "Human Resource Management"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2014",
+        "StartDate": "",
+        "EndDate": "31/12/2014",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Certified Human Resource Professional (CHRP) \r Professional in Human Resources (PHR)",
+    "SegregatedCertification": [],
+    "SkillBlock": "Employee Relations \r Recruitment and Onboarding",
+    "SkillKeywords": "Assisted,Communicated Effectively,Organizational,Development and Implementation,HR Policies and Procedures,Positive Work Environment,Administrative Tasks,Business Objectives,Employee Engagement,Ensuring Compliance,Employee Relations,Preparing Reports,Training Programs,Employee Records,Human Resources,Best Practices,Well-Organized,HR Activities,HR Strategies,HR Policies,HR Metrics,Google",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2017",
+        "ExperienceInMonths": 38
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communicated Effectively",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>effective communication",
+        "Alias": "able to convey information, able to convey information clearly, clear & concise communication, excellent communicator, communicated effectively, clear and concise communication, develop strong communication, effective-communication, developing effective communication, great communicators, effective communication is paramount, effective communicator, effective communication skills, communicating with supervisors, communicated regularly, able to communicate effectively, develop effective communication skills",
+        "FormattedName": "effective communication",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2017",
+        "ExperienceInMonths": 38
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Organizational",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business goals",
+        "Alias": "business goals and objectives, profitability objectives, business-goals, organizational objectives, business objectives, business objective, business profitability objectives",
+        "FormattedName": "business goals",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 85
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Development and Implementation",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2017",
+        "ExperienceInMonths": 38
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "HR Policies and Procedures",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>human resource policies",
+        "Alias": "hr policy formulation, hr policy design, hr policies, hr regulations, formulation-hr policies, personnel-policies, personnel procedures, hr policies formulation, hr policy management, hr regulation, hr actions, hr policy-management, hr policies & procedures, personnel policies, hr guidelines, hr policy mgmt, hr policies and procedures, hr policy, hr-procedures, human resource policy, human resource policies and procedures, human resource procedure, human resource procedures, hr procedures, human resources policies, human resources guidelines, human resources  policies, personnel policy",
+        "FormattedName": "human resource policies",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 123
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Positive Work Environment",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>positive work environment",
+        "Alias": "positive working environment",
+        "FormattedName": "positive work environment",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 85
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Administrative Tasks",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Executive Secretaries and Executive Administrative Assistants>administrative activity",
+        "Alias": "administration technique, administrative tasks, administrative processes, administrative support, administrative services, general administrative duties, administrative work, administrative-activity, administration work, administrative capabilities, administrative functions, performs administrative functions, administration processes, administrative activities",
+        "FormattedName": "administrative activity",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2017",
+        "ExperienceInMonths": 38
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Objectives",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business goals",
+        "Alias": "business goals and objectives, profitability objectives, business-goals, organizational objectives, business objectives, business objective, business profitability objectives",
+        "FormattedName": "business goals",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 85
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Employee Engagement",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>employee engagement",
+        "Alias": "talent engagement, driving engagement, employee-participation, increase engagement, employee engagement activities, workforce engagement, employee interaction, handling large engagements, business engagement, associate engagement, employee participation, engaged workforce, employer engagement, employee-engagement, engaging employees",
+        "FormattedName": "employee engagement",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2017",
+        "ExperienceInMonths": 38
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Ensuring Compliance",
+        "Ontology": "Finance and Insurance>Compliance Officers>ensuring compliance",
+        "Alias": "guarantee compliance with policies, compliance assurance, compliance-assurance, assures compliance, make sure policies are compliant, ensure policy compliance, assurance of compliance, certify compliance with policies, ensure compliance, ensure compliance with policies, ensure compliance with legislation, ensure compliance with policy, ensuring compliance with the rules, ensuring compliance with policies",
+        "FormattedName": "ensuring compliance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 85
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Employee Relations",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>employee relationship management",
+        "Alias": "employee relationship mgmt, employee relations, employee relationship-management, team relationship mgmt, team relationship-management, team relationship management, managed employee relations, positive employee relations",
+        "FormattedName": "employee relationship management",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 85
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Preparing Reports",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Clerks, General>report generation",
+        "Alias": "generate report, development of reports, reports development, reports preparation, preparation of reports, report creation, develop custom reports, report development, preparing the reports, preparing the report, develop nightly reports, creating reports, preparing reports, develop a report, develop reports, produce reports, prepare reports, creation of new reports, developing reports, generating training reports, generating reports, generate reports, prepare report, creating new reports, report preparation, generated reports, report-generation",
+        "FormattedName": "report generation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2017",
+        "ExperienceInMonths": 38
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Training Programs",
+        "Ontology": "Finance and Insurance>Training and Development Specialists>training program",
+        "Alias": "training preparation, training programs",
+        "FormattedName": "training program",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 85
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Employee Records",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Human Resources Assistants, Except Payroll and Timekeeping>maintaining personnel records",
+        "Alias": "personnel record-keeping, personnel records, personnel records management, personnel record keeping, personnel records maintenance, maintaining employees personal ?les, maintaining employees personal files, managing personnel records, employee records, employee records mgmt., employee records management, employee records-management, maintain employee records, employee record management, personnel-records, maintain hr records, employee-records-management, maintenance of personnel file",
+        "FormattedName": "maintaining personnel records",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2017",
+        "ExperienceInMonths": 38
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Human Resources",
+        "Ontology": "Management of Companies and Enterprises>Human Resources Managers>human resource management",
+        "Alias": "manpower management, manage hr, personnel information management, personnel information mgmt, human resources, employees management, employee administration, employee integration, people mgmt, human relationship management, managing technical personnel, management of technical personnel, hr operations management, managing people, hr processes mgmt, management of workers, hr operations mgmt, man-management, human resource information management, human resource information mgmt, peoples management, hr activities, personnel mgmt, personnel-management, worker management, managed human resources, managed human resource, personnel-administration, hr-operations management, human resource-administration, human resource mgmt., people-management, personnel management, hr-administration, managerial personnel, human resource administration, human relations management, people administration, employee management, employment administration, employee-management, hr processes, manage all human resources operations, man management, organized hr personnel, human resource, human resource-management, hr department administration, human-resources-administrative, hr processes management, manage the human resources, human-resource-management, personnel mgmt., hr operation management, manage personnel, managing employees, employee mgmt, man mgmt, people management, people management and development, personnel operations, management of personnel resources, human resources management processes, human resources management, human resources administrative, administering human resources, hr administration, administration of employees, peoples mgmt, hr management, personnel administration, manage the personnel",
+        "FormattedName": "human resource management",
+        "Evidence": "SummarySection,CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Best Practices",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>best practice",
+        "Alias": "best practice design, development best practices, best-practice, it best practice, it best practices, marketing best practices, best-practice frameworks, best practices, best practice management, best practices framework, best practices frameworks, best practice implementation, best practice framework, develop best practices, best practices operations",
+        "FormattedName": "best practice",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Well-Organized",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>highly organized",
+        "Alias": "highly organised, well presented, organise work, organize work, organise work according to deadlines, well organized, work in an organised manner, work in an organized manner, work in an orderly manner, well organised, well-organized, well-organised",
+        "FormattedName": "highly organized",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2017",
+        "ExperienceInMonths": 38
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "HR Activities",
+        "Ontology": "Management of Companies and Enterprises>Human Resources Managers>human resource management",
+        "Alias": "manpower management, manage hr, personnel information management, personnel information mgmt, human resources, employees management, employee administration, employee integration, people mgmt, human relationship management, managing technical personnel, management of technical personnel, hr operations management, managing people, hr processes mgmt, management of workers, hr operations mgmt, man-management, human resource information management, human resource information mgmt, peoples management, hr activities, personnel mgmt, personnel-management, worker management, managed human resources, managed human resource, personnel-administration, hr-operations management, human resource-administration, human resource mgmt., people-management, personnel management, hr-administration, managerial personnel, human resource administration, human relations management, people administration, employee management, employment administration, employee-management, hr processes, manage all human resources operations, man management, organized hr personnel, human resource, human resource-management, hr department administration, human-resources-administrative, hr processes management, manage the human resources, human-resource-management, personnel mgmt., hr operation management, manage personnel, managing employees, employee mgmt, man mgmt, people management, people management and development, personnel operations, management of personnel resources, human resources management processes, human resources management, human resources administrative, administering human resources, hr administration, administration of employees, peoples mgmt, hr management, personnel administration, manage the personnel",
+        "FormattedName": "human resource management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2017",
+        "ExperienceInMonths": 38
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "HR Strategies",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>human resource planning",
+        "Alias": "strategic human resource planning, hr strategies, strategic hr, resourcing strategies, resourcing strategy, human services strategy, manpower planning, hr strategic planning, hr it strategy, human resource-planning, job planning, hr strategy, hr strategy and planning, human resource strategy, human resource strategic planning, human-resource planning, hr planning, hr solution planning, personnel planning, resource strategies, resource strategy, human resource planning process, personnel-planning, strategic hr planning, personnel plan, human resources planning, human resources strategy, hr strategy & planning",
+        "FormattedName": "human resource planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 85
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "HR Policies",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>human resource policies",
+        "Alias": "hr policy formulation, hr policy design, hr policies, hr regulations, formulation-hr policies, personnel-policies, personnel procedures, hr policies formulation, hr policy management, hr regulation, hr actions, hr policy-management, hr policies & procedures, personnel policies, hr guidelines, hr policy mgmt, hr policies and procedures, hr policy, hr-procedures, human resource policy, human resource policies and procedures, human resource procedure, human resource procedures, hr procedures, human resources policies, human resources guidelines, human resources  policies, personnel policy",
+        "FormattedName": "human resource policies",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "HR Metrics",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>hr metric",
+        "Alias": "human resource metrics, hr metrics, hr measures, human resources metrics",
+        "FormattedName": "hr metric",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/05/2017",
+        "ExperienceInMonths": 38
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Google",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 85
+      }
+    ],
+    "Experience": "HR Specialist \r Google, London, UK \r June 2017 - Present \r At Google, I was responsible for managing employee relations, conducting recruitment drives, and coordinating training programs. I provided guidance on HR policies and procedures, ensuring compliance with legal and organizational standards. My role involved developing and implementing HR strategies that supported business objectives and fostered a positive work environment. I also managed performance appraisals and worked closely with managers to address employee concerns and improve workplace satisfaction. \r HR Coordinator \r Amazon, London, UK \r April 2014 - May 2017 \r In my role at Amazon, I coordinated various HR activities, including recruitment, onboarding, and employee engagement programs. I assisted in the development and implementation of HR policies and procedures, ensuring they were communicated effectively to all employees. My responsibilities included maintaining employee records, preparing reports on HR metrics, and supporting the HR team in various administrative tasks. I played a key role in enhancing the employee experience through well-organized and efficient HR practices.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Google",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "HR Specialist",
+          "FormattedName": "human resources specialist",
+          "Alias": "personnel services specialist, specialist. hr, hr service specialist, recruitment and hr specialist, hr support specialist, hr operations specialist, hr services expert, human resource operations specialist, human resource support specialist, human resource specialist, personnel management specialist, personnel specialist - human resources, personnel specialist, specialist human-resource, specialist human resources, hr-specialist, professional hr operations, specialist of human resources, human resource credential specialist, hr - specialist, specialist, human resources, specialist personnel, people specialist, specialist hr, hr connection specialist, professional human resource, hr administrative specialist, human resource professional, human resource processor, specialist - human resources, hr corporate specialist, human resources professional, human resources support specialist, human resources services specialist, human resources expert, human resources operations specialist, human resources site specialist, human resources - specialist, human resources management expert, hr specialist, personnel administration specialist",
+          "RelatedSkills": [
+            {
+              "Skill": "peoplesoft absence management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "competency mapping",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "bamboohr",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "criterion hcm",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "officetimer",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "activ absence",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "mitrefinch absence management system",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "cakehr",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "oracle hr analytics",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "screenshotmonitor",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "teammood",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "zoho contact manager",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "ebs paysuite",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "kudos",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "ultipro software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "epicor hcm",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "job matching",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "peoplestrategy software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "carry out recruiting services",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "employee loyalty",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "negotiate employment agreement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "in house recruitment",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "workday compensation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "oracle hcm cloud",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "performance appraisal",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "human resource planning",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "workday",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "review employee job responsibilities",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "compensation analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "job architecture",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "luceo",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "career development",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "transferable skills analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "human resource management",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "London",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "June 2017 - till",
+        "FormattedJobPeriod": "06/2017 to till",
+        "StartDate": "01/06/2017",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At Google, I was responsible for managing employee relations, conducting recruitment drives, and coordinating training programs. I provided guidance on HR policies and procedures, ensuring compliance with legal and organizational standards. My role involved developing and implementing HR strategies that supported business objectives and fostered a positive work environment. I also managed performance appraisals and worked closely with managers to address employee concerns and improve workplace satisfaction.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Amazon",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "HR Coordinator",
+          "FormattedName": "human resources coordinator",
+          "Alias": "operations human resources coordinator, h.r. coordinator, coordinator - human resource, coordinator - human resources department, hr office coordinator, human services coordinator, hr coordinator, personnel department coordinator, hr corporate coordinator, people coordinator, co-ordinator human resource service desk, corporate human resources coordinator, human resource reporting coordinator, hr department coordinator, hr solutions coordinator, human resource operations coordinator, human resource office coordinator, hr-coordinator, human service coordinator, hr outsourcing coordinator, human resource solutions coordinator, human resource support coordinator, personnel and hr department coordinator, hr co-coordinator, personnel coordinator, human resource coordinator, coordinator, human resources, co-ordinator - hr operations, hr - coordinator, hr support coordinator, human resource personnel coordinator, recruiting and hr coordinator, hr coordinating manager, human resources development coordinator, human resources file coordinator, human resources services coordinator, human resources solutions coordinator, human resources events coordinator, human resources operations coordinator, human resources co-ordinator, human resources corporate coordinator, human resources ops coordinator, coordinator human resources, coordinator human resource, coordinator of human resources, hr operations coordinator",
+          "RelatedSkills": [
+            {
+              "Skill": "peer appraisal",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "human capital management",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "human resource development",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "employee engagement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "employee scheduling",
+              "ProficiencyLevel": "Moderate"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "London",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "April 2014 - May 2017",
+        "FormattedJobPeriod": "04/2014 to 05/2017",
+        "StartDate": "01/04/2014",
+        "EndDate": "31/05/2017",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "In my role at Amazon, I coordinated various HR activities, including recruitment, onboarding, and employee engagement programs. I assisted in the development and implementation of HR policies and procedures, ensuring they were communicated effectively to all employees. My responsibilities included maintaining employee records, preparing reports on HR metrics, and supporting the HR team in various administrative tasks. I played a key role in enhancing the employee experience through well-organized and efficient HR practices.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Google",
+    "JobProfile": "HR Specialist",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "124",
+      "TotalExperienceInYear": "10.4",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "62",
+    "LongestStay": "86",
+    "Summary": "With over 7 years of experience as an HR Specialist, I have developed extensive skills in employee relations, recruitment, and training. My background in human resources has equipped me with a deep understanding of HR policies, procedures, and best practices.",
+    "ExecutiveSummary": "Charlotte has an experience in the domain of 'Finance and Insurance', particularly in the sub-domain of 'Human Resources Specialists. 'The candidate has a total experience of 7 YearsThe candidate has been working as a HR Specialist at Google for the last 7.2 years. ",
+    "ManagementSummary": "Currently, Charlotte holds a Low Management Level position, as HR Coordinator at Amazon. from 01/04/2014 to 31/05/2017. The candidate has a total experience of 3.2 years in this company.\n\n",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "Available upon request",
+    "CustomFields": "Parsing Time : 545ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Charlotte Edwards\nManchester, UK\ncharlotte.edwards@email.com\t,+44 963 258 7410\t,LinkedIn : linkedin.com/in/charlotteedwards\n\nProfessional Summary\nWith over 7 years of experience as an HR Specialist, I have developed extensive skills in employee relations, recruitment, and training. My background in human resources has equipped me with a deep understanding of HR policies, procedures, and best practices.\n\nProfessional Experience\nHR Specialist\nGoogle, London, UK\nJune 2017 - Present\nAt Google, I was responsible for managing employee relations, conducting recruitment drives, and coordinating training programs. I provided guidance on HR policies and procedures, ensuring compliance with legal and organizational standards. My role involved developing and implementing HR strategies that supported business objectives and fostered a positive work environment. I also managed performance appraisals and worked closely with managers to address employee concerns and improve workplace satisfaction.\nHR Coordinator\nAmazon, London, UK\nApril 2014 - May 2017\nIn my role at Amazon, I coordinated various HR activities, including recruitment, onboarding, and employee engagement programs. I assisted in the development and implementation of HR policies and procedures, ensuring they were communicated effectively to all employees. My responsibilities included maintaining employee records, preparing reports on HR metrics, and supporting the HR team in various administrative tasks. I played a key role in enhancing the employee experience through well-organized and efficient HR practices.\n\nEducation\nBachelor of Arts in Human Resource Management\nUniversity of Leeds, Leeds, UK\nGraduated : 2014\n\nCertifications\nCertified Human Resource Professional (CHRP) \nProfessional in Human Resources (PHR) \n\nSkills\nEmployee Relations\nRecruitment and Onboarding\nTraining and Development\nHR Policies and Procedures\nPerformance Management\nHR Metrics and Reporting\n\nPersonal Attributes\nStrong Communicator\nEmpathetic Listener\nDetail-Oriented\nTeam Player\n\nReferences\nAvailable upon request\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Charlotte Edwards</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">charlotte.edwards@email.com | +44 963 258 7410 | LinkedIn: linkedin.com/in/charlotteedwards</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">With over 7 years of experience as an HR Specialist, I have developed extensive skills in employee relations, recruitment, and training. My background in human resources has equipped me with a deep understanding of HR policies, procedures, and best practices.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HR Specialist</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Google, London, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">June 2017 - Present</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At Google, I was responsible for managing employee relations, conducting recruitment drives, and coordinating training programs. I provided guidance on HR policies and procedures, ensuring compliance with legal and organizational standards. My role involved developing and implementing HR strategies that supported business objectives and fostered a positive work environment. I also managed performance appraisals and worked closely with managers to address employee concerns and improve workplace satisfaction.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HR Coordinator</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Amazon, London, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">April 2014 - May 2017</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">In my role at Amazon, I coordinated various HR activities, including recruitment, onboarding, and employee engagement programs. I assisted in the development and implementation of HR policies and procedures, ensuring they were communicated effectively to all employees. My responsibilities included maintaining employee records, preparing reports on HR metrics, and supporting the HR team in various administrative tasks. I played a key role in enhancing the employee experience through well-organized and efficient HR practices.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Bachelor of Arts in Human Resource Management</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">University of Leeds, Leeds, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Graduated: 2014</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Certified Human Resource Professional (CHRP) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Professional in Human Resources (PHR) </span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Employee Relations</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Recruitment and Onboarding</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Training and Development</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">HR Policies and Procedures</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Performance Management</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">HR Metrics and Reporting</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Personal Attributes</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strong Communicator</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Empathetic Listener</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Detail-Oriented</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Team Player</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">References</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Available upon request</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

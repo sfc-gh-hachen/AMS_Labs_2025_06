@@ -1,0 +1,749 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Jack Herring.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:43:11",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Jack Herring",
+      "TitleName": "",
+      "FirstName": "Jack",
+      "MiddleName": "",
+      "LastName": "Herring",
+      "FormattedName": "Jack Herring",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "jack.Herring@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123123456",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 123456",
+        "FormattedNumber": "+44 7123 123456",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "",
+        "Url": ""
+      }
+    ],
+    "Address": [
+      {
+        "Street": "34 Elm Street",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M45JD",
+        "FormattedAddress": "34 Elm Street, Manchester, England, M45JD, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Wholesale Trade",
+    "SubCategory": "Sales and Related Occupations",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Manchester High School \r GCSEs : Mathematics (B) , English (C) , Science (C) \r Completed : 2020",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "Manchester High School",
+          "Type": "School",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 10
+        },
+        "Degree": {
+          "DegreeName": "GCSEs : Mathematics B English C Science",
+          "NormalizeDegree": "",
+          "Specialization": [
+            "Mathematics",
+            "English",
+            "Science"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2020",
+        "StartDate": "",
+        "EndDate": "31/12/2020",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "First Aid Certification - Completed : 2021 \r Health and Safety Training - Completed : 2020 \r  \r  \r  \r Reading : Avid reader of mystery and thriller novels.",
+    "SegregatedCertification": [],
+    "SkillBlock": "Customer Service : Strong ability to provide friendly and efficient service to customers. \r Cash Handling : Proficient in handling cash and card transactions accurately. \r Inventory Management : Experienced in managing inventory and ensuring stock levels are maintained. \r Teamwork : Ability to work collaboratively with colleagues to achieve common goals. \r Communication : Excellent verbal communication skills, with the ability to interact effectively with customers and team members. \r Attention to Detail : Meticulous in maintaining cleanliness and organization in the workplace. \r Multitasking : Capable of handling multiple tasks efficiently in a fast-paced environment.",
+    "SkillKeywords": "Multitasking,Assisted,Ability To Interact Effectively,Verbal Communication Skills,Attention To Detail,Ability To Handle,Strong Work Ethic,Communication,Meticulous,Friendly,Teamwork,Focused,Health and Safety Training,Customer Service Skills,Maintained Cleanliness,Inventory Management,Assisting Customers,Managing Inventory,Training New Staff,Cash Handling,Stock Shelves,Handle Cash,First Aid,Elm",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Multitasking",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>multitasking",
+        "Alias": "multitasking skills, able to multitask, multi tasker, multitasking abilities, carry out multitasking, multi-task, multi tasks, ability to work on multiple tasks, multi-tasker, capable of multi-tasking, capable of multitasking, deal with several tasks at once, multitasking coordination, multi task, ability to multi task, ability to multitask, ability to multi-task, multi tasking, multi-tasking, multi tasking skills, ability to manage multiple tasks, multi-tasking skills, perform multitasking activities, perform multi tasks at the same time, perform multiple tasks at the same time",
+        "FormattedName": "multitasking",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "Information>Computer User Support Specialists>software technical support",
+        "Alias": "telephony support, aid customers, computer support, system support, website support services, support-system, support teams, technical assistance, it & technology support, customer assistance, telephone support, hardware-support, cell phone support, customer support services, customer support, assist a customer, assisting customers, website-support, 2nd line support, functional it support, on-going assistance, ongoing support, network support, phone support, telephony-support, answering technical query, support-teams, providing technical support, call support, web-site-support, consumer support, system-support, providing it support, customer service support, customers support, online support, software-tech-support, supportability software, end user customer support, ongoing assistance, software-tech support, support helpdesk, assists the client, technology-assistance, second line-support, ongoing software support, helpdesk support, development support, software tech support, 1st line helpdesk, computer-assistance, computer assistance, functional it-support, customers assistance, assisted consumer, information support, support handling, assisting in developing, client support, software support, software supportability, software support services, support customers, 2nd line technical support, systems support, technical support, technical support and diagnosis, technical support mgmt, technical support management, handling support, enduser customer support, customer-assistance, team support, provide technical support, provide technical floor support, customer-support, technology assistance, supports clients, development-support, end user support, user support, help technical team with code fixes, functional support, it hardware support, technical and procedural assistance, technical-assistance, helpdesk-support, support with customer, general support-system, support the development, computer-support, second line support, support system, hardware support services, hardware support it, hardware support, software-supportability, software-support, systems-support, general support system, ongoing support and maintenance, computer telephony support, supporting the development, facilitate customers, website support, support software",
+        "FormattedName": "software technical support",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2021",
+        "ExperienceInMonths": 27
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Ability To Interact Effectively",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Verbal Communication Skills",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>verbal communication",
+        "Alias": "verbal skills, communicate spoken instructions, give instructions utilising verbal communication, provide instructions through verbal communication, communicate verbally, communicate verbal instructions, communicate instructions verbally, communicate instructions orally, oral communications, oral communication, oral communications skills, oral communication skills, verbal communication skills, verbal communications, verbal communication abilities, convey instructions verbally, verbal-communication, convey verbal instructions",
+        "FormattedName": "verbal communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Attention To Detail",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>attention to detail",
+        "Alias": "detail-oriented tasks, attention to details, attention for details, detail-minded, attention to-detail, detail oriented, meticulous, attending to details, detail-orientated, highly detail oriented, eye for details, pay attention to detail, highly detail-oriented, detail focused, paying close attention to detail, detailed-oriented, attention-to-detail, pays attention to detail, pays attention to details, detail minded, acute attention to detail, detail orientated, attention to the details, detail-orientation, detail driven, attentive to details, attentive to detail, a good eye for detail and high level of accuracy, detailed oriented, attend to detail, attend to details, detail orientation, detail-oriented, high attention to detail, attentiveness to details, attentiveness to detail, organized and detail oriented, eye for detail",
+        "FormattedName": "attention to detail",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Ability To Handle",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>ability to handle",
+        "Alias": "ability-to-handle, ability to-handle",
+        "FormattedName": "ability to handle",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strong Work Ethic",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>work ethic",
+        "Alias": "work ethics, positive work ethic, job ethic, strong work ethic",
+        "FormattedName": "work ethic",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Communication",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>communication",
+        "Alias": "communicative skills, communications skills, excellent communication, excellent communication skills, communicational skills, communicating skill, communicate effectively, communicate effectively with guests, communicate, communications, communicating with persons outside, communicaitons, ability to interact effectively, communication skills, communication skill, communication skills with public, ability to effectively communicate, communicational, good communication, communicating effectively, able to communicate, communication abilities, strong communicator, ability to communicate, ability to communication, communicating",
+        "FormattedName": "communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Meticulous",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>attention to detail",
+        "Alias": "detail-oriented tasks, attention to details, attention for details, detail-minded, attention to-detail, detail oriented, meticulous, attending to details, detail-orientated, highly detail oriented, eye for details, pay attention to detail, highly detail-oriented, detail focused, paying close attention to detail, detailed-oriented, attention-to-detail, pays attention to detail, pays attention to details, detail minded, acute attention to detail, detail orientated, attention to the details, detail-orientation, detail driven, attentive to details, attentive to detail, a good eye for detail and high level of accuracy, detailed oriented, attend to detail, attend to details, detail orientation, detail-oriented, high attention to detail, attentiveness to details, attentiveness to detail, organized and detail oriented, eye for detail",
+        "FormattedName": "attention to detail",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Friendly",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>friendliness",
+        "Alias": "friendly personality, friendly demeanor, frank, friendly",
+        "FormattedName": "friendliness",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 42
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Teamwork",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>teamwork",
+        "Alias": "able to work in teams, works well in a team, cross-team collaboration, team work, cross team collaboration, work with the client, fostering a collaborative environment, working well with others, crossteam collaboration, able to work well in a team, team-oriented, collaboratively with the members of the team, ability to work with all levels of staff, ability to work effectively in team environment, ability to work with a team, ability to work as a team, ability to work in a team, ability to work in teams, ability to work as part of a team, ability to work well with others, ability to work with teams, team-collaboration, team work oriented, work with the operations teams, team collaboration, work in teams, team-orientation, works well with others, works well with a team, works well with people, team orientation, working with clients, works well in groups, collaborated with other staff members, working with people, team-focused, collaborating with teams, foster collaboration, work with others, working in teams, team work skills, work as a team, cross-team communication, group collaboration, working with others, team working, works effectively with a team, teamworking, teamwork skills, work with people, team spirit, cross - team communication, enjoy working with people, ability of working in team, effective teamwork, cross - team collaboration, collaborate with team members, team oriented, assist other team members, committed to work as a collaborative and positive team member, team-orientated",
+        "FormattedName": "teamwork",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Focused",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>focused",
+        "Alias": "avoid procrastination, avoid distractions and procrastination, concentrating on a task",
+        "FormattedName": "focused",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Health and Safety Training",
+        "Ontology": "Finance and Insurance>Training and Development Specialists>workplace safety training",
+        "Alias": "train workforce on safe work practices, health and safety training, conducting hse training, hse training",
+        "FormattedName": "workplace safety training",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Customer Service Skills",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Customer Service Representatives>customer service",
+        "Alias": "client care, client servicing, web customer service, client-services, it customer service, customer-friendly, telephone-customer-service, telephone customer service, customer care-services, customer care skills, customer-care services, servicing corporate clients, assistance to customers, friendly approach to clients, client-friendly, customer dealing, client-servicing, customer-care- services, customer service processes, customer service skills, customer services, computer-customer-service, it-customer-service, customer care, customer advice, client friendly, clients servicing, general-customer-service, retail-customer service, client-care, client service, giving our customers the best service, customer servicing, customer friendly, retail customer service, general-computer-customer-service, client care-services, customer-service, help customers, customer solutions, consumer services, service client general, online customer service, client services, advise clients, client service skills, general customer service, customer care services, general computer customer service, on line support to customers, computer customer service",
+        "FormattedName": "customer service",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/08/2019",
+        "ExperienceInMonths": 3
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maintained Cleanliness",
+        "Ontology": "Construction>First-Line Supervisors of Housekeeping and Janitorial Workers>manage cleaning activities",
+        "Alias": "cleaning management, manage cleanliness activities, maintained cleanliness, manage a cleaning activities, coordinate cleaning duties",
+        "FormattedName": "manage cleaning activities",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/08/2019",
+        "ExperienceInMonths": 3
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Inventory Management",
+        "Ontology": "Management of Companies and Enterprises>Purchasing Managers>inventory management",
+        "Alias": "managing an inventory, handling inventories, data management inventory, client stock management, stock option management, inventory investment, inventory processing, manage inventories, inventory management operations, inventory mgmt., maintain inventory, stock information management, managing stock, item management, maintaining equipment inventories, manage the items, inventory-management, physical stock management, backstock management, managing inventory, inventory handling, maintaining an inventory, implement stock management, stocks management, field inventory management, field inventory mgmt, inventory data management, managing stock levels, handle inventory, stationery inventory management, stationery inventory mgmt, maintain stock levels, management of stock, it inventory management, stock-management, inventory business management, stock rotation management, manage stock, retail stock management, manage the inventory, inventorying, physical-inventory management, physical-inventory-management, physical inventory mgmt, physical inventory management, inventory stock management, regulate inventory, inventory quality management, operations management inventory, maintaining inventory, inventory order management, inventor management, oversee inventory, managing the stock, management of inventory, processing inventory, stock mgmt., inventory keeping, logistics inventory management, logistics inventory mgmt, management inventory, inventory mgmt, inventory maintenance, online inventory management, production and inventory mgmt, production and inventory management, manage inventory operations, manage inventory, monitoring inventory of supplies, manage an inventory, inventory operations, manage store inventory, stock management, inventory skills, supply chain networking and inventory, product inventory, stock maintenance, ordering inventory, supervise inventory",
+        "FormattedName": "inventory management",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 45
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Assisting Customers",
+        "Ontology": "Information>Computer User Support Specialists>software technical support",
+        "Alias": "telephony support, aid customers, computer support, system support, website support services, support-system, support teams, technical assistance, it & technology support, customer assistance, telephone support, hardware-support, cell phone support, customer support services, customer support, assist a customer, assisting customers, website-support, 2nd line support, functional it support, on-going assistance, ongoing support, network support, phone support, telephony-support, answering technical query, support-teams, providing technical support, call support, web-site-support, consumer support, system-support, providing it support, customer service support, customers support, online support, software-tech-support, supportability software, end user customer support, ongoing assistance, software-tech support, support helpdesk, assists the client, technology-assistance, second line-support, ongoing software support, helpdesk support, development support, software tech support, 1st line helpdesk, computer-assistance, computer assistance, functional it-support, customers assistance, assisted consumer, information support, support handling, assisting in developing, client support, software support, software supportability, software support services, support customers, 2nd line technical support, systems support, technical support, technical support and diagnosis, technical support mgmt, technical support management, handling support, enduser customer support, customer-assistance, team support, provide technical support, provide technical floor support, customer-support, technology assistance, supports clients, development-support, end user support, user support, help technical team with code fixes, functional support, it hardware support, technical and procedural assistance, technical-assistance, helpdesk-support, support with customer, general support-system, support the development, computer-support, second line support, support system, hardware support services, hardware support it, hardware support, software-supportability, software-support, systems-support, general support system, ongoing support and maintenance, computer telephony support, supporting the development, facilitate customers, website support, support software",
+        "FormattedName": "software technical support",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 42
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Managing Inventory",
+        "Ontology": "Management of Companies and Enterprises>Purchasing Managers>inventory management",
+        "Alias": "managing an inventory, handling inventories, data management inventory, client stock management, stock option management, inventory investment, inventory processing, manage inventories, inventory management operations, inventory mgmt., maintain inventory, stock information management, managing stock, item management, maintaining equipment inventories, manage the items, inventory-management, physical stock management, backstock management, managing inventory, inventory handling, maintaining an inventory, implement stock management, stocks management, field inventory management, field inventory mgmt, inventory data management, managing stock levels, handle inventory, stationery inventory management, stationery inventory mgmt, maintain stock levels, management of stock, it inventory management, stock-management, inventory business management, stock rotation management, manage stock, retail stock management, manage the inventory, inventorying, physical-inventory management, physical-inventory-management, physical inventory mgmt, physical inventory management, inventory stock management, regulate inventory, inventory quality management, operations management inventory, maintaining inventory, inventory order management, inventor management, oversee inventory, managing the stock, management of inventory, processing inventory, stock mgmt., inventory keeping, logistics inventory management, logistics inventory mgmt, management inventory, inventory mgmt, inventory maintenance, online inventory management, production and inventory mgmt, production and inventory management, manage inventory operations, manage inventory, monitoring inventory of supplies, manage an inventory, inventory operations, manage store inventory, stock management, inventory skills, supply chain networking and inventory, product inventory, stock maintenance, ordering inventory, supervise inventory",
+        "FormattedName": "inventory management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Training New Staff",
+        "Ontology": "Finance and Insurance>Training and Development Specialists>staff training",
+        "Alias": "train newly hired staff, train new employees, employee training, training of employees, trained new staff members, training new staff, training of staff, trained staff, staff -training, train staff, training for employees, training personnel, provide training for staff, people training, coordinate staff training",
+        "FormattedName": "staff training",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2021",
+        "ExperienceInMonths": 24
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Cash Handling",
+        "Ontology": "Wholesale Trade>Cashiers>cash handling",
+        "Alias": "cash-handling, handling of money, handle cash, handling money, control of petty cash, monetary handling, cash - handling, money handling",
+        "FormattedName": "cash handling",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Stock Shelves",
+        "Ontology": "Wholesale Trade>Supervisors of Sales and retail sales Workers>stocking shelves",
+        "Alias": "restocking shelves, fill a shelf, top up shelves, stock a shelf, refill shelves, fill shelves, shelf stocking, stock shelves",
+        "FormattedName": "stocking shelves",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 42
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Handle Cash",
+        "Ontology": "Wholesale Trade>Cashiers>cash handling",
+        "Alias": "cash-handling, handling of money, handle cash, handling money, control of petty cash, monetary handling, cash - handling, money handling",
+        "FormattedName": "cash handling",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 42
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "First Aid",
+        "Ontology": "Health Care and Social Assistance>Health Diagnosing and Treating Practitioners>first aid",
+        "Alias": "first aid techniques, first aid-training, emergency assistance, first aid training, first aid treatment",
+        "FormattedName": "first aid",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Elm",
+        "Ontology": "Information>Software Developers and Programmers>elm",
+        "Alias": "elm framework, elm programming language, elm 0.19.1",
+        "FormattedName": "elm",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "Shell Petrol Station \r Sales Assistant \r Manchester, UK \r 2021 - Present \r Provide excellent customer service, assisting customers with fuel purchases and other store transactions. \r Handle cash and card transactions accurately and efficiently. \r Stock shelves and ensure the store is clean and organized. \r Monitor fuel pumps and ensure safety protocols are followed. \r Assist with inventory management and ordering of supplies. \r Key Achievements :  \r Consistently received positive feedback from customers for friendly and efficient service. \r Implemented a new system for inventory management that reduced stock shortages by 15%. \r Tesco Express \r Customer Service Assistant \r Manchester, UK \r 2020 - 2021 \r Assisted customers with purchases, returns, and inquiries. \r Operated cash registers and handled transactions accurately. \r Restocked shelves and maintained store cleanliness. \r Provided support to team members during busy periods. \r Key Achievements :  \r Recognized as Employee of the Month for exceptional customer service. \r Assisted in training new staff members, improving overall team efficiency. \r Summer Job : Local Cafe \r Barista and Cashier \r Manchester, UK \r Summer 2019 \r Prepared and served coffee and other beverages to customers. \r Handled cash and card transactions. \r Maintained cleanliness and organization of the cafe. \r Assisted with inventory management and restocking supplies. \r Key Achievements :  \r Developed strong customer service skills and received positive feedback from customers. \r Improved efficiency of service during peak hours by implementing a new workflow system.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Shell Petrol Station",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Sales Assistant",
+          "FormattedName": "sales assistant",
+          "Alias": "production and sales assistant, sales support assistant, sales department assistant, sales service assistant, sales asst, sell assistant, sales phone assistant, sale and support assistant, sales representative assistant, asst. sales, sales-assistant, retail and sale assistant, sales attendant, office and sales assistant, temporary sales assistant, asst sales, asst of sales, assistant of the sales, sales and service assistant, summer sale assistant, assistant dealer, summer sales assistant, assistant-dealer, after-sales service assistant, sales- attendant, sales operations assistant, assistant sales, assistant in sales department, versatile sales assistant, sales services assistant, assistant of sales, assistant of sales department",
+          "RelatedSkills": [
+            {
+              "Skill": "sales operations",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "social selling",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sales decision process",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "sales�territory mapping",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain store cleanliness",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "carry out active selling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "stocking shelves",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2021 - till",
+        "FormattedJobPeriod": "2021 to till",
+        "StartDate": "01/01/2021",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Provide excellent customer service, assisting customers with fuel purchases and other store transactions. \n Handle cash and card transactions accurately and efficiently. \n Stock shelves and ensure the store is clean and organized. \n Monitor fuel pumps and ensure safety protocols are followed. \n Assist with inventory management and ordering of supplies. \n Key Achievements : \n Consistently received positive feedback from customers for friendly and efficient service. \n Implemented a new system for inventory management that reduced stock shortages by 15%.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Tesco Express",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Customer Service Assistant",
+          "FormattedName": "customer service assistant",
+          "Alias": "client assistant, assistant in charge of customer, customer assistant, client service assistant, assistant customer, assistant customer services, assistant customer service, assistant customer support, customer support assistant, assistant consumer, asst of customer service, customers services assistant, customer attendant, customer response assistant, customer base assistant, customer operations assistant, viewer service assistant, assistant of customer service, assistant of customer service department, customer services assistant, customer service operations assistant, customer service center employee, customer service administrative assistant, customer service administrative asst, customer service attendant, customer service and support assistant, customer service asst, customer management assistant, customer relation asst, consumer assistant, track service assistant, customer care asst, customer care assistant, asst. customer services, asst. customer service, assistant csr, csa customer service assistant, consumer aide, customer-service- attendant, customer-service- assistant, customer-service-assistant, customer-service-attendant, customer care administrative assistant, client services assistant, client services attendant, client services operations assistant, client services executive assistant, assistant service, assistant services, customers attendant, client attendant, external service assistant, assistant client servicing, assistant client services, customer experience assistant, assistant for client services, administrative assistant customer service",
+          "RelatedSkills": [
+            {
+              "Skill": "impact assessment",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "field force tracker",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "slack software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "pageplus",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "salesforce marketing cloud",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "visionflow software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "determine customer needs",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer implementation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer success software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "zendesk software",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "mobile outdoor advertising",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "global information system",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "call screening",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "answer incoming calls",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "call handling",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "service desk ticketing system",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "help desk migration",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer handling",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2020 - 2021",
+        "FormattedJobPeriod": "2020 to 2021",
+        "StartDate": "01/01/2020",
+        "EndDate": "31/12/2021",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Assisted customers with purchases, returns, and inquiries. \n Operated cash registers and handled transactions accurately. \n Restocked shelves and maintained store cleanliness. \n Provided support to team members during busy periods. \n Key Achievements : \n Recognized as Employee of the Month for exceptional customer service. \n Assisted in training new staff members, improving overall team efficiency. \n Summer Job : Local Cafe",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "Tesco Express",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Barista and Cashier",
+          "FormattedName": "cashier",
+          "Alias": "cash service rep, cash operator, cashier administrative, cash register servicer, accounting cashier, cashier finance department, cash register operator, accounts cashier, accounting-cashier, cash rep, service cashier, administrative cashier, service counter cashier, field cashier, cash teller",
+          "RelatedSkills": [
+            {
+              "Skill": "cash collection",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "payment gateway",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "payment service provider",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "payment depot",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "cash control",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "cash accountability",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "math skills",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "monitor cashiers",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "counting money",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "maintain transactions reports",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "cash flow analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "customer service operations",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "cash flow statement",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "cash management",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "cashier balancing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "cash flow management",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "imprest system",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "anytime collect",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "cash positioning",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "check cashing",
+              "ProficiencyLevel": "Native"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "Summer 2019",
+        "FormattedJobPeriod": "06/2019 to 08/2019",
+        "StartDate": "01/06/2019",
+        "EndDate": "31/08/2019",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Prepared and served coffee and other beverages to customers. \n Handled cash and card transactions. \n Maintained cleanliness and organization of the cafe. \n Assisted with inventory management and restocking supplies. \n Key Achievements : \n Developed strong customer service skills and received positive feedback from customers. \n Improved efficiency of service during peak hours by implementing a new workflow system.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Shell Petrol Station",
+    "JobProfile": "Sales Assistant",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "58",
+      "TotalExperienceInYear": "4.10",
+      "TotalExperienceRange": "3-5 YEAR"
+    },
+    "GapPeriod": "9/2019 To 12/2019",
+    "AverageStay": "19",
+    "LongestStay": "31",
+    "Summary": "Reliable and customer-focused individual with 4 years of experience working in a petrol station. Skilled in customer service, cash handling, and maintaining a clean and organized work environment. Known for strong work ethic, attention to detail, and ability to handle multiple tasks efficiently.",
+    "ExecutiveSummary": "Jack has an experience in the domain of 'Wholesale Trade', particularly in the sub-domain of 'Sales and Related Occupations. 'The candidate has a total experience of 4 YearsThe candidate has been working as a Sales Assistant at Shell Petrol Station for the last 3.7 years. ",
+    "ManagementSummary": "Jack doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "Sports : Enjoy playing football and basketball in my free time.",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 614ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Jack Herring\nContact Information : \nAddress : 34 Elm Street, Manchester, M4 5JD, England\nEmail : jack.Herring@email.com\nPhone : +44 7123 123456\n\nProfessional Summary : \nReliable and customer-focused individual with 4 years of experience working in a petrol station. Skilled in customer service, cash handling, and maintaining a clean and organized work environment. Known for strong work ethic, attention to detail, and ability to handle multiple tasks efficiently.\n\nEducation : \nManchester High School\nGCSEs : Mathematics (B) , English (C) , Science (C) \nCompleted : 2020\n\nProfessional Experience : \nShell Petrol Station\nSales Assistant\nManchester, UK\n2021 - Present\nProvide excellent customer service, assisting customers with fuel purchases and other store transactions.\nHandle cash and card transactions accurately and efficiently.\nStock shelves and ensure the store is clean and organized.\nMonitor fuel pumps and ensure safety protocols are followed.\nAssist with inventory management and ordering of supplies.\nKey Achievements : \nConsistently received positive feedback from customers for friendly and efficient service.\nImplemented a new system for inventory management that reduced stock shortages by 15%.\nTesco Express\nCustomer Service Assistant\nManchester, UK\n2020 - 2021\nAssisted customers with purchases, returns, and inquiries.\nOperated cash registers and handled transactions accurately.\nRestocked shelves and maintained store cleanliness.\nProvided support to team members during busy periods.\nKey Achievements : \nRecognized as Employee of the Month for exceptional customer service.\nAssisted in training new staff members, improving overall team efficiency.\nSummer Job : Local Cafe\nBarista and Cashier\nManchester, UK\nSummer 2019\nPrepared and served coffee and other beverages to customers.\nHandled cash and card transactions.\nMaintained cleanliness and organization of the cafe.\nAssisted with inventory management and restocking supplies.\nKey Achievements : \nDeveloped strong customer service skills and received positive feedback from customers.\nImproved efficiency of service during peak hours by implementing a new workflow system.\n\nSkills : \nCustomer Service : Strong ability to provide friendly and efficient service to customers.\nCash Handling : Proficient in handling cash and card transactions accurately.\nInventory Management : Experienced in managing inventory and ensuring stock levels are maintained.\nTeamwork : Ability to work collaboratively with colleagues to achieve common goals.\nCommunication : Excellent verbal communication skills, with the ability to interact effectively with customers and team members.\nAttention to Detail : Meticulous in maintaining cleanliness and organization in the workplace.\nMultitasking : Capable of handling multiple tasks efficiently in a fast-paced environment.\n\nCertifications : \nFirst Aid Certification - Completed : 2021\nHealth and Safety Training - Completed : 2020\n\nInterests : \nSports : Enjoy playing football and basketball in my free time.\nReading : Avid reader of mystery and thriller novels.\nVolunteering : Actively volunteer at local community events and charities.\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:13.5pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Jack Herring</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 34 Elm Street, Manchester, M4 5JD, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> jack.Herring@email.com</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 123456</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Reliable and customer-focused individual with 4 years of experience working in a petrol station. Skilled in customer service, cash handling, and maintaining a clean and organized work environment. Known for strong work ethic, attention to detail, and ability to handle multiple tasks efficiently.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Manchester High School</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">GCSEs: Mathematics (B) , English (C) , Science (C) </span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Completed: 2020</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Shell Petrol Station</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Sales Assistant</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2021 - Present</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Provide excellent customer service, assisting customers with fuel purchases and other store transactions.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Handle cash and card transactions accurately and efficiently.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Stock shelves and ensure the store is clean and organized.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Monitor fuel pumps and ensure safety protocols are followed.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assist with inventory management and ordering of supplies.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Consistently received positive feedback from customers for friendly and efficient service.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Implemented a new system for inventory management that reduced stock shortages by 15%.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Tesco Express</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Customer Service Assistant</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2020 - 2021</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted customers with purchases, returns, and inquiries.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Operated cash registers and handled transactions accurately.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Restocked shelves and maintained store cleanliness.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Provided support to team members during busy periods.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Recognized as Employee of the Month for exceptional customer service.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted in training new staff members, improving overall team efficiency.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Summer Job: Local Cafe</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Barista and Cashier</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Summer 2019</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Prepared and served coffee and other beverages to customers.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Handled cash and card transactions.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Maintained cleanliness and organization of the cafe.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted with inventory management and restocking supplies.</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Key Achievements:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed strong customer service skills and received positive feedback from customers.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Improved efficiency of service during peak hours by implementing a new workflow system.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Customer Service:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong ability to provide friendly and efficient service to customers.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Cash Handling:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Proficient in handling cash and card transactions accurately.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Inventory Management:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Experienced in managing inventory and ensuring stock levels are maintained.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Teamwork:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Ability to work collaboratively with colleagues to achieve common goals.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Communication:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Excellent verbal communication skills, with the ability to interact effectively with customers and team members.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Attention to Detail:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Meticulous in maintaining cleanliness and organization in the workplace.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Multitasking:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Capable of handling multiple tasks efficiently in a fast-paced environment.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">First Aid Certification</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> - Completed: 2021</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Health and Safety Training</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> - Completed: 2020</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Interests:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Sports:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Enjoy playing football and basketball in my free time.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Reading:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Avid reader of mystery and thriller novels.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Volunteering:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Actively volunteer at local community events and charities.</span></li></ul><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

@@ -1,0 +1,894 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "Maria Silva.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "15/07/2024 11:15:44",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "Maria Silva",
+      "TitleName": "",
+      "FirstName": "Maria",
+      "MiddleName": "",
+      "LastName": "Silva",
+      "FormattedName": "Maria Silva",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "maria.silva@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+441234543210",
+        "ISDCode": "+44",
+        "OriginalNumber": "1234 543210",
+        "FormattedNumber": "+44 1234 543210",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/mariasilva"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "",
+        "City": "Manchester",
+        "State": "",
+        "StateIsoCode": "",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "",
+        "FormattedAddress": "Manchester, UK",
+        "Type": "Present",
+        "ConfidenceScore": 7
+      }
+    ],
+    "Category": "Information",
+    "SubCategory": "Data Processing, Hosting, and Related Services",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Bachelor of Science in Information Technology \r University of Salford \r Graduated : 2017",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "University of Salford",
+          "Type": "University",
+          "ConfidenceScore": 10,
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          }
+        },
+        "Degree": {
+          "DegreeName": "Bachelor of Science in Information Technology",
+          "NormalizeDegree": "Bachelor of Science",
+          "Specialization": [
+            "Information Technology"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2017",
+        "StartDate": "",
+        "EndDate": "31/12/2017",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "Microsoft Certified : Data Analyst Associate \r Google Data Analytics Professional Certificate",
+    "SegregatedCertification": [],
+    "SkillBlock": "Data analysis (Excel, SQL, Tableau) \r Report generation \r Process improvement \r Strong analytical and problem-solving skills \r Effective communication \r Detail-oriented and organized",
+    "SkillKeywords": "Effective Communication,Strategic Planning,Analytical Skills,Analysis,Strategic Business Initiatives,Business Operations,Business Strategies,Process Improvement,Financial Services,Data Requirements,Develop Solutions,Report Generation,Senior Management,Data Collection,Data Management,Data Validation,Processing Data,Data Analytics,Preparing Data,Data Analysis,Data Models,Tableau,Google,Excel,SQL",
+    "SegregatedSkill": [
+      {
+        "Type": "SoftSkill",
+        "Skill": "Effective Communication",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>effective communication",
+        "Alias": "able to convey information, able to convey information clearly, clear & concise communication, excellent communicator, communicated effectively, clear and concise communication, develop strong communication, effective-communication, developing effective communication, great communicators, effective communication is paramount, effective communicator, effective communication skills, communicating with supervisors, communicated regularly, able to communicate effectively, develop effective communication skills",
+        "FormattedName": "effective communication",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Strategic Planning",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>strategic planning",
+        "Alias": "strategic prognosis planning, strategical planning, strategic plan-development, strategy planning, planning strategy, planning strategically, develop-strategic- plans, develop-strategic plans, strategic plans, development of the strategic plan, strategic development plan, strategic-roadmap, strategic-planning, strategic business plan development, strategic business planning, strategic roadmap, strategic roadmaps, develop strategic plans, develop strategic roadmaps, strategic road map, strategic planning process, strategic planning-management, strategic planning and implementation, strategic planning management, strategic planning for growth, strategic planning mgmt, strategic planning development, strategy and planning, developing a strategic plan, development of a strategic plan",
+        "FormattedName": "strategic planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 59
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Analytical Skills",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>analytical skill",
+        "Alias": "logical and analytical skills, analyzing skills, analytical background, analytical abilities, analytical ability, analytic skills, analytical skills, analytical awareness, analytical-and interpretive skills, strong analytical planning, analysing skills, analytical and troubleshooting skill, organizational analytical skills, analytics skills, analytical and interpretive skill, analytical and interpretive skills, analytical and inherent skills, analytical and problem solving skills, analytical and problem-solving, highly analytical",
+        "FormattedName": "analytical skill",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Analysis",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>analysis",
+        "Alias": "examination procedures, examination, examinations, analysing",
+        "FormattedName": "analysis",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "31/07/2019",
+        "ExperienceInMonths": 26
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Strategic Business Initiatives",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>strategic initiatives",
+        "Alias": "strategic business initiatives",
+        "FormattedName": "strategic initiatives",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Operations",
+        "Ontology": "Wholesale Trade>Retail Salespersons>retail business operations",
+        "Alias": "retail business operation, retail business processes, retail business process, business broadband, business operations, business to business operations",
+        "FormattedName": "retail business operations",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 59
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Business Strategies",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>business planning",
+        "Alias": "business-development-planning, planned business process, formulation business plan, business-strategy-concepts, business-strategy, develop plans for business, business plan formulation, business plans management, corporate strategy, corporate strategic planning, business development prospects, business development plans, business development planning, business-blueprinting, business-blueprint, building new business development strategy, business requirements scenario, create business plans, business plan-formulation, drafting business plans, company strategy, business blueprinting, business blueprint, business blueprinting process, business blueprint process, business planning process, business planning & development, business planning operations, business planning and development, formulation of business plan, business scenario, strategic business, business plans, generate business plans, prepare the business plan, business-scenario, develop business plans, develop business plan, develop-business- plans, develop-business plans, corporate planning and analysis, corporate planning, produce business plans, creating business plans, corporate-strategy, execution of business plans, draw up the business plan, developing business plans, develop the business plan, business plan, business-planning, companys strategy, business strategy, business strategy design, business strategy concepts, business strategizing, business strategies, business strategy-concepts, business-plan-formulation, preparing business plan, business process blueprinting, business processes planned, implemented business plan, corporate-planning",
+        "FormattedName": "business planning",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2019",
+        "ExperienceInMonths": 26
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Process Improvement",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>process improvement",
+        "Alias": "improve processes, manage process improvement, improvement of work processes, develop process improvements, develop process improvement, system improvement, system improvement process, system improvements, work process improvement, process operations improvement, system-improvement, improvement of the process, systems improvement, identifying process improvements, improvement analysis, process-improvement, operations process improvement, refining business units, refining business processes, process refinement, operational process improvement, business process refinement, business process improvement, process improvement methodology, process improvement initiation, process improvement implementation, process improvement framework, process improvement workflows, process improvement operations, process improvements, process improvement initiative, process enhancement",
+        "FormattedName": "process improvement",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 85
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Financial Services",
+        "Ontology": "Finance and Insurance>Financial Specialists>financial services",
+        "Alias": "financial-services, financial-services operations, financial-services-operations, banking & finance, banking & financial services, finance related services, finance service, financing operations, banking-services, banking-and-finance, financial services practices, financial service, financial services operations, banking-industry, credit services, banking services, banking and financial services, banking and finance, banking and-finance, financial svcs, finance service provision, finance services, credit-services, financial industry, finance industry knowledge, banking industry",
+        "FormattedName": "financial services",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Requirements",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>data requirements",
+        "Alias": "data-requirement, business data requirement, business data requirements, engineering data requirements, engineering data requirement, engineering-data requirement, engineering-data -requirements, engineering-data -requirement, engineering-data-requirements, engineering-data requirements, engineering-data-requirement, information requirements, information-requirements, data requirement",
+        "FormattedName": "data requirements",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2019",
+        "ExperienceInMonths": 26
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Develop Solutions",
+        "Ontology": "Information>Software Developers and Programmers>solution development",
+        "Alias": "solutions development process, solutions development, development solutions, solution development management, solution development process, solution development framework, develop a solution, develop solutions, develop integrated solutions, developing solutions, developing solution plan, developing solution, develop innovative solutions, develop the solution, solution-development, design and develop solutions, design and develop solution, develop engineering solutions",
+        "FormattedName": "solution development",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 59
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Report Generation",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Clerks, General>report generation",
+        "Alias": "generate report, development of reports, reports development, reports preparation, preparation of reports, report creation, develop custom reports, report development, preparing the reports, preparing the report, develop nightly reports, creating reports, preparing reports, develop a report, develop reports, produce reports, prepare reports, creation of new reports, developing reports, generating training reports, generating reports, generate reports, prepare report, creating new reports, report preparation, generated reports, report-generation",
+        "FormattedName": "report generation",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Senior Management",
+        "Ontology": "Finance and Insurance>Management Analysts>senior management",
+        "Alias": "top-management, front line mgmt, top level management, senior and executive level management, front line management, senior mgmt, senior it management, frontline-management, executive level management, executive management, senior management functions, senior management function, upper management, frontline mgmt, top management system, top mgmt, sr management, exec mgmt, it executive management, top management, senior-management, frontline management",
+        "FormattedName": "senior management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 59
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Collection",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Data Entry and Information Processing Workers>data collection",
+        "Alias": "information collection, manage data collection, compile information, gathers information, compiles information, information compiles, gathers appropriate information, gather information, collect information, gathering information, statistical data collection, collect data, gather data, compilation of data, compiling data, gathering data, collecting data, information gathering, gathering all the relevant facts, gathering process information, gathering technical information, gathering of information, data-collection, data compilation, data gavering, gathered information from multiple sources, analytical data collection, data selection, gather technical information, data gathering, convene data, compile data, data-selection, collect accurate information",
+        "FormattedName": "data collection",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2019",
+        "ExperienceInMonths": 26
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Management",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>data management",
+        "Alias": "data management services, data management skills, data management process, engineering information management, manage data collection systems, manage data collection system, manage the information, management data services, raw data management, manage unstructured data, data organization, data process management, systems data maintenance, information sources management, information sources mgmt, managing information sources, managing data, maintain-data, manage all the information, management business information, manage the data, data organisation, managed the data, managed information, data-management, organisation of data, information mgmt., maintain data, data implementation, data mgmt., manages the data, organizing raw data, management data, information-management, corporate data management, organization of data, data coordination, information management, organizing data, manage information, manage information sources, business information mgmt, business information management, info management",
+        "FormattedName": "data management",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2019",
+        "ExperienceInMonths": 26
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Validation",
+        "Ontology": "Information>Data Processing, Hosting, and Related Services>data validation",
+        "Alias": "finance data validation, validate a data, validating data to correctly identify problems, input-validation, data validation process, data validation operations, data validation testing, data validation processes, data validation software, data validation integration, input validation, validate data, validation of data, master data validation, data-validation",
+        "FormattedName": "data validation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2019",
+        "ExperienceInMonths": 26
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Processing Data",
+        "Ontology": "Information>Data Processing, Hosting, and Related Services>data processing",
+        "Alias": "data-processing-systems, data-processing- system, statistics processing, data process, data-processing, information processing, processing information, processing statistics, process data, data-processing system, data-processing systems, fact processing, processing of information, processing of info, data processing system, data processing operations, data processing systems, processing data, computer data processing, information-processing, processing of data, statistical processing",
+        "FormattedName": "data processing",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 59
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analytics",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Preparing Data",
+        "Ontology": "Information>Data Processing, Hosting, and Related Services>data preparation",
+        "Alias": "pre processing, produce data, data production, generate data, data pre processing, generating data, generation of data, preparation of the data, data pre-processing, preparation of data, data preparation process, data-preprocessing, data-preparation, prepare data, data preprocessing, pre-processing, perform data pre-processing, preparing data, data preparing",
+        "FormattedName": "data preparation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2019",
+        "ExperienceInMonths": 26
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Analysis",
+        "Ontology": "Information>Computer and Information Research Scientists>data analysis",
+        "Alias": "evaluating information, analyse info processes, verify information, information-analytics, data-investigation, data-analysis, technical insights into data, data-analyse, analyze information, analysis of data and compilation, analysis of data, analyse information process, analyse information processes, analyse information, informatics analysis, evaluate information, evaluate information processes, data analytics, information analytics, information analysis, check facts, analyzed data, analyse data, data insights, research analysis, review information, review information processes, massive data analysis, data investigation, analyze relevant information, examine information processes, analysing information processes, evaluation of data, evaluate facts, insights into data, informations-analytics, data evaluation, evaluate important information, analytics data services, informations analytics, analyzing information, data-insights, assess information, analyze data or facts, evaluate info, test analysis data, data analysis-techniques, analyze data, data review, review and analyze data, data analysis process, review data, assess facts, informative analysis, data-analysis techniques, data quality investigation, data analysis test, data analysis techniques, data-review, numerous data analysis, data analysis strategy, analyzing data, data-quality-investigation, info analytics, data-evaluation, data-analysis- techniques, big data insight, technical data analysis, data-quality investigation",
+        "FormattedName": "data analysis",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Data Models",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>data modeling",
+        "Alias": "data modeling techniques, data modelling, data model, analytics modeling, data base modeling, manage data models, salesforce data model, database model, data warehouse modeling, data warehouse model, data warehouse modeling process, data warehouse modelling, information model, information modeling, data base modelling, data modeling methodology, data modeling methodologies, data modeling method, data modeling methods, create-data- models, database modeling, data base model, big data modelling, create-data models, datamodel, design data models, data-modeling, data warehouse-modeling, data modeling process, database models, dw modeling, database-model, design of data models, big data modeling, creating data models, create data models, system information modelling, system information modeling, data-warehouse modeling, data-warehouse- modeling, database modelling, analytics modelling, data warehousing modelling, data models, modelling data manipulation",
+        "FormattedName": "data modeling",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/07/2019",
+        "ExperienceInMonths": 26
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Tableau",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>tableau software",
+        "Alias": "tableau 2019.4, tableau 8.2, tableau 2019.2, tableau 10.2, tableau 2018.2, tableau 2020.3, tableau 10.0, tableau api, tableau 2020.1, tableau server, tableau 8.0, tableau 7, tableau online soft, tableau online software, tableau 2018.3, tableau reader, tableau server soft, tableau server software, tableau version 10.4, tableau version 10.3, tableau version 10.2, tableau analytics, tableau reader 10.5., tableau reader 10.3, tableau reader 10.2, tableau 10.4, tableau 10.3, tableau 10.5, tableau online, tableau cloud, tableau bi tool, tableau business intelligence software, tableau 2020.2, tableau 8.1, tableau 9.3, tableau, tableau 2019.3, tableau 2018.1, server tableau, software tableau, tableau reporting dashboard, tableau reporting, tableau reporting server, tableau reporting tool, tableau reporting solutions, tableau reporting software, tableau 10.1, tableau 8.3, tableau dashboard, tableau-dashboard, tableau cloud software, tableau cloud soft, tableau infrastructure, tableau reader soft., tableau reader software",
+        "FormattedName": "tableau software",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Google",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Excel",
+        "Ontology": "Administrative and Support and Waste Management and Remediation Services>Office Administrative Services>microsoft excel",
+        "Alias": "excel 4, windows excel, platform excel, excel 2000, advanced ms excel, microsoft technology ms excel, excel 2002, microsoft excel 2016, microsoft excel 2004 for mac, microsoft excel 2010, microsoft excel 2007, microsoft excel 2013, microsoft excel spreadsheet software, microsoft excel 2001 for mac, microsoft excel xp, microsoft excel 97 for windows, microsoft excel 2003, microsoft excel 2019, microsoft excel v2.0, microsoft excel 2000, microsoft excel soft., microsoft excel v5.0, microsoft excel software, microsoft excel 2002, ms excel 2004 for mac, ms excel 2003, microsoft software excel, pc software microsoft excel, ms excel 97 for windows, software excel, microsoft .excel, excel 95, excel 2004 for mac, advanced microsoft excel, advanced excel, ms excel 2000, microsoft products ms excel, excel platform, ms excel 2001 for mac, excel xp, ms-excel, excel 3, microsoft office excel, excel, excel 2010, ms excel 2010, ms excel, ms excel 2002, microsoft suite excel, excel skills, excel 2, excel 5, excel 2001 for mac, ms. excel, excel 97, excel software, excel 97 for windows, excel 2003, internet microsoft excel, excel 2016",
+        "FormattedName": "microsoft excel",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 59
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "SQL",
+        "Ontology": "Information>Database and Systems Administrators and Network Architects>sql",
+        "Alias": "sql 2008, structured query language, sql 2003, oracle sql2005, sql-2003, advanced sql, programming language sql, oracle sql programming, sql 2005, sql/400, sql programming, sql coding, database definition language, database sql, ibm sql/400, sql language, oracle sql, databases sql, sql development, sqldb, coding sql, sql databases, sql computer language, sql 2000, ibm sql400, sql database, data definition language, sql400, data dictionary language, programming sql, sql oracle, oql, sql database query language, advanced sql programming, sql programming language, ansi sql, sql queries, data description lang, data description language, object query language, sql2005, microsoft sql programming, structured-query-language",
+        "FormattedName": "sql",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "15/07/2024",
+        "ExperienceInMonths": 59
+      }
+    ],
+    "Experience": "Santander UK \r Data Analyst \r August 2019 - Present \r Manchester, UK \r At Santander, I analyze large datasets to support business decisions and strategic planning. My responsibilities include gathering and processing data using SQL and Excel, generating detailed reports, and presenting insights to senior management. I collaborate with various departments to identify data needs and develop solutions that enhance data accuracy and reporting efficiency. I also contribute to process improvement projects, aiming to streamline data workflows and improve overall business operations. \r HSBC UK \r Junior Data Analyst \r June 2017 - July 2019 \r Manchester, UK \r In my role as a Junior Data Analyst at HSBC, I supported senior analysts in data collection and analysis. My tasks included preparing data reports, conducting data validation, and assisting in the development of data models. I worked closely with stakeholders to ensure data requirements were met and provided actionable insights that informed business strategies. Additionally, I participated in process improvement initiatives to enhance data management processes.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "Santander UK",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Data Analyst",
+          "FormattedName": "data analyst",
+          "Alias": "online database analysis assistant, data process analyst, data support analyst, data - analyst, data report analyst, data systems analyst, analyst of remote data, analyst remote data, analyst - data, data science analyst, analyst-data science, analytical data reviewer, data-analyst, data control analyst, data analytics analyst, remote - information analyst, analyst data, data analytical officer, data analytical assistant, analyst of data, data application analyst, data informatics analyst, data services analyst, data-reviewer, data storage analyst, data reviewer",
+          "RelatedSkills": [
+            {
+              "Skill": "data strategy",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "establish data processes",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "mathematics",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "exploratory research",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data ingestion",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data summarization",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "pipeline pilot",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "nvivo",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "qualitative data analysis software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "datameer",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "gephi",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data quality",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "inspect data",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "tinkerplots",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data collection survey",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "ad hoc query",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "analytical thinking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data monitoring",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "test and evaluation",
+              "ProficiencyLevel": "Moderate"
+            },
+            {
+              "Skill": "data analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "dedoose",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data interpretation",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data collaboration",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "diva software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "ephesoft",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "evidence analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data matching",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "rkward",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "tealium",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "nested data parallel language",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data format description language",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "r.net",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "sequential probability ratio testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "digital intelligence",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "deep six operating system",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "non classical analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "variable rules analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "jc3iedm",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "exception reporting",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data governance policy",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data portability",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "usage tracking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "negative binomial distribution",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "chi squared testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "application retirement",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "frequency distribution",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "cross industry standard process for data mining",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "chi squared automatic interaction detection",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "nonlinear dimensionality reduction",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "rcharts",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "wilcoxon signed rank testing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "distributed temperature sensing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "multivariate regression",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data transposition",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "multiple linear regression",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "discrete phase type distribution",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "normal distribution",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "numeric distribution",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "generalized selection",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "reservoir sampling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "hierarchical linear modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "censored regression model",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "movement tracking system",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "natural process variation",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "proportional hazards model",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "histogram",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "hyperparameter optimization",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "application specific information",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "fraud abuse control information system",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "heat map",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data science life cycle",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data enrichment",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "analyst notebook",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "lisrel software",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "configural frequency analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "linear regression",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "analysis of covariance",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "correspondence analysis",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "propensity modeling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "nonlinear regression",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data driven decision management",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "weibull analysis",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "quantitative statistics",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data binding",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "data integration",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "data recovery",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "statistical sampling",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "key insights",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "August 2019 - till",
+        "FormattedJobPeriod": "08/2019 to till",
+        "StartDate": "01/08/2019",
+        "EndDate": "15/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "At Santander, I analyze large datasets to support business decisions and strategic planning. My responsibilities include gathering and processing data using SQL and Excel, generating detailed reports, and presenting insights to senior management. I collaborate with various departments to identify data needs and develop solutions that enhance data accuracy and reporting efficiency. I also contribute to process improvement projects, aiming to streamline data workflows and improve overall business operations.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "HSBC UK",
+          "FormattedName": "",
+          "ConfidenceScore": 9
+        },
+        "JobProfile": {
+          "Title": "Junior Data Analyst",
+          "FormattedName": "junior data analyst",
+          "Alias": "jr data analyst, jr data analytics specialist, junior system data analyst, data analyst jr., jr. big data analyst, entry level data analyst, data jr. analyst, junior analyst of data, junior level data analyst, data junior analyst, jr. data analyst, junior data support analyst, junior data operation analyst, junior analyst data, junior data analytics specialist, junior data specialist, data analyst junior",
+          "RelatedSkills": [
+            {
+              "Skill": "data quality",
+              "ProficiencyLevel": "Moderate"
+            }
+          ],
+          "ConfidenceScore": 9
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "",
+          "StateIsoCode": "",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "June 2017 - July 2019",
+        "FormattedJobPeriod": "06/2017 to 07/2019",
+        "StartDate": "01/06/2017",
+        "EndDate": "31/07/2019",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "In my role as a Junior Data Analyst at HSBC, I supported senior analysts in data collection and analysis. My tasks included preparing data reports, conducting data validation, and assisting in the development of data models. I worked closely with stakeholders to ensure data requirements were met and provided actionable insights that informed business strategies. Additionally, I participated in process improvement initiatives to enhance data management processes.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "Santander UK",
+    "JobProfile": "Data Analyst",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "86",
+      "TotalExperienceInYear": "7.2",
+      "TotalExperienceRange": "5-8 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "43",
+    "LongestStay": "60",
+    "Summary": "Data Analyst with 4 years of experience in financial services, specializing in data analysis, report generation, and process improvement. Seeking to transition into a Business Analyst role to apply my analytical skills and drive strategic business initiatives.",
+    "ExecutiveSummary": "Maria has an experience in the domain of 'Information', particularly in the sub-domain of 'Data Processing, Hosting, and Related Services. 'The candidate has a total experience of 4 YearsThe candidate has been working as a Data Analyst at Santander UK for the last 5.0 years. ",
+    "ManagementSummary": "Maria doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "References available upon request",
+    "CustomFields": "Parsing Time : 508ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "Maria Silva\nManchester, UK\nmaria.silva@email.com\n+44 1234 543210\nLinkedIn : linkedin.com/in/mariasilva\n\nProfessional Summary : \nData Analyst with 4 years of experience in financial services, specializing in data analysis, report generation, and process improvement. Seeking to transition into a Business Analyst role to apply my analytical skills and drive strategic business initiatives.\n\nProfessional Experience : \nSantander UK\nData Analyst\nAugust 2019 - Present\nManchester, UK\nAt Santander, I analyze large datasets to support business decisions and strategic planning. My responsibilities include gathering and processing data using SQL and Excel, generating detailed reports, and presenting insights to senior management. I collaborate with various departments to identify data needs and develop solutions that enhance data accuracy and reporting efficiency. I also contribute to process improvement projects, aiming to streamline data workflows and improve overall business operations.\nHSBC UK\nJunior Data Analyst\nJune 2017 - July 2019\nManchester, UK\nIn my role as a Junior Data Analyst at HSBC, I supported senior analysts in data collection and analysis. My tasks included preparing data reports, conducting data validation, and assisting in the development of data models. I worked closely with stakeholders to ensure data requirements were met and provided actionable insights that informed business strategies. Additionally, I participated in process improvement initiatives to enhance data management processes.\n\nEducation : \nBachelor of Science in Information Technology\nUniversity of Salford\nGraduated : 2017\n\nSkills : \nData analysis (Excel, SQL, Tableau) \nReport generation\nProcess improvement\nStrong analytical and problem-solving skills\nEffective communication\nDetail-oriented and organized\n\nCertifications : \nMicrosoft Certified : Data Analyst Associate\nGoogle Data Analytics Professional Certificate\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Maria Silva</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">maria.silva@email.com</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">+44 1234 543210</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">LinkedIn: linkedin.com/in/mariasilva</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Data Analyst with 4 years of experience in financial services, specializing in data analysis, report generation, and process improvement. Seeking to transition into a Business Analyst role to apply my analytical skills and drive strategic business initiatives.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Santander UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Data Analyst</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">August 2019 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">At Santander, I analyze large datasets to support business decisions and strategic planning. My responsibilities include gathering and processing data using SQL and Excel, generating detailed reports, and presenting insights to senior management. I collaborate with various departments to identify data needs and develop solutions that enhance data accuracy and reporting efficiency. I also contribute to process improvement projects, aiming to streamline data workflows and improve overall business operations.</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">HSBC UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Junior Data Analyst</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">June 2017 - July 2019</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Manchester, UK</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">In my role as a Junior Data Analyst at HSBC, I supported senior analysts in data collection and analysis. My tasks included preparing data reports, conducting data validation, and assisting in the development of data models. I worked closely with stakeholders to ensure data requirements were met and provided actionable insights that informed business strategies. Additionally, I participated in process improvement initiatives to enhance data management processes.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Bachelor of Science in Information Technology</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">University of Salford</span><br /><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2017</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Data analysis (Excel, SQL, Tableau) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Report generation</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Process improvement</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Strong analytical and problem-solving skills</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Effective communication</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Detail-oriented and organized</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Microsoft Certified: Data Analyst Associate</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Google Data Analytics Professional Certificate</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">References available upon request</span></p><p style=\"margin-top:0pt; margin-bottom:10pt; line-height:130%; font-size:12pt\"><span style=\"color:#2d1946; -aw-import:ignore\">�</span></p><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>2</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}

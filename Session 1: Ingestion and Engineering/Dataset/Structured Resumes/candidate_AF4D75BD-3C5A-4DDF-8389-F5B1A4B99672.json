@@ -1,0 +1,988 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "James Miller.docx",
+    "ResumeLanguage": {
+      "Language": "English",
+      "LanguageCode": "en"
+    },
+    "ParsingDate": "05/07/2024 12:48:09",
+    "ResumeCountry": {
+      "Country": "United Kingdom",
+      "Evidence": "PresentAddress",
+      "CountryCode": {
+        "IsoAlpha2": "GB",
+        "IsoAlpha3": "GBR",
+        "UNCode": "826"
+      }
+    },
+    "Name": {
+      "FullName": "James Miller",
+      "TitleName": "",
+      "FirstName": "James",
+      "MiddleName": "",
+      "LastName": "Miller",
+      "FormattedName": "James Miller",
+      "ConfidenceScore": 10
+    },
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": [
+      {
+        "Language": "",
+        "LanguageCode": ""
+      }
+    ],
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportDetail": {
+      "PassportNumber": "",
+      "DateOfExpiry": "",
+      "DateOfIssue": "",
+      "PlaceOfIssue": ""
+    },
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": [
+      {
+        "EmailAddress": "james.miller@email.com",
+        "ConfidenceScore": 10
+      }
+    ],
+    "PhoneNumber": [
+      {
+        "Number": "+447123876543",
+        "ISDCode": "+44",
+        "OriginalNumber": "7123 876543",
+        "FormattedNumber": "+44 7123 876543",
+        "Type": "Phone",
+        "ConfidenceScore": 10
+      }
+    ],
+    "WebSite": [
+      {
+        "Type": "Linkedin",
+        "Url": "https://linkedin.com/in/jamesmiller"
+      }
+    ],
+    "Address": [
+      {
+        "Street": "21 Oakwood Lane",
+        "City": "Manchester",
+        "State": "England",
+        "StateIsoCode": "GB-ENG",
+        "Country": "UK",
+        "CountryCode": {
+          "IsoAlpha2": "GB",
+          "IsoAlpha3": "GBR",
+          "UNCode": "826"
+        },
+        "ZipCode": "M131BG",
+        "FormattedAddress": "21 Oakwood Lane, Manchester, England, M131BG, UK",
+        "Type": "Present",
+        "ConfidenceScore": 10
+      }
+    ],
+    "Category": "Construction",
+    "SubCategory": "Sheet Metal Workers",
+    "CurrentSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "ExpectedSalary": {
+      "Amount": "",
+      "Symbol": "",
+      "Currency": "",
+      "Unit": "",
+      "Text": ""
+    },
+    "Qualification": "Manchester Technical College \r Diploma in Fabrication and Welding Technology \r Graduated : 2015 \r Manchester High School \r GCSEs : Mathematics, English, Design and Technology \r Completed : 2013",
+    "SegregatedQualification": [
+      {
+        "Institution": {
+          "Name": "Manchester Technical College",
+          "Type": "College",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 10
+        },
+        "Degree": {
+          "DegreeName": "Diploma in Fabrication and Welding Technology",
+          "NormalizeDegree": "Diploma",
+          "Specialization": [
+            "Welding Technology"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2015",
+        "StartDate": "",
+        "EndDate": "31/12/2015",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      },
+      {
+        "Institution": {
+          "Name": "Manchester High School",
+          "Type": "School",
+          "Location": {
+            "City": "",
+            "State": "",
+            "StateIsoCode": "",
+            "Country": "",
+            "CountryCode": {
+              "IsoAlpha2": "",
+              "IsoAlpha3": "",
+              "UNCode": ""
+            }
+          },
+          "ConfidenceScore": 10
+        },
+        "Degree": {
+          "DegreeName": "GCSEs : Mathematics English Design and Technology",
+          "NormalizeDegree": "",
+          "Specialization": [
+            "Mathematics",
+            "English",
+            "Design and Technology"
+          ],
+          "ConfidenceScore": 10
+        },
+        "FormattedDegreePeriod": "2013",
+        "StartDate": "",
+        "EndDate": "31/12/2013",
+        "Aggregate": {
+          "Value": "",
+          "MeasureType": ""
+        }
+      }
+    ],
+    "Certification": "City & Guilds Level 3 Diploma in Fabrication and Welding \r Certified Welder (MIG, TIG) \r First Aid at Work Certification \r Health and Safety in the Workplace Certification",
+    "SegregatedCertification": [],
+    "SkillBlock": "Sheet Metal Fabrication : Proficient in cutting, bending, shaping, and assembling sheet metal components for various applications. \r Technical Drawing Interpretation : Skilled in reading and interpreting blueprints and technical drawings to determine project specifications. \r Machinery Operation : Experienced in operating CNC punch presses, laser cutters, press brakes, and other metalworking machinery. \r Welding and Assembly : Competent in welding, bolting, and riveting techniques to assemble metal parts. \r Quality Control : Strong attention to detail in conducting quality control inspections to ensure finished products meet industry standards. \r Project Management : Ability to manage multiple projects efficiently, ensuring timely completion and adherence to specifications. \r Safety Compliance : Knowledgeable about workplace safety standards and committed to maintaining a safe working environment. \r Team Leadership : Experienced in training and mentoring junior sheet metal workers, fostering a collaborative and productive team environment.",
+    "SkillKeywords": "Assisted,Attention To Detail,Team Leadership,Leading A Team,Collaborating,Collaborative,Knowledgeable,Assembling,Commitment,Productive,Determine,Mentoring,Interpreting Blueprints and Technical Drawings,Maintaining A Safe Working Environment,Health and Safety In The Workplace,Adhering To Safety Standards,Managing Multiple Projects,Manage Multiple Projects,Sheet Metal Fabrication,Apprenticeship Program,Maintenance and Repair,Project Specifications,Design Specifications,Maintaining Equipment,Project Requirements,Industry Standards,Project Management,Technical Drawings,Welding Techniques,Finished Products,Metal Fabrication,Quality Standards,Safety Procedures,Technical Drawing,Safety Standards,Technical Skills,Workplace Safety,Metal Finishing,Quality Control,Safety Training,Best Practices,Quality Checks,Welding Metal,Metalworking,Shape Metal,Hand Tools,First Aid,CNC,TIG",
+    "SegregatedSkill": [
+      {
+        "Type": "BehaviorSkills",
+        "Skill": "Assisted",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Attention To Detail",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>attention to detail",
+        "Alias": "detail-oriented tasks, attention to details, attention for details, detail-minded, attention to-detail, detail oriented, meticulous, attending to details, detail-orientated, highly detail oriented, eye for details, pay attention to detail, highly detail-oriented, detail focused, paying close attention to detail, detailed-oriented, attention-to-detail, pays attention to detail, pays attention to details, detail minded, acute attention to detail, detail orientated, attention to the details, detail-orientation, detail driven, attentive to details, attentive to detail, a good eye for detail and high level of accuracy, detailed oriented, attend to detail, attend to details, detail orientation, detail-oriented, high attention to detail, attentiveness to details, attentiveness to detail, organized and detail oriented, eye for detail",
+        "FormattedName": "attention to detail",
+        "Evidence": "SummarySection,SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Team Leadership",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leadership",
+        "Alias": "interdisciplinary team leadership, multi-national team leadership, lead the team member, leads group discussions, leads groups, group leadership, multi-cultural team leadership",
+        "FormattedName": "team leadership",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Leading A Team",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>team leading",
+        "Alias": "leading group, lead a group, team-leading, lead a team, leading a team, leading small teams, leading teams, lead the team to innovation, ability to lead teams, leading large teams",
+        "FormattedName": "team leading",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaborating",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Collaborative",
+        "Ontology": "Management of Companies and Enterprises>Chief Executives>collaboration",
+        "Alias": "collaborative, collaboration skills, work collaboratively, collaborating, ability to work effectively in a collaborative, collaborative skills, collaboration with staff, ability to collaborate effectively",
+        "FormattedName": "collaboration",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Knowledgeable",
+        "Ontology": "Management of Companies and Enterprises>Management Occupations>knowledgeable",
+        "Alias": "knowledgeable skills",
+        "FormattedName": "knowledgeable",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Assembling",
+        "Ontology": "Manufacturing>Assemblers and Fabricators>assembling",
+        "Alias": "assembling things, assemblies",
+        "FormattedName": "assembling",
+        "Evidence": "ExperienceSection,SummarySection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Commitment",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>commitment",
+        "Alias": "committed team, commitments, team commitment, commitment to achieving result",
+        "FormattedName": "commitment",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Productive",
+        "Ontology": "Manufacturing>Team Assemblers>productivity",
+        "Alias": "productive",
+        "FormattedName": "productivity",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Determine",
+        "Ontology": "",
+        "Alias": "",
+        "FormattedName": "",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "SoftSkill",
+        "Skill": "Mentoring",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>mentoring",
+        "Alias": "mentor-ship, mentoring skills, mentorship, success mentoring, mentors",
+        "FormattedName": "mentoring",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Interpreting Blueprints and Technical Drawings",
+        "Ontology": "Construction>Drafters, All Other>blueprint reading",
+        "Alias": "read blue prints, reading-blueprints, interpreting blueprints, reading blue prints, reading-blue-prints, reading blueprints, read blueprint, read blueprints",
+        "FormattedName": "blueprint reading",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maintaining A Safe Working Environment",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>maintaining a safe working environment",
+        "Alias": "maintaining a safe work environment, maintaining safe work environment",
+        "FormattedName": "maintaining a safe working environment",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Health and Safety In The Workplace",
+        "Ontology": "Health Care and Social Assistance>Occupational Health and Safety Specialists>occupational safety and health",
+        "Alias": "health and�safety orientation, safety science, h&s management, employee health and safety orientation, health safety program, environmental & occupational health, safety health and welfare in the workplace, safety program, safety programs, health and safety program, health and safety-program, health and safety management, health and safety in the workplace, health and safety management-system, health and safety management system, health and safety, health and safety mgmt, safety oriented, promote health and safety, environmental and occupational health, environmental and occupational-health, ohs, safety-programs, health-and-safety-management-system, occupational health services, occupational health-services, occupational health-program, occupational health and safety, occupational health & safety, occupational health, occupational health and safety management, occupational health and safety management system, occupational health program, safety in the workplace, safety and health-management, safety and health orientation, safety and health management, safety and health in the workplace, safety and health mgmt, health safety and welfare in the workplace, occupational-health services, occupational-health-services, occupational-safety and health, occupational-safety-and health, occupational-safety-and-health, labor safety, managing health and safety, workplace health and safety, workplace health, people safety and health, manage health and safety",
+        "FormattedName": "occupational safety and health",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Adhering To Safety Standards",
+        "Ontology": "Construction>Health and Safety Engineers, Except Mining Safety Engineers and Inspectors>osha regulation",
+        "Alias": "scope of health and safety regulations, scope of health and safety standards, safety-regulation, safety standards, health and safety regulations, safety regulations, safety regulation, application of health and safety regulations, application of health and safety standards, adhering to safety standards, occupational safety and health administration standards, occupational safety and health administration standard, safety-standards, coverage of health and safety standards, coverage of health and safety regulations, occupational health and safety administration regulation, osha standards, osha-regulation-knowledge, osha-regulations-general, health, safety and hygiene regulation, health, safety and hygiene statutes, health, safety and hygiene legislation rules, health, safety and hygiene legislation, osha regulation knowledge, range of health and safety regulations, range of health and safety standards, osha safety, osha regulations general, osha regulations",
+        "FormattedName": "osha regulation",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Managing Multiple Projects",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project management",
+        "Alias": "project managed development, managing multiple projects, project mgmt., project-management, manage complex projects, project mgmt, manage a project, project-coordination, manage multiple project tasks, manage multiple projects, managing large scale projects, project co - ordination, project co-ordination, managing complex projects, project manage, managed smaller projects, management of project, operations project management, projects coordination, proj management, managed special projects, overseeing projects, manage the incoming project, project-handling, project management and coordination, project management processes, project management process, managing of projects, projects managing, project handling, coordination of international projects, coordination of projects, project description management, managed projects, project processing, manage a multiphase project, project-manage, manage small projects, managed phases, managed project, managed project operations, proj mgmt, handling of project, new project management, manage projects, managed long term projects, organizational project management, projects management, manage the project, project methods, projects handled, project coordination, project coordination and implementation, project coordinating, managing projects, managing project, manage the complex projects, project work management, management projects, managing the project planning, multiple projects management, project creation, handle multiple projects, manage several projects, project managing, coordinating projects",
+        "FormattedName": "project management",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Manage Multiple Projects",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project management",
+        "Alias": "project managed development, managing multiple projects, project mgmt., project-management, manage complex projects, project mgmt, manage a project, project-coordination, manage multiple project tasks, manage multiple projects, managing large scale projects, project co - ordination, project co-ordination, managing complex projects, project manage, managed smaller projects, management of project, operations project management, projects coordination, proj management, managed special projects, overseeing projects, manage the incoming project, project-handling, project management and coordination, project management processes, project management process, managing of projects, projects managing, project handling, coordination of international projects, coordination of projects, project description management, managed projects, project processing, manage a multiphase project, project-manage, manage small projects, managed phases, managed project, managed project operations, proj mgmt, handling of project, new project management, manage projects, managed long term projects, organizational project management, projects management, manage the project, project methods, projects handled, project coordination, project coordination and implementation, project coordinating, managing projects, managing project, manage the complex projects, project work management, management projects, managing the project planning, multiple projects management, project creation, handle multiple projects, manage several projects, project managing, coordinating projects",
+        "FormattedName": "project management",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Sheet Metal Fabrication",
+        "Ontology": "Manufacturing>Sheet Metal Work Manufacturing>sheet metal fabrication",
+        "Alias": "aluminum sheet metal fabrication, aluminum sheet metal-fabrication, fabrication aluminum, fabrication aluminium sheet, fabrication of aluminum fabrication, fabrication of aluminium, sheetmetal-assembly, sheetmetal-fabrication, aluminum fabrication process, aluminum fabrication, fabricated-sheetmetal, fabrication estimating, fabricated sheetmetal, sheet metal work manufacturing, sheetmetal assembly, metal manufacturing, sheetmetal fabrication, sheet-metal fabrication, metal fabrication, metal fabrication process, fabricate-sheet-metal, fabrication metal, aluminum-fabrication, fabricate sheet metal, aluminium sheet fabrication, sheet metal-fabrication, metal fab",
+        "FormattedName": "sheet metal fabrication",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Apprenticeship Program",
+        "Ontology": "Educational Services>Apprenticeship Training>apprenticeship training",
+        "Alias": "apprenticeship-training, apprentice program, apprenticeship program, training apprentices",
+        "FormattedName": "apprenticeship training",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maintenance and Repair",
+        "Ontology": "Installation, Maintenance, and Repair Occupations>Maintenance and Repair Workers, General>repairs and maintenance",
+        "Alias": "repair work, maintenance and repair",
+        "FormattedName": "repairs and maintenance",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Specifications",
+        "Ontology": "Information>Software Developers and Programmers>software requirements specification",
+        "Alias": "srs, software specifications, requirement for a system, software-requirements, software-requirements-specification, software-requirements document, software-requirements specification, product-requirement document, design software requirements, requirements software, requirements documents, develop system specifications, ict application specifications, project-specification, specification software, user requirement, user requirements, user requirements specifications, user requirements documentation, user requirements document, user requirements documents, user requirement documents, user requirements specification, user requirement specifications, system specification documentation, system specifications, system specification, product requirement document, product requirement documents, requirements specification documentation, requirements specification, requirements specifications, software speci?cations, ict software specifying, ict software specification, ict software specifications, system�requirements�specification, ict system specifications, technical project specifications, it requirement documents, software requirements, software requirement, software requirements documentation, software requirements-document, software requirements design, software requirements-specification, software requirement specification, software requirements specifications, software requirements specification documentation, requirement specifications, requirement speci?cations, development of srs, system requirement, system requirements specifications, system requirements documentation, system requirements, user-requirements-specification, information technology requirements, engineering requirements specification, engineering requirement specifications, design of software requirement specifications, project specification, project specifications, specification system, ict programme specifications, system software specifications, system-requirements, requirements-documents, application software specifications, technical requirements documentation, technical requirement specification, technical requirements documents, technical requirement document, it requirements document, it requirements documents, application requirement, computer system requirements",
+        "FormattedName": "software requirements specification",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Design Specifications",
+        "Ontology": "Information>Software Developers and Programmers>functional specification",
+        "Alias": "systems design specifications, systems design specification, drafting functional specifications, functional programming-specifications, functional programming specifications, design specifications, design specification, design specification templates, design specification documentation, design specifications documentation, product design specification, specification-development, functional development specifications, design requirements, drafting design specification, drafting design specifications, analysis of functional specifications, developing specifications, prepared design specifications, engineering functional-specifications, engineering functional specification, engineering functional specifications, functional requirements specification development, functional requirements specification, functional requirements specifications, functional requirements-documentation, functional requirements documentation, functional requirements document, functional requirement document, specification development, specification design techniques, development specification, system design specification, engineering-functional-specification, engineering-functional specification, engineering-functional specifications, design functional specifications, functional description, application design specifications, develop specifications, develop design specifications, functional speci?cations, functional specifications templates, functional specification preparation, functional specification documentation, functional specification templates, functional speci?cations document, functional specification evaluations, functional specifications design, functional specifications documentation, functional specifications document, functional specification design, functional and technical design specifications, functional-specification, develop speci?cations, functional design specifications, functional design specification, requirement design, design-requirements, technical requirements design, analysis of business functional specifications, specifications document preparation, specifications design documents, specifications design, design and development specifications, solution design specifications, design-specification, design speci?cations",
+        "FormattedName": "functional specification",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Maintaining Equipment",
+        "Ontology": "Installation, Maintenance, and Repair Occupations>Maintenance and Repair Workers, General>equipment maintenance",
+        "Alias": "arranging for maintenance and repair of equipment, equipment maintenance performing, performing maintenance of equipment, maintaining equipment, performing equipment maintenance, preserve equipment, arrange repairs of equipment, instrument maintenance, perform maintenance of equipment, maintain equipment, maintenance of facilities and equipment, production equipment-maintenance, ensures operation of equipment, manage equipment repairs, maintains equipment, assembling and maintaining equipment, sustain equipment, repair of equipment, maintenance of monitor equipment, repairing equipment, arrange equipment repairs, operates and maintains equipment, maintenance of equipments, maintenance of equipment, office equipment maintenance, equipment repair, perform equipment maintenance",
+        "FormattedName": "equipment maintenance",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Requirements",
+        "Ontology": "Construction>Civil Engineers>project requirements",
+        "Alias": "project specific requirements, project specific requirement, project requirement",
+        "FormattedName": "project requirements",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Industry Standards",
+        "Ontology": "Construction>Industrial Engineers>industry standards",
+        "Alias": "industry-standards, industry- standards",
+        "FormattedName": "industry standards",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Project Management",
+        "Ontology": "Management of Companies and Enterprises>Managers, All Other>project management",
+        "Alias": "project managed development, managing multiple projects, project mgmt., project-management, manage complex projects, project mgmt, manage a project, project-coordination, manage multiple project tasks, manage multiple projects, managing large scale projects, project co - ordination, project co-ordination, managing complex projects, project manage, managed smaller projects, management of project, operations project management, projects coordination, proj management, managed special projects, overseeing projects, manage the incoming project, project-handling, project management and coordination, project management processes, project management process, managing of projects, projects managing, project handling, coordination of international projects, coordination of projects, project description management, managed projects, project processing, manage a multiphase project, project-manage, manage small projects, managed phases, managed project, managed project operations, proj mgmt, handling of project, new project management, manage projects, managed long term projects, organizational project management, projects management, manage the project, project methods, projects handled, project coordination, project coordination and implementation, project coordinating, managing projects, managing project, manage the complex projects, project work management, management projects, managing the project planning, multiple projects management, project creation, handle multiple projects, manage several projects, project managing, coordinating projects",
+        "FormattedName": "project management",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Technical Drawings",
+        "Ontology": "Construction>Mechanical Drafters>mechanical drawing",
+        "Alias": "mechanical systems drawings, mechanical systems drawing, engineering drawings, engineering drawing, engineering design drawing, engineering design-drawings, engineering design drawings, mechanical-drafting, mechanical drawings, technical-drawings, technical-drawing, engineering-drawing, architecture drawing, architecture drawings, engineering layouts, technical representation, develop technical drawings, technical draw reading, mechanical technical drawings, technical drafting, technical drawings, technical drawing, technical drawing reading, drafting and technical drawing, reading technical drawings, mechanical drafting, engineering graphics, mechanical-drawing",
+        "FormattedName": "mechanical drawing",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Welding Techniques",
+        "Ontology": "Manufacturing>Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders>welding techniques",
+        "Alias": "welding capabilities, welding approaches, soldering and bonding capabilities, soldering and bonding approaches, soldering and bonding skills, soldering and bonding performance, welding skills, welding performance",
+        "FormattedName": "welding techniques",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Finished Products",
+        "Ontology": "Wholesale Trade>Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products>finished goods",
+        "Alias": "finished good, finished-goods, finished goods manufacturing, finished goods management, finished products, finished goods sales, finished goods system",
+        "FormattedName": "finished goods",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Metal Fabrication",
+        "Ontology": "Manufacturing>Sheet Metal Work Manufacturing>sheet metal fabrication",
+        "Alias": "aluminum sheet metal fabrication, aluminum sheet metal-fabrication, fabrication aluminum, fabrication aluminium sheet, fabrication of aluminum fabrication, fabrication of aluminium, sheetmetal-assembly, sheetmetal-fabrication, aluminum fabrication process, aluminum fabrication, fabricated-sheetmetal, fabrication estimating, fabricated sheetmetal, sheet metal work manufacturing, sheetmetal assembly, metal manufacturing, sheetmetal fabrication, sheet-metal fabrication, metal fabrication, metal fabrication process, fabricate-sheet-metal, fabrication metal, aluminum-fabrication, fabricate sheet metal, aluminium sheet fabrication, sheet metal-fabrication, metal fab",
+        "FormattedName": "sheet metal fabrication",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Quality Standards",
+        "Ontology": "Information>Software Quality Assurance Analysts and Testers>quality standards",
+        "Alias": "maintaining quality control standards, quality-assurance-standards, quality management standards, operations quality standards, quality assurance standards, quality standard",
+        "FormattedName": "quality standards",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Safety Procedures",
+        "Ontology": "Construction>Health and Safety Engineers, Except Mining Safety Engineers and Inspectors>safety procedure",
+        "Alias": "workplace safety procedures, safety procedures and regulations, safety procedures, safety procedure and regulation",
+        "FormattedName": "safety procedure",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Technical Drawing",
+        "Ontology": "Construction>Mechanical Drafters>mechanical drawing",
+        "Alias": "mechanical systems drawings, mechanical systems drawing, engineering drawings, engineering drawing, engineering design drawing, engineering design-drawings, engineering design drawings, mechanical-drafting, mechanical drawings, technical-drawings, technical-drawing, engineering-drawing, architecture drawing, architecture drawings, engineering layouts, technical representation, develop technical drawings, technical draw reading, mechanical technical drawings, technical drafting, technical drawings, technical drawing, technical drawing reading, drafting and technical drawing, reading technical drawings, mechanical drafting, engineering graphics, mechanical-drawing",
+        "FormattedName": "mechanical drawing",
+        "Evidence": "SkillSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Safety Standards",
+        "Ontology": "Construction>Health and Safety Engineers, Except Mining Safety Engineers and Inspectors>osha regulation",
+        "Alias": "scope of health and safety regulations, scope of health and safety standards, safety-regulation, safety standards, health and safety regulations, safety regulations, safety regulation, application of health and safety regulations, application of health and safety standards, adhering to safety standards, occupational safety and health administration standards, occupational safety and health administration standard, safety-standards, coverage of health and safety standards, coverage of health and safety regulations, occupational health and safety administration regulation, osha standards, osha-regulation-knowledge, osha-regulations-general, health, safety and hygiene regulation, health, safety and hygiene statutes, health, safety and hygiene legislation rules, health, safety and hygiene legislation, osha regulation knowledge, range of health and safety regulations, range of health and safety standards, osha safety, osha regulations general, osha regulations",
+        "FormattedName": "osha regulation",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Technical Skills",
+        "Ontology": "Information>Software Developers and Programmers>technical competency",
+        "Alias": "tech. capability, technical aptitude, technical capabilities, technical capability, technical ability, technical abilities, technology skills, technical proficiency, hands on technical, tech-savvy, tech skills, web and tech savvy, technical skills, technical-aptitude, technical savvy, technology-literacy, technical understanding, technical competences, technical competencies, technical competence, technological proficiency, technical expertise, technology capability, technology capabilities, it skills, computer-savvy, i.t. skills, technology acumen, technology literacy, competent technical skills, technology savvy, technical-knowledge, information technology skills, technical literacy, tech proficiency, technical business knowledge, technologically savvy, technically oriented, technical acumen, functional competency, computer savvy, technical knowledge, technological literacy, technological capability, technically savvy, technology knowledge, technical and business knowledge, technology proficiency, technically minded",
+        "FormattedName": "technical competency",
+        "Evidence": "SummarySection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Workplace Safety",
+        "Ontology": "Finance and Insurance>Human Resources Specialists>human resource security",
+        "Alias": "job safely, hr security, personnel security, hr securities, human resource securities, human resource safety, personnel-security, organizational-safety, organizational safety, workplace safety, organization safety, human resources security",
+        "FormattedName": "human resource security",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Metal Finishing",
+        "Ontology": "Construction>Sheet Metal Workers>metal finishing",
+        "Alias": "metal-finishing, metal surface finishing, finishing-metals, finishing metals",
+        "FormattedName": "metal finishing",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Quality Control",
+        "Ontology": "Construction>Industrial Engineers>quality control",
+        "Alias": "processes quality assurance, qa assurance, quality checks, content quality assurance, qc, laboratory quality assurance, qc operations, ensure the quality, content quality-assurance, qa process, quality-assurance, ensure quality of the work, quality-control-management, quality-control-assurance, qa, quality control, quality process analysis, production quality control, qa-assurance, assure quality of the products, qa engineering, assessing quality standards, managed qa, ensuring quality, assure the quality of the works, q.a, qa analysis, product qa, quality tests, quality checking, quality metrics, quality-control, ensure quality, manage qa, quality testing, quality assurance process, quality assurance management, quality assurance content, quality assurance processes, quality assurance, quality metrics-management, service quality control, quality metrics management, quality analysis, content qa, quality concern analysis, manage quality assurance, quality control process, quality control assurance, quality control techniques, quality control of service, quality control operations, quality control management, quality control mgmt., quality control of the service, quality control monitoring, quality control processes, quality control of products, quality control services, quality-checking, quality strategy, qa management, quality-checks, quality controlling",
+        "FormattedName": "quality control",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Safety Training",
+        "Ontology": "Construction>Hazardous Materials Removal Workers>safety training",
+        "Alias": "safety-training, basic safety training, effective safety training",
+        "FormattedName": "safety training",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Best Practices",
+        "Ontology": "Finance and Insurance>Business Operations Specialists>best practice",
+        "Alias": "best practice design, development best practices, best-practice, it best practice, it best practices, marketing best practices, best-practice frameworks, best practices, best practice management, best practices framework, best practices frameworks, best practice implementation, best practice framework, develop best practices, best practices operations",
+        "FormattedName": "best practice",
+        "Evidence": "Others",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Quality Checks",
+        "Ontology": "Construction>Industrial Engineers>quality control",
+        "Alias": "processes quality assurance, qa assurance, quality checks, content quality assurance, qc, laboratory quality assurance, qc operations, ensure the quality, content quality-assurance, qa process, quality-assurance, ensure quality of the work, quality-control-management, quality-control-assurance, qa, quality control, quality process analysis, production quality control, qa-assurance, assure quality of the products, qa engineering, assessing quality standards, managed qa, ensuring quality, assure the quality of the works, q.a, qa analysis, product qa, quality tests, quality checking, quality metrics, quality-control, ensure quality, manage qa, quality testing, quality assurance process, quality assurance management, quality assurance content, quality assurance processes, quality assurance, quality metrics-management, service quality control, quality metrics management, quality analysis, content qa, quality concern analysis, manage quality assurance, quality control process, quality control assurance, quality control techniques, quality control of service, quality control operations, quality control management, quality control mgmt., quality control of the service, quality control monitoring, quality control processes, quality control of products, quality control services, quality-checking, quality strategy, qa management, quality-checks, quality controlling",
+        "FormattedName": "quality control",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Welding Metal",
+        "Ontology": "Manufacturing>Metal Workers and Plastic Workers>metal joining",
+        "Alias": "metal joining technology, metal joining technologies, joining of metals, joining of metal, weld metal, join metals, joining metals, metal joining processes, metal joining process, joining processes, soldering metal, metals joining, metal-joining, solder metal, welding metal, joining metal",
+        "FormattedName": "metal joining",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Metalworking",
+        "Ontology": "Construction>Sheet Metal Workers>metalworking",
+        "Alias": "wood and metal work, undertake metal work, metalworking process, perform metal work, sheet-metal working, implement metal work, sheet metal work, structural welding, metal machining, performing metal work, structural steel welding, metal working",
+        "FormattedName": "metalworking",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "31/12/2015",
+        "ExperienceInMonths": 36
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Shape Metal",
+        "Ontology": "Manufacturing>Tool Grinders, Filers, and Sharpeners>manipulate metal",
+        "Alias": "use metal, manipulate metals, utilise metal, shape metal, manipulating metal, mould metal",
+        "FormattedName": "manipulate metal",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "Hand Tools",
+        "Ontology": "Construction>Construction Laborers>hand tool",
+        "Alias": "hand power tools, hand machine tools, hand tools, hand-power-tools, hand-machine-tools",
+        "FormattedName": "hand tool",
+        "Evidence": "ExperienceSection",
+        "LastUsed": "31/12/2018",
+        "ExperienceInMonths": 48
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "First Aid",
+        "Ontology": "Health Care and Social Assistance>Health Diagnosing and Treating Practitioners>first aid",
+        "Alias": "first aid techniques, first aid-training, emergency assistance, first aid training, first aid treatment",
+        "FormattedName": "first aid",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "CNC",
+        "Ontology": "Manufacturing>Computer-Controlled Machine Tool Operators, Metal and Plastic>numerical control",
+        "Alias": "setting controls to regulate machining factors, prototype-machining, automotive cnc programming, cnc manufacturing, cnc programming, cnc fabrication, numerical controls, cnc machinery, computer-numerically-controlled, cnc parts design, prototype machining, cnc, nc cnc programming, cnc-programming-machining, drilling cnc, computerized numerical control, programming cnc, cnc machining industry, cnc code, nc programming, bending cnc, cnc bending, cnc drilling, cnc grinding, cnc operation, cnc machining, nc programming machine, nc programming machine tool, programming-cnc, program cnc, cnc machines, prototype cnc machining, computer numerically controlled, computer numerical controlled, computer numerical control, computer numerical control-machining, computer numerical control machining, computer numerical control machinery, computer numerical control programming, cnc machine, cnc programming machining, cnc programming 5, automotive-cnc-programming, numeric control, cnc operations",
+        "FormattedName": "numerical control",
+        "Evidence": "ExperienceSection,SkillSection",
+        "LastUsed": "05/07/2024",
+        "ExperienceInMonths": 78
+      },
+      {
+        "Type": "OperationalSkill",
+        "Skill": "TIG",
+        "Ontology": "Manufacturing>Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders>gas tungsten arc welding",
+        "Alias": "stainless steel-tig welding, tig welding, stick tig welding, soudure tig, stainless steel tig welding, tig, aluminum welding, aluminum welding process, tig welder arc, aluminum-welding, heliarc, stick-tig-welding, welder tig, gtaw pipe welding",
+        "FormattedName": "gas tungsten arc welding",
+        "Evidence": "CertificationSection",
+        "LastUsed": "",
+        "ExperienceInMonths": 0
+      }
+    ],
+    "Experience": "ABC Fabrication Ltd Senior Sheet Metal Worker \r Manchester, UK \r 2018 - Present \r Leading a team of sheet metal workers in the fabrication and assembly of metal components for industrial and commercial projects. Responsible for ensuring high-quality production, adherence to safety standards, and efficient project management. \r Key Responsibilities :  \r Interpreting blueprints and technical drawings to determine material requirements and project specifications. \r Operating machinery such as CNC punch presses, laser cutters, and press brakes to cut, bend, and shape metal. \r Assembling and welding metal parts to create finished products according to design specifications. \r Conducting quality control inspections to ensure finished products meet industry standards and client expectations. \r Training and mentoring junior sheet metal workers, providing guidance on best practices and safety procedures. \r Collaborating with project managers and engineers to develop efficient fabrication processes. \r Maintaining equipment and performing routine maintenance to ensure optimal performance and longevity. \r XYZ Metalworks Sheet Metal Worker \r Manchester, UK \r 2015 - 2018 \r Worked on various projects involving the fabrication, assembly, and installation of sheet metal components. Developed expertise in handling different types of metals and operating various fabrication tools and machinery. \r Key Responsibilities :  \r Reading and interpreting blueprints and technical drawings to determine project requirements. \r Measuring and cutting metal sheets to specified dimensions using hand tools and machinery. \r Bending and shaping metal components using brake presses and other equipment. \r Assembling metal parts using welding, bolting, and riveting techniques. \r Performing quality checks to ensure finished products meet design specifications and quality standards. \r Adhering to safety protocols and maintaining a clean and organized work environment. \r Assisting in the maintenance and repair of fabrication equipment. \r DEF Manufacturing Apprentice Sheet Metal Worker \r Manchester, UK \r 2013 - 2015 \r Gained hands-on experience in sheet metal fabrication through an apprenticeship program. Learned the fundamentals of metalworking, including cutting, shaping, and assembling metal components. \r Key Contributions :  \r Assisted senior sheet metal workers in various fabrication tasks. \r Learned to operate basic metalworking machinery and tools. \r Developed skills in reading and interpreting technical drawings. \r Participated in safety training sessions and adhered to workplace safety standards. \r Gained experience in different welding techniques and metal finishing processes.",
+    "SegregatedExperience": [
+      {
+        "Employer": {
+          "EmployerName": "ABC Fabrication Ltd",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Senior Sheet Metal Worker",
+          "FormattedName": "sheet metal worker",
+          "Alias": "sheet metal former, sheet metal roofer, metal worker, sheet worker, sheet metal stamping worker, sheet metal pattern cutter, sheet metal workers, sheet metal labourer, industrial sheet metal worker, cornice maker, sheet metal operator, metalworker, sheet metal welder, sheet metal cutter, sheet metal journeyman, sheet metal lay out worker, sheet metal installer",
+          "RelatedSkills": [
+            {
+              "Skill": "sheet metal cutting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "deep drawing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "investment casting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "hot rolling",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sheet metal design",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "anchor sheet metal",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "sheet metal riveting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "metal bending",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sheet metal forming",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sheet metal roofing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "planishing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "rolling metalworking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "heading metalworking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "diffusion bonding",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "metalworking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sheet metal fabrication",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2018 - till",
+        "FormattedJobPeriod": "2018 to till",
+        "StartDate": "01/01/2018",
+        "EndDate": "05/07/2024",
+        "IsCurrentEmployer": "true",
+        "JobDescription": "Leading a team of sheet metal workers in the fabrication and assembly of metal components for industrial and commercial projects. Responsible for ensuring high-quality production, adherence to safety standards, and efficient project management. \n Key Responsibilities : \n Interpreting blueprints and technical drawings to determine material requirements and project specifications. \n Operating machinery such as CNC punch presses, laser cutters, and press brakes to cut, bend, and shape metal. \n Assembling and welding metal parts to create finished products according to design specifications. \n Conducting quality control inspections to ensure finished products meet industry standards and client expectations.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "XYZ Metalworks",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Sheet Metal Worker",
+          "FormattedName": "sheet metal worker",
+          "Alias": "sheet metal former, sheet metal roofer, metal worker, sheet worker, sheet metal stamping worker, sheet metal pattern cutter, sheet metal workers, sheet metal labourer, industrial sheet metal worker, cornice maker, sheet metal operator, metalworker, sheet metal welder, sheet metal cutter, sheet metal journeyman, sheet metal lay out worker, sheet metal installer",
+          "RelatedSkills": [
+            {
+              "Skill": "sheet metal cutting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "deep drawing",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "investment casting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "hot rolling",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sheet metal design",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "anchor sheet metal",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "sheet metal riveting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "metal bending",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sheet metal forming",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sheet metal roofing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "planishing",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "rolling metalworking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "heading metalworking",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "diffusion bonding",
+              "ProficiencyLevel": "Native"
+            },
+            {
+              "Skill": "metalworking",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sheet metal fabrication",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2015 - 2018",
+        "FormattedJobPeriod": "2015 to 2018",
+        "StartDate": "01/01/2015",
+        "EndDate": "31/12/2018",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Worked on various projects involving the fabrication, assembly, and installation of sheet metal components. Developed expertise in handling different types of metals and operating various fabrication tools and machinery. \n Key Responsibilities : \n Reading and interpreting blueprints and technical drawings to determine project requirements. \n Measuring and cutting metal sheets to specified dimensions using hand tools and machinery. \n Bending and shaping metal components using brake presses and other equipment. \n Assembling metal parts using welding, bolting, and riveting techniques. \n Performing quality checks to ensure finished products meet design specifications and quality standards. \n Adhering to safety protocols and maintaining a clean and organized work environment. \n Assisting in the maintenance and repair of fabrication equipment.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      },
+      {
+        "Employer": {
+          "EmployerName": "DEF Manufacturing",
+          "FormattedName": "",
+          "ConfidenceScore": 10
+        },
+        "JobProfile": {
+          "Title": "Apprentice Sheet Metal Worker",
+          "FormattedName": "apprentice sheet metal worker",
+          "Alias": "sheet metal worker apprentice, sheet metal apprentice",
+          "RelatedSkills": [
+            {
+              "Skill": "sheet metal cutting",
+              "ProficiencyLevel": "Proficient"
+            },
+            {
+              "Skill": "sheet metal fabrication",
+              "ProficiencyLevel": "Proficient"
+            }
+          ],
+          "ConfidenceScore": 10
+        },
+        "Location": {
+          "City": "Manchester",
+          "State": "England",
+          "StateIsoCode": "GB-ENG",
+          "Country": "UK",
+          "CountryCode": {
+            "IsoAlpha2": "GB",
+            "IsoAlpha3": "GBR",
+            "UNCode": "826"
+          }
+        },
+        "JobPeriod": "2013 - 2015",
+        "FormattedJobPeriod": "2013 to 2015",
+        "StartDate": "01/01/2013",
+        "EndDate": "31/12/2015",
+        "IsCurrentEmployer": "false",
+        "JobDescription": "Gained hands-on experience in sheet metal fabrication through an apprenticeship program. Learned the fundamentals of metalworking, including cutting, shaping, and assembling metal components. \n Key Contributions : \n Assisted senior sheet metal workers in various fabrication tasks. \n Learned to operate basic metalworking machinery and tools. \n Developed skills in reading and interpreting technical drawings. \n Participated in safety training sessions and adhered to workplace safety standards. \n Gained experience in different welding techniques and metal finishing processes.",
+        "Projects": [
+          {
+            "UsedSkills": "",
+            "ProjectName": "",
+            "TeamSize": ""
+          }
+        ]
+      }
+    ],
+    "CurrentEmployer": "ABC Fabrication Ltd",
+    "JobProfile": "Senior Sheet Metal Worker",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "139",
+      "TotalExperienceInYear": "11.7",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "46",
+    "LongestStay": "67",
+    "Summary": "Experienced Sheet Metal Worker with 8 years in the metal fabrication industry. Proficient in cutting, shaping, and assembling sheet metal for various applications. Demonstrates strong technical skills, attention to detail, and a commitment to producing high-quality work. Known for adhering to safety standards and efficiently managing multiple projects.",
+    "ExecutiveSummary": "James has an experience in the domain of 'Construction', particularly in the sub-domain of 'Sheet Metal Workers. The candidate has been working as a Senior Sheet Metal Worker at ABC Fabrication Ltd for the last 6.7 years. ",
+    "ManagementSummary": "James doesn't have any management level experience in the resume.",
+    "Coverletter": "",
+    "Publication": "",
+    "SegregatedPublication": [],
+    "CurrentLocation": [],
+    "PreferredLocation": [],
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "",
+    "Achievements": "",
+    "SegregatedAchievement": [],
+    "References": "",
+    "CustomFields": "Parsing Time : 776ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": [
+      {
+        "PersonName": "",
+        "CompanyName": "",
+        "Relation": "",
+        "PositionTitle": "",
+        "Description": ""
+      }
+    ],
+    "DetailResume": "James Miller\nContact Information : \nAddress : 21 Oakwood Lane, Manchester, M13 1BG, England\nEmail : james.miller@email.com\nPhone : +44 7123 876543\nLinkedIn : linkedin.com/in/jamesmiller\n\nProfessional Summary : \nExperienced Sheet Metal Worker with 8 years in the metal fabrication industry. Proficient in cutting, shaping, and assembling sheet metal for various applications. Demonstrates strong technical skills, attention to detail, and a commitment to producing high-quality work. Known for adhering to safety standards and efficiently managing multiple projects.\n\nEducation : \nManchester Technical College\nDiploma in Fabrication and Welding Technology\nGraduated : 2015\nManchester High School\nGCSEs : Mathematics, English, Design and Technology\nCompleted : 2013\n\nProfessional Experience : \nABC Fabrication Ltd Senior Sheet Metal Worker\nManchester, UK\n2018 - Present\nLeading a team of sheet metal workers in the fabrication and assembly of metal components for industrial and commercial projects. Responsible for ensuring high-quality production, adherence to safety standards, and efficient project management.\nKey Responsibilities : \nInterpreting blueprints and technical drawings to determine material requirements and project specifications.\nOperating machinery such as CNC punch presses, laser cutters, and press brakes to cut, bend, and shape metal.\nAssembling and welding metal parts to create finished products according to design specifications.\nConducting quality control inspections to ensure finished products meet industry standards and client expectations.\nTraining and mentoring junior sheet metal workers, providing guidance on best practices and safety procedures.\nCollaborating with project managers and engineers to develop efficient fabrication processes.\nMaintaining equipment and performing routine maintenance to ensure optimal performance and longevity.\nXYZ Metalworks Sheet Metal Worker\nManchester, UK\n2015 - 2018\nWorked on various projects involving the fabrication, assembly, and installation of sheet metal components. Developed expertise in handling different types of metals and operating various fabrication tools and machinery.\nKey Responsibilities : \nReading and interpreting blueprints and technical drawings to determine project requirements.\nMeasuring and cutting metal sheets to specified dimensions using hand tools and machinery.\nBending and shaping metal components using brake presses and other equipment.\nAssembling metal parts using welding, bolting, and riveting techniques.\nPerforming quality checks to ensure finished products meet design specifications and quality standards.\nAdhering to safety protocols and maintaining a clean and organized work environment.\nAssisting in the maintenance and repair of fabrication equipment.\nDEF Manufacturing Apprentice Sheet Metal Worker\nManchester, UK\n2013 - 2015\nGained hands-on experience in sheet metal fabrication through an apprenticeship program. Learned the fundamentals of metalworking, including cutting, shaping, and assembling metal components.\nKey Contributions : \nAssisted senior sheet metal workers in various fabrication tasks.\nLearned to operate basic metalworking machinery and tools.\nDeveloped skills in reading and interpreting technical drawings.\nParticipated in safety training sessions and adhered to workplace safety standards.\nGained experience in different welding techniques and metal finishing processes.\n\nSkills : \nSheet Metal Fabrication : Proficient in cutting, bending, shaping, and assembling sheet metal components for various applications.\nTechnical Drawing Interpretation : Skilled in reading and interpreting blueprints and technical drawings to determine project specifications.\nMachinery Operation : Experienced in operating CNC punch presses, laser cutters, press brakes, and other metalworking machinery.\nWelding and Assembly : Competent in welding, bolting, and riveting techniques to assemble metal parts.\nQuality Control : Strong attention to detail in conducting quality control inspections to ensure finished products meet industry standards.\nProject Management : Ability to manage multiple projects efficiently, ensuring timely completion and adherence to specifications.\nSafety Compliance : Knowledgeable about workplace safety standards and committed to maintaining a safe working environment.\nTeam Leadership : Experienced in training and mentoring junior sheet metal workers, fostering a collaborative and productive team environment.\n\nCertifications : \nCity & Guilds Level 3 Diploma in Fabrication and Welding\nCertified Welder (MIG, TIG) \nFirst Aid at Work Certification\nHealth and Safety in the Workplace Certification\n\nAMS - Confidential\n\nAMS - Confidential\n  of NUMPAGES",
+    "HtmlResume": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /><meta http-equiv=\"Content-Style-Type\" content=\"text/css\" /><meta name=\"generator\" content=\"Aspose.Words for Java 23.4.0\" /><title></title></head><body style=\"line-height:115%; font-family:Calibri; font-size:11pt; color:#4191e1\"><div><div style=\"-aw-headerfooter-type:header-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal\"><span style=\"-aw-import:ignore\">�</span></p></div><p style=\"margin-top:0pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">James Miller</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Contact Information:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Address:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> 21 Oakwood Lane, Manchester, M13 1BG, England</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Email:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> james.miller@email.com</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Phone:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> +44 7123 876543</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">LinkedIn:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> linkedin.com/in/jamesmiller</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Summary:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000\">Experienced Sheet Metal Worker with 8 years in the metal fabrication industry. Proficient in cutting, shaping, and assembling sheet metal for various applications. Demonstrates strong technical skills, attention to detail, and a commitment to producing high-quality work. Known for adhering to safety standards and efficiently managing multiple projects.</span></p><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Education:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Manchester Technical College</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Diploma in Fabrication and Welding Technology</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Graduated: 2015</span></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Manchester High School</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">GCSEs: Mathematics, English, Design and Technology</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Completed: 2013</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Professional Experience:</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">ABC Fabrication Ltd</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Senior Sheet Metal Worker</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2018 - Present</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Leading a team of sheet metal workers in the fabrication and assembly of metal components for industrial and commercial projects. Responsible for ensuring high-quality production, adherence to safety standards, and efficient project management.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Interpreting blueprints and technical drawings to determine material requirements and project specifications.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Operating machinery such as CNC punch presses, laser cutters, and press brakes to cut, bend, and shape metal.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assembling and welding metal parts to create finished products according to design specifications.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Conducting quality control inspections to ensure finished products meet industry standards and client expectations.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Training and mentoring junior sheet metal workers, providing guidance on best practices and safety procedures.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Collaborating with project managers and engineers to develop efficient fabrication processes.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Maintaining equipment and performing routine maintenance to ensure optimal performance and longevity.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">XYZ Metalworks</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Sheet Metal Worker</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2015 - 2018</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Worked on various projects involving the fabrication, assembly, and installation of sheet metal components. Developed expertise in handling different types of metals and operating various fabrication tools and machinery.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Responsibilities:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Reading and interpreting blueprints and technical drawings to determine project requirements.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Measuring and cutting metal sheets to specified dimensions using hand tools and machinery.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Bending and shaping metal components using brake presses and other equipment.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assembling metal parts using welding, bolting, and riveting techniques.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Performing quality checks to ensure finished products meet design specifications and quality standards.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Adhering to safety protocols and maintaining a clean and organized work environment.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisting in the maintenance and repair of fabrication equipment.</span></li></ul></li></ul><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">DEF Manufacturing</span><span style=\"font-family:'Times New Roman'; color:#000000\"> </span><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Apprentice Sheet Metal Worker</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">Manchester, UK</span><br /><span style=\"font-family:'Times New Roman'; font-style:italic; color:#000000\">2013 - 2015</span><br /><span style=\"font-family:'Times New Roman'; color:#000000\">Gained hands-on experience in sheet metal fabrication through an apprenticeship program. Learned the fundamentals of metalworking, including cutting, shaping, and assembling metal components.</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Key Contributions:</span><ul type=\"circle\" style=\"margin-right:0pt; margin-left:0pt; padding-left:0pt\"><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Assisted senior sheet metal workers in various fabrication tasks.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Learned to operate basic metalworking machinery and tools.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Developed skills in reading and interpreting technical drawings.</span></li><li style=\"margin-left:29.02pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Participated in safety training sessions and adhered to workplace safety standards.</span></li><li style=\"margin-left:29.02pt; margin-bottom:14pt; padding-left:6.98pt; -aw-font-family:'Courier New'; -aw-font-weight:normal; -aw-number-format:'o'\"><span style=\"font-family:'Times New Roman'; font-size:12pt\">Gained experience in different welding techniques and metal finishing processes.</span></li></ul></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Skills:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Sheet Metal Fabrication:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Proficient in cutting, bending, shaping, and assembling sheet metal components for various applications.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Technical Drawing Interpretation:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Skilled in reading and interpreting blueprints and technical drawings to determine project specifications.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Machinery Operation:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Experienced in operating CNC punch presses, laser cutters, press brakes, and other metalworking machinery.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Welding and Assembly:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Competent in welding, bolting, and riveting techniques to assemble metal parts.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Quality Control:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Strong attention to detail in conducting quality control inspections to ensure finished products meet industry standards.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Project Management:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Ability to manage multiple projects efficiently, ensuring timely completion and adherence to specifications.</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Safety Compliance:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Knowledgeable about workplace safety standards and committed to maintaining a safe working environment.</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Team Leadership:</span><span style=\"font-family:'Times New Roman'; font-size:12pt\"> Experienced in training and mentoring junior sheet metal workers, fostering a collaborative and productive team environment.</span></li></ul><p style=\"margin-top:0pt; margin-bottom:0pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; color:#000000; -aw-import:ignore\">�</span></p><p style=\"margin-top:14pt; margin-bottom:14pt; line-height:normal; font-size:12pt\"><span style=\"font-family:'Times New Roman'; font-weight:bold; color:#000000\">Certifications:</span></p><ul type=\"disc\" style=\"margin:0pt; padding-left:0pt\"><li style=\"margin-top:14pt; margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">City & Guilds Level 3 Diploma in Fabrication and Welding</span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Certified Welder (MIG, TIG) </span></li><li style=\"margin-left:28.9pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">First Aid at Work Certification</span></li><li style=\"margin-left:28.9pt; margin-bottom:14pt; line-height:normal; padding-left:7.1pt; font-family:serif; font-size:10pt; color:#000000; -aw-font-family:'Symbol'; -aw-font-weight:normal; -aw-number-format:''\"><span style=\"font-family:'Times New Roman'; font-size:12pt; font-weight:bold\">Health and Safety in the Workplace Certification</span></li></ul><div style=\"-aw-headerfooter-type:footer-primary; clear:both\"><p style=\"margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal\"><span>Page </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' PAGE   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>1</span><span style=\"-aw-field-end:true\"></span><span> of </span><span style=\"-aw-field-start:true\"></span><span style=\"-aw-field-code:' NUMPAGES   \\\\* MERGEFORMAT '\"></span><span style=\"-aw-field-separator:true\"></span><span>3</span><span style=\"-aw-field-end:true\"></span></p></div></div></body></html>",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "ApiInfo": {
+      "Metered": "Yes",
+      "CreditLeft": "-1",
+      "AccountExpiryDate": "",
+      "BuildVersion": "8.0.0.2023.07.31"
+    }
+  }
+}
